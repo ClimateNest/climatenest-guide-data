@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 43
+      "scoreA": 33,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 24
+      "scoreA": 65,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 59
+      "scoreA": 33,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 40
+      "scoreA": 42,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 26
     }
   ],
-  "verdict": "Bonniefield has a lower overall climate risk score (31/100) compared to Boodarockin (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bonniefield has a lower overall climate risk score (37/100) compared to Boodarockin (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bonniefield or Boodarockin safer from flooding?",
-      "answer": "Bonniefield has a flood risk score of 29/100, while Boodarockin scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bonniefield has a flood risk score of 33/100, while Boodarockin scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bonniefield scores 60/100 for bushfire risk. Boodarockin scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bonniefield scores 65/100 for bushfire risk. Boodarockin scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bonniefield or Boodarockin?",
@@ -76,5 +76,15 @@
       "label": "Boodarockin Should I Buy?",
       "url": "/suburbs/wa/boodarockin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

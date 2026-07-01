@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 24
+      "scoreA": 60,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 19
+      "scoreA": 44,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 66
+      "scoreA": 61,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 38
+      "scoreA": 36,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 12
+      "scoreA": 49,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 18
     }
   ],
-  "verdict": "Mount Tenandra has a lower overall climate risk score (29/100) compared to Mount Saint Thomas (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Tenandra has a lower overall climate risk score (36/100) compared to Mount Saint Thomas (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Saint Thomas or Mount Tenandra safer from flooding?",
-      "answer": "Mount Saint Thomas has a flood risk score of 39/100, while Mount Tenandra scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Saint Thomas has a flood risk score of 60/100, while Mount Tenandra scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Saint Thomas scores 64/100 for bushfire risk. Mount Tenandra scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Saint Thomas scores 44/100 for bushfire risk. Mount Tenandra scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Saint Thomas or Mount Tenandra?",
@@ -76,5 +76,15 @@
       "label": "Mount Tenandra Should I Buy?",
       "url": "/suburbs/nsw/mount-tenandra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4305,
+    "projected2030": 6027,
+    "projected2050": 11194
+  },
+  "valueImpact": {
+    "dragPercent": 2.35,
+    "description": "Properties in this area may face a 2.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

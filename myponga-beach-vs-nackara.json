@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 53
+      "scoreA": 34,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 64
+      "scoreA": 52,
+      "scoreB": 72
     },
     {
       "name": "Storm",
       "scoreA": 21,
-      "scoreB": 37
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
+      "scoreA": 11,
       "scoreB": 16
     }
   ],
-  "verdict": "Nackara has a lower overall climate risk score (36/100) compared to Myponga Beach (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Myponga Beach has a lower overall climate risk score (29/100) compared to Nackara (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Myponga Beach or Nackara safer from flooding?",
-      "answer": "Myponga Beach has a flood risk score of 55/100, while Nackara scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Myponga Beach has a flood risk score of 27/100, while Nackara scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Myponga Beach scores 60/100 for bushfire risk. Nackara scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Myponga Beach scores 34/100 for bushfire risk. Nackara scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Myponga Beach or Nackara?",
-      "answer": "Both suburbs have climate considerations. Nackara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Myponga Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nackara Should I Buy?",
       "url": "/suburbs/sa/nackara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

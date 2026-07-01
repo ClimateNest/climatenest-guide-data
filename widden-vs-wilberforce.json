@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 32,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 19
+      "scoreA": 62,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 73
+      "scoreA": 51,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 49
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 46
+      "scoreA": 27,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 13,
+      "scoreB": 27
     }
   ],
-  "verdict": "Widden has a lower overall climate risk score (35/100) compared to Wilberforce (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Widden has a lower overall climate risk score (37/100) compared to Wilberforce (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Widden or Wilberforce safer from flooding?",
-      "answer": "Widden has a flood risk score of 30/100, while Wilberforce scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Widden has a flood risk score of 32/100, while Wilberforce scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Widden scores 42/100 for bushfire risk. Wilberforce scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Widden scores 62/100 for bushfire risk. Wilberforce scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Widden or Wilberforce?",
@@ -76,5 +76,15 @@
       "label": "Wilberforce Should I Buy?",
       "url": "/suburbs/nsw/wilberforce/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4317,
+    "projected2030": 6043,
+    "projected2050": 11223
+  },
+  "valueImpact": {
+    "dragPercent": 2.38,
+    "description": "Properties in this area may face a 2.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

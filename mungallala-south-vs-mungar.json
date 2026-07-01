@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 45
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 25
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 36
-    },
-    {
-      "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 31,
       "scoreB": 34
     },
     {
+      "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 40
+    },
+    {
+      "name": "Heat",
+      "scoreA": 37,
+      "scoreB": 38
+    },
+    {
+      "name": "Storm",
+      "scoreA": 21,
+      "scoreB": 42
+    },
+    {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 50
+      "scoreA": 20,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
-  "verdict": "Mungallala South has a lower overall climate risk score (34/100) compared to Mungar (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mungallala South has a lower overall climate risk score (28/100) compared to Mungar (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mungallala South or Mungar safer from flooding?",
-      "answer": "Mungallala South has a flood risk score of 20/100, while Mungar scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mungallala South has a flood risk score of 31/100, while Mungar scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mungallala South scores 63/100 for bushfire risk. Mungar scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mungallala South scores 37/100 for bushfire risk. Mungar scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mungallala South or Mungar?",
@@ -76,5 +76,15 @@
       "label": "Mungar Should I Buy?",
       "url": "/suburbs/qld/mungar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

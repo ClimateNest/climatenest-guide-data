@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 55
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 61
-    },
-    {
-      "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 59
-    },
-    {
-      "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 22
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 35,
+      "scoreA": 49,
       "scoreB": 37
     },
     {
+      "name": "Heat",
+      "scoreA": 38,
+      "scoreB": 56
+    },
+    {
+      "name": "Storm",
+      "scoreA": 38,
+      "scoreB": 30
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 43,
+      "scoreB": 43
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 29
+      "scoreA": 10,
+      "scoreB": 23
     }
   ],
-  "verdict": "Alumy Creek has a lower overall climate risk score (34/100) compared to Ambarvale (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Alumy Creek has a lower overall climate risk score (34/100) compared to Ambarvale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Alumy Creek or Ambarvale safer from flooding?",
-      "answer": "Alumy Creek has a flood risk score of 56/100, while Ambarvale scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alumy Creek has a flood risk score of 26/100, while Ambarvale scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alumy Creek scores 26/100 for bushfire risk. Ambarvale scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alumy Creek scores 49/100 for bushfire risk. Ambarvale scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alumy Creek or Ambarvale?",
@@ -76,5 +76,15 @@
       "label": "Ambarvale Should I Buy?",
       "url": "/suburbs/nsw/ambarvale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

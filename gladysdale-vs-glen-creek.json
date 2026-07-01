@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 52
+      "scoreA": 35,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 21
+      "scoreA": 48,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 50
+      "scoreA": 79,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 23
+      "scoreA": 47,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 28,
+      "scoreB": 29
     }
   ],
-  "verdict": "Glen Creek has a lower overall climate risk score (28/100) compared to Gladysdale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glen Creek has a lower overall climate risk score (41/100) compared to Gladysdale (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gladysdale or Glen Creek safer from flooding?",
-      "answer": "Gladysdale has a flood risk score of 32/100, while Glen Creek scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gladysdale has a flood risk score of 35/100, while Glen Creek scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gladysdale scores 50/100 for bushfire risk. Glen Creek scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gladysdale scores 48/100 for bushfire risk. Glen Creek scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gladysdale or Glen Creek?",
@@ -76,5 +76,15 @@
       "label": "Glen Creek Should I Buy?",
       "url": "/suburbs/vic/glen-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 21
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 55,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 59
+      "scoreA": 40,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 36
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 12
     }
   ],
-  "verdict": "Karridale has a lower overall climate risk score (30/100) compared to Karratha (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Karridale has a lower overall climate risk score (33/100) compared to Karratha (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Karratha or Karridale safer from flooding?",
-      "answer": "Karratha has a flood risk score of 41/100, while Karridale scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Karratha has a flood risk score of 48/100, while Karridale scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Karratha scores 45/100 for bushfire risk. Karridale scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Karratha scores 55/100 for bushfire risk. Karridale scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Karratha or Karridale?",
@@ -76,5 +76,15 @@
       "label": "Karridale Should I Buy?",
       "url": "/suburbs/wa/karridale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

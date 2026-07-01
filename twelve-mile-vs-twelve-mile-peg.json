@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 41,
-      "scoreB": 32
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 27
+      "scoreA": 28,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 77
+      "scoreA": 64,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 45
+      "scoreA": 23,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
       "scoreA": 16,
-      "scoreB": 20
+      "scoreB": 11
     }
   ],
-  "verdict": "Twelve Mile has a lower overall climate risk score (35/100) compared to Twelve Mile Peg (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Twelve Mile Peg has a lower overall climate risk score (29/100) compared to Twelve Mile (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Twelve Mile or Twelve Mile Peg safer from flooding?",
-      "answer": "Twelve Mile has a flood risk score of 41/100, while Twelve Mile Peg scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Twelve Mile has a flood risk score of 41/100, while Twelve Mile Peg scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Twelve Mile scores 31/100 for bushfire risk. Twelve Mile Peg scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Twelve Mile scores 28/100 for bushfire risk. Twelve Mile Peg scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Twelve Mile or Twelve Mile Peg?",
-      "answer": "Both suburbs have climate considerations. Twelve Mile has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Twelve Mile Peg has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Twelve Mile Peg Should I Buy?",
       "url": "/suburbs/nsw/twelve-mile-peg/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

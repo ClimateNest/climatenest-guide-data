@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 36
+      "scoreA": 60,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 54
+      "scoreA": 52,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 66
+      "scoreA": 65,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 26
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 11
     }
   ],
-  "verdict": "Mayfield has a lower overall climate risk score (36/100) compared to Mawson Lakes (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mayfield has a lower overall climate risk score (38/100) compared to Mawson Lakes (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mawson Lakes or Mayfield safer from flooding?",
-      "answer": "Mawson Lakes has a flood risk score of 38/100, while Mayfield scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mawson Lakes has a flood risk score of 60/100, while Mayfield scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mawson Lakes scores 48/100 for bushfire risk. Mayfield scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mawson Lakes scores 52/100 for bushfire risk. Mayfield scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mawson Lakes or Mayfield?",
@@ -76,5 +76,15 @@
       "label": "Mayfield Should I Buy?",
       "url": "/suburbs/sa/mayfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

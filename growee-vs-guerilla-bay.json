@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 38
+      "scoreA": 27,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 63
+      "scoreA": 51,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 70
+      "scoreA": 67,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 24
+      "scoreA": 12,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 27
     }
   ],
-  "verdict": "Growee has a lower overall climate risk score (39/100) compared to Guerilla Bay (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Growee has a lower overall climate risk score (34/100) compared to Guerilla Bay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Growee or Guerilla Bay safer from flooding?",
-      "answer": "Growee has a flood risk score of 58/100, while Guerilla Bay scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Growee has a flood risk score of 27/100, while Guerilla Bay scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Growee scores 28/100 for bushfire risk. Guerilla Bay scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Growee scores 51/100 for bushfire risk. Guerilla Bay scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Growee or Guerilla Bay?",
@@ -76,5 +76,15 @@
       "label": "Guerilla Bay Should I Buy?",
       "url": "/suburbs/nsw/guerilla-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

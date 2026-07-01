@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 28
+      "scoreA": 46,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 32
+      "scoreA": 36,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 79
+      "scoreA": 51,
+      "scoreB": 61
     },
     {
       "name": "Storm",
       "scoreA": 36,
-      "scoreB": 29
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 14
+      "scoreA": 13,
+      "scoreB": 16
     }
   ],
-  "verdict": "Conargo has a lower overall climate risk score (34/100) compared to Comobella (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Comobella has a lower overall climate risk score (34/100) compared to Conargo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Comobella or Conargo safer from flooding?",
-      "answer": "Comobella has a flood risk score of 59/100, while Conargo scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Comobella has a flood risk score of 46/100, while Conargo scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Comobella scores 32/100 for bushfire risk. Conargo scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Comobella scores 36/100 for bushfire risk. Conargo scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Comobella or Conargo?",
-      "answer": "Both suburbs have climate considerations. Conargo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Comobella has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Conargo Should I Buy?",
       "url": "/suburbs/nsw/conargo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 60
+      "scoreA": 54,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 40
+      "scoreA": 47,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 33
+      "scoreA": 22,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 22
     }
   ],
-  "verdict": "Shooters Hill has a lower overall climate risk score (32/100) compared to Shortland (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shooters Hill has a lower overall climate risk score (38/100) compared to Shortland (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Shooters Hill or Shortland safer from flooding?",
-      "answer": "Shooters Hill has a flood risk score of 32/100, while Shortland scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shooters Hill has a flood risk score of 44/100, while Shortland scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shooters Hill scores 17/100 for bushfire risk. Shortland scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shooters Hill scores 48/100 for bushfire risk. Shortland scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shooters Hill or Shortland?",
@@ -76,5 +76,15 @@
       "label": "Shortland Should I Buy?",
       "url": "/suburbs/nsw/shortland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

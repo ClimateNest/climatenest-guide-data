@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
+      "scoreA": 26,
       "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 59
+      "scoreA": 19,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 67
+      "scoreA": 75,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 49
+      "scoreA": 34,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 24
+      "scoreA": 15,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Canunda has a lower overall climate risk score (37/100) compared to Cape Borda (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Canunda has a lower overall climate risk score (31/100) compared to Cape Borda (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Canunda or Cape Borda safer from flooding?",
-      "answer": "Canunda has a flood risk score of 22/100, while Cape Borda scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Canunda has a flood risk score of 26/100, while Cape Borda scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Canunda scores 51/100 for bushfire risk. Cape Borda scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Canunda scores 19/100 for bushfire risk. Cape Borda scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Canunda or Cape Borda?",
@@ -76,5 +76,15 @@
       "label": "Cape Borda Should I Buy?",
       "url": "/suburbs/sa/cape-borda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

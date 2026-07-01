@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 34
+      "scoreA": 26,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 61
+      "scoreA": 54,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 71
+      "scoreA": 68,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 43
+      "scoreA": 29,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
+      "scoreA": 25,
       "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Barnawartha North has a lower overall climate risk score (39/100) compared to Baromi (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Barnawartha North has a lower overall climate risk score (37/100) compared to Baromi (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Barnawartha North or Baromi safer from flooding?",
-      "answer": "Barnawartha North has a flood risk score of 58/100, while Baromi scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barnawartha North has a flood risk score of 26/100, while Baromi scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barnawartha North scores 36/100 for bushfire risk. Baromi scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barnawartha North scores 54/100 for bushfire risk. Baromi scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barnawartha North or Baromi?",
@@ -76,5 +76,15 @@
       "label": "Baromi Should I Buy?",
       "url": "/suburbs/vic/baromi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

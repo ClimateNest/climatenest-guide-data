@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 32,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 73
+      "scoreA": 57,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 41
+      "scoreA": 32,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Howrah has a lower overall climate risk score (36/100) compared to Honeywood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Honeywood has a lower overall climate risk score (31/100) compared to Howrah (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Honeywood or Howrah safer from flooding?",
-      "answer": "Honeywood has a flood risk score of 46/100, while Howrah scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Honeywood has a flood risk score of 32/100, while Howrah scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Honeywood scores 20/100 for bushfire risk. Howrah scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Honeywood scores 21/100 for bushfire risk. Howrah scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Honeywood or Howrah?",
-      "answer": "Both suburbs have climate considerations. Howrah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Honeywood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Howrah Should I Buy?",
       "url": "/suburbs/tas/howrah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

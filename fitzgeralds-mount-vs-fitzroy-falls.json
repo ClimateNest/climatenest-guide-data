@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 35
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 39
+      "scoreA": 23,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 56
+      "scoreA": 65,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 13
     }
   ],
-  "verdict": "Fitzgeralds Mount has a lower overall climate risk score (31/100) compared to Fitzroy Falls (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fitzgeralds Mount has a lower overall climate risk score (39/100) compared to Fitzroy Falls (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fitzgeralds Mount or Fitzroy Falls safer from flooding?",
-      "answer": "Fitzgeralds Mount has a flood risk score of 29/100, while Fitzroy Falls scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fitzgeralds Mount has a flood risk score of 50/100, while Fitzroy Falls scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fitzgeralds Mount scores 15/100 for bushfire risk. Fitzroy Falls scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fitzgeralds Mount scores 23/100 for bushfire risk. Fitzroy Falls scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fitzgeralds Mount or Fitzroy Falls?",
@@ -76,5 +76,15 @@
       "label": "Fitzroy Falls Should I Buy?",
       "url": "/suburbs/nsw/fitzroy-falls/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

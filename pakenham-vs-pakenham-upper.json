@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 54
+      "scoreA": 24,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 70
+      "scoreA": 53,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 18
     }
   ],
-  "verdict": "Pakenham has a lower overall climate risk score (33/100) compared to Pakenham Upper (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pakenham has a lower overall climate risk score (34/100) compared to Pakenham Upper (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pakenham or Pakenham Upper safer from flooding?",
-      "answer": "Pakenham has a flood risk score of 45/100, while Pakenham Upper scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pakenham has a flood risk score of 46/100, while Pakenham Upper scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pakenham scores 21/100 for bushfire risk. Pakenham Upper scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pakenham scores 24/100 for bushfire risk. Pakenham Upper scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pakenham or Pakenham Upper?",
@@ -76,5 +76,15 @@
       "label": "Pakenham Upper Should I Buy?",
       "url": "/suburbs/vic/pakenham-upper/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 51
+      "scoreA": 60,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 79
+      "scoreA": 54,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 35
+      "scoreA": 40,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 56
+      "scoreA": 18,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
       "scoreA": 29,
-      "scoreB": 23
+      "scoreB": 13
     }
   ],
-  "verdict": "Tarraganda has a lower overall climate risk score (36/100) compared to Tarrawanna (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tarraganda has a lower overall climate risk score (37/100) compared to Tarrawanna (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tarraganda or Tarrawanna safer from flooding?",
-      "answer": "Tarraganda has a flood risk score of 26/100, while Tarrawanna scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarraganda has a flood risk score of 22/100, while Tarrawanna scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarraganda scores 43/100 for bushfire risk. Tarrawanna scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarraganda scores 60/100 for bushfire risk. Tarrawanna scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarraganda or Tarrawanna?",
@@ -76,5 +76,15 @@
       "label": "Tarrawanna Should I Buy?",
       "url": "/suburbs/nsw/tarrawanna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 44
+      "scoreA": 59,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 29
+      "scoreA": 16,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 72
+      "scoreA": 49,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 37
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 15
     }
   ],
-  "verdict": "Upper Main Arm has a lower overall climate risk score (36/100) compared to Upper Manilla (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Upper Main Arm has a lower overall climate risk score (35/100) compared to Upper Manilla (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Upper Main Arm or Upper Manilla safer from flooding?",
-      "answer": "Upper Main Arm has a flood risk score of 35/100, while Upper Manilla scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Upper Main Arm has a flood risk score of 59/100, while Upper Manilla scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Upper Main Arm scores 56/100 for bushfire risk. Upper Manilla scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Upper Main Arm scores 16/100 for bushfire risk. Upper Manilla scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Upper Main Arm or Upper Manilla?",
@@ -76,5 +76,15 @@
       "label": "Upper Manilla Should I Buy?",
       "url": "/suburbs/nsw/upper-manilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

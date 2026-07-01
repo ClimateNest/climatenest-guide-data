@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 54
+      "scoreA": 42,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 20
+      "scoreA": 39,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 80
+      "scoreA": 58,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 15,
+      "scoreB": 13
     }
   ],
-  "verdict": "Pimbaacla has a lower overall climate risk score (30/100) compared to Pine Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pimbaacla has a lower overall climate risk score (36/100) compared to Pine Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pimbaacla or Pine Creek safer from flooding?",
-      "answer": "Pimbaacla has a flood risk score of 22/100, while Pine Creek scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pimbaacla has a flood risk score of 42/100, while Pine Creek scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pimbaacla scores 36/100 for bushfire risk. Pine Creek scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pimbaacla scores 39/100 for bushfire risk. Pine Creek scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pimbaacla or Pine Creek?",
@@ -76,5 +76,15 @@
       "label": "Pine Creek Should I Buy?",
       "url": "/suburbs/sa/pine-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

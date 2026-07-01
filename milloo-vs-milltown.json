@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 53
+      "scoreA": 55,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 60,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 62
+      "scoreA": 76,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 38,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 27
     }
   ],
-  "verdict": "Milloo has a lower overall climate risk score (35/100) compared to Milltown (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Milltown has a lower overall climate risk score (30/100) compared to Milloo (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Milloo or Milltown safer from flooding?",
-      "answer": "Milloo has a flood risk score of 35/100, while Milltown scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Milloo has a flood risk score of 55/100, while Milltown scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Milloo scores 24/100 for bushfire risk. Milltown scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Milloo scores 60/100 for bushfire risk. Milltown scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Milloo or Milltown?",
-      "answer": "Both suburbs have climate considerations. Milloo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Milltown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Milltown Should I Buy?",
       "url": "/suburbs/vic/milltown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 58
+      "scoreA": 34,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 41
+      "scoreA": 32,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 32
+      "scoreA": 40,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
       "scoreA": 18,
-      "scoreB": 28
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 8
     }
   ],
-  "verdict": "Coconuts has a lower overall climate risk score (34/100) compared to Cockatoo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coconuts has a lower overall climate risk score (30/100) compared to Cockatoo (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cockatoo or Coconuts safer from flooding?",
-      "answer": "Cockatoo has a flood risk score of 53/100, while Coconuts scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cockatoo has a flood risk score of 34/100, while Coconuts scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cockatoo scores 64/100 for bushfire risk. Coconuts scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cockatoo scores 32/100 for bushfire risk. Coconuts scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cockatoo or Coconuts?",
@@ -76,5 +76,15 @@
       "label": "Coconuts Should I Buy?",
       "url": "/suburbs/qld/coconuts/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3331,
+    "projected2030": 4663,
+    "projected2050": 8660
+  },
+  "valueImpact": {
+    "dragPercent": 0.2,
+    "description": "Properties in this area may face a 0.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

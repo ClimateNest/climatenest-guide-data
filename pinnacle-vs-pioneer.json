@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 48
+      "scoreA": 57,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 31
+      "scoreA": 19,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 37
+      "scoreA": 48,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 43
+      "scoreA": 34,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 9,
+      "scoreB": 9
     }
   ],
-  "verdict": "Pioneer has a lower overall climate risk score (32/100) compared to Pinnacle (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pioneer has a lower overall climate risk score (28/100) compared to Pinnacle (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pinnacle or Pioneer safer from flooding?",
-      "answer": "Pinnacle has a flood risk score of 37/100, while Pioneer scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pinnacle has a flood risk score of 57/100, while Pioneer scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pinnacle scores 51/100 for bushfire risk. Pioneer scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pinnacle scores 19/100 for bushfire risk. Pioneer scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pinnacle or Pioneer?",
@@ -76,5 +76,15 @@
       "label": "Pioneer Should I Buy?",
       "url": "/suburbs/qld/pioneer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

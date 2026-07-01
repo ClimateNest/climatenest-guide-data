@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 55
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 31,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 34,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 48
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 31
+      "scoreA": 16,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 17
     }
   ],
-  "verdict": "Wongabel has a lower overall climate risk score (26/100) compared to Wongawallan (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wongabel has a lower overall climate risk score (23/100) compared to Wongawallan (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wongabel or Wongawallan safer from flooding?",
-      "answer": "Wongabel has a flood risk score of 30/100, while Wongawallan scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wongabel has a flood risk score of 22/100, while Wongawallan scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wongabel scores 29/100 for bushfire risk. Wongawallan scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wongabel scores 31/100 for bushfire risk. Wongawallan scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wongabel or Wongawallan?",
@@ -76,5 +76,15 @@
       "label": "Wongawallan Should I Buy?",
       "url": "/suburbs/qld/wongawallan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

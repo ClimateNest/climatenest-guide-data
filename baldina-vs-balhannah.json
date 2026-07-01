@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 54,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 57
-    },
-    {
-      "name": "Heat",
-      "scoreA": 75,
+      "scoreA": 19,
       "scoreB": 62
     },
     {
+      "name": "Heat",
+      "scoreA": 66,
+      "scoreB": 56
+    },
+    {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 24
+      "scoreA": 39,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 13,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 28
     }
   ],
-  "verdict": "Balhannah has a lower overall climate risk score (38/100) compared to Baldina (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Baldina has a lower overall climate risk score (36/100) compared to Balhannah (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Baldina or Balhannah safer from flooding?",
-      "answer": "Baldina has a flood risk score of 38/100, while Balhannah scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Baldina has a flood risk score of 54/100, while Balhannah scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Baldina scores 61/100 for bushfire risk. Balhannah scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Baldina scores 19/100 for bushfire risk. Balhannah scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Baldina or Balhannah?",
-      "answer": "Both suburbs have climate considerations. Balhannah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Baldina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Balhannah Should I Buy?",
       "url": "/suburbs/sa/balhannah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

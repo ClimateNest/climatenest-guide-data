@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 57
+      "scoreA": 50,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 39
+      "scoreA": 53,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 59
+      "scoreA": 65,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 21,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 23,
       "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 14,
+      "scoreB": 24
     }
   ],
-  "verdict": "Tenandra has a lower overall climate risk score (41/100) compared to Tennyson (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Tenandra has a lower overall climate risk score (38/100) compared to Tennyson (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tenandra or Tennyson safer from flooding?",
-      "answer": "Tenandra has a flood risk score of 36/100, while Tennyson scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tenandra has a flood risk score of 50/100, while Tennyson scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tenandra scores 42/100 for bushfire risk. Tennyson scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tenandra scores 53/100 for bushfire risk. Tennyson scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tenandra or Tennyson?",
@@ -76,5 +76,15 @@
       "label": "Tennyson Should I Buy?",
       "url": "/suburbs/nsw/tennyson/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

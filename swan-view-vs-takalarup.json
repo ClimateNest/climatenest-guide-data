@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
+      "scoreA": 28,
       "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 34
+      "scoreA": 25,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 61
+      "scoreA": 79,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 36,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 11,
+      "scoreB": 21
     }
   ],
-  "verdict": "Takalarup has a lower overall climate risk score (30/100) compared to Swan View (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Takalarup has a lower overall climate risk score (32/100) compared to Swan View (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Swan View or Takalarup safer from flooding?",
-      "answer": "Swan View has a flood risk score of 42/100, while Takalarup scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Swan View has a flood risk score of 28/100, while Takalarup scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Swan View scores 32/100 for bushfire risk. Takalarup scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Swan View scores 25/100 for bushfire risk. Takalarup scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Swan View or Takalarup?",
@@ -76,5 +76,15 @@
       "label": "Takalarup Should I Buy?",
       "url": "/suburbs/wa/takalarup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

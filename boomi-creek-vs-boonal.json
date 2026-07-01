@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 46
+      "scoreA": 49,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 38
+      "scoreA": 16,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 31
+      "scoreA": 53,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 27
     }
   ],
-  "verdict": "Boonal has a lower overall climate risk score (36/100) compared to Boomi Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boonal has a lower overall climate risk score (31/100) compared to Boomi Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boomi Creek or Boonal safer from flooding?",
-      "answer": "Boomi Creek has a flood risk score of 53/100, while Boonal scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boomi Creek has a flood risk score of 49/100, while Boonal scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boomi Creek scores 64/100 for bushfire risk. Boonal scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boomi Creek scores 16/100 for bushfire risk. Boonal scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boomi Creek or Boonal?",
@@ -76,5 +76,15 @@
       "label": "Boonal Should I Buy?",
       "url": "/suburbs/nsw/boonal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

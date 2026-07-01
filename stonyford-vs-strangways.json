@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 23
+      "scoreA": 57,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 42
+      "scoreA": 58,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 58
+      "scoreA": 65,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 36
+      "scoreA": 27,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 14,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Strangways has a lower overall climate risk score (34/100) compared to Stonyford (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Strangways has a lower overall climate risk score (36/100) compared to Stonyford (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Stonyford or Strangways safer from flooding?",
-      "answer": "Stonyford has a flood risk score of 56/100, while Strangways scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stonyford has a flood risk score of 57/100, while Strangways scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stonyford scores 21/100 for bushfire risk. Strangways scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stonyford scores 58/100 for bushfire risk. Strangways scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stonyford or Strangways?",
@@ -76,5 +76,15 @@
       "label": "Strangways Should I Buy?",
       "url": "/suburbs/vic/strangways/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

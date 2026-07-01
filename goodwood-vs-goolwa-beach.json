@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 54
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 72
+      "scoreA": 59,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 20
+      "scoreA": 21,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 17
     }
   ],
-  "verdict": "Goodwood has a lower overall climate risk score (34/100) compared to Goolwa Beach (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goodwood has a lower overall climate risk score (33/100) compared to Goolwa Beach (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Goodwood or Goolwa Beach safer from flooding?",
-      "answer": "Goodwood has a flood risk score of 24/100, while Goolwa Beach scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goodwood has a flood risk score of 30/100, while Goolwa Beach scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goodwood scores 61/100 for bushfire risk. Goolwa Beach scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goodwood scores 46/100 for bushfire risk. Goolwa Beach scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goodwood or Goolwa Beach?",
@@ -76,5 +76,15 @@
       "label": "Goolwa Beach Should I Buy?",
       "url": "/suburbs/sa/goolwa-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 58
+      "scoreA": 40,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 47
+      "scoreA": 45,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 65,
+      "scoreA": 73,
       "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 10
+      "scoreA": 17,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 10
     }
   ],
-  "verdict": "Scarborough has a lower overall climate risk score (33/100) compared to Scotsdale (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Scotsdale has a lower overall climate risk score (34/100) compared to Scarborough (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Scarborough or Scotsdale safer from flooding?",
-      "answer": "Scarborough has a flood risk score of 45/100, while Scotsdale scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Scarborough has a flood risk score of 40/100, while Scotsdale scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Scarborough scores 26/100 for bushfire risk. Scotsdale scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Scarborough scores 45/100 for bushfire risk. Scotsdale scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Scarborough or Scotsdale?",
-      "answer": "Both suburbs have climate considerations. Scarborough has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Scotsdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Scotsdale Should I Buy?",
       "url": "/suburbs/wa/scotsdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 25
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 29,
+      "scoreA": 24,
       "scoreB": 51
     },
     {
+      "name": "Bushfire",
+      "scoreA": 45,
+      "scoreB": 63
+    },
+    {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 46,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 44
+      "scoreA": 33,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
+      "scoreA": 35,
       "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 12
     }
   ],
-  "verdict": "Texas has a lower overall climate risk score (37/100) compared to Tewantin (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Tewantin has a lower overall climate risk score (33/100) compared to Texas (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tewantin or Texas safer from flooding?",
-      "answer": "Tewantin has a flood risk score of 56/100, while Texas scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tewantin has a flood risk score of 24/100, while Texas scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tewantin scores 29/100 for bushfire risk. Texas scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tewantin scores 45/100 for bushfire risk. Texas scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tewantin or Texas?",
-      "answer": "Both suburbs have climate considerations. Texas has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tewantin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Texas Should I Buy?",
       "url": "/suburbs/qld/texas/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

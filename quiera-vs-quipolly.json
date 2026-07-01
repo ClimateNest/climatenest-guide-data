@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 39
+      "scoreA": 58,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 48
+      "scoreA": 48,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 75
+      "scoreA": 67,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 45
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 33
+      "scoreA": 26,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 30
+      "scoreA": 15,
+      "scoreB": 11
     }
   ],
-  "verdict": "Quiera has a lower overall climate risk score (34/100) compared to Quipolly (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Quiera has a lower overall climate risk score (41/100) compared to Quipolly (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Quiera or Quipolly safer from flooding?",
-      "answer": "Quiera has a flood risk score of 54/100, while Quipolly scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Quiera has a flood risk score of 58/100, while Quipolly scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Quiera scores 38/100 for bushfire risk. Quipolly scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Quiera scores 48/100 for bushfire risk. Quipolly scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Quiera or Quipolly?",
@@ -76,5 +76,15 @@
       "label": "Quipolly Should I Buy?",
       "url": "/suburbs/nsw/quipolly/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 48
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 54
+      "scoreA": 64,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 72
+      "scoreA": 56,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 32
+      "scoreA": 36,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 30
     }
   ],
-  "verdict": "Blowhard has a lower overall climate risk score (40/100) compared to Blind Bight (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Blind Bight has a lower overall climate risk score (37/100) compared to Blowhard (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Blind Bight or Blowhard safer from flooding?",
-      "answer": "Blind Bight has a flood risk score of 55/100, while Blowhard scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blind Bight has a flood risk score of 32/100, while Blowhard scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blind Bight scores 62/100 for bushfire risk. Blowhard scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blind Bight scores 64/100 for bushfire risk. Blowhard scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blind Bight or Blowhard?",
-      "answer": "Both suburbs have climate considerations. Blowhard has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Blind Bight has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Blowhard Should I Buy?",
       "url": "/suburbs/vic/blowhard/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 36
-    },
-    {
-      "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 71
-    },
-    {
-      "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 48
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 39,
+      "scoreA": 31,
       "scoreB": 55
     },
     {
+      "name": "Heat",
+      "scoreA": 49,
+      "scoreB": 80
+    },
+    {
+      "name": "Storm",
+      "scoreA": 27,
+      "scoreB": 37
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 35,
+      "scoreB": 51
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 19
     }
   ],
-  "verdict": "Haystack has a lower overall climate risk score (40/100) compared to Haywards Bay (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Haystack has a lower overall climate risk score (35/100) compared to Haywards Bay (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Haystack or Haywards Bay safer from flooding?",
-      "answer": "Haystack has a flood risk score of 46/100, while Haywards Bay scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Haystack has a flood risk score of 47/100, while Haywards Bay scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Haystack scores 64/100 for bushfire risk. Haywards Bay scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Haystack scores 31/100 for bushfire risk. Haywards Bay scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Haystack or Haywards Bay?",
@@ -76,5 +76,15 @@
       "label": "Haywards Bay Should I Buy?",
       "url": "/suburbs/nsw/haywards-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4396,
+    "projected2030": 6154,
+    "projected2050": 11430
+  },
+  "valueImpact": {
+    "dragPercent": 2.55,
+    "description": "Properties in this area may face a 2.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

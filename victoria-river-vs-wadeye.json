@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 51
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 31
-    },
-    {
-      "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 43
-    },
-    {
-      "name": "Storm",
-      "scoreA": 28,
+      "scoreA": 45,
       "scoreB": 26
     },
     {
+      "name": "Bushfire",
+      "scoreA": 43,
+      "scoreB": 34
+    },
+    {
+      "name": "Heat",
+      "scoreA": 35,
+      "scoreB": 31
+    },
+    {
+      "name": "Storm",
+      "scoreA": 27,
+      "scoreB": 45
+    },
+    {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 23,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 6
+      "scoreA": 7,
+      "scoreB": 10
     }
   ],
-  "verdict": "Victoria River has a lower overall climate risk score (26/100) compared to Wadeye (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Wadeye has a lower overall climate risk score (28/100) compared to Victoria River (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Victoria River or Wadeye safer from flooding?",
-      "answer": "Victoria River has a flood risk score of 37/100, while Wadeye scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Victoria River has a flood risk score of 45/100, while Wadeye scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Victoria River scores 24/100 for bushfire risk. Wadeye scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Victoria River scores 43/100 for bushfire risk. Wadeye scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Victoria River or Wadeye?",
-      "answer": "Both suburbs have climate considerations. Victoria River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wadeye has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wadeye Should I Buy?",
       "url": "/suburbs/nt/wadeye/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3240,
+    "projected2030": 4536,
+    "projected2050": 8424
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

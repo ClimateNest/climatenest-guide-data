@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 29,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 58
+      "scoreA": 37,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 32,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 31,
       "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 13
+      "scoreA": 22,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 7
     }
   ],
-  "verdict": "Manton has a lower overall climate risk score (25/100) compared to Maranunga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Manton has a lower overall climate risk score (28/100) compared to Maranunga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Manton or Maranunga safer from flooding?",
-      "answer": "Manton has a flood risk score of 34/100, while Maranunga scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Manton has a flood risk score of 29/100, while Maranunga scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Manton scores 16/100 for bushfire risk. Maranunga scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Manton scores 37/100 for bushfire risk. Maranunga scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Manton or Maranunga?",
@@ -76,5 +76,15 @@
       "label": "Maranunga Should I Buy?",
       "url": "/suburbs/nt/maranunga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

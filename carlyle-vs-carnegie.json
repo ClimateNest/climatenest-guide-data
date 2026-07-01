@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 47
+      "scoreA": 50,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 78
+      "scoreA": 62,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 31
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 25,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 27
     }
   ],
-  "verdict": "Carlyle has a lower overall climate risk score (33/100) compared to Carnegie (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Carlyle has a lower overall climate risk score (37/100) compared to Carnegie (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Carlyle or Carnegie safer from flooding?",
-      "answer": "Carlyle has a flood risk score of 53/100, while Carnegie scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carlyle has a flood risk score of 23/100, while Carnegie scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carlyle scores 31/100 for bushfire risk. Carnegie scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carlyle scores 50/100 for bushfire risk. Carnegie scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carlyle or Carnegie?",
@@ -76,5 +76,15 @@
       "label": "Carnegie Should I Buy?",
       "url": "/suburbs/vic/carnegie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4407,
+    "projected2030": 6170,
+    "projected2050": 11459
+  },
+  "valueImpact": {
+    "dragPercent": 2.57,
+    "description": "Properties in this area may face a 2.57% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

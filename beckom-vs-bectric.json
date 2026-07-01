@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 43
+      "scoreA": 30,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 64
+      "scoreA": 63,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
       "scoreA": 26,
-      "scoreB": 19
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 17
     }
   ],
-  "verdict": "Bectric has a lower overall climate risk score (32/100) compared to Beckom (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Beckom has a lower overall climate risk score (38/100) compared to Bectric (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Beckom or Bectric safer from flooding?",
-      "answer": "Beckom has a flood risk score of 20/100, while Bectric scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beckom has a flood risk score of 44/100, while Bectric scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beckom scores 41/100 for bushfire risk. Bectric scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beckom scores 30/100 for bushfire risk. Bectric scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beckom or Bectric?",
-      "answer": "Both suburbs have climate considerations. Bectric has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Beckom has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bectric Should I Buy?",
       "url": "/suburbs/nsw/bectric/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

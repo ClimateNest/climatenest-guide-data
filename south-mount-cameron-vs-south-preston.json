@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 45
+      "scoreA": 58,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 28
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 70
+      "scoreA": 57,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "South Preston has a lower overall climate risk score (35/100) compared to South Mount Cameron (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "South Preston has a lower overall climate risk score (29/100) compared to South Mount Cameron (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is South Mount Cameron or South Preston safer from flooding?",
-      "answer": "South Mount Cameron has a flood risk score of 31/100, while South Preston scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Mount Cameron has a flood risk score of 58/100, while South Preston scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Mount Cameron scores 50/100 for bushfire risk. South Preston scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Mount Cameron scores 42/100 for bushfire risk. South Preston scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Mount Cameron or South Preston?",
@@ -76,5 +76,15 @@
       "label": "South Preston Should I Buy?",
       "url": "/suburbs/tas/south-preston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

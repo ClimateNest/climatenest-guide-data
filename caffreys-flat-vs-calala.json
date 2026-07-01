@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 59
+      "scoreA": 42,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 44
+      "scoreA": 52,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 74,
+      "scoreA": 53,
       "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 46
+      "scoreA": 43,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 45,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Calala has a lower overall climate risk score (43/100) compared to Caffreys Flat (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Calala has a lower overall climate risk score (38/100) compared to Caffreys Flat (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Caffreys Flat or Calala safer from flooding?",
-      "answer": "Caffreys Flat has a flood risk score of 53/100, while Calala scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Caffreys Flat has a flood risk score of 42/100, while Calala scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Caffreys Flat scores 27/100 for bushfire risk. Calala scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Caffreys Flat scores 52/100 for bushfire risk. Calala scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Caffreys Flat or Calala?",
@@ -76,5 +76,15 @@
       "label": "Calala Should I Buy?",
       "url": "/suburbs/nsw/calala/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 57,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 56
+      "scoreA": 39,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 47
+      "scoreA": 72,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 50,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 20
     }
   ],
-  "verdict": "Neale has a lower overall climate risk score (34/100) compared to Naval Base (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Neale has a lower overall climate risk score (28/100) compared to Naval Base (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Naval Base or Neale safer from flooding?",
-      "answer": "Naval Base has a flood risk score of 32/100, while Neale scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Naval Base has a flood risk score of 57/100, while Neale scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Naval Base scores 62/100 for bushfire risk. Neale scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Naval Base scores 39/100 for bushfire risk. Neale scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Naval Base or Neale?",
@@ -76,5 +76,15 @@
       "label": "Neale Should I Buy?",
       "url": "/suburbs/wa/neale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

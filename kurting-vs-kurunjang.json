@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 41
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 31
+      "scoreA": 50,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 69
+      "scoreA": 74,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 38
+      "scoreA": 28,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 22,
+      "scoreB": 20
     }
   ],
-  "verdict": "Kurunjang has a lower overall climate risk score (36/100) compared to Kurting (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kurting and Kurunjang have similar overall climate risk scores.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Kurting or Kurunjang safer from flooding?",
-      "answer": "Kurting has a flood risk score of 35/100, while Kurunjang scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kurting has a flood risk score of 48/100, while Kurunjang scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kurting scores 60/100 for bushfire risk. Kurunjang scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kurting scores 50/100 for bushfire risk. Kurunjang scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kurting or Kurunjang?",
-      "answer": "Both suburbs have climate considerations. Kurunjang has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kurting has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kurunjang Should I Buy?",
       "url": "/suburbs/vic/kurunjang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

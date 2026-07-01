@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 34
+      "scoreA": 60,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 17
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 55
+      "scoreA": 32,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
+      "scoreA": 6,
       "scoreB": 16
     }
   ],
-  "verdict": "Osborne Park has a lower overall climate risk score (27/100) compared to Ord River (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Ord River has a lower overall climate risk score (29/100) compared to Osborne Park (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ord River or Osborne Park safer from flooding?",
-      "answer": "Ord River has a flood risk score of 38/100, while Osborne Park scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ord River has a flood risk score of 60/100, while Osborne Park scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ord River scores 55/100 for bushfire risk. Osborne Park scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ord River scores 32/100 for bushfire risk. Osborne Park scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ord River or Osborne Park?",
-      "answer": "Both suburbs have climate considerations. Osborne Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ord River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Osborne Park Should I Buy?",
       "url": "/suburbs/wa/osborne-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

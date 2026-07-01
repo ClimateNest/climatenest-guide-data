@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 47
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 35,
+      "scoreA": 48,
       "scoreB": 41
     },
     {
+      "name": "Bushfire",
+      "scoreA": 33,
+      "scoreB": 55
+    },
+    {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 71
+      "scoreA": 65,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 25
+      "scoreA": 37,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 38
+      "scoreA": 34,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 30
+      "scoreA": 26,
+      "scoreB": 18
     }
   ],
-  "verdict": "Clontarf has a lower overall climate risk score (36/100) compared to Clouds Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Clontarf has a lower overall climate risk score (41/100) compared to Clouds Creek (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Clontarf or Clouds Creek safer from flooding?",
-      "answer": "Clontarf has a flood risk score of 24/100, while Clouds Creek scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clontarf has a flood risk score of 48/100, while Clouds Creek scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clontarf scores 35/100 for bushfire risk. Clouds Creek scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clontarf scores 33/100 for bushfire risk. Clouds Creek scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clontarf or Clouds Creek?",
@@ -76,5 +76,15 @@
       "label": "Clouds Creek Should I Buy?",
       "url": "/suburbs/nsw/clouds-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4373,
+    "projected2030": 6123,
+    "projected2050": 11371
+  },
+  "valueImpact": {
+    "dragPercent": 2.5,
+    "description": "Properties in this area may face a 2.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

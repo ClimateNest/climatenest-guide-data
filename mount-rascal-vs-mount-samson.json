@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 52
+      "scoreA": 38,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 30,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 46,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 58,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 25
     }
   ],
-  "verdict": "Mount Samson has a lower overall climate risk score (34/100) compared to Mount Rascal (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mount Rascal has a lower overall climate risk score (36/100) compared to Mount Samson (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Rascal or Mount Samson safer from flooding?",
-      "answer": "Mount Rascal has a flood risk score of 44/100, while Mount Samson scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Rascal has a flood risk score of 38/100, while Mount Samson scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Rascal scores 64/100 for bushfire risk. Mount Samson scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Rascal scores 21/100 for bushfire risk. Mount Samson scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Rascal or Mount Samson?",
-      "answer": "Both suburbs have climate considerations. Mount Samson has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Rascal has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Samson Should I Buy?",
       "url": "/suburbs/qld/mount-samson/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

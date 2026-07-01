@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 34
+      "scoreA": 37,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 44
+      "scoreA": 34,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 65
+      "scoreA": 79,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 31
+      "scoreA": 36,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 16
+      "scoreA": 52,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 30
     }
   ],
-  "verdict": "Frog Rock has a lower overall climate risk score (35/100) compared to Freshwater (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Frog Rock has a lower overall climate risk score (39/100) compared to Freshwater (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Freshwater or Frog Rock safer from flooding?",
-      "answer": "Freshwater has a flood risk score of 42/100, while Frog Rock scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Freshwater has a flood risk score of 37/100, while Frog Rock scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Freshwater scores 15/100 for bushfire risk. Frog Rock scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Freshwater scores 34/100 for bushfire risk. Frog Rock scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Freshwater or Frog Rock?",
@@ -76,5 +76,15 @@
       "label": "Frog Rock Should I Buy?",
       "url": "/suburbs/nsw/frog-rock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

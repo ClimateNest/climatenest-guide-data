@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 38
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 62
+      "scoreA": 20,
+      "scoreB": 46
     },
     {
       "name": "Heat",
       "scoreA": 77,
-      "scoreB": 52
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 10,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
       "scoreA": 19,
-      "scoreB": 23
+      "scoreB": 19
     }
   ],
-  "verdict": "Walsall has a lower overall climate risk score (39/100) compared to Walpole (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Walpole has a lower overall climate risk score (29/100) compared to Walsall (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Walpole or Walsall safer from flooding?",
-      "answer": "Walpole has a flood risk score of 59/100, while Walsall scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Walpole has a flood risk score of 24/100, while Walsall scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Walpole scores 35/100 for bushfire risk. Walsall scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Walpole scores 20/100 for bushfire risk. Walsall scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Walpole or Walsall?",
-      "answer": "Both suburbs have climate considerations. Walsall has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Walpole has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Walsall Should I Buy?",
       "url": "/suburbs/wa/walsall/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

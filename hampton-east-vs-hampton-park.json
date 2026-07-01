@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 62,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 68
+      "scoreA": 63,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 24
+      "scoreA": 41,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 17
     }
   ],
-  "verdict": "Hampton Park has a lower overall climate risk score (33/100) compared to Hampton East (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hampton East has a lower overall climate risk score (40/100) compared to Hampton Park (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Hampton East or Hampton Park safer from flooding?",
-      "answer": "Hampton East has a flood risk score of 55/100, while Hampton Park scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hampton East has a flood risk score of 27/100, while Hampton Park scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hampton East scores 20/100 for bushfire risk. Hampton Park scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hampton East scores 62/100 for bushfire risk. Hampton Park scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hampton East or Hampton Park?",
-      "answer": "Both suburbs have climate considerations. Hampton Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hampton East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hampton Park Should I Buy?",
       "url": "/suburbs/vic/hampton-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

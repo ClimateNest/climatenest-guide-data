@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 43
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 41,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 49
+      "scoreA": 46,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
       "scoreA": 15,
-      "scoreB": 24
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 17
+      "scoreA": 9,
+      "scoreB": 14
     }
   ],
-  "verdict": "Dundee Beach has a lower overall climate risk score (33/100) compared to Dundee Forest (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dundee Forest has a lower overall climate risk score (29/100) compared to Dundee Beach (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dundee Beach or Dundee Forest safer from flooding?",
-      "answer": "Dundee Beach has a flood risk score of 49/100, while Dundee Forest scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dundee Beach has a flood risk score of 30/100, while Dundee Forest scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dundee Beach scores 51/100 for bushfire risk. Dundee Forest scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dundee Beach scores 44/100 for bushfire risk. Dundee Forest scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dundee Beach or Dundee Forest?",
-      "answer": "Both suburbs have climate considerations. Dundee Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dundee Forest has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dundee Forest Should I Buy?",
       "url": "/suburbs/nt/dundee-forest/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3297,
+    "projected2030": 4615,
+    "projected2050": 8571
+  },
+  "valueImpact": {
+    "dragPercent": 0.12,
+    "description": "Properties in this area may face a 0.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

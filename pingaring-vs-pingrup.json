@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 44
+      "scoreA": 40,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 34
+      "scoreA": 50,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 78
+      "scoreA": 65,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 44,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 18
     }
   ],
-  "verdict": "Pingrup has a lower overall climate risk score (38/100) compared to Pingaring (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pingrup has a lower overall climate risk score (37/100) compared to Pingaring (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pingaring or Pingrup safer from flooding?",
-      "answer": "Pingaring has a flood risk score of 52/100, while Pingrup scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pingaring has a flood risk score of 40/100, while Pingrup scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pingaring scores 60/100 for bushfire risk. Pingrup scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pingaring scores 50/100 for bushfire risk. Pingrup scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pingaring or Pingrup?",
@@ -76,5 +76,15 @@
       "label": "Pingrup Should I Buy?",
       "url": "/suburbs/wa/pingrup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

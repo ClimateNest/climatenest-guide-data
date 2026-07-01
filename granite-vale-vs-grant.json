@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 56
+      "scoreA": 49,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 54
+      "scoreA": 62,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 34,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 34
+      "scoreA": 23,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 30
+      "scoreA": 15,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 7
+      "scoreA": 20,
+      "scoreB": 14
     }
   ],
-  "verdict": "Granite Vale has a lower overall climate risk score (30/100) compared to Grant (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Granite Vale has a lower overall climate risk score (34/100) compared to Grant (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Granite Vale or Grant safer from flooding?",
-      "answer": "Granite Vale has a flood risk score of 35/100, while Grant scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Granite Vale has a flood risk score of 49/100, while Grant scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Granite Vale scores 45/100 for bushfire risk. Grant scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Granite Vale scores 62/100 for bushfire risk. Grant scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Granite Vale or Grant?",
@@ -76,5 +76,15 @@
       "label": "Grant Should I Buy?",
       "url": "/suburbs/qld/grant/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

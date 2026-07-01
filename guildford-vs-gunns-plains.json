@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 55
+      "scoreA": 43,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 54
+      "scoreA": 42,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 70
+      "scoreA": 77,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 49,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 25,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 10,
+      "scoreB": 19
     }
   ],
-  "verdict": "Guildford has a lower overall climate risk score (40/100) compared to Gunns Plains (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Gunns Plains has a lower overall climate risk score (34/100) compared to Guildford (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Guildford or Gunns Plains safer from flooding?",
-      "answer": "Guildford has a flood risk score of 36/100, while Gunns Plains scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Guildford has a flood risk score of 43/100, while Gunns Plains scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Guildford scores 52/100 for bushfire risk. Gunns Plains scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Guildford scores 42/100 for bushfire risk. Gunns Plains scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Guildford or Gunns Plains?",
-      "answer": "Both suburbs have climate considerations. Guildford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gunns Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gunns Plains Should I Buy?",
       "url": "/suburbs/tas/gunns-plains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

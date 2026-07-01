@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 38
+      "scoreA": 51,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 56
+      "scoreA": 33,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 36,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 8
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Malak has a lower overall climate risk score (35/100) compared to Lyons (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lyons has a lower overall climate risk score (31/100) compared to Malak (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lyons or Malak safer from flooding?",
-      "answer": "Lyons has a flood risk score of 56/100, while Malak scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lyons has a flood risk score of 51/100, while Malak scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lyons scores 55/100 for bushfire risk. Malak scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lyons scores 33/100 for bushfire risk. Malak scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lyons or Malak?",
-      "answer": "Both suburbs have climate considerations. Malak has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lyons has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Malak Should I Buy?",
       "url": "/suburbs/nt/malak/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

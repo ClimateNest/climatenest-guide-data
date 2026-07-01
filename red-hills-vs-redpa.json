@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 38,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 61
+      "scoreA": 57,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 75
+      "scoreA": 64,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 38
+      "scoreA": 37,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Red Hills has a lower overall climate risk score (45/100) compared to Redpa (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Red Hills has a lower overall climate risk score (39/100) compared to Redpa (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Red Hills or Redpa safer from flooding?",
-      "answer": "Red Hills has a flood risk score of 56/100, while Redpa scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Red Hills has a flood risk score of 38/100, while Redpa scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Red Hills scores 60/100 for bushfire risk. Redpa scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Red Hills scores 57/100 for bushfire risk. Redpa scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Red Hills or Redpa?",
@@ -76,5 +76,15 @@
       "label": "Redpa Should I Buy?",
       "url": "/suburbs/tas/redpa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 53
+      "scoreA": 39,
+      "scoreB": 19
     },
     {
       "name": "Heat",
       "scoreA": 65,
-      "scoreB": 72
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 41
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 10
+      "scoreA": 14,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 27
     }
   ],
-  "verdict": "Stansbury has a lower overall climate risk score (37/100) compared to Steelton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Stansbury has a lower overall climate risk score (32/100) compared to Steelton (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stansbury or Steelton safer from flooding?",
-      "answer": "Stansbury has a flood risk score of 42/100, while Steelton scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stansbury has a flood risk score of 30/100, while Steelton scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stansbury scores 29/100 for bushfire risk. Steelton scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stansbury scores 39/100 for bushfire risk. Steelton scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stansbury or Steelton?",
@@ -76,5 +76,15 @@
       "label": "Steelton Should I Buy?",
       "url": "/suburbs/sa/steelton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

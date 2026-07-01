@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 50,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 49,
+      "scoreA": 37,
       "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 21,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 15,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 6
+      "scoreA": 11,
+      "scoreB": 9
     }
   ],
-  "verdict": "Eungella Dam has a lower overall climate risk score (30/100) compared to Eungella (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Eungella has a lower overall climate risk score (26/100) compared to Eungella Dam (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eungella or Eungella Dam safer from flooding?",
-      "answer": "Eungella has a flood risk score of 24/100, while Eungella Dam scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eungella has a flood risk score of 50/100, while Eungella Dam scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eungella scores 62/100 for bushfire risk. Eungella Dam scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eungella scores 21/100 for bushfire risk. Eungella Dam scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eungella or Eungella Dam?",
-      "answer": "Both suburbs have climate considerations. Eungella Dam has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eungella has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eungella Dam Should I Buy?",
       "url": "/suburbs/qld/eungella-dam/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

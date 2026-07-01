@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 37
+      "scoreA": 51,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 52
+      "scoreA": 26,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 56
+      "scoreA": 40,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 44
+      "scoreA": 38,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 25
     }
   ],
-  "verdict": "Talisker has a lower overall climate risk score (35/100) compared to Tamala Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Talisker has a lower overall climate risk score (32/100) compared to Tamala Park (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Talisker or Tamala Park safer from flooding?",
-      "answer": "Talisker has a flood risk score of 49/100, while Tamala Park scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Talisker has a flood risk score of 51/100, while Tamala Park scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Talisker scores 41/100 for bushfire risk. Tamala Park scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Talisker scores 26/100 for bushfire risk. Tamala Park scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Talisker or Tamala Park?",
@@ -76,5 +76,15 @@
       "label": "Tamala Park Should I Buy?",
       "url": "/suburbs/wa/tamala-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

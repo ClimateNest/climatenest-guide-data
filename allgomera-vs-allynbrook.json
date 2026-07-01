@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 29
+      "scoreA": 58,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 29
-    },
-    {
-      "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 56
-    },
-    {
-      "name": "Storm",
-      "scoreA": 46,
+      "scoreA": 49,
       "scoreB": 28
     },
     {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 65
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 40
+    },
+    {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 36
+      "scoreA": 47,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 24,
+      "scoreB": 22
     }
   ],
-  "verdict": "Allynbrook has a lower overall climate risk score (34/100) compared to Allgomera (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Allynbrook has a lower overall climate risk score (41/100) compared to Allgomera (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Allgomera or Allynbrook safer from flooding?",
-      "answer": "Allgomera has a flood risk score of 32/100, while Allynbrook scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Allgomera has a flood risk score of 58/100, while Allynbrook scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Allgomera scores 56/100 for bushfire risk. Allynbrook scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Allgomera scores 49/100 for bushfire risk. Allynbrook scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Allgomera or Allynbrook?",
@@ -76,5 +76,15 @@
       "label": "Allynbrook Should I Buy?",
       "url": "/suburbs/nsw/allynbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 40
+      "scoreA": 50,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 19
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 62
+      "scoreA": 68,
+      "scoreB": 80
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 32
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 22,
+      "scoreB": 19
     }
   ],
-  "verdict": "Churchill Island has a lower overall climate risk score (30/100) compared to Churchill (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Churchill Island has a lower overall climate risk score (39/100) compared to Churchill (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Churchill or Churchill Island safer from flooding?",
-      "answer": "Churchill has a flood risk score of 31/100, while Churchill Island scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Churchill has a flood risk score of 50/100, while Churchill Island scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Churchill scores 40/100 for bushfire risk. Churchill Island scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Churchill scores 35/100 for bushfire risk. Churchill Island scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Churchill or Churchill Island?",
@@ -76,5 +76,15 @@
       "label": "Churchill Island Should I Buy?",
       "url": "/suburbs/vic/churchill-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

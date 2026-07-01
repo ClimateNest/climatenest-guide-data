@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 38
+      "scoreA": 37,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 53
+      "scoreA": 18,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 64
+      "scoreA": 70,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 50
+      "scoreA": 28,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 23
+      "scoreA": 37,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
+      "scoreA": 23,
       "scoreB": 21
     }
   ],
-  "verdict": "Pagewood has a lower overall climate risk score (35/100) compared to Palerang (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pagewood has a lower overall climate risk score (36/100) compared to Palerang (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pagewood or Palerang safer from flooding?",
-      "answer": "Pagewood has a flood risk score of 27/100, while Palerang scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pagewood has a flood risk score of 37/100, while Palerang scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pagewood scores 30/100 for bushfire risk. Palerang scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pagewood scores 18/100 for bushfire risk. Palerang scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pagewood or Palerang?",
@@ -76,5 +76,15 @@
       "label": "Palerang Should I Buy?",
       "url": "/suburbs/nsw/palerang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

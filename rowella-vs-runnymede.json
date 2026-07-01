@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 38,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
+      "scoreA": 40,
       "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 76
+      "scoreA": 62,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 43,
       "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 19
     }
   ],
-  "verdict": "Rowella has a lower overall climate risk score (33/100) compared to Runnymede (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rowella has a lower overall climate risk score (35/100) compared to Runnymede (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rowella or Runnymede safer from flooding?",
-      "answer": "Rowella has a flood risk score of 29/100, while Runnymede scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rowella has a flood risk score of 38/100, while Runnymede scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rowella scores 51/100 for bushfire risk. Runnymede scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rowella scores 40/100 for bushfire risk. Runnymede scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rowella or Runnymede?",
@@ -76,5 +76,15 @@
       "label": "Runnymede Should I Buy?",
       "url": "/suburbs/tas/runnymede/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

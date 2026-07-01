@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 54
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 62
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
+      "scoreA": 39,
       "scoreB": 45
     },
     {
+      "name": "Bushfire",
+      "scoreA": 59,
+      "scoreB": 59
+    },
+    {
+      "name": "Heat",
+      "scoreA": 39,
+      "scoreB": 42
+    },
+    {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 57
+      "scoreA": 42,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 29
+      "scoreA": 16,
+      "scoreB": 23
     }
   ],
-  "verdict": "Kungala has a lower overall climate risk score (37/100) compared to Kunghur Creek (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kungala has a lower overall climate risk score (37/100) compared to Kunghur Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kungala or Kunghur Creek safer from flooding?",
-      "answer": "Kungala has a flood risk score of 54/100, while Kunghur Creek scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kungala has a flood risk score of 39/100, while Kunghur Creek scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kungala scores 20/100 for bushfire risk. Kunghur Creek scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kungala scores 59/100 for bushfire risk. Kunghur Creek scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kungala or Kunghur Creek?",
@@ -76,5 +76,15 @@
       "label": "Kunghur Creek Should I Buy?",
       "url": "/suburbs/nsw/kunghur-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

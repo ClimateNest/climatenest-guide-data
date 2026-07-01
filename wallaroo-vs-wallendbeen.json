@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 34
+      "scoreA": 58,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 60
+      "scoreA": 20,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 59
+      "scoreA": 62,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 33,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
-  "verdict": "Wallaroo has a lower overall climate risk score (35/100) compared to Wallendbeen (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wallaroo has a lower overall climate risk score (37/100) compared to Wallendbeen (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wallaroo or Wallendbeen safer from flooding?",
-      "answer": "Wallaroo has a flood risk score of 43/100, while Wallendbeen scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wallaroo has a flood risk score of 58/100, while Wallendbeen scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wallaroo scores 39/100 for bushfire risk. Wallendbeen scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wallaroo scores 20/100 for bushfire risk. Wallendbeen scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wallaroo or Wallendbeen?",
@@ -76,5 +76,15 @@
       "label": "Wallendbeen Should I Buy?",
       "url": "/suburbs/nsw/wallendbeen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

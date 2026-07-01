@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 30
+      "scoreA": 61,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 48
+      "scoreA": 46,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 12
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Gemini Mountains has a lower overall climate risk score (31/100) compared to Geham (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gemini Mountains has a lower overall climate risk score (39/100) compared to Geham (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Geham or Gemini Mountains safer from flooding?",
-      "answer": "Geham has a flood risk score of 47/100, while Gemini Mountains scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Geham has a flood risk score of 22/100, while Gemini Mountains scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Geham scores 41/100 for bushfire risk. Gemini Mountains scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Geham scores 61/100 for bushfire risk. Gemini Mountains scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Geham or Gemini Mountains?",
@@ -76,5 +76,15 @@
       "label": "Gemini Mountains Should I Buy?",
       "url": "/suburbs/qld/gemini-mountains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

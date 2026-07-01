@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 35,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 18
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 45
-    },
-    {
-      "name": "Storm",
-      "scoreA": 33,
+      "scoreA": 39,
       "scoreB": 39
     },
     {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 40
+    },
+    {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 56
+      "scoreA": 54,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 13
     }
   ],
-  "verdict": "Moolboolaman has a lower overall climate risk score (36/100) compared to Moogerah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moolboolaman has a lower overall climate risk score (34/100) compared to Moogerah (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moogerah or Moolboolaman safer from flooding?",
-      "answer": "Moogerah has a flood risk score of 45/100, while Moolboolaman scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moogerah has a flood risk score of 35/100, while Moolboolaman scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moogerah scores 52/100 for bushfire risk. Moolboolaman scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moogerah scores 46/100 for bushfire risk. Moolboolaman scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moogerah or Moolboolaman?",
@@ -76,5 +76,15 @@
       "label": "Moolboolaman Should I Buy?",
       "url": "/suburbs/qld/moolboolaman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 48
+      "scoreA": 60,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 16
+      "scoreA": 30,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 60
+      "scoreA": 49,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 34,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 30
+      "scoreA": 47,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 10
+      "scoreA": 11,
+      "scoreB": 16
     }
   ],
-  "verdict": "Tuena has a lower overall climate risk score (34/100) compared to Tuckombil (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tuena has a lower overall climate risk score (27/100) compared to Tuckombil (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tuckombil or Tuena safer from flooding?",
-      "answer": "Tuckombil has a flood risk score of 39/100, while Tuena scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tuckombil has a flood risk score of 60/100, while Tuena scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tuckombil scores 47/100 for bushfire risk. Tuena scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tuckombil scores 30/100 for bushfire risk. Tuena scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tuckombil or Tuena?",
@@ -76,5 +76,15 @@
       "label": "Tuena Should I Buy?",
       "url": "/suburbs/nsw/tuena/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

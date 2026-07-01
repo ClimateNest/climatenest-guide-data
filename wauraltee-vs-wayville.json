@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 31
+      "scoreA": 55,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 40
-    },
-    {
-      "name": "Heat",
-      "scoreA": 58,
+      "scoreA": 63,
       "scoreB": 63
     },
     {
+      "name": "Heat",
+      "scoreA": 70,
+      "scoreB": 65
+    },
+    {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 47
+      "scoreA": 42,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Wayville has a lower overall climate risk score (37/100) compared to Wauraltee (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wayville has a lower overall climate risk score (38/100) compared to Wauraltee (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wauraltee or Wayville safer from flooding?",
-      "answer": "Wauraltee has a flood risk score of 40/100, while Wayville scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wauraltee has a flood risk score of 55/100, while Wayville scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wauraltee scores 49/100 for bushfire risk. Wayville scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wauraltee scores 63/100 for bushfire risk. Wayville scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wauraltee or Wayville?",
@@ -76,5 +76,15 @@
       "label": "Wayville Should I Buy?",
       "url": "/suburbs/sa/wayville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

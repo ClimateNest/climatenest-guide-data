@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 43,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 53
+      "scoreA": 18,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 66,
+      "scoreA": 55,
       "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 39,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 15,
+      "scoreB": 14
     }
   ],
-  "verdict": "Goolma has a lower overall climate risk score (34/100) compared to Gooloogong (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goolma has a lower overall climate risk score (30/100) compared to Gooloogong (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Goolma or Gooloogong safer from flooding?",
-      "answer": "Goolma has a flood risk score of 21/100, while Gooloogong scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goolma has a flood risk score of 43/100, while Gooloogong scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goolma scores 52/100 for bushfire risk. Gooloogong scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goolma scores 18/100 for bushfire risk. Gooloogong scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goolma or Gooloogong?",
@@ -76,5 +76,15 @@
       "label": "Gooloogong Should I Buy?",
       "url": "/suburbs/nsw/gooloogong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
+      "scoreA": 54,
       "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 44
+      "scoreA": 35,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 47,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 22
+      "scoreA": 36,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 9
+      "scoreA": 20,
+      "scoreB": 6
     }
   ],
-  "verdict": "Woolein has a lower overall climate risk score (24/100) compared to Woody Point (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woolein has a lower overall climate risk score (19/100) compared to Woody Point (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Woody Point or Woolein safer from flooding?",
-      "answer": "Woody Point has a flood risk score of 55/100, while Woolein scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woody Point has a flood risk score of 54/100, while Woolein scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woody Point scores 48/100 for bushfire risk. Woolein scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woody Point scores 28/100 for bushfire risk. Woolein scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woody Point or Woolein?",
@@ -76,5 +76,15 @@
       "label": "Woolein Should I Buy?",
       "url": "/suburbs/qld/woolein/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

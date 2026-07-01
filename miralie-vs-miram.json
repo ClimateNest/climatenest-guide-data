@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 36
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 47
-    },
-    {
-      "name": "Heat",
-      "scoreA": 52,
+      "scoreA": 43,
       "scoreB": 58
     },
     {
+      "name": "Bushfire",
+      "scoreA": 59,
+      "scoreB": 43
+    },
+    {
+      "name": "Heat",
+      "scoreA": 76,
+      "scoreB": 57
+    },
+    {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 36
+      "scoreA": 22,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 28
     }
   ],
-  "verdict": "Miralie has a lower overall climate risk score (34/100) compared to Miram (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Miralie has a lower overall climate risk score (41/100) compared to Miram (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Miralie or Miram safer from flooding?",
-      "answer": "Miralie has a flood risk score of 48/100, while Miram scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miralie has a flood risk score of 43/100, while Miram scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miralie scores 42/100 for bushfire risk. Miram scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miralie scores 59/100 for bushfire risk. Miram scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miralie or Miram?",
@@ -76,5 +76,15 @@
       "label": "Miram Should I Buy?",
       "url": "/suburbs/vic/miram/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

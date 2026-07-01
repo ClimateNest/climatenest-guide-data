@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 58
+      "scoreA": 70,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 38
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 14
     }
   ],
-  "verdict": "Lackrana has a lower overall climate risk score (33/100) compared to Lake Leake (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Lake Leake has a lower overall climate risk score (35/100) compared to Lackrana (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lackrana or Lake Leake safer from flooding?",
-      "answer": "Lackrana has a flood risk score of 31/100, while Lake Leake scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lackrana has a flood risk score of 23/100, while Lake Leake scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lackrana scores 31/100 for bushfire risk. Lake Leake scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lackrana scores 30/100 for bushfire risk. Lake Leake scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lackrana or Lake Leake?",
-      "answer": "Both suburbs have climate considerations. Lackrana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lake Leake has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lake Leake Should I Buy?",
       "url": "/suburbs/tas/lake-leake/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

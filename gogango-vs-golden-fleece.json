@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 24
+      "scoreA": 39,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 37
+      "scoreA": 44,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 43
+      "scoreA": 27,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 51
+      "scoreA": 12,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 25
     }
   ],
-  "verdict": "Gogango has a lower overall climate risk score (27/100) compared to Golden Fleece (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gogango has a lower overall climate risk score (26/100) compared to Golden Fleece (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gogango or Golden Fleece safer from flooding?",
-      "answer": "Gogango has a flood risk score of 43/100, while Golden Fleece scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gogango has a flood risk score of 39/100, while Golden Fleece scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gogango scores 18/100 for bushfire risk. Golden Fleece scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gogango scores 16/100 for bushfire risk. Golden Fleece scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gogango or Golden Fleece?",
@@ -76,5 +76,15 @@
       "label": "Golden Fleece Should I Buy?",
       "url": "/suburbs/qld/golden-fleece/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

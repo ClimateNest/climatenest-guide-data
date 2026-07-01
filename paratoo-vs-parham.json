@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 59
+      "scoreA": 36,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 50
+      "scoreA": 25,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 67
+      "scoreA": 60,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 34
+      "scoreA": 45,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 19,
       "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 21
     }
   ],
-  "verdict": "Paratoo has a lower overall climate risk score (40/100) compared to Parham (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Parham has a lower overall climate risk score (31/100) compared to Paratoo (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Paratoo or Parham safer from flooding?",
-      "answer": "Paratoo has a flood risk score of 40/100, while Parham scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Paratoo has a flood risk score of 36/100, while Parham scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Paratoo scores 50/100 for bushfire risk. Parham scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Paratoo scores 25/100 for bushfire risk. Parham scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Paratoo or Parham?",
-      "answer": "Both suburbs have climate considerations. Paratoo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Parham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Parham Should I Buy?",
       "url": "/suburbs/sa/parham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

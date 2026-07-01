@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
+      "scoreA": 36,
       "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 40,
+      "scoreB": 30
     },
     {
       "name": "Storm",
       "scoreA": 29,
-      "scoreB": 48
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 14
+      "scoreA": 48,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 15
+      "scoreA": 18,
+      "scoreB": 6
     }
   ],
-  "verdict": "Bororen has a lower overall climate risk score (30/100) compared to Bouldercombe (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bouldercombe has a lower overall climate risk score (28/100) compared to Bororen (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bororen or Bouldercombe safer from flooding?",
-      "answer": "Bororen has a flood risk score of 35/100, while Bouldercombe scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bororen has a flood risk score of 30/100, while Bouldercombe scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bororen scores 20/100 for bushfire risk. Bouldercombe scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bororen scores 36/100 for bushfire risk. Bouldercombe scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bororen or Bouldercombe?",
-      "answer": "Both suburbs have climate considerations. Bororen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bouldercombe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bouldercombe Should I Buy?",
       "url": "/suburbs/qld/bouldercombe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

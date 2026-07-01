@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 56
+      "scoreA": 39,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 55,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 37,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
+      "scoreA": 46,
       "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 8
+      "scoreA": 26,
+      "scoreB": 12
     }
   ],
-  "verdict": "Soldiers Hill has a lower overall climate risk score (28/100) compared to Smithlea (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Soldiers Hill has a lower overall climate risk score (25/100) compared to Smithlea (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Smithlea or Soldiers Hill safer from flooding?",
-      "answer": "Smithlea has a flood risk score of 46/100, while Soldiers Hill scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Smithlea has a flood risk score of 39/100, while Soldiers Hill scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Smithlea scores 20/100 for bushfire risk. Soldiers Hill scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Smithlea scores 55/100 for bushfire risk. Soldiers Hill scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Smithlea or Soldiers Hill?",
@@ -76,5 +76,15 @@
       "label": "Soldiers Hill Should I Buy?",
       "url": "/suburbs/qld/soldiers-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

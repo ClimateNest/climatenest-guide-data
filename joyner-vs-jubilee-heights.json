@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 42
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 54
-    },
-    {
-      "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 40
-    },
-    {
-      "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 34,
       "scoreB": 23
     },
     {
+      "name": "Bushfire",
+      "scoreA": 39,
+      "scoreB": 17
+    },
+    {
+      "name": "Heat",
+      "scoreA": 33,
+      "scoreB": 45
+    },
+    {
+      "name": "Storm",
+      "scoreA": 41,
+      "scoreB": 49
+    },
+    {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 19
+      "scoreA": 52,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 16
     }
   ],
-  "verdict": "Jubilee Heights has a lower overall climate risk score (32/100) compared to Joyner (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jubilee Heights has a lower overall climate risk score (27/100) compared to Joyner (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Joyner or Jubilee Heights safer from flooding?",
-      "answer": "Joyner has a flood risk score of 50/100, while Jubilee Heights scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Joyner has a flood risk score of 34/100, while Jubilee Heights scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Joyner scores 25/100 for bushfire risk. Jubilee Heights scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Joyner scores 39/100 for bushfire risk. Jubilee Heights scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Joyner or Jubilee Heights?",
@@ -76,5 +76,15 @@
       "label": "Jubilee Heights Should I Buy?",
       "url": "/suburbs/qld/jubilee-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

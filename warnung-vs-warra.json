@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 55
+      "scoreA": 58,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
       "scoreA": 62,
-      "scoreB": 52
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 43
+      "scoreA": 41,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 52
+      "scoreA": 43,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 10
     }
   ],
-  "verdict": "Warnung has a lower overall climate risk score (43/100) compared to Warra (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Warra has a lower overall climate risk score (32/100) compared to Warnung (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warnung or Warra safer from flooding?",
-      "answer": "Warnung has a flood risk score of 27/100, while Warra scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warnung has a flood risk score of 58/100, while Warra scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warnung scores 62/100 for bushfire risk. Warra scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warnung scores 62/100 for bushfire risk. Warra scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warnung or Warra?",
-      "answer": "Both suburbs have climate considerations. Warnung has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Warra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Warra Should I Buy?",
       "url": "/suburbs/qld/warra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

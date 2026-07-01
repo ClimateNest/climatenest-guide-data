@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 59
+      "scoreA": 58,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 65
+      "scoreA": 56,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 25,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
       "scoreA": 29,
-      "scoreB": 22
+      "scoreB": 18
     }
   ],
-  "verdict": "Benjeroop has a lower overall climate risk score (35/100) compared to Benloch (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Benloch has a lower overall climate risk score (35/100) compared to Benjeroop (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Benjeroop or Benloch safer from flooding?",
-      "answer": "Benjeroop has a flood risk score of 20/100, while Benloch scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Benjeroop has a flood risk score of 42/100, while Benloch scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Benjeroop scores 36/100 for bushfire risk. Benloch scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Benjeroop scores 58/100 for bushfire risk. Benloch scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Benjeroop or Benloch?",
-      "answer": "Both suburbs have climate considerations. Benjeroop has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Benloch has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Benloch Should I Buy?",
       "url": "/suburbs/vic/benloch/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

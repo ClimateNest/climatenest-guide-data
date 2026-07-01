@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 36
+      "scoreA": 37,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 57
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 35
+      "scoreA": 36,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 32
+      "scoreA": 43,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 15,
+      "scoreB": 8
     }
   ],
-  "verdict": "Prince Of Wales has a lower overall climate risk score (25/100) compared to Proserpine (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Prince Of Wales has a lower overall climate risk score (30/100) compared to Proserpine (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Prince Of Wales or Proserpine safer from flooding?",
-      "answer": "Prince Of Wales has a flood risk score of 24/100, while Proserpine scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Prince Of Wales has a flood risk score of 37/100, while Proserpine scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Prince Of Wales scores 32/100 for bushfire risk. Proserpine scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Prince Of Wales scores 35/100 for bushfire risk. Proserpine scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Prince Of Wales or Proserpine?",
@@ -76,5 +76,15 @@
       "label": "Proserpine Should I Buy?",
       "url": "/suburbs/qld/proserpine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

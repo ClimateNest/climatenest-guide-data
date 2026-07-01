@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 47
+      "scoreA": 53,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 26
+      "scoreA": 18,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 51
+      "scoreA": 66,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 43,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 28
+      "scoreA": 19,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 11,
+      "scoreB": 20
     }
   ],
-  "verdict": "Neurea has a lower overall climate risk score (33/100) compared to Nethercote (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Neurea has a lower overall climate risk score (33/100) compared to Nethercote (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nethercote or Neurea safer from flooding?",
-      "answer": "Nethercote has a flood risk score of 32/100, while Neurea scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nethercote has a flood risk score of 53/100, while Neurea scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nethercote scores 51/100 for bushfire risk. Neurea scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nethercote scores 18/100 for bushfire risk. Neurea scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nethercote or Neurea?",
@@ -76,5 +76,15 @@
       "label": "Neurea Should I Buy?",
       "url": "/suburbs/nsw/neurea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

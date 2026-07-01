@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 36,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 25
+      "scoreA": 43,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 74
+      "scoreA": 65,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 30
+      "scoreA": 41,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 26,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 15,
+      "scoreB": 15
     }
   ],
-  "verdict": "Point Wilson has a lower overall climate risk score (35/100) compared to Point Lonsdale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Point Wilson has a lower overall climate risk score (28/100) compared to Point Lonsdale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Point Lonsdale or Point Wilson safer from flooding?",
-      "answer": "Point Lonsdale has a flood risk score of 43/100, while Point Wilson scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Point Lonsdale has a flood risk score of 36/100, while Point Wilson scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Point Lonsdale scores 42/100 for bushfire risk. Point Wilson scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Point Lonsdale scores 43/100 for bushfire risk. Point Wilson scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Point Lonsdale or Point Wilson?",
@@ -76,5 +76,15 @@
       "label": "Point Wilson Should I Buy?",
       "url": "/suburbs/vic/point-wilson/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

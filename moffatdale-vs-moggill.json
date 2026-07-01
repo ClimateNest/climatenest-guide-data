@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 30
+      "scoreA": 52,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 51
+      "scoreA": 57,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 30,
+      "scoreA": 37,
       "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 47,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 11
     }
   ],
-  "verdict": "Moggill has a lower overall climate risk score (35/100) compared to Moffatdale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moggill has a lower overall climate risk score (32/100) compared to Moffatdale (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moffatdale or Moggill safer from flooding?",
-      "answer": "Moffatdale has a flood risk score of 58/100, while Moggill scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moffatdale has a flood risk score of 52/100, while Moggill scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moffatdale scores 19/100 for bushfire risk. Moggill scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moffatdale scores 57/100 for bushfire risk. Moggill scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moffatdale or Moggill?",
@@ -76,5 +76,15 @@
       "label": "Moggill Should I Buy?",
       "url": "/suburbs/qld/moggill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 32,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 51
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 41,
+      "scoreA": 37,
       "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 33
+      "scoreA": 37,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 16
+      "scoreA": 51,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 7
     }
   ],
-  "verdict": "Gunnawarra has a lower overall climate risk score (33/100) compared to Gungaloon (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gunnawarra has a lower overall climate risk score (31/100) compared to Gungaloon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gungaloon or Gunnawarra safer from flooding?",
-      "answer": "Gungaloon has a flood risk score of 47/100, while Gunnawarra scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gungaloon has a flood risk score of 32/100, while Gunnawarra scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gungaloon scores 55/100 for bushfire risk. Gunnawarra scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gungaloon scores 50/100 for bushfire risk. Gunnawarra scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gungaloon or Gunnawarra?",
@@ -76,5 +76,15 @@
       "label": "Gunnawarra Should I Buy?",
       "url": "/suburbs/qld/gunnawarra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

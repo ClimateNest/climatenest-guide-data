@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 29
+      "scoreA": 35,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 16
-    },
-    {
-      "name": "Heat",
-      "scoreA": 35,
+      "scoreA": 43,
       "scoreB": 42
     },
     {
+      "name": "Heat",
+      "scoreA": 31,
+      "scoreB": 41
+    },
+    {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 29
+      "scoreA": 56,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 15
+      "scoreA": 29,
+      "scoreB": 7
     }
   ],
-  "verdict": "Kianga has a lower overall climate risk score (30/100) compared to Kiamba (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kianga has a lower overall climate risk score (27/100) compared to Kiamba (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kiamba or Kianga safer from flooding?",
-      "answer": "Kiamba has a flood risk score of 48/100, while Kianga scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kiamba has a flood risk score of 35/100, while Kianga scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kiamba scores 38/100 for bushfire risk. Kianga scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kiamba scores 43/100 for bushfire risk. Kianga scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kiamba or Kianga?",
@@ -76,5 +76,15 @@
       "label": "Kianga Should I Buy?",
       "url": "/suburbs/qld/kianga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

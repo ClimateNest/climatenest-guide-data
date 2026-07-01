@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 55
+      "scoreA": 32,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 40
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 38,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 41
+      "scoreA": 37,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 29
+      "scoreA": 5,
+      "scoreB": 17
     }
   ],
-  "verdict": "Oyster Creek has a lower overall climate risk score (31/100) compared to Pacific Haven (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Oyster Creek has a lower overall climate risk score (32/100) compared to Pacific Haven (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Oyster Creek or Pacific Haven safer from flooding?",
-      "answer": "Oyster Creek has a flood risk score of 31/100, while Pacific Haven scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oyster Creek has a flood risk score of 32/100, while Pacific Haven scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oyster Creek scores 22/100 for bushfire risk. Pacific Haven scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oyster Creek scores 30/100 for bushfire risk. Pacific Haven scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oyster Creek or Pacific Haven?",
@@ -76,5 +76,15 @@
       "label": "Pacific Haven Should I Buy?",
       "url": "/suburbs/qld/pacific-haven/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

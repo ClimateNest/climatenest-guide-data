@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 40
+      "scoreA": 57,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 44
+      "scoreA": 64,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 77
+      "scoreA": 75,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 51
+      "scoreA": 49,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
       "scoreA": 20,
-      "scoreB": 23
+      "scoreB": 18
     }
   ],
-  "verdict": "New Lambton Heights has a lower overall climate risk score (43/100) compared to New Mexico (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "New Mexico has a lower overall climate risk score (38/100) compared to New Lambton Heights (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is New Lambton Heights or New Mexico safer from flooding?",
-      "answer": "New Lambton Heights has a flood risk score of 42/100, while New Mexico scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "New Lambton Heights has a flood risk score of 57/100, while New Mexico scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "New Lambton Heights scores 44/100 for bushfire risk. New Mexico scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "New Lambton Heights scores 64/100 for bushfire risk. New Mexico scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in New Lambton Heights or New Mexico?",
-      "answer": "Both suburbs have climate considerations. New Lambton Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. New Mexico has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "New Mexico Should I Buy?",
       "url": "/suburbs/nsw/new-mexico/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4441,
+    "projected2030": 6218,
+    "projected2050": 11547
+  },
+  "valueImpact": {
+    "dragPercent": 2.65,
+    "description": "Properties in this area may face a 2.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 33
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 64
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 32
-    },
-    {
-      "name": "Storm",
-      "scoreA": 44,
+      "scoreA": 40,
       "scoreB": 47
     },
     {
+      "name": "Heat",
+      "scoreA": 44,
+      "scoreB": 42
+    },
+    {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 35
+    },
+    {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 54
+      "scoreA": 42,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 26
+      "scoreA": 7,
+      "scoreB": 15
     }
   ],
-  "verdict": "Gindoran has a lower overall climate risk score (39/100) compared to Girraween (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gindoran has a lower overall climate risk score (34/100) compared to Girraween (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gindoran or Girraween safer from flooding?",
-      "answer": "Gindoran has a flood risk score of 29/100, while Girraween scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gindoran has a flood risk score of 30/100, while Girraween scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gindoran scores 60/100 for bushfire risk. Girraween scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gindoran scores 40/100 for bushfire risk. Girraween scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gindoran or Girraween?",
@@ -76,5 +76,15 @@
       "label": "Girraween Should I Buy?",
       "url": "/suburbs/qld/girraween/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

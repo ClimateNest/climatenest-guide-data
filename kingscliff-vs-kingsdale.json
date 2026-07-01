@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 39
+      "scoreA": 55,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 18
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 68
+      "scoreA": 36,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 13
+      "scoreA": 33,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 29
     }
   ],
-  "verdict": "Kingsdale has a lower overall climate risk score (34/100) compared to Kingscliff (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kingsdale has a lower overall climate risk score (35/100) compared to Kingscliff (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kingscliff or Kingsdale safer from flooding?",
-      "answer": "Kingscliff has a flood risk score of 34/100, while Kingsdale scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kingscliff has a flood risk score of 55/100, while Kingsdale scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kingscliff scores 60/100 for bushfire risk. Kingsdale scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kingscliff scores 48/100 for bushfire risk. Kingsdale scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kingscliff or Kingsdale?",
@@ -76,5 +76,15 @@
       "label": "Kingsdale Should I Buy?",
       "url": "/suburbs/nsw/kingsdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

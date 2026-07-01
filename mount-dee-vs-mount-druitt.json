@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 36
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 50
-    },
-    {
-      "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 79
-    },
-    {
-      "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 24
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 45,
+      "scoreA": 54,
       "scoreB": 52
     },
     {
+      "name": "Bushfire",
+      "scoreA": 29,
+      "scoreB": 44
+    },
+    {
+      "name": "Heat",
+      "scoreA": 52,
+      "scoreB": 78
+    },
+    {
+      "name": "Storm",
+      "scoreA": 29,
+      "scoreB": 44
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 38,
+      "scoreB": 49
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 22,
+      "scoreB": 29
     }
   ],
-  "verdict": "Mount Dee has a lower overall climate risk score (42/100) compared to Mount Druitt (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Mount Dee has a lower overall climate risk score (37/100) compared to Mount Druitt (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Dee or Mount Druitt safer from flooding?",
-      "answer": "Mount Dee has a flood risk score of 35/100, while Mount Druitt scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Dee has a flood risk score of 54/100, while Mount Druitt scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Dee scores 27/100 for bushfire risk. Mount Druitt scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Dee scores 29/100 for bushfire risk. Mount Druitt scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Dee or Mount Druitt?",
@@ -76,5 +76,15 @@
       "label": "Mount Druitt Should I Buy?",
       "url": "/suburbs/nsw/mount-druitt/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4555,
+    "projected2030": 6377,
+    "projected2050": 11842
+  },
+  "valueImpact": {
+    "dragPercent": 2.9,
+    "description": "Properties in this area may face a 2.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

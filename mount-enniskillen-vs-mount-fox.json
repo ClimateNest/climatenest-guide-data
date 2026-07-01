@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
+      "scoreA": 27,
       "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 60
+      "scoreA": 42,
+      "scoreB": 55
     },
     {
       "name": "Heat",
       "scoreA": 37,
-      "scoreB": 47
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 37
+      "scoreA": 34,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 14,
       "scoreB": 19
     }
   ],
-  "verdict": "Mount Enniskillen has a lower overall climate risk score (34/100) compared to Mount Fox (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Enniskillen has a lower overall climate risk score (28/100) compared to Mount Fox (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Enniskillen or Mount Fox safer from flooding?",
-      "answer": "Mount Enniskillen has a flood risk score of 37/100, while Mount Fox scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Enniskillen has a flood risk score of 27/100, while Mount Fox scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Enniskillen scores 55/100 for bushfire risk. Mount Fox scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Enniskillen scores 42/100 for bushfire risk. Mount Fox scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Enniskillen or Mount Fox?",
@@ -76,5 +76,15 @@
       "label": "Mount Fox Should I Buy?",
       "url": "/suburbs/qld/mount-fox/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

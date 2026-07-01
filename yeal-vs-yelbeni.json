@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 53
+      "scoreA": 35,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 19,
+      "scoreB": 48
     },
     {
       "name": "Heat",
       "scoreA": 57,
-      "scoreB": 79
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 46
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 23
     }
   ],
-  "verdict": "Yeal has a lower overall climate risk score (28/100) compared to Yelbeni (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yeal has a lower overall climate risk score (35/100) compared to Yelbeni (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yeal or Yelbeni safer from flooding?",
-      "answer": "Yeal has a flood risk score of 29/100, while Yelbeni scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yeal has a flood risk score of 35/100, while Yelbeni scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yeal scores 28/100 for bushfire risk. Yelbeni scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yeal scores 19/100 for bushfire risk. Yelbeni scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yeal or Yelbeni?",
@@ -76,5 +76,15 @@
       "label": "Yelbeni Should I Buy?",
       "url": "/suburbs/wa/yelbeni/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

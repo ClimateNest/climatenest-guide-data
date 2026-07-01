@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 70
+      "scoreA": 69,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 32
+      "scoreA": 41,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 56
+      "scoreA": 51,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 28
     }
   ],
-  "verdict": "South Guyra has a lower overall climate risk score (38/100) compared to South Hurstville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "South Guyra has a lower overall climate risk score (42/100) compared to South Hurstville (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is South Guyra or South Hurstville safer from flooding?",
-      "answer": "South Guyra has a flood risk score of 48/100, while South Hurstville scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Guyra has a flood risk score of 30/100, while South Hurstville scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Guyra scores 19/100 for bushfire risk. South Hurstville scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Guyra scores 33/100 for bushfire risk. South Hurstville scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Guyra or South Hurstville?",
@@ -76,5 +76,15 @@
       "label": "South Hurstville Should I Buy?",
       "url": "/suburbs/nsw/south-hurstville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

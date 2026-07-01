@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 34
+      "scoreA": 23,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 31
+      "scoreA": 18,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 55
+      "scoreA": 53,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 47,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 41
+      "scoreA": 18,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 27
+      "scoreB": 11
     }
   ],
-  "verdict": "Blandford has a lower overall climate risk score (37/100) compared to Blakney Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Blakney Creek has a lower overall climate risk score (31/100) compared to Blandford (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Blakney Creek or Blandford safer from flooding?",
-      "answer": "Blakney Creek has a flood risk score of 31/100, while Blandford scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blakney Creek has a flood risk score of 23/100, while Blandford scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blakney Creek scores 65/100 for bushfire risk. Blandford scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blakney Creek scores 18/100 for bushfire risk. Blandford scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blakney Creek or Blandford?",
-      "answer": "Both suburbs have climate considerations. Blandford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Blakney Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Blandford Should I Buy?",
       "url": "/suburbs/nsw/blandford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4317,
+    "projected2030": 6043,
+    "projected2050": 11223
+  },
+  "valueImpact": {
+    "dragPercent": 2.38,
+    "description": "Properties in this area may face a 2.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 49
+      "scoreA": 38,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 63
+      "scoreA": 35,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 10
+      "scoreA": 12,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 9
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Whitfield has a lower overall climate risk score (25/100) compared to Whitsundays (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Whitfield has a lower overall climate risk score (27/100) compared to Whitsundays (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Whitfield or Whitsundays safer from flooding?",
-      "answer": "Whitfield has a flood risk score of 27/100, while Whitsundays scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whitfield has a flood risk score of 38/100, while Whitsundays scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whitfield scores 17/100 for bushfire risk. Whitsundays scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whitfield scores 35/100 for bushfire risk. Whitsundays scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whitfield or Whitsundays?",
@@ -76,5 +76,15 @@
       "label": "Whitsundays Should I Buy?",
       "url": "/suburbs/qld/whitsundays/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3251,
+    "projected2030": 4552,
+    "projected2050": 8453
+  },
+  "valueImpact": {
+    "dragPercent": 0.03,
+    "description": "Properties in this area may face a 0.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 21
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 24
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Heat",
       "scoreA": 69,
-      "scoreB": 66
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 12
     }
   ],
-  "verdict": "Greenhills has a lower overall climate risk score (33/100) compared to Greenbushes (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Greenhills has a lower overall climate risk score (31/100) compared to Greenbushes (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Greenbushes or Greenhills safer from flooding?",
-      "answer": "Greenbushes has a flood risk score of 59/100, while Greenhills scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greenbushes has a flood risk score of 37/100, while Greenhills scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greenbushes scores 49/100 for bushfire risk. Greenhills scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greenbushes scores 36/100 for bushfire risk. Greenhills scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greenbushes or Greenhills?",
@@ -76,5 +76,15 @@
       "label": "Greenhills Should I Buy?",
       "url": "/suburbs/wa/greenhills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

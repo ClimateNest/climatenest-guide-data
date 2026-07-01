@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 27
+      "scoreA": 31,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 35
+      "scoreA": 44,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 58,
+      "scoreA": 60,
       "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 47
+      "scoreA": 24,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 14,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 30,
+      "scoreB": 20
     }
   ],
-  "verdict": "Frankton has a lower overall climate risk score (36/100) compared to Franklyn (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Franklyn has a lower overall climate risk score (34/100) compared to Frankton (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Franklyn or Frankton safer from flooding?",
-      "answer": "Franklyn has a flood risk score of 48/100, while Frankton scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Franklyn has a flood risk score of 31/100, while Frankton scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Franklyn scores 63/100 for bushfire risk. Frankton scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Franklyn scores 44/100 for bushfire risk. Frankton scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Franklyn or Frankton?",
-      "answer": "Both suburbs have climate considerations. Frankton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Franklyn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Frankton Should I Buy?",
       "url": "/suburbs/sa/frankton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

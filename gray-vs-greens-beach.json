@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 57
+      "scoreA": 25,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 42
+      "scoreA": 22,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 60
+      "scoreA": 67,
+      "scoreB": 53
     },
     {
       "name": "Storm",
       "scoreA": 32,
-      "scoreB": 45
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 27
     }
   ],
-  "verdict": "Gray has a lower overall climate risk score (35/100) compared to Greens Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Greens Beach has a lower overall climate risk score (31/100) compared to Gray (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gray or Greens Beach safer from flooding?",
-      "answer": "Gray has a flood risk score of 41/100, while Greens Beach scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gray has a flood risk score of 25/100, while Greens Beach scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gray scores 27/100 for bushfire risk. Greens Beach scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gray scores 22/100 for bushfire risk. Greens Beach scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gray or Greens Beach?",
-      "answer": "Both suburbs have climate considerations. Gray has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Greens Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Greens Beach Should I Buy?",
       "url": "/suburbs/tas/greens-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

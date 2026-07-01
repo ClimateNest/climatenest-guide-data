@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 34,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 54
     },
     {
       "name": "Heat",
       "scoreA": 42,
-      "scoreB": 43
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 36
+      "scoreA": 46,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 31
+      "scoreA": 28,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Southern Cross has a lower overall climate risk score (28/100) compared to Southern Moreton Bay Islands (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Southern Cross has a lower overall climate risk score (34/100) compared to Southern Moreton Bay Islands (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Southern Cross or Southern Moreton Bay Islands safer from flooding?",
-      "answer": "Southern Cross has a flood risk score of 27/100, while Southern Moreton Bay Islands scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Southern Cross has a flood risk score of 34/100, while Southern Moreton Bay Islands scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Southern Cross scores 54/100 for bushfire risk. Southern Moreton Bay Islands scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Southern Cross scores 40/100 for bushfire risk. Southern Moreton Bay Islands scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Southern Cross or Southern Moreton Bay Islands?",
@@ -76,5 +76,15 @@
       "label": "Southern Moreton Bay Islands Should I Buy?",
       "url": "/suburbs/qld/southern-moreton-bay-islands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

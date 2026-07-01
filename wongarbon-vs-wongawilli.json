@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 59
+      "scoreA": 46,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 61
+      "scoreA": 16,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 59
+      "scoreA": 80,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 41
+      "scoreA": 21,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 11,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 17,
+      "scoreB": 11
     }
   ],
-  "verdict": "Wongarbon has a lower overall climate risk score (44/100) compared to Wongawilli (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Wongarbon has a lower overall climate risk score (32/100) compared to Wongawilli (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wongarbon or Wongawilli safer from flooding?",
-      "answer": "Wongarbon has a flood risk score of 47/100, while Wongawilli scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wongarbon has a flood risk score of 46/100, while Wongawilli scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wongarbon scores 40/100 for bushfire risk. Wongawilli scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wongarbon scores 16/100 for bushfire risk. Wongawilli scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wongarbon or Wongawilli?",
@@ -76,5 +76,15 @@
       "label": "Wongawilli Should I Buy?",
       "url": "/suburbs/nsw/wongawilli/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

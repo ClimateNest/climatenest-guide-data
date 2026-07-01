@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 49
+      "scoreA": 53,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 65
+      "scoreA": 16,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 49
+      "scoreA": 30,
+      "scoreB": 37
     },
     {
       "name": "Storm",
       "scoreA": 27,
-      "scoreB": 26
+      "scoreB": 47
     },
     {
       "name": "Coastal",
       "scoreA": 30,
-      "scoreB": 29
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 17
+      "scoreA": 11,
+      "scoreB": 15
     }
   ],
-  "verdict": "Bellenden Ker has a lower overall climate risk score (38/100) compared to Bellfield (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bellenden Ker has a lower overall climate risk score (28/100) compared to Bellfield (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bellenden Ker or Bellfield safer from flooding?",
-      "answer": "Bellenden Ker has a flood risk score of 50/100, while Bellfield scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellenden Ker has a flood risk score of 53/100, while Bellfield scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellenden Ker scores 63/100 for bushfire risk. Bellfield scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellenden Ker scores 16/100 for bushfire risk. Bellfield scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellenden Ker or Bellfield?",
@@ -76,5 +76,15 @@
       "label": "Bellfield Should I Buy?",
       "url": "/suburbs/qld/bellfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

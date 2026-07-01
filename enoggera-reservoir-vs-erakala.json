@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 35
+      "scoreA": 43,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 16
+      "scoreA": 34,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 49,
+      "scoreA": 31,
       "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 21,
+      "scoreA": 36,
       "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 27
+      "scoreA": 54,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
+      "scoreA": 12,
       "scoreB": 5
     }
   ],
-  "verdict": "Erakala has a lower overall climate risk score (26/100) compared to Enoggera Reservoir (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Erakala has a lower overall climate risk score (29/100) compared to Enoggera Reservoir (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Enoggera Reservoir or Erakala safer from flooding?",
-      "answer": "Enoggera Reservoir has a flood risk score of 26/100, while Erakala scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Enoggera Reservoir has a flood risk score of 43/100, while Erakala scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Enoggera Reservoir scores 47/100 for bushfire risk. Erakala scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Enoggera Reservoir scores 34/100 for bushfire risk. Erakala scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Enoggera Reservoir or Erakala?",
@@ -76,5 +76,15 @@
       "label": "Erakala Should I Buy?",
       "url": "/suburbs/qld/erakala/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

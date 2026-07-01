@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 37
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 18,
+      "scoreA": 43,
       "scoreB": 49
     },
     {
+      "name": "Bushfire",
+      "scoreA": 16,
+      "scoreB": 25
+    },
+    {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 53
+      "scoreA": 65,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 41,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 12
     }
   ],
-  "verdict": "Tawonga has a lower overall climate risk score (33/100) compared to Taylor Bay (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Taylor Bay has a lower overall climate risk score (35/100) compared to Tawonga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tawonga or Taylor Bay safer from flooding?",
-      "answer": "Tawonga has a flood risk score of 53/100, while Taylor Bay scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tawonga has a flood risk score of 43/100, while Taylor Bay scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tawonga scores 18/100 for bushfire risk. Taylor Bay scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tawonga scores 16/100 for bushfire risk. Taylor Bay scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tawonga or Taylor Bay?",
-      "answer": "Both suburbs have climate considerations. Tawonga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Taylor Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Taylor Bay Should I Buy?",
       "url": "/suburbs/vic/taylor-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

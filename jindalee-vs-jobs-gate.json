@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 34
+      "scoreA": 31,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 31
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 11
+      "scoreA": 53,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 30
+      "scoreA": 23,
+      "scoreB": 28
     }
   ],
-  "verdict": "Jobs Gate has a lower overall climate risk score (27/100) compared to Jindalee (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jobs Gate has a lower overall climate risk score (34/100) compared to Jindalee (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jindalee or Jobs Gate safer from flooding?",
-      "answer": "Jindalee has a flood risk score of 32/100, while Jobs Gate scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jindalee has a flood risk score of 30/100, while Jobs Gate scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jindalee scores 61/100 for bushfire risk. Jobs Gate scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jindalee scores 31/100 for bushfire risk. Jobs Gate scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jindalee or Jobs Gate?",
@@ -76,5 +76,15 @@
       "label": "Jobs Gate Should I Buy?",
       "url": "/suburbs/qld/jobs-gate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

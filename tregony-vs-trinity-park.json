@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 54
+      "scoreA": 29,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
+      "scoreA": 35,
       "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 34
+      "scoreA": 45,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 13
+      "scoreA": 44,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 7
+      "scoreA": 26,
+      "scoreB": 20
     }
   ],
-  "verdict": "Trinity Park has a lower overall climate risk score (25/100) compared to Tregony (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Trinity Park has a lower overall climate risk score (28/100) compared to Tregony (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tregony or Trinity Park safer from flooding?",
-      "answer": "Tregony has a flood risk score of 34/100, while Trinity Park scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tregony has a flood risk score of 29/100, while Trinity Park scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tregony scores 61/100 for bushfire risk. Trinity Park scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tregony scores 35/100 for bushfire risk. Trinity Park scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tregony or Trinity Park?",
@@ -76,5 +76,15 @@
       "label": "Trinity Park Should I Buy?",
       "url": "/suburbs/qld/trinity-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

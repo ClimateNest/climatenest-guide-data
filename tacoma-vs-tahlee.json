@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 31
+      "scoreA": 36,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 34
+      "scoreA": 23,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 62
+      "scoreA": 67,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 40
+      "scoreA": 38,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 31
+      "scoreA": 32,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 10
+      "scoreA": 12,
+      "scoreB": 19
     }
   ],
-  "verdict": "Tahlee has a lower overall climate risk score (35/100) compared to Tacoma (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Tacoma has a lower overall climate risk score (35/100) compared to Tahlee (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tacoma or Tahlee safer from flooding?",
-      "answer": "Tacoma has a flood risk score of 54/100, while Tahlee scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tacoma has a flood risk score of 36/100, while Tahlee scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tacoma scores 31/100 for bushfire risk. Tahlee scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tacoma scores 23/100 for bushfire risk. Tahlee scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tacoma or Tahlee?",
-      "answer": "Both suburbs have climate considerations. Tahlee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tacoma has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tahlee Should I Buy?",
       "url": "/suburbs/nsw/tahlee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

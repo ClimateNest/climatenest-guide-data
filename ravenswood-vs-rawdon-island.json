@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 22,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 35
+      "scoreA": 23,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 73
+      "scoreA": 51,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 36
+      "scoreA": 28,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 44
+      "scoreA": 24,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Ravenswood has a lower overall climate risk score (36/100) compared to Rawdon Island (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ravenswood has a lower overall climate risk score (28/100) compared to Rawdon Island (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ravenswood or Rawdon Island safer from flooding?",
-      "answer": "Ravenswood has a flood risk score of 34/100, while Rawdon Island scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ravenswood has a flood risk score of 22/100, while Rawdon Island scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ravenswood scores 50/100 for bushfire risk. Rawdon Island scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ravenswood scores 23/100 for bushfire risk. Rawdon Island scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ravenswood or Rawdon Island?",
@@ -76,5 +76,15 @@
       "label": "Rawdon Island Should I Buy?",
       "url": "/suburbs/nsw/rawdon-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

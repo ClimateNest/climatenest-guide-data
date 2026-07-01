@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 40,
-      "scoreB": 50
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 78
+      "scoreA": 78,
+      "scoreB": 65
     },
     {
       "name": "Storm",
       "scoreA": 47,
-      "scoreB": 33
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 23
     }
   ],
-  "verdict": "Reekara has a lower overall climate risk score (41/100) compared to Redpa (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Reekara has a lower overall climate risk score (36/100) compared to Redpa (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Redpa or Reekara safer from flooding?",
-      "answer": "Redpa has a flood risk score of 40/100, while Reekara scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Redpa has a flood risk score of 40/100, while Reekara scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Redpa scores 36/100 for bushfire risk. Reekara scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Redpa scores 21/100 for bushfire risk. Reekara scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Redpa or Reekara?",
@@ -76,5 +76,15 @@
       "label": "Reekara Should I Buy?",
       "url": "/suburbs/tas/reekara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

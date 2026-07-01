@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 54
+      "scoreA": 41,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 33
+      "scoreA": 50,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 61
+      "scoreA": 66,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 31
+      "scoreA": 35,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 16,
+      "scoreB": 27
     }
   ],
-  "verdict": "Waranga Shores has a lower overall climate risk score (30/100) compared to Waratah Bay (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Waranga Shores has a lower overall climate risk score (37/100) compared to Waratah Bay (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Waranga Shores or Waratah Bay safer from flooding?",
-      "answer": "Waranga Shores has a flood risk score of 20/100, while Waratah Bay scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waranga Shores has a flood risk score of 41/100, while Waratah Bay scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waranga Shores scores 37/100 for bushfire risk. Waratah Bay scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waranga Shores scores 50/100 for bushfire risk. Waratah Bay scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waranga Shores or Waratah Bay?",
@@ -76,5 +76,15 @@
       "label": "Waratah Bay Should I Buy?",
       "url": "/suburbs/vic/waratah-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

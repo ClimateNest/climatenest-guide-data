@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 30,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 30
+      "scoreA": 40,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 69
+      "scoreA": 57,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 18
+      "scoreA": 28,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 10
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Holder has a lower overall climate risk score (30/100) compared to Hawker (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hawker has a lower overall climate risk score (32/100) compared to Holder (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hawker or Holder safer from flooding?",
-      "answer": "Hawker has a flood risk score of 33/100, while Holder scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hawker has a flood risk score of 30/100, while Holder scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hawker scores 44/100 for bushfire risk. Holder scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hawker scores 40/100 for bushfire risk. Holder scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hawker or Holder?",
-      "answer": "Both suburbs have climate considerations. Holder has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hawker has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Holder Should I Buy?",
       "url": "/suburbs/act/holder/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

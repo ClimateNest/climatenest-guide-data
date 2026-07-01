@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 40
+      "scoreA": 20,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 37
+      "scoreA": 28,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 40
+      "scoreA": 36,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 34
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 23,
+      "scoreA": 25,
       "scoreB": 32
     },
     {
+      "name": "Coastal",
+      "scoreA": 16,
+      "scoreB": 31
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 7,
+      "scoreB": 20
     }
   ],
-  "verdict": "Orient has a lower overall climate risk score (27/100) compared to Ormeau (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Orient has a lower overall climate risk score (22/100) compared to Ormeau (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Orient or Ormeau safer from flooding?",
-      "answer": "Orient has a flood risk score of 32/100, while Ormeau scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Orient has a flood risk score of 20/100, while Ormeau scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Orient scores 26/100 for bushfire risk. Ormeau scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Orient scores 28/100 for bushfire risk. Ormeau scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Orient or Ormeau?",
@@ -76,5 +76,15 @@
       "label": "Ormeau Should I Buy?",
       "url": "/suburbs/qld/ormeau/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3240,
+    "projected2030": 4536,
+    "projected2050": 8424
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

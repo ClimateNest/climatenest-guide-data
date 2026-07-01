@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 46,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 56
+      "scoreA": 68,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 38
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 36
+      "scoreA": 20,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 30
     }
   ],
-  "verdict": "Warrah has a lower overall climate risk score (36/100) compared to Warragoon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warrah has a lower overall climate risk score (36/100) compared to Warragoon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warragoon or Warrah safer from flooding?",
-      "answer": "Warragoon has a flood risk score of 31/100, while Warrah scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warragoon has a flood risk score of 48/100, while Warrah scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warragoon scores 24/100 for bushfire risk. Warrah scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warragoon scores 46/100 for bushfire risk. Warrah scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warragoon or Warrah?",
@@ -76,5 +76,15 @@
       "label": "Warrah Should I Buy?",
       "url": "/suburbs/nsw/warrah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

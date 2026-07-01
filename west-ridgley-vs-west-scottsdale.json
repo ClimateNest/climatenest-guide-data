@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
+      "scoreA": 37,
       "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 40
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 75
+      "scoreA": 65,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 48
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 15
     }
   ],
-  "verdict": "West Scottsdale has a lower overall climate risk score (45/100) compared to West Ridgley (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "West Scottsdale has a lower overall climate risk score (33/100) compared to West Ridgley (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is West Ridgley or West Scottsdale safer from flooding?",
-      "answer": "West Ridgley has a flood risk score of 60/100, while West Scottsdale scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Ridgley has a flood risk score of 37/100, while West Scottsdale scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Ridgley scores 61/100 for bushfire risk. West Scottsdale scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Ridgley scores 22/100 for bushfire risk. West Scottsdale scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Ridgley or West Scottsdale?",
@@ -76,5 +76,15 @@
       "label": "West Scottsdale Should I Buy?",
       "url": "/suburbs/tas/west-scottsdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

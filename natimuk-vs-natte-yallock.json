@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 48
+      "scoreA": 45,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
       "scoreA": 36,
-      "scoreB": 56
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 72
+      "scoreA": 62,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 49,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 30
     }
   ],
-  "verdict": "Natimuk has a lower overall climate risk score (32/100) compared to Natte Yallock (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Natimuk has a lower overall climate risk score (38/100) compared to Natte Yallock (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Natimuk or Natte Yallock safer from flooding?",
-      "answer": "Natimuk has a flood risk score of 23/100, while Natte Yallock scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Natimuk has a flood risk score of 45/100, while Natte Yallock scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Natimuk scores 36/100 for bushfire risk. Natte Yallock scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Natimuk scores 36/100 for bushfire risk. Natte Yallock scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Natimuk or Natte Yallock?",
@@ -76,5 +76,15 @@
       "label": "Natte Yallock Should I Buy?",
       "url": "/suburbs/vic/natte-yallock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

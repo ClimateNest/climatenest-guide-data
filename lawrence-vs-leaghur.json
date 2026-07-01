@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 58
+      "scoreA": 32,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 37
+      "scoreA": 16,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 74
+      "scoreA": 65,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 45
+      "scoreA": 25,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 11,
+      "scoreB": 24
     }
   ],
-  "verdict": "Lawrence has a lower overall climate risk score (39/100) compared to Leaghur (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lawrence has a lower overall climate risk score (27/100) compared to Leaghur (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lawrence or Leaghur safer from flooding?",
-      "answer": "Lawrence has a flood risk score of 56/100, while Leaghur scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lawrence has a flood risk score of 32/100, while Leaghur scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lawrence scores 33/100 for bushfire risk. Leaghur scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lawrence scores 16/100 for bushfire risk. Leaghur scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lawrence or Leaghur?",
@@ -76,5 +76,15 @@
       "label": "Leaghur Should I Buy?",
       "url": "/suburbs/vic/leaghur/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

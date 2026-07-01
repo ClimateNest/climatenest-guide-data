@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 52
+      "scoreA": 33,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 48
+      "scoreA": 18,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 67
+      "scoreA": 69,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 44
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 26,
+      "scoreA": 42,
       "scoreB": 24
     },
     {
+      "name": "Coastal",
+      "scoreA": 30,
+      "scoreB": 26
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 29
     }
   ],
-  "verdict": "Ranelagh has a lower overall climate risk score (38/100) compared to Ranga (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ranelagh and Ranga have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ranelagh or Ranga safer from flooding?",
-      "answer": "Ranelagh has a flood risk score of 53/100, while Ranga scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ranelagh has a flood risk score of 33/100, while Ranga scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ranelagh scores 33/100 for bushfire risk. Ranga scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ranelagh scores 18/100 for bushfire risk. Ranga scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ranelagh or Ranga?",
@@ -76,5 +76,15 @@
       "label": "Ranga Should I Buy?",
       "url": "/suburbs/tas/ranga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

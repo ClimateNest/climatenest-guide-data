@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 56
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 58
+      "scoreA": 38,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 71
+      "scoreA": 53,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 14
     }
   ],
-  "verdict": "Loddon Vale has a lower overall climate risk score (32/100) compared to Logan (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Loddon Vale has a lower overall climate risk score (30/100) compared to Logan (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Loddon Vale or Logan safer from flooding?",
-      "answer": "Loddon Vale has a flood risk score of 47/100, while Logan scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Loddon Vale has a flood risk score of 29/100, while Logan scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Loddon Vale scores 31/100 for bushfire risk. Logan scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Loddon Vale scores 38/100 for bushfire risk. Logan scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Loddon Vale or Logan?",
@@ -76,5 +76,15 @@
       "label": "Logan Should I Buy?",
       "url": "/suburbs/vic/logan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

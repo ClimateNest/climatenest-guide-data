@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 33
+      "scoreA": 45,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 20
+      "scoreA": 53,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 49
+      "scoreA": 25,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 19,
+      "scoreB": 28
     }
   ],
-  "verdict": "Warnoah has a lower overall climate risk score (27/100) compared to Warra (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warnoah has a lower overall climate risk score (36/100) compared to Warra (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Warnoah or Warra safer from flooding?",
-      "answer": "Warnoah has a flood risk score of 24/100, while Warra scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warnoah has a flood risk score of 45/100, while Warra scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warnoah scores 33/100 for bushfire risk. Warra scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warnoah scores 53/100 for bushfire risk. Warra scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warnoah or Warra?",
@@ -76,5 +76,15 @@
       "label": "Warra Should I Buy?",
       "url": "/suburbs/qld/warra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

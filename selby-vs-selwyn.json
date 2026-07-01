@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 51
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 51
-    },
-    {
-      "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 61
-    },
-    {
-      "name": "Storm",
-      "scoreA": 28,
+      "scoreA": 36,
       "scoreB": 45
     },
     {
+      "name": "Bushfire",
+      "scoreA": 46,
+      "scoreB": 25
+    },
+    {
+      "name": "Heat",
+      "scoreA": 79,
+      "scoreB": 59
+    },
+    {
+      "name": "Storm",
+      "scoreA": 31,
+      "scoreB": 23
+    },
+    {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 16
+      "scoreA": 27,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 10
     }
   ],
-  "verdict": "Selby has a lower overall climate risk score (39/100) compared to Selwyn (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Selwyn has a lower overall climate risk score (32/100) compared to Selby (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Selby or Selwyn safer from flooding?",
-      "answer": "Selby has a flood risk score of 45/100, while Selwyn scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Selby has a flood risk score of 36/100, while Selwyn scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Selby scores 55/100 for bushfire risk. Selwyn scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Selby scores 46/100 for bushfire risk. Selwyn scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Selby or Selwyn?",
-      "answer": "Both suburbs have climate considerations. Selby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Selwyn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Selwyn Should I Buy?",
       "url": "/suburbs/vic/selwyn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

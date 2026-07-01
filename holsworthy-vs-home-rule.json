@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
+      "scoreA": 21,
       "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 23
+      "scoreA": 57,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 59
+      "scoreA": 79,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
       "scoreA": 45,
-      "scoreB": 15
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 16,
+      "scoreB": 28
     }
   ],
-  "verdict": "Home Rule has a lower overall climate risk score (35/100) compared to Holsworthy (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Home Rule has a lower overall climate risk score (36/100) compared to Holsworthy (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Holsworthy or Home Rule safer from flooding?",
-      "answer": "Holsworthy has a flood risk score of 27/100, while Home Rule scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Holsworthy has a flood risk score of 21/100, while Home Rule scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Holsworthy scores 31/100 for bushfire risk. Home Rule scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Holsworthy scores 57/100 for bushfire risk. Home Rule scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Holsworthy or Home Rule?",
@@ -76,5 +76,15 @@
       "label": "Home Rule Should I Buy?",
       "url": "/suburbs/nsw/home-rule/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

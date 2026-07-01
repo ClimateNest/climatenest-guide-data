@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 53
+      "scoreA": 53,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 32,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 70
+      "scoreA": 64,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
+      "scoreA": 42,
       "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Swanhaven has a lower overall climate risk score (41/100) compared to Swans Crossing (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Swans Crossing has a lower overall climate risk score (38/100) compared to Swanhaven (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Swanhaven or Swans Crossing safer from flooding?",
-      "answer": "Swanhaven has a flood risk score of 33/100, while Swans Crossing scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Swanhaven has a flood risk score of 53/100, while Swans Crossing scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Swanhaven scores 34/100 for bushfire risk. Swans Crossing scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Swanhaven scores 32/100 for bushfire risk. Swans Crossing scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Swanhaven or Swans Crossing?",
-      "answer": "Both suburbs have climate considerations. Swanhaven has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Swans Crossing has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Swans Crossing Should I Buy?",
       "url": "/suburbs/nsw/swans-crossing/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

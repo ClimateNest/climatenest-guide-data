@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 22
+      "scoreA": 45,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 15
+      "scoreA": 34,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 58
+      "scoreA": 75,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 29
+      "scoreA": 30,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 12
+      "scoreA": 25,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 11
     }
   ],
-  "verdict": "Romsey has a lower overall climate risk score (27/100) compared to Rokewood Junction (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Romsey has a lower overall climate risk score (32/100) compared to Rokewood Junction (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rokewood Junction or Romsey safer from flooding?",
-      "answer": "Rokewood Junction has a flood risk score of 44/100, while Romsey scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rokewood Junction has a flood risk score of 45/100, while Romsey scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rokewood Junction scores 54/100 for bushfire risk. Romsey scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rokewood Junction scores 34/100 for bushfire risk. Romsey scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rokewood Junction or Romsey?",
@@ -76,5 +76,15 @@
       "label": "Romsey Should I Buy?",
       "url": "/suburbs/vic/romsey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

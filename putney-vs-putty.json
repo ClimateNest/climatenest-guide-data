@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 31,
-      "scoreB": 55
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 73
+      "scoreA": 69,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 31
+      "scoreA": 37,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 42,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 29
     }
   ],
-  "verdict": "Putney has a lower overall climate risk score (40/100) compared to Putty (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Putney has a lower overall climate risk score (38/100) compared to Putty (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Putney or Putty safer from flooding?",
-      "answer": "Putney has a flood risk score of 31/100, while Putty scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Putney has a flood risk score of 31/100, while Putty scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Putney scores 57/100 for bushfire risk. Putty scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Putney scores 22/100 for bushfire risk. Putty scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Putney or Putty?",
@@ -76,5 +76,15 @@
       "label": "Putty Should I Buy?",
       "url": "/suburbs/nsw/putty/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

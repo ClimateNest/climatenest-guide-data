@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 21
+      "scoreA": 33,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 34
+      "scoreA": 31,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 50
+      "scoreA": 64,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 25,
       "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 60
+      "scoreA": 25,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 29,
+      "scoreB": 12
     }
   ],
-  "verdict": "Glanmire has a lower overall climate risk score (36/100) compared to Glebe (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glanmire has a lower overall climate risk score (35/100) compared to Glebe (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Glanmire or Glebe safer from flooding?",
-      "answer": "Glanmire has a flood risk score of 54/100, while Glebe scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glanmire has a flood risk score of 33/100, while Glebe scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glanmire scores 29/100 for bushfire risk. Glebe scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glanmire scores 31/100 for bushfire risk. Glebe scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glanmire or Glebe?",
@@ -76,5 +76,15 @@
       "label": "Glebe Should I Buy?",
       "url": "/suburbs/nsw/glebe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

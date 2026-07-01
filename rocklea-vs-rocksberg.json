@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 48
+      "scoreA": 37,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 51
+      "scoreA": 52,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 32
+      "scoreA": 49,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 43
+      "scoreA": 41,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 57,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 16,
+      "scoreB": 13
     }
   ],
-  "verdict": "Rocklea and Rocksberg have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Rocksberg has a lower overall climate risk score (32/100) compared to Rocklea (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rocklea or Rocksberg safer from flooding?",
-      "answer": "Rocklea has a flood risk score of 53/100, while Rocksberg scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rocklea has a flood risk score of 37/100, while Rocksberg scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rocklea scores 42/100 for bushfire risk. Rocksberg scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rocklea scores 52/100 for bushfire risk. Rocksberg scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rocklea or Rocksberg?",
-      "answer": "Both suburbs have climate considerations. Rocklea has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rocksberg has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rocksberg Should I Buy?",
       "url": "/suburbs/qld/rocksberg/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

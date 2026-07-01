@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 45,
-      "scoreB": 25
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 44
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 31
+      "scoreA": 16,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Highgate Hill has a lower overall climate risk score (32/100) compared to Highbury (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Highbury has a lower overall climate risk score (30/100) compared to Highgate Hill (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Highbury or Highgate Hill safer from flooding?",
-      "answer": "Highbury has a flood risk score of 45/100, while Highgate Hill scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Highbury has a flood risk score of 45/100, while Highgate Hill scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Highbury scores 42/100 for bushfire risk. Highgate Hill scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Highbury scores 35/100 for bushfire risk. Highgate Hill scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Highbury or Highgate Hill?",
-      "answer": "Both suburbs have climate considerations. Highgate Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Highbury has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Highgate Hill Should I Buy?",
       "url": "/suburbs/qld/highgate-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

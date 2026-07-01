@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 55
+      "scoreA": 39,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 56
+      "scoreA": 61,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 15
+      "scoreA": 13,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 19
     }
   ],
-  "verdict": "Windy Harbour has a lower overall climate risk score (34/100) compared to Winthrop (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Windy Harbour has a lower overall climate risk score (30/100) compared to Winthrop (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Windy Harbour or Winthrop safer from flooding?",
-      "answer": "Windy Harbour has a flood risk score of 28/100, while Winthrop scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Windy Harbour has a flood risk score of 39/100, while Winthrop scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Windy Harbour scores 40/100 for bushfire risk. Winthrop scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Windy Harbour scores 22/100 for bushfire risk. Winthrop scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Windy Harbour or Winthrop?",
@@ -76,5 +76,15 @@
       "label": "Winthrop Should I Buy?",
       "url": "/suburbs/wa/winthrop/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

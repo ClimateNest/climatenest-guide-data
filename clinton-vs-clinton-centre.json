@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 50
+      "scoreA": 40,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 51
+      "scoreA": 62,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 53
+      "scoreA": 73,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 33
+      "scoreA": 27,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 22,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 21
     }
   ],
-  "verdict": "Clinton Centre has a lower overall climate risk score (36/100) compared to Clinton (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Clinton Centre has a lower overall climate risk score (30/100) compared to Clinton (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Clinton or Clinton Centre safer from flooding?",
-      "answer": "Clinton has a flood risk score of 51/100, while Clinton Centre scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clinton has a flood risk score of 40/100, while Clinton Centre scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clinton scores 52/100 for bushfire risk. Clinton Centre scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clinton scores 62/100 for bushfire risk. Clinton Centre scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clinton or Clinton Centre?",
@@ -76,5 +76,15 @@
       "label": "Clinton Centre Should I Buy?",
       "url": "/suburbs/sa/clinton-centre/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

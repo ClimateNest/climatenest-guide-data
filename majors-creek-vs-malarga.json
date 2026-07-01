@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 18
+      "scoreA": 40,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 35
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 59
+      "scoreA": 15,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 29
     }
   ],
-  "verdict": "Majors Creek has a lower overall climate risk score (33/100) compared to Malarga (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Majors Creek has a lower overall climate risk score (31/100) compared to Malarga (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Majors Creek or Malarga safer from flooding?",
-      "answer": "Majors Creek has a flood risk score of 30/100, while Malarga scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Majors Creek has a flood risk score of 31/100, while Malarga scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Majors Creek scores 57/100 for bushfire risk. Malarga scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Majors Creek scores 40/100 for bushfire risk. Malarga scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Majors Creek or Malarga?",
@@ -76,5 +76,15 @@
       "label": "Malarga Should I Buy?",
       "url": "/suburbs/qld/malarga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

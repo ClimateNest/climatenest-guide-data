@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 41
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 60
-    },
-    {
-      "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 40,
       "scoreB": 25
     },
     {
+      "name": "Heat",
+      "scoreA": 63,
+      "scoreB": 61
+    },
+    {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 37
+    },
+    {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 19
     }
   ],
-  "verdict": "North Beach has a lower overall climate risk score (34/100) compared to North Boyanup (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "North Boyanup has a lower overall climate risk score (32/100) compared to North Beach (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Beach or North Boyanup safer from flooding?",
-      "answer": "North Beach has a flood risk score of 48/100, while North Boyanup scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Beach has a flood risk score of 40/100, while North Boyanup scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Beach scores 50/100 for bushfire risk. North Boyanup scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Beach scores 40/100 for bushfire risk. North Boyanup scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Beach or North Boyanup?",
-      "answer": "Both suburbs have climate considerations. North Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. North Boyanup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "North Boyanup Should I Buy?",
       "url": "/suburbs/wa/north-boyanup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

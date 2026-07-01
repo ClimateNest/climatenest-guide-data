@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 34
+      "scoreA": 37,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 51
+      "scoreA": 55,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 33
+      "scoreA": 59,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 23
+      "scoreA": 36,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
+      "scoreA": 13,
       "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 7
+      "scoreA": 17,
+      "scoreB": 8
     }
   ],
-  "verdict": "Tom Price has a lower overall climate risk score (30/100) compared to Tincurrin (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tom Price has a lower overall climate risk score (33/100) compared to Tincurrin (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tincurrin or Tom Price safer from flooding?",
-      "answer": "Tincurrin has a flood risk score of 36/100, while Tom Price scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tincurrin has a flood risk score of 37/100, while Tom Price scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tincurrin scores 53/100 for bushfire risk. Tom Price scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tincurrin scores 55/100 for bushfire risk. Tom Price scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tincurrin or Tom Price?",
@@ -76,5 +76,15 @@
       "label": "Tom Price Should I Buy?",
       "url": "/suburbs/wa/tom-price/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

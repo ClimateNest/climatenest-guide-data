@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 50
+      "scoreA": 43,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 20
+      "scoreA": 30,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 62
+      "scoreA": 75,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 31
+      "scoreA": 40,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 55
+      "scoreA": 43,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 25
+      "scoreB": 10
     }
   ],
-  "verdict": "Lansdowne Forest has a lower overall climate risk score (40/100) compared to Lansvale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Lansdowne Forest has a lower overall climate risk score (43/100) compared to Lansvale (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Lansdowne Forest or Lansvale safer from flooding?",
-      "answer": "Lansdowne Forest has a flood risk score of 21/100, while Lansvale scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lansdowne Forest has a flood risk score of 43/100, while Lansvale scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lansdowne Forest scores 29/100 for bushfire risk. Lansvale scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lansdowne Forest scores 30/100 for bushfire risk. Lansvale scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lansdowne Forest or Lansvale?",
@@ -76,5 +76,15 @@
       "label": "Lansvale Should I Buy?",
       "url": "/suburbs/nsw/lansvale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

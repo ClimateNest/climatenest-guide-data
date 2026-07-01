@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 26,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 56
+      "scoreA": 32,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 50
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 40
+      "scoreA": 50,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 40
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Tennyson has a lower overall climate risk score (40/100) compared to Teviotville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tennyson has a lower overall climate risk score (32/100) compared to Teviotville (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tennyson or Teviotville safer from flooding?",
-      "answer": "Tennyson has a flood risk score of 38/100, while Teviotville scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tennyson has a flood risk score of 26/100, while Teviotville scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tennyson scores 49/100 for bushfire risk. Teviotville scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tennyson scores 32/100 for bushfire risk. Teviotville scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tennyson or Teviotville?",
@@ -76,5 +76,15 @@
       "label": "Teviotville Should I Buy?",
       "url": "/suburbs/qld/teviotville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

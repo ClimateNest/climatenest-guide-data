@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 55
+      "scoreA": 58,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 70
+      "scoreA": 33,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 37
+      "scoreA": 29,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 12
+      "scoreA": 53,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 23
     }
   ],
-  "verdict": "Pullabooka has a lower overall climate risk score (38/100) compared to Pulganbar (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pullabooka has a lower overall climate risk score (30/100) compared to Pulganbar (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pulganbar or Pullabooka safer from flooding?",
-      "answer": "Pulganbar has a flood risk score of 32/100, while Pullabooka scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pulganbar has a flood risk score of 58/100, while Pullabooka scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pulganbar scores 63/100 for bushfire risk. Pullabooka scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pulganbar scores 28/100 for bushfire risk. Pullabooka scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pulganbar or Pullabooka?",
@@ -76,5 +76,15 @@
       "label": "Pullabooka Should I Buy?",
       "url": "/suburbs/nsw/pullabooka/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

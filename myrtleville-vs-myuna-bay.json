@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 39
+      "scoreA": 59,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 29
+      "scoreA": 41,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 69
+      "scoreA": 77,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 41
+      "scoreA": 44,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 35
+      "scoreA": 11,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 28
     }
   ],
-  "verdict": "Myrtleville has a lower overall climate risk score (35/100) compared to Myuna Bay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Myrtleville has a lower overall climate risk score (42/100) compared to Myuna Bay (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Myrtleville or Myuna Bay safer from flooding?",
-      "answer": "Myrtleville has a flood risk score of 29/100, while Myuna Bay scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Myrtleville has a flood risk score of 59/100, while Myuna Bay scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Myrtleville scores 44/100 for bushfire risk. Myuna Bay scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Myrtleville scores 41/100 for bushfire risk. Myuna Bay scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Myrtleville or Myuna Bay?",
@@ -76,5 +76,15 @@
       "label": "Myuna Bay Should I Buy?",
       "url": "/suburbs/nsw/myuna-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

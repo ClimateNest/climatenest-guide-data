@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 47
+      "scoreA": 55,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 46
     },
     {
       "name": "Heat",
       "scoreA": 65,
-      "scoreB": 68
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 45
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 52,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 21
     }
   ],
-  "verdict": "Dungog has a lower overall climate risk score (34/100) compared to Dungowan (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dungowan has a lower overall climate risk score (39/100) compared to Dungog (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dungog or Dungowan safer from flooding?",
-      "answer": "Dungog has a flood risk score of 25/100, while Dungowan scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dungog has a flood risk score of 55/100, while Dungowan scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dungog scores 15/100 for bushfire risk. Dungowan scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dungog scores 47/100 for bushfire risk. Dungowan scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dungog or Dungowan?",
-      "answer": "Both suburbs have climate considerations. Dungog has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dungowan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dungowan Should I Buy?",
       "url": "/suburbs/nsw/dungowan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4441,
+    "projected2030": 6218,
+    "projected2050": 11547
+  },
+  "valueImpact": {
+    "dragPercent": 2.65,
+    "description": "Properties in this area may face a 2.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

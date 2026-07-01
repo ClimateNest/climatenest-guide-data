@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 44
+      "scoreA": 27,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 72
+      "scoreA": 70,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 30
     }
   ],
-  "verdict": "Telita has a lower overall climate risk score (36/100) compared to Tewkesbury (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tewkesbury has a lower overall climate risk score (31/100) compared to Telita (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Telita or Tewkesbury safer from flooding?",
-      "answer": "Telita has a flood risk score of 30/100, while Tewkesbury scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Telita has a flood risk score of 20/100, while Tewkesbury scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Telita scores 44/100 for bushfire risk. Tewkesbury scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Telita scores 27/100 for bushfire risk. Tewkesbury scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Telita or Tewkesbury?",
-      "answer": "Both suburbs have climate considerations. Telita has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tewkesbury has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tewkesbury Should I Buy?",
       "url": "/suburbs/tas/tewkesbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 53
+      "scoreA": 40,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 56
+      "scoreA": 79,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 15
     }
   ],
-  "verdict": "Bruce has a lower overall climate risk score (33/100) compared to Buchanan (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bruce has a lower overall climate risk score (35/100) compared to Buchanan (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bruce or Buchanan safer from flooding?",
-      "answer": "Bruce has a flood risk score of 28/100, while Buchanan scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bruce has a flood risk score of 40/100, while Buchanan scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bruce scores 50/100 for bushfire risk. Buchanan scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bruce scores 33/100 for bushfire risk. Buchanan scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bruce or Buchanan?",
@@ -76,5 +76,15 @@
       "label": "Buchanan Should I Buy?",
       "url": "/suburbs/sa/buchanan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

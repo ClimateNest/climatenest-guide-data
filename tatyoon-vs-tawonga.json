@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 35,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 73
+      "scoreA": 80,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 19
+      "scoreA": 25,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 17
     }
   ],
-  "verdict": "Tawonga has a lower overall climate risk score (31/100) compared to Tatyoon (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tawonga has a lower overall climate risk score (35/100) compared to Tatyoon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tatyoon or Tawonga safer from flooding?",
-      "answer": "Tatyoon has a flood risk score of 36/100, while Tawonga scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tatyoon has a flood risk score of 35/100, while Tawonga scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tatyoon scores 31/100 for bushfire risk. Tawonga scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tatyoon scores 48/100 for bushfire risk. Tawonga scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tatyoon or Tawonga?",
@@ -76,5 +76,15 @@
       "label": "Tawonga Should I Buy?",
       "url": "/suburbs/vic/tawonga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

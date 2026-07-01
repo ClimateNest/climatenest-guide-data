@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 45,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 28
-    },
-    {
-      "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 57
-    },
-    {
-      "name": "Storm",
-      "scoreA": 48,
+      "scoreA": 61,
       "scoreB": 46
     },
     {
+      "name": "Heat",
+      "scoreA": 68,
+      "scoreB": 66
+    },
+    {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 41
+    },
+    {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 21
+      "scoreA": 32,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 14
+      "scoreA": 23,
+      "scoreB": 13
     }
   ],
-  "verdict": "Bunyan has a lower overall climate risk score (31/100) compared to Bunnan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bunyan has a lower overall climate risk score (36/100) compared to Bunnan (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bunnan or Bunyan safer from flooding?",
-      "answer": "Bunnan has a flood risk score of 26/100, while Bunyan scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bunnan has a flood risk score of 45/100, while Bunyan scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bunnan scores 29/100 for bushfire risk. Bunyan scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bunnan scores 61/100 for bushfire risk. Bunyan scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bunnan or Bunyan?",
@@ -76,5 +76,15 @@
       "label": "Bunyan Should I Buy?",
       "url": "/suburbs/nsw/bunyan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4351,
+    "projected2030": 6091,
+    "projected2050": 11312
+  },
+  "valueImpact": {
+    "dragPercent": 2.45,
+    "description": "Properties in this area may face a 2.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

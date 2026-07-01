@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 44
+      "scoreA": 44,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 55
+      "scoreA": 64,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 66
+      "scoreA": 65,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 29
+      "scoreA": 48,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 27
     }
   ],
-  "verdict": "Tooligie has a lower overall climate risk score (37/100) compared to Tooperang (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tooperang has a lower overall climate risk score (40/100) compared to Tooligie (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tooligie or Tooperang safer from flooding?",
-      "answer": "Tooligie has a flood risk score of 25/100, while Tooperang scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tooligie has a flood risk score of 44/100, while Tooperang scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tooligie scores 38/100 for bushfire risk. Tooperang scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tooligie scores 64/100 for bushfire risk. Tooperang scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tooligie or Tooperang?",
-      "answer": "Both suburbs have climate considerations. Tooligie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tooperang has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tooperang Should I Buy?",
       "url": "/suburbs/sa/tooperang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

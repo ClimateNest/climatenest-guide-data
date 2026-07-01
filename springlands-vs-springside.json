@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 44
+      "scoreA": 38,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 33
+      "scoreA": 49,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 41
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 23
+      "scoreA": 39,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 57
+      "scoreA": 24,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 11
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Springlands has a lower overall climate risk score (28/100) compared to Springside (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Springlands has a lower overall climate risk score (34/100) compared to Springside (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Springlands or Springside safer from flooding?",
-      "answer": "Springlands has a flood risk score of 32/100, while Springside scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Springlands has a flood risk score of 38/100, while Springside scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Springlands scores 32/100 for bushfire risk. Springside scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Springlands scores 49/100 for bushfire risk. Springside scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Springlands or Springside?",
@@ -76,5 +76,15 @@
       "label": "Springside Should I Buy?",
       "url": "/suburbs/qld/springside/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

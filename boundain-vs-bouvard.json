@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 22
+      "scoreA": 25,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 18
+      "scoreA": 32,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 73
+      "scoreA": 52,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 25,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 10
+      "scoreA": 30,
+      "scoreB": 24
     }
   ],
-  "verdict": "Bouvard has a lower overall climate risk score (31/100) compared to Boundain (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Boundain has a lower overall climate risk score (32/100) compared to Bouvard (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boundain or Bouvard safer from flooding?",
-      "answer": "Boundain has a flood risk score of 45/100, while Bouvard scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boundain has a flood risk score of 25/100, while Bouvard scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boundain scores 30/100 for bushfire risk. Bouvard scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boundain scores 32/100 for bushfire risk. Bouvard scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boundain or Bouvard?",
-      "answer": "Both suburbs have climate considerations. Bouvard has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boundain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bouvard Should I Buy?",
       "url": "/suburbs/wa/bouvard/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

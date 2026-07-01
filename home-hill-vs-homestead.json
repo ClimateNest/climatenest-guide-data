@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 53
+      "scoreA": 23,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 44
+      "scoreA": 42,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 20
+      "scoreA": 33,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 14
+      "scoreA": 13,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
-  "verdict": "Home Hill has a lower overall climate risk score (24/100) compared to Homestead (28/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Home Hill has a lower overall climate risk score (24/100) compared to Homestead (27/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Home Hill or Homestead safer from flooding?",
-      "answer": "Home Hill has a flood risk score of 24/100, while Homestead scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Home Hill has a flood risk score of 23/100, while Homestead scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Home Hill scores 28/100 for bushfire risk. Homestead scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Home Hill scores 17/100 for bushfire risk. Homestead scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Home Hill or Homestead?",
@@ -76,5 +76,15 @@
       "label": "Homestead Should I Buy?",
       "url": "/suburbs/qld/homestead/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3047,
+    "projected2030": 4266,
+    "projected2050": 7923
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

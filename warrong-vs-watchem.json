@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 31
+      "scoreA": 44,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 44
+      "scoreA": 26,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 65
+      "scoreA": 52,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 46,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 14,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 19
+      "scoreA": 25,
+      "scoreB": 29
     }
   ],
-  "verdict": "Watchem has a lower overall climate risk score (33/100) compared to Warrong (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Warrong has a lower overall climate risk score (35/100) compared to Watchem (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Warrong or Watchem safer from flooding?",
-      "answer": "Warrong has a flood risk score of 48/100, while Watchem scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warrong has a flood risk score of 44/100, while Watchem scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warrong scores 24/100 for bushfire risk. Watchem scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warrong scores 26/100 for bushfire risk. Watchem scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warrong or Watchem?",
-      "answer": "Both suburbs have climate considerations. Watchem has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Warrong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Watchem Should I Buy?",
       "url": "/suburbs/vic/watchem/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

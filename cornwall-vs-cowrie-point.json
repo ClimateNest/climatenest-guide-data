@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 74
+      "scoreA": 72,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 23
+      "scoreA": 33,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 30
+      "scoreA": 14,
+      "scoreB": 24
     }
   ],
-  "verdict": "Cowrie Point has a lower overall climate risk score (36/100) compared to Cornwall (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cowrie Point has a lower overall climate risk score (32/100) compared to Cornwall (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cornwall or Cowrie Point safer from flooding?",
-      "answer": "Cornwall has a flood risk score of 52/100, while Cowrie Point scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cornwall has a flood risk score of 45/100, while Cowrie Point scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cornwall scores 30/100 for bushfire risk. Cowrie Point scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cornwall scores 23/100 for bushfire risk. Cowrie Point scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cornwall or Cowrie Point?",
@@ -76,5 +76,15 @@
       "label": "Cowrie Point Should I Buy?",
       "url": "/suburbs/tas/cowrie-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

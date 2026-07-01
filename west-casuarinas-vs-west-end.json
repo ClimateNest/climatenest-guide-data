@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 52
+      "scoreA": 22,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 63
+      "scoreA": 26,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 41
-    },
-    {
-      "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 41,
       "scoreB": 37
     },
     {
+      "name": "Storm",
+      "scoreA": 39,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 25
     }
   ],
-  "verdict": "West Casuarinas has a lower overall climate risk score (31/100) compared to West End (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "West Casuarinas has a lower overall climate risk score (27/100) compared to West End (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is West Casuarinas or West End safer from flooding?",
-      "answer": "West Casuarinas has a flood risk score of 45/100, while West End scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Casuarinas has a flood risk score of 22/100, while West End scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Casuarinas scores 44/100 for bushfire risk. West End scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Casuarinas scores 26/100 for bushfire risk. West End scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Casuarinas or West End?",
@@ -76,5 +76,15 @@
       "label": "West End Should I Buy?",
       "url": "/suburbs/wa/west-end/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 37
+      "scoreA": 35,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
+      "scoreA": 63,
       "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 65
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Storm",
       "scoreA": 36,
-      "scoreB": 41
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 26,
+      "scoreB": 29
     }
   ],
-  "verdict": "Scotchtown has a lower overall climate risk score (33/100) compared to Scamander (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Scotchtown has a lower overall climate risk score (38/100) compared to Scamander (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Scamander or Scotchtown safer from flooding?",
-      "answer": "Scamander has a flood risk score of 36/100, while Scotchtown scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Scamander has a flood risk score of 35/100, while Scotchtown scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Scamander scores 31/100 for bushfire risk. Scotchtown scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Scamander scores 63/100 for bushfire risk. Scotchtown scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Scamander or Scotchtown?",
@@ -76,5 +76,15 @@
       "label": "Scotchtown Should I Buy?",
       "url": "/suburbs/tas/scotchtown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

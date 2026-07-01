@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 56
+      "scoreA": 30,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 71
+      "scoreA": 60,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 37
+      "scoreA": 32,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 30
+      "scoreA": 32,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 16
     }
   ],
-  "verdict": "Matcham has a lower overall climate risk score (35/100) compared to Mathoura (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Matcham has a lower overall climate risk score (34/100) compared to Mathoura (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Matcham or Mathoura safer from flooding?",
-      "answer": "Matcham has a flood risk score of 35/100, while Mathoura scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Matcham has a flood risk score of 24/100, while Mathoura scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Matcham scores 21/100 for bushfire risk. Mathoura scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Matcham scores 30/100 for bushfire risk. Mathoura scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Matcham or Mathoura?",
@@ -76,5 +76,15 @@
       "label": "Mathoura Should I Buy?",
       "url": "/suburbs/nsw/mathoura/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

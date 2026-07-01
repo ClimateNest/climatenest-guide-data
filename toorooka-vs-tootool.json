@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 26
+      "scoreA": 44,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 63
+      "scoreA": 40,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 65
+      "scoreA": 53,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 23
+      "scoreA": 36,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 18
     }
   ],
-  "verdict": "Tootool has a lower overall climate risk score (37/100) compared to Toorooka (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tootool has a lower overall climate risk score (30/100) compared to Toorooka (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Toorooka or Tootool safer from flooding?",
-      "answer": "Toorooka has a flood risk score of 33/100, while Tootool scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toorooka has a flood risk score of 44/100, while Tootool scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toorooka scores 44/100 for bushfire risk. Tootool scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toorooka scores 40/100 for bushfire risk. Tootool scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toorooka or Tootool?",
@@ -76,5 +76,15 @@
       "label": "Tootool Should I Buy?",
       "url": "/suburbs/nsw/tootool/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

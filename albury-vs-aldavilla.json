@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 48,
+      "scoreA": 55,
       "scoreB": 59
     },
     {
+      "name": "Bushfire",
+      "scoreA": 35,
+      "scoreB": 43
+    },
+    {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 65
+      "scoreA": 53,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 31
+      "scoreA": 34,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 56
+      "scoreA": 25,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 11
+      "scoreA": 28,
+      "scoreB": 17
     }
   ],
-  "verdict": "Albury has a lower overall climate risk score (32/100) compared to Aldavilla (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Albury has a lower overall climate risk score (38/100) compared to Aldavilla (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Albury or Aldavilla safer from flooding?",
-      "answer": "Albury has a flood risk score of 44/100, while Aldavilla scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Albury has a flood risk score of 55/100, while Aldavilla scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Albury scores 48/100 for bushfire risk. Aldavilla scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Albury scores 35/100 for bushfire risk. Aldavilla scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Albury or Aldavilla?",
@@ -76,5 +76,15 @@
       "label": "Aldavilla Should I Buy?",
       "url": "/suburbs/nsw/aldavilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

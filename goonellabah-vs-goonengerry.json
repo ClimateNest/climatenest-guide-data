@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 46
+      "scoreA": 45,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 42
+      "scoreA": 49,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 43
+      "scoreA": 28,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
       "scoreA": 34,
-      "scoreB": 44
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 27
     }
   ],
-  "verdict": "Goonellabah has a lower overall climate risk score (35/100) compared to Goonengerry (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goonellabah has a lower overall climate risk score (35/100) compared to Goonengerry (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Goonellabah or Goonengerry safer from flooding?",
-      "answer": "Goonellabah has a flood risk score of 30/100, while Goonengerry scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goonellabah has a flood risk score of 40/100, while Goonengerry scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goonellabah scores 65/100 for bushfire risk. Goonengerry scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goonellabah scores 45/100 for bushfire risk. Goonengerry scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goonellabah or Goonengerry?",
@@ -76,5 +76,15 @@
       "label": "Goonengerry Should I Buy?",
       "url": "/suburbs/nsw/goonengerry/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

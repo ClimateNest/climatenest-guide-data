@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 28
+      "scoreA": 54,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
+      "scoreA": 60,
       "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 65
+      "scoreA": 65,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 14,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 28,
+      "scoreB": 17
     }
   ],
-  "verdict": "Elmhurst has a lower overall climate risk score (34/100) compared to Elliminyt (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Elmhurst has a lower overall climate risk score (36/100) compared to Elliminyt (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Elliminyt or Elmhurst safer from flooding?",
-      "answer": "Elliminyt has a flood risk score of 56/100, while Elmhurst scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elliminyt has a flood risk score of 54/100, while Elmhurst scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elliminyt scores 15/100 for bushfire risk. Elmhurst scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elliminyt scores 60/100 for bushfire risk. Elmhurst scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elliminyt or Elmhurst?",
@@ -76,5 +76,15 @@
       "label": "Elmhurst Should I Buy?",
       "url": "/suburbs/vic/elmhurst/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 20,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 56
+      "scoreA": 49,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 68
+      "scoreA": 57,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 41
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 44
+      "scoreA": 36,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Miller has a lower overall climate risk score (40/100) compared to Millers Forest (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Miller has a lower overall climate risk score (33/100) compared to Millers Forest (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Miller or Millers Forest safer from flooding?",
-      "answer": "Miller has a flood risk score of 26/100, while Millers Forest scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miller has a flood risk score of 20/100, while Millers Forest scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miller scores 52/100 for bushfire risk. Millers Forest scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miller scores 49/100 for bushfire risk. Millers Forest scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miller or Millers Forest?",
@@ -76,5 +76,15 @@
       "label": "Millers Forest Should I Buy?",
       "url": "/suburbs/nsw/millers-forest/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

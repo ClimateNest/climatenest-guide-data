@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 48
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
       "scoreA": 53,
-      "scoreB": 20
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 51
+      "scoreA": 65,
+      "scoreB": 64
     },
     {
       "name": "Storm",
       "scoreA": 42,
-      "scoreB": 38
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 32
+      "scoreA": 31,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 28,
+      "scoreB": 25
     }
   ],
-  "verdict": "Mount View has a lower overall climate risk score (34/100) compared to Mount Vernon (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount View has a lower overall climate risk score (40/100) compared to Mount Vernon (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Vernon or Mount View safer from flooding?",
-      "answer": "Mount Vernon has a flood risk score of 21/100, while Mount View scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Vernon has a flood risk score of 29/100, while Mount View scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Vernon scores 53/100 for bushfire risk. Mount View scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Vernon scores 53/100 for bushfire risk. Mount View scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Vernon or Mount View?",
@@ -76,5 +76,15 @@
       "label": "Mount View Should I Buy?",
       "url": "/suburbs/nsw/mount-view/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

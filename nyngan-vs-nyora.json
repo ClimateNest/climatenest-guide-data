@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
+      "scoreA": 47,
       "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 64
-    },
-    {
-      "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 56
-    },
-    {
-      "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 21
-    },
-    {
-      "name": "Coastal",
       "scoreA": 22,
       "scoreB": 18
     },
     {
-      "name": "Cyclone",
+      "name": "Heat",
+      "scoreA": 77,
+      "scoreB": 74
+    },
+    {
+      "name": "Storm",
+      "scoreA": 36,
+      "scoreB": 23
+    },
+    {
+      "name": "Coastal",
       "scoreA": 23,
-      "scoreB": 15
+      "scoreB": 28
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 10,
+      "scoreB": 23
     }
   ],
-  "verdict": "Nyngan has a lower overall climate risk score (33/100) compared to Nyora (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Nyora has a lower overall climate risk score (32/100) compared to Nyngan (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nyngan or Nyora safer from flooding?",
-      "answer": "Nyngan has a flood risk score of 39/100, while Nyora scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nyngan has a flood risk score of 47/100, while Nyora scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nyngan scores 24/100 for bushfire risk. Nyora scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nyngan scores 22/100 for bushfire risk. Nyora scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nyngan or Nyora?",
-      "answer": "Both suburbs have climate considerations. Nyngan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Nyora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nyora Should I Buy?",
       "url": "/suburbs/nsw/nyora/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

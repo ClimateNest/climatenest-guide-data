@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 50
+      "scoreA": 60,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 63
+      "scoreA": 15,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 60
+      "scoreA": 65,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 47
+      "scoreA": 25,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 13,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 13
     }
   ],
-  "verdict": "Patterson Lakes has a lower overall climate risk score (35/100) compared to Patyah (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Patterson Lakes has a lower overall climate risk score (33/100) compared to Patyah (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Patterson Lakes or Patyah safer from flooding?",
-      "answer": "Patterson Lakes has a flood risk score of 23/100, while Patyah scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Patterson Lakes has a flood risk score of 60/100, while Patyah scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Patterson Lakes scores 44/100 for bushfire risk. Patyah scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Patterson Lakes scores 15/100 for bushfire risk. Patyah scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Patterson Lakes or Patyah?",
@@ -76,5 +76,15 @@
       "label": "Patyah Should I Buy?",
       "url": "/suburbs/vic/patyah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 35,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 48
+      "scoreA": 43,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 29
+      "scoreA": 37,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 13
+      "scoreA": 36,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 6
+      "scoreA": 22,
+      "scoreB": 17
     }
   ],
-  "verdict": "Hawkins Creek has a lower overall climate risk score (26/100) compared to Harrisville (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hawkins Creek has a lower overall climate risk score (32/100) compared to Harrisville (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Harrisville or Hawkins Creek safer from flooding?",
-      "answer": "Harrisville has a flood risk score of 48/100, while Hawkins Creek scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Harrisville has a flood risk score of 33/100, while Hawkins Creek scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Harrisville scores 20/100 for bushfire risk. Hawkins Creek scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Harrisville scores 35/100 for bushfire risk. Hawkins Creek scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Harrisville or Hawkins Creek?",
@@ -76,5 +76,15 @@
       "label": "Hawkins Creek Should I Buy?",
       "url": "/suburbs/qld/hawkins-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

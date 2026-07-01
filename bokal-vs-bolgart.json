@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 41
+      "scoreA": 41,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 59
+      "scoreA": 57,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 60
+      "scoreA": 74,
+      "scoreB": 76
     },
     {
       "name": "Storm",
       "scoreA": 31,
-      "scoreB": 47
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 13,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 27
     }
   ],
-  "verdict": "Bolgart has a lower overall climate risk score (41/100) compared to Bokal (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bolgart has a lower overall climate risk score (37/100) compared to Bokal (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bokal or Bolgart safer from flooding?",
-      "answer": "Bokal has a flood risk score of 57/100, while Bolgart scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bokal has a flood risk score of 41/100, while Bolgart scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bokal scores 51/100 for bushfire risk. Bolgart scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bokal scores 57/100 for bushfire risk. Bolgart scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bokal or Bolgart?",
@@ -76,5 +76,15 @@
       "label": "Bolgart Should I Buy?",
       "url": "/suburbs/wa/bolgart/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

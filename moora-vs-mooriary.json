@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 58,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 22
+      "scoreA": 16,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 30
+      "scoreA": 73,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 18,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 10
+      "scoreA": 13,
+      "scoreB": 17
     }
   ],
-  "verdict": "Mooriary has a lower overall climate risk score (25/100) compared to Moora (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mooriary has a lower overall climate risk score (36/100) compared to Moora (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moora or Mooriary safer from flooding?",
-      "answer": "Moora has a flood risk score of 28/100, while Mooriary scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moora has a flood risk score of 58/100, while Mooriary scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moora scores 38/100 for bushfire risk. Mooriary scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moora scores 16/100 for bushfire risk. Mooriary scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moora or Mooriary?",
@@ -76,5 +76,15 @@
       "label": "Mooriary Should I Buy?",
       "url": "/suburbs/wa/mooriary/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 54
+      "scoreA": 60,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 60
+      "scoreA": 24,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 31,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "Moregatta has a lower overall climate risk score (32/100) compared to Morella (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moregatta has a lower overall climate risk score (29/100) compared to Morella (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Moregatta or Morella safer from flooding?",
-      "answer": "Moregatta has a flood risk score of 38/100, while Morella scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moregatta has a flood risk score of 60/100, while Morella scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moregatta scores 52/100 for bushfire risk. Morella scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moregatta scores 24/100 for bushfire risk. Morella scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moregatta or Morella?",
@@ -76,5 +76,15 @@
       "label": "Morella Should I Buy?",
       "url": "/suburbs/qld/morella/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

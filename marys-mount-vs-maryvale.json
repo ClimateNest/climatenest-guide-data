@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 56,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 37
+      "scoreA": 24,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 79
+      "scoreA": 52,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 34
+      "scoreA": 42,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
+      "scoreA": 21,
       "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 15
+      "scoreA": 27,
+      "scoreB": 22
     }
   ],
-  "verdict": "Marys Mount has a lower overall climate risk score (29/100) compared to Maryvale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marys Mount has a lower overall climate risk score (37/100) compared to Maryvale (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Marys Mount or Maryvale safer from flooding?",
-      "answer": "Marys Mount has a flood risk score of 21/100, while Maryvale scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marys Mount has a flood risk score of 56/100, while Maryvale scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marys Mount scores 23/100 for bushfire risk. Maryvale scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marys Mount scores 24/100 for bushfire risk. Maryvale scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marys Mount or Maryvale?",
@@ -76,5 +76,15 @@
       "label": "Maryvale Should I Buy?",
       "url": "/suburbs/nsw/maryvale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

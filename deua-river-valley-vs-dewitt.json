@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 40
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 67
+      "scoreA": 66,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 33,
       "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 36
+      "scoreA": 27,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 27
     }
   ],
-  "verdict": "Deua River Valley has a lower overall climate risk score (34/100) compared to Dewitt (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Deua River Valley has a lower overall climate risk score (31/100) compared to Dewitt (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Deua River Valley or Dewitt safer from flooding?",
-      "answer": "Deua River Valley has a flood risk score of 41/100, while Dewitt scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Deua River Valley has a flood risk score of 24/100, while Dewitt scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Deua River Valley scores 36/100 for bushfire risk. Dewitt scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Deua River Valley scores 24/100 for bushfire risk. Dewitt scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Deua River Valley or Dewitt?",
@@ -76,5 +76,15 @@
       "label": "Dewitt Should I Buy?",
       "url": "/suburbs/nsw/dewitt/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

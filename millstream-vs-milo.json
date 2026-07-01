@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 51
+      "scoreA": 37,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 44
+      "scoreA": 38,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 10
+      "scoreA": 26,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 28
     }
   ],
-  "verdict": "Millstream has a lower overall climate risk score (27/100) compared to Milo (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Millstream has a lower overall climate risk score (35/100) compared to Milo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Millstream or Milo safer from flooding?",
-      "answer": "Millstream has a flood risk score of 21/100, while Milo scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Millstream has a flood risk score of 37/100, while Milo scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Millstream scores 30/100 for bushfire risk. Milo scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Millstream scores 55/100 for bushfire risk. Milo scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Millstream or Milo?",
@@ -76,5 +76,15 @@
       "label": "Milo Should I Buy?",
       "url": "/suburbs/wa/milo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

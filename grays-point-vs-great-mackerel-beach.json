@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 34,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 48
+      "scoreA": 18,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 62
+      "scoreA": 73,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 35
+      "scoreA": 33,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 20
     }
   ],
-  "verdict": "Grays Point has a lower overall climate risk score (39/100) compared to Great Mackerel Beach (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Grays Point has a lower overall climate risk score (37/100) compared to Great Mackerel Beach (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Grays Point or Great Mackerel Beach safer from flooding?",
-      "answer": "Grays Point has a flood risk score of 30/100, while Great Mackerel Beach scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Grays Point has a flood risk score of 34/100, while Great Mackerel Beach scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Grays Point scores 24/100 for bushfire risk. Great Mackerel Beach scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Grays Point scores 18/100 for bushfire risk. Great Mackerel Beach scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Grays Point or Great Mackerel Beach?",
@@ -76,5 +76,15 @@
       "label": "Great Mackerel Beach Should I Buy?",
       "url": "/suburbs/nsw/great-mackerel-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

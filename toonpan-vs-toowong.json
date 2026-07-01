@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 58
+      "scoreA": 33,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 16
+      "scoreA": 39,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 44
+      "scoreA": 32,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 27
+      "scoreA": 44,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 57
+      "scoreA": 13,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
       "scoreA": 16,
-      "scoreB": 12
+      "scoreB": 14
     }
   ],
-  "verdict": "Toonpan has a lower overall climate risk score (26/100) compared to Toowong (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Toonpan has a lower overall climate risk score (30/100) compared to Toowong (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Toonpan or Toowong safer from flooding?",
-      "answer": "Toonpan has a flood risk score of 20/100, while Toowong scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toonpan has a flood risk score of 33/100, while Toowong scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toonpan scores 33/100 for bushfire risk. Toowong scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toonpan scores 39/100 for bushfire risk. Toowong scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toonpan or Toowong?",
@@ -76,5 +76,15 @@
       "label": "Toowong Should I Buy?",
       "url": "/suburbs/qld/toowong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3308,
+    "projected2030": 4631,
+    "projected2050": 8601
+  },
+  "valueImpact": {
+    "dragPercent": 0.15,
+    "description": "Properties in this area may face a 0.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

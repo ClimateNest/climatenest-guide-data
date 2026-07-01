@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 58
+      "scoreA": 51,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 24
+      "scoreA": 46,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
       "scoreA": 27,
-      "scoreB": 22
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Roseworthy has a lower overall climate risk score (28/100) compared to Rosewater (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Rosewater has a lower overall climate risk score (31/100) compared to Roseworthy (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rosewater or Roseworthy safer from flooding?",
-      "answer": "Rosewater has a flood risk score of 45/100, while Roseworthy scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rosewater has a flood risk score of 25/100, while Roseworthy scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rosewater scores 21/100 for bushfire risk. Roseworthy scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rosewater scores 20/100 for bushfire risk. Roseworthy scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rosewater or Roseworthy?",
-      "answer": "Both suburbs have climate considerations. Roseworthy has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rosewater has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Roseworthy Should I Buy?",
       "url": "/suburbs/sa/roseworthy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

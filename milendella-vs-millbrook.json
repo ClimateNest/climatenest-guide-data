@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 41
+      "scoreA": 28,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 64
+      "scoreA": 60,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 49
+      "scoreA": 38,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 22
+      "scoreA": 13,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 19
     }
   ],
-  "verdict": "Milendella has a lower overall climate risk score (34/100) compared to Millbrook (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Milendella and Millbrook have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Milendella or Millbrook safer from flooding?",
-      "answer": "Milendella has a flood risk score of 55/100, while Millbrook scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Milendella has a flood risk score of 28/100, while Millbrook scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Milendella scores 30/100 for bushfire risk. Millbrook scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Milendella scores 48/100 for bushfire risk. Millbrook scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Milendella or Millbrook?",
@@ -76,5 +76,15 @@
       "label": "Millbrook Should I Buy?",
       "url": "/suburbs/sa/millbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

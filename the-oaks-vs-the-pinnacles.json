@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 44
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 18
-    },
-    {
-      "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 35
-    },
-    {
-      "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 33
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 56,
+      "scoreA": 21,
       "scoreB": 32
     },
     {
+      "name": "Bushfire",
+      "scoreA": 15,
+      "scoreB": 19
+    },
+    {
+      "name": "Heat",
+      "scoreA": 57,
+      "scoreB": 33
+    },
+    {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 32
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 52,
+      "scoreB": 50
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 26,
+      "scoreB": 16
     }
   ],
-  "verdict": "The Pinnacles has a lower overall climate risk score (32/100) compared to The Oaks (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Pinnacles has a lower overall climate risk score (30/100) compared to The Oaks (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is The Oaks or The Pinnacles safer from flooding?",
-      "answer": "The Oaks has a flood risk score of 29/100, while The Pinnacles scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Oaks has a flood risk score of 21/100, while The Pinnacles scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Oaks scores 22/100 for bushfire risk. The Pinnacles scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Oaks scores 15/100 for bushfire risk. The Pinnacles scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Oaks or The Pinnacles?",
@@ -76,5 +76,15 @@
       "label": "The Pinnacles Should I Buy?",
       "url": "/suburbs/nsw/the-pinnacles/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

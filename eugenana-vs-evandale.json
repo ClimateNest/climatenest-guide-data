@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 48
+      "scoreA": 58,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 43
+      "scoreA": 45,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 62
+      "scoreA": 64,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 46,
+      "scoreA": 20,
       "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 30,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 30
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Eugenana has a lower overall climate risk score (34/100) compared to Evandale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eugenana has a lower overall climate risk score (39/100) compared to Evandale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eugenana or Evandale safer from flooding?",
-      "answer": "Eugenana has a flood risk score of 23/100, while Evandale scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eugenana has a flood risk score of 58/100, while Evandale scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eugenana scores 44/100 for bushfire risk. Evandale scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eugenana scores 45/100 for bushfire risk. Evandale scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eugenana or Evandale?",
@@ -76,5 +76,15 @@
       "label": "Evandale Should I Buy?",
       "url": "/suburbs/tas/evandale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

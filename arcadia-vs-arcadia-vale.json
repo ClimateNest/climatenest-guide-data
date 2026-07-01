@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 56,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 22
+      "scoreA": 49,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 78
+      "scoreA": 72,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 32
+      "scoreA": 27,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 42
+      "scoreA": 53,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 18
     }
   ],
-  "verdict": "Arcadia has a lower overall climate risk score (39/100) compared to Arcadia Vale (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Arcadia Vale has a lower overall climate risk score (46/100) compared to Arcadia (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Arcadia or Arcadia Vale safer from flooding?",
-      "answer": "Arcadia has a flood risk score of 21/100, while Arcadia Vale scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Arcadia has a flood risk score of 56/100, while Arcadia Vale scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Arcadia scores 54/100 for bushfire risk. Arcadia Vale scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Arcadia scores 49/100 for bushfire risk. Arcadia Vale scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Arcadia or Arcadia Vale?",
-      "answer": "Both suburbs have climate considerations. Arcadia has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Arcadia Vale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Arcadia Vale Should I Buy?",
       "url": "/suburbs/nsw/arcadia-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4373,
+    "projected2030": 6123,
+    "projected2050": 11371
+  },
+  "valueImpact": {
+    "dragPercent": 2.5,
+    "description": "Properties in this area may face a 2.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 53
+      "scoreA": 47,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
+      "scoreA": 26,
       "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 38
+      "scoreA": 41,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 33
+      "scoreA": 47,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 15
+      "scoreA": 45,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 16
     }
   ],
-  "verdict": "Fairy Bower has a lower overall climate risk score (31/100) compared to Fairfield (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fairy Bower has a lower overall climate risk score (30/100) compared to Fairfield (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Fairfield or Fairy Bower safer from flooding?",
-      "answer": "Fairfield has a flood risk score of 46/100, while Fairy Bower scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fairfield has a flood risk score of 47/100, while Fairy Bower scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fairfield scores 19/100 for bushfire risk. Fairy Bower scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fairfield scores 26/100 for bushfire risk. Fairy Bower scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fairfield or Fairy Bower?",
@@ -76,5 +76,15 @@
       "label": "Fairy Bower Should I Buy?",
       "url": "/suburbs/qld/fairy-bower/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

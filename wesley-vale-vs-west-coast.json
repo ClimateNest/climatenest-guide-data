@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 55
+      "scoreA": 36,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 79
+      "scoreA": 63,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 37
+      "scoreA": 48,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 15,
+      "scoreB": 29
     }
   ],
-  "verdict": "West Coast has a lower overall climate risk score (41/100) compared to Wesley Vale (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wesley Vale has a lower overall climate risk score (35/100) compared to West Coast (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wesley Vale or West Coast safer from flooding?",
-      "answer": "Wesley Vale has a flood risk score of 53/100, while West Coast scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wesley Vale has a flood risk score of 36/100, while West Coast scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wesley Vale scores 52/100 for bushfire risk. West Coast scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wesley Vale scores 24/100 for bushfire risk. West Coast scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wesley Vale or West Coast?",
-      "answer": "Both suburbs have climate considerations. West Coast has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wesley Vale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "West Coast Should I Buy?",
       "url": "/suburbs/tas/west-coast/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

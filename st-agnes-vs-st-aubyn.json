@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 53
+      "scoreA": 16,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 48
+      "scoreA": 48,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 42
+      "scoreA": 46,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
+      "scoreA": 11,
       "scoreB": 23
     }
   ],
-  "verdict": "St Agnes and St Aubyn have similar overall climate risk scores.",
+  "verdict": "St Agnes has a lower overall climate risk score (32/100) compared to St Aubyn (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is St Agnes or St Aubyn safer from flooding?",
-      "answer": "St Agnes has a flood risk score of 59/100, while St Aubyn scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Agnes has a flood risk score of 26/100, while St Aubyn scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Agnes scores 36/100 for bushfire risk. St Aubyn scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Agnes scores 16/100 for bushfire risk. St Aubyn scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Agnes or St Aubyn?",
@@ -76,5 +76,15 @@
       "label": "St Aubyn Should I Buy?",
       "url": "/suburbs/qld/st-aubyn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

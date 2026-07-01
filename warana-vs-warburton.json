@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 56
+      "scoreA": 45,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 17
+      "scoreA": 63,
+      "scoreB": 53
     },
     {
       "name": "Heat",
       "scoreA": 47,
-      "scoreB": 38
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 28,
+      "scoreA": 27,
       "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 23
+      "scoreA": 52,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 6
+      "scoreA": 25,
+      "scoreB": 14
     }
   ],
-  "verdict": "Warburton has a lower overall climate risk score (31/100) compared to Warana (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warburton has a lower overall climate risk score (35/100) compared to Warana (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warana or Warburton safer from flooding?",
-      "answer": "Warana has a flood risk score of 56/100, while Warburton scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warana has a flood risk score of 45/100, while Warburton scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warana scores 43/100 for bushfire risk. Warburton scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warana scores 63/100 for bushfire risk. Warburton scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warana or Warburton?",
@@ -76,5 +76,15 @@
       "label": "Warburton Should I Buy?",
       "url": "/suburbs/qld/warburton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 27
+      "scoreA": 59,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 48
+      "scoreA": 54,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 56
+      "scoreA": 70,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 35
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
       "scoreA": 49,
-      "scoreB": 20
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 12,
+      "scoreB": 15
     }
   ],
-  "verdict": "Pullabooka has a lower overall climate risk score (35/100) compared to Puddledock (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pullabooka has a lower overall climate risk score (31/100) compared to Puddledock (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Puddledock or Pullabooka safer from flooding?",
-      "answer": "Puddledock has a flood risk score of 53/100, while Pullabooka scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Puddledock has a flood risk score of 59/100, while Pullabooka scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Puddledock scores 42/100 for bushfire risk. Pullabooka scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Puddledock scores 54/100 for bushfire risk. Pullabooka scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Puddledock or Pullabooka?",
@@ -76,5 +76,15 @@
       "label": "Pullabooka Should I Buy?",
       "url": "/suburbs/nsw/pullabooka/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

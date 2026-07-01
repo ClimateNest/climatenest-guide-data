@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 40,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
       "scoreA": 55,
-      "scoreB": 59
+      "scoreB": 37
     },
     {
       "name": "Heat",
       "scoreA": 39,
-      "scoreB": 44
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 32
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 5
+      "scoreA": 8,
+      "scoreB": 10
     }
   ],
-  "verdict": "Cardwell has a lower overall climate risk score (35/100) compared to Cardstone (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cardwell has a lower overall climate risk score (33/100) compared to Cardstone (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cardstone or Cardwell safer from flooding?",
-      "answer": "Cardstone has a flood risk score of 44/100, while Cardwell scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cardstone has a flood risk score of 40/100, while Cardwell scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cardstone scores 55/100 for bushfire risk. Cardwell scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cardstone scores 55/100 for bushfire risk. Cardwell scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cardstone or Cardwell?",
@@ -76,5 +76,15 @@
       "label": "Cardwell Should I Buy?",
       "url": "/suburbs/qld/cardwell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

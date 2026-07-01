@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 27
+      "scoreA": 36,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 62
+      "scoreA": 18,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 61
+      "scoreA": 40,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 41
+      "scoreA": 28,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 46,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 14
     }
   ],
   "verdict": "Wandera has a lower overall climate risk score (31/100) compared to Wandsworth (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Wandera or Wandsworth safer from flooding?",
-      "answer": "Wandera has a flood risk score of 28/100, while Wandsworth scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wandera has a flood risk score of 36/100, while Wandsworth scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wandera scores 60/100 for bushfire risk. Wandsworth scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wandera scores 18/100 for bushfire risk. Wandsworth scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wandera or Wandsworth?",
@@ -76,5 +76,15 @@
       "label": "Wandsworth Should I Buy?",
       "url": "/suburbs/nsw/wandsworth/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

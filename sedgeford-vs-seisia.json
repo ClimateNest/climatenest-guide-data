@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 59,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 31,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 30
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 14,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 7
+      "scoreA": 9,
+      "scoreB": 9
     }
   ],
-  "verdict": "Seisia has a lower overall climate risk score (26/100) compared to Sedgeford (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Seisia has a lower overall climate risk score (31/100) compared to Sedgeford (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sedgeford or Seisia safer from flooding?",
-      "answer": "Sedgeford has a flood risk score of 50/100, while Seisia scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sedgeford has a flood risk score of 59/100, while Seisia scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sedgeford scores 38/100 for bushfire risk. Seisia scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sedgeford scores 31/100 for bushfire risk. Seisia scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sedgeford or Seisia?",
@@ -76,5 +76,15 @@
       "label": "Seisia Should I Buy?",
       "url": "/suburbs/qld/seisia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

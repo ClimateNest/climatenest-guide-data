@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 54
+      "scoreA": 39,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 21
+      "scoreA": 64,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 64
+      "scoreA": 62,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 30
+      "scoreA": 36,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 13,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 19
     }
   ],
-  "verdict": "Ultima has a lower overall climate risk score (33/100) compared to Ulupna (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ultima has a lower overall climate risk score (38/100) compared to Ulupna (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ultima or Ulupna safer from flooding?",
-      "answer": "Ultima has a flood risk score of 33/100, while Ulupna scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ultima has a flood risk score of 39/100, while Ulupna scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ultima scores 35/100 for bushfire risk. Ulupna scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ultima scores 64/100 for bushfire risk. Ulupna scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ultima or Ulupna?",
@@ -76,5 +76,15 @@
       "label": "Ulupna Should I Buy?",
       "url": "/suburbs/vic/ulupna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 48
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 41,
+      "scoreA": 26,
       "scoreB": 38
     },
     {
+      "name": "Bushfire",
+      "scoreA": 40,
+      "scoreB": 62
+    },
+    {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 59
+      "scoreA": 54,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 42
+      "scoreA": 21,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 12
     }
   ],
-  "verdict": "Marsden Park has a lower overall climate risk score (41/100) compared to Marrar (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Marrar has a lower overall climate risk score (31/100) compared to Marsden Park (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Marrar or Marsden Park safer from flooding?",
-      "answer": "Marrar has a flood risk score of 54/100, while Marsden Park scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marrar has a flood risk score of 26/100, while Marsden Park scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marrar scores 41/100 for bushfire risk. Marsden Park scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marrar scores 40/100 for bushfire risk. Marsden Park scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marrar or Marsden Park?",
-      "answer": "Both suburbs have climate considerations. Marsden Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Marrar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Marsden Park Should I Buy?",
       "url": "/suburbs/nsw/marsden-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4487,
+    "projected2030": 6281,
+    "projected2050": 11665
+  },
+  "valueImpact": {
+    "dragPercent": 2.75,
+    "description": "Properties in this area may face a 2.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 25
+      "scoreA": 60,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 77
+      "scoreA": 52,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 41
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 50
+      "scoreA": 23,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 23
+      "scoreB": 11
     }
   ],
-  "verdict": "Merungle Hill has a lower overall climate risk score (40/100) compared to Metford (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Metford has a lower overall climate risk score (35/100) compared to Merungle Hill (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Merungle Hill or Metford safer from flooding?",
-      "answer": "Merungle Hill has a flood risk score of 38/100, while Metford scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Merungle Hill has a flood risk score of 40/100, while Metford scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Merungle Hill scores 51/100 for bushfire risk. Metford scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Merungle Hill scores 60/100 for bushfire risk. Metford scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Merungle Hill or Metford?",
-      "answer": "Both suburbs have climate considerations. Merungle Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Metford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Metford Should I Buy?",
       "url": "/suburbs/nsw/metford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

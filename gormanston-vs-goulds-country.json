@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 56
+      "scoreA": 58,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 42
+      "scoreA": 25,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 77
+      "scoreA": 54,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 24
     }
   ],
-  "verdict": "Gormanston has a lower overall climate risk score (27/100) compared to Goulds Country (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gormanston has a lower overall climate risk score (33/100) compared to Goulds Country (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gormanston or Goulds Country safer from flooding?",
-      "answer": "Gormanston has a flood risk score of 24/100, while Goulds Country scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gormanston has a flood risk score of 58/100, while Goulds Country scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gormanston scores 18/100 for bushfire risk. Goulds Country scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gormanston scores 25/100 for bushfire risk. Goulds Country scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gormanston or Goulds Country?",
@@ -76,5 +76,15 @@
       "label": "Goulds Country Should I Buy?",
       "url": "/suburbs/tas/goulds-country/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

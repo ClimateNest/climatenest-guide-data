@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 33
+      "scoreA": 31,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 72
+      "scoreA": 63,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 39,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 29
     }
   ],
-  "verdict": "Tarcowie and Tarlee have similar overall climate risk scores.",
-  "verdictClass": "neutral",
+  "verdict": "Tarcowie has a lower overall climate risk score (36/100) compared to Tarlee (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tarcowie or Tarlee safer from flooding?",
-      "answer": "Tarcowie has a flood risk score of 51/100, while Tarlee scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarcowie has a flood risk score of 40/100, while Tarlee scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarcowie scores 55/100 for bushfire risk. Tarlee scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarcowie scores 31/100 for bushfire risk. Tarlee scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarcowie or Tarlee?",
@@ -76,5 +76,15 @@
       "label": "Tarlee Should I Buy?",
       "url": "/suburbs/sa/tarlee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4328,
+    "projected2030": 6059,
+    "projected2050": 11253
+  },
+  "valueImpact": {
+    "dragPercent": 2.4,
+    "description": "Properties in this area may face a 2.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

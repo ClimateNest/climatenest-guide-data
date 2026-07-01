@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 57
-    },
-    {
-      "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 57
-    },
-    {
-      "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 36
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 42,
       "scoreB": 52
     },
     {
+      "name": "Heat",
+      "scoreA": 71,
+      "scoreB": 60
+    },
+    {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 22
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 23,
+      "scoreB": 30
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "March has a lower overall climate risk score (39/100) compared to Mardi (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mardi has a lower overall climate risk score (36/100) compared to March (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is March or Mardi safer from flooding?",
-      "answer": "March has a flood risk score of 49/100, while Mardi scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "March has a flood risk score of 26/100, while Mardi scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "March scores 47/100 for bushfire risk. Mardi scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "March scores 42/100 for bushfire risk. Mardi scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in March or Mardi?",
-      "answer": "Both suburbs have climate considerations. March has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mardi has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mardi Should I Buy?",
       "url": "/suburbs/nsw/mardi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

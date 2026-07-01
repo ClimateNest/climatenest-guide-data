@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 57,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 30
+      "scoreA": 48,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 39
+      "scoreA": 43,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 25
+      "scoreA": 32,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 23,
+      "scoreB": 20
     }
   ],
-  "verdict": "Hannaford has a lower overall climate risk score (30/100) compared to Hampton (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hannaford has a lower overall climate risk score (28/100) compared to Hampton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hampton or Hannaford safer from flooding?",
-      "answer": "Hampton has a flood risk score of 41/100, while Hannaford scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hampton has a flood risk score of 57/100, while Hannaford scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hampton scores 61/100 for bushfire risk. Hannaford scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hampton scores 48/100 for bushfire risk. Hannaford scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hampton or Hannaford?",
@@ -76,5 +76,15 @@
       "label": "Hannaford Should I Buy?",
       "url": "/suburbs/qld/hannaford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

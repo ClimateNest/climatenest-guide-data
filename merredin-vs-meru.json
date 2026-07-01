@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 26
+      "scoreA": 47,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 32
+      "scoreA": 55,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 26
     }
   ],
-  "verdict": "Meru has a lower overall climate risk score (26/100) compared to Merredin (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Meru has a lower overall climate risk score (38/100) compared to Merredin (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Merredin or Meru safer from flooding?",
-      "answer": "Merredin has a flood risk score of 59/100, while Meru scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Merredin has a flood risk score of 47/100, while Meru scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Merredin scores 60/100 for bushfire risk. Meru scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Merredin scores 47/100 for bushfire risk. Meru scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Merredin or Meru?",
@@ -76,5 +76,15 @@
       "label": "Meru Should I Buy?",
       "url": "/suburbs/wa/meru/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

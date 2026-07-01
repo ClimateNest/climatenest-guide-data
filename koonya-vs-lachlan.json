@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 21
+      "scoreA": 55,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 19
-    },
-    {
-      "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 73
-    },
-    {
-      "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 46
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 29,
       "scoreB": 25
     },
     {
+      "name": "Heat",
+      "scoreA": 65,
+      "scoreB": 52
+    },
+    {
+      "name": "Storm",
+      "scoreA": 28,
+      "scoreB": 38
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 22
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 28
     }
   ],
-  "verdict": "Lachlan has a lower overall climate risk score (33/100) compared to Koonya (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lachlan has a lower overall climate risk score (32/100) compared to Koonya (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Koonya or Lachlan safer from flooding?",
-      "answer": "Koonya has a flood risk score of 38/100, while Lachlan scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Koonya has a flood risk score of 55/100, while Lachlan scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Koonya scores 47/100 for bushfire risk. Lachlan scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Koonya scores 29/100 for bushfire risk. Lachlan scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Koonya or Lachlan?",
@@ -76,5 +76,15 @@
       "label": "Lachlan Should I Buy?",
       "url": "/suburbs/tas/lachlan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

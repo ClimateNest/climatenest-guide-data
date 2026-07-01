@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 55
+      "scoreA": 59,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 41
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 36
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 21
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 56,
+      "scoreA": 33,
       "scoreB": 42
     },
     {
+      "name": "Storm",
+      "scoreA": 34,
+      "scoreB": 34
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 50,
+      "scoreB": 31
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 30
+      "scoreA": 14,
+      "scoreB": 15
     }
   ],
-  "verdict": "Rosewood has a lower overall climate risk score (38/100) compared to Rosenthal Heights (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rosewood has a lower overall climate risk score (36/100) compared to Rosenthal Heights (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rosenthal Heights or Rosewood safer from flooding?",
-      "answer": "Rosenthal Heights has a flood risk score of 60/100, while Rosewood scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rosenthal Heights has a flood risk score of 59/100, while Rosewood scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rosenthal Heights scores 48/100 for bushfire risk. Rosewood scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rosenthal Heights scores 46/100 for bushfire risk. Rosewood scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rosenthal Heights or Rosewood?",
@@ -76,5 +76,15 @@
       "label": "Rosewood Should I Buy?",
       "url": "/suburbs/qld/rosewood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

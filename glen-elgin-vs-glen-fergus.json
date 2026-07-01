@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 46
+      "scoreA": 21,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 64,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 37,
+      "scoreA": 34,
       "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 20,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 27
+      "scoreA": 51,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 21
     }
   ],
-  "verdict": "Glen Elgin has a lower overall climate risk score (34/100) compared to Glen Fergus (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Glen Fergus has a lower overall climate risk score (35/100) compared to Glen Elgin (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glen Elgin or Glen Fergus safer from flooding?",
-      "answer": "Glen Elgin has a flood risk score of 51/100, while Glen Fergus scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glen Elgin has a flood risk score of 21/100, while Glen Fergus scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glen Elgin scores 17/100 for bushfire risk. Glen Fergus scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glen Elgin scores 64/100 for bushfire risk. Glen Fergus scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glen Elgin or Glen Fergus?",
-      "answer": "Both suburbs have climate considerations. Glen Elgin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Glen Fergus has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Glen Fergus Should I Buy?",
       "url": "/suburbs/nsw/glen-fergus/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

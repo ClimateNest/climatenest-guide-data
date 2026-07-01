@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
+      "scoreA": 44,
       "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 50
+      "scoreA": 18,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 38
+      "scoreA": 34,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 24
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 30,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 10,
       "scoreB": 9
     }
   ],
-  "verdict": "Pigeon Hole has a lower overall climate risk score (25/100) compared to Pinelands (27/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pigeon Hole has a lower overall climate risk score (30/100) compared to Pinelands (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pigeon Hole or Pinelands safer from flooding?",
-      "answer": "Pigeon Hole has a flood risk score of 43/100, while Pinelands scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pigeon Hole has a flood risk score of 44/100, while Pinelands scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pigeon Hole scores 19/100 for bushfire risk. Pinelands scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pigeon Hole scores 18/100 for bushfire risk. Pinelands scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pigeon Hole or Pinelands?",
@@ -76,5 +76,15 @@
       "label": "Pinelands Should I Buy?",
       "url": "/suburbs/nt/pinelands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3467,
+    "projected2030": 4853,
+    "projected2050": 9013
+  },
+  "valueImpact": {
+    "dragPercent": 0.5,
+    "description": "Properties in this area may face a 0.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

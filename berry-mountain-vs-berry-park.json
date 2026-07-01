@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 32
+      "scoreA": 46,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 30
+      "scoreA": 64,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 67
+      "scoreA": 52,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 21,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 31
+      "scoreA": 39,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 10
     }
   ],
   "verdict": "Berry Park has a lower overall climate risk score (36/100) compared to Berry Mountain (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Berry Mountain or Berry Park safer from flooding?",
-      "answer": "Berry Mountain has a flood risk score of 36/100, while Berry Park scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Berry Mountain has a flood risk score of 46/100, while Berry Park scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Berry Mountain scores 17/100 for bushfire risk. Berry Park scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Berry Mountain scores 64/100 for bushfire risk. Berry Park scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Berry Mountain or Berry Park?",
@@ -76,5 +76,15 @@
       "label": "Berry Park Should I Buy?",
       "url": "/suburbs/nsw/berry-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

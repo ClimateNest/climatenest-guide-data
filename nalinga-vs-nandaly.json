@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 26
+      "scoreA": 58,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 44
+      "scoreA": 34,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 65
+      "scoreA": 50,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 16
     }
   ],
-  "verdict": "Nalinga has a lower overall climate risk score (31/100) compared to Nandaly (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nalinga has a lower overall climate risk score (35/100) compared to Nandaly (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nalinga or Nandaly safer from flooding?",
-      "answer": "Nalinga has a flood risk score of 30/100, while Nandaly scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nalinga has a flood risk score of 58/100, while Nandaly scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nalinga scores 17/100 for bushfire risk. Nandaly scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nalinga scores 34/100 for bushfire risk. Nandaly scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nalinga or Nandaly?",
@@ -76,5 +76,15 @@
       "label": "Nandaly Should I Buy?",
       "url": "/suburbs/vic/nandaly/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

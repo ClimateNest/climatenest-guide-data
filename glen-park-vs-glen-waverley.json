@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 59
+      "scoreA": 21,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 35,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 76
+      "scoreA": 61,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 27
     }
   ],
-  "verdict": "Glen Park has a lower overall climate risk score (43/100) compared to Glen Waverley (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Glen Park has a lower overall climate risk score (31/100) compared to Glen Waverley (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Glen Park or Glen Waverley safer from flooding?",
-      "answer": "Glen Park has a flood risk score of 38/100, while Glen Waverley scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glen Park has a flood risk score of 21/100, while Glen Waverley scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glen Park scores 56/100 for bushfire risk. Glen Waverley scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glen Park scores 35/100 for bushfire risk. Glen Waverley scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glen Park or Glen Waverley?",
@@ -76,5 +76,15 @@
       "label": "Glen Waverley Should I Buy?",
       "url": "/suburbs/vic/glen-waverley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

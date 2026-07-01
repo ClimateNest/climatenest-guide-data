@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 24
+      "scoreA": 51,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 26
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 28
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 50,
       "scoreB": 16
     },
     {
-      "name": "Cyclone",
-      "scoreA": 19,
+      "name": "Heat",
+      "scoreA": 73,
+      "scoreB": 70
+    },
+    {
+      "name": "Storm",
+      "scoreA": 25,
       "scoreB": 22
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 14,
+      "scoreB": 10
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
   "verdict": "Glenhope East has a lower overall climate risk score (32/100) compared to Glengower (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Glengower or Glenhope East safer from flooding?",
-      "answer": "Glengower has a flood risk score of 30/100, while Glenhope East scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glengower has a flood risk score of 51/100, while Glenhope East scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glengower scores 64/100 for bushfire risk. Glenhope East scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glengower scores 50/100 for bushfire risk. Glenhope East scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glengower or Glenhope East?",
@@ -76,5 +76,15 @@
       "label": "Glenhope East Should I Buy?",
       "url": "/suburbs/vic/glenhope-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

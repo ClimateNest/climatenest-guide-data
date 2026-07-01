@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 59
+      "scoreA": 24,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 35
+      "scoreA": 39,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 34
+      "scoreA": 26,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 43
+      "scoreA": 21,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Goolboo has a lower overall climate risk score (37/100) compared to Goolman (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goolboo has a lower overall climate risk score (28/100) compared to Goolman (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Goolboo or Goolman safer from flooding?",
-      "answer": "Goolboo has a flood risk score of 43/100, while Goolman scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goolboo has a flood risk score of 24/100, while Goolman scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goolboo scores 59/100 for bushfire risk. Goolman scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goolboo scores 39/100 for bushfire risk. Goolman scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goolboo or Goolman?",
@@ -76,5 +76,15 @@
       "label": "Goolman Should I Buy?",
       "url": "/suburbs/qld/goolman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

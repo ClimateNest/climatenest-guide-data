@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 57
+      "scoreA": 15,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 53
+      "scoreA": 37,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 33
+      "scoreA": 40,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 56,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 21,
+      "scoreB": 20
     }
   ],
-  "verdict": "Montecollum has a lower overall climate risk score (30/100) compared to Montefiores (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Montecollum has a lower overall climate risk score (32/100) compared to Montefiores (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Montecollum or Montefiores safer from flooding?",
-      "answer": "Montecollum has a flood risk score of 30/100, while Montefiores scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Montecollum has a flood risk score of 24/100, while Montefiores scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Montecollum scores 48/100 for bushfire risk. Montefiores scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Montecollum scores 15/100 for bushfire risk. Montefiores scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Montecollum or Montefiores?",
@@ -76,5 +76,15 @@
       "label": "Montefiores Should I Buy?",
       "url": "/suburbs/nsw/montefiores/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

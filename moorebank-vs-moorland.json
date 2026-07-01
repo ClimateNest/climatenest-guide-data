@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 31
+      "scoreA": 43,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 56
+      "scoreA": 33,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 72
+      "scoreA": 79,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 20
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 43
+      "scoreA": 59,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 29,
+      "scoreB": 14
     }
   ],
-  "verdict": "Moorland has a lower overall climate risk score (39/100) compared to Moorebank (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moorland has a lower overall climate risk score (37/100) compared to Moorebank (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moorebank or Moorland safer from flooding?",
-      "answer": "Moorebank has a flood risk score of 58/100, while Moorland scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moorebank has a flood risk score of 43/100, while Moorland scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moorebank scores 64/100 for bushfire risk. Moorland scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moorebank scores 33/100 for bushfire risk. Moorland scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moorebank or Moorland?",
@@ -76,5 +76,15 @@
       "label": "Moorland Should I Buy?",
       "url": "/suburbs/nsw/moorland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4430,
+    "projected2030": 6202,
+    "projected2050": 11518
+  },
+  "valueImpact": {
+    "dragPercent": 2.63,
+    "description": "Properties in this area may face a 2.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

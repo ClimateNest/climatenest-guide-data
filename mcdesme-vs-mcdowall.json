@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 45
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 22
-    },
-    {
-      "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 46
-    },
-    {
-      "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 24
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 16,
+      "scoreA": 57,
       "scoreB": 59
     },
     {
+      "name": "Bushfire",
+      "scoreA": 23,
+      "scoreB": 38
+    },
+    {
+      "name": "Heat",
+      "scoreA": 31,
+      "scoreB": 33
+    },
+    {
+      "name": "Storm",
+      "scoreA": 34,
+      "scoreB": 37
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 33
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 8,
+      "scoreB": 10
     }
   ],
-  "verdict": "McDesme has a lower overall climate risk score (26/100) compared to McDowall (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "McDesme has a lower overall climate risk score (29/100) compared to McDowall (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is McDesme or McDowall safer from flooding?",
-      "answer": "McDesme has a flood risk score of 31/100, while McDowall scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "McDesme has a flood risk score of 57/100, while McDowall scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "McDesme scores 16/100 for bushfire risk. McDowall scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "McDesme scores 23/100 for bushfire risk. McDowall scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in McDesme or McDowall?",
@@ -76,5 +76,15 @@
       "label": "McDowall Should I Buy?",
       "url": "/suburbs/qld/mcdowall/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

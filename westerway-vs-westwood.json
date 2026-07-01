@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 59
+      "scoreA": 36,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 57
+      "scoreA": 55,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 77
+      "scoreA": 52,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 25
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 19,
+      "scoreA": 23,
       "scoreB": 28
     },
     {
+      "name": "Coastal",
+      "scoreA": 20,
+      "scoreB": 11
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 11
     }
   ],
-  "verdict": "Westerway has a lower overall climate risk score (44/100) compared to Westwood (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Westwood has a lower overall climate risk score (30/100) compared to Westerway (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Westerway or Westwood safer from flooding?",
-      "answer": "Westerway has a flood risk score of 60/100, while Westwood scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Westerway has a flood risk score of 36/100, while Westwood scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Westerway scores 54/100 for bushfire risk. Westwood scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Westerway scores 55/100 for bushfire risk. Westwood scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Westerway or Westwood?",
-      "answer": "Both suburbs have climate considerations. Westerway has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Westwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Westwood Should I Buy?",
       "url": "/suburbs/tas/westwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

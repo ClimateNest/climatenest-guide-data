@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 45
+      "scoreA": 50,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 78
+      "scoreA": 54,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 14
+      "scoreA": 12,
+      "scoreB": 19
     }
   ],
-  "verdict": "Braybrook has a lower overall climate risk score (39/100) compared to Bravington (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bravington has a lower overall climate risk score (35/100) compared to Braybrook (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bravington or Braybrook safer from flooding?",
-      "answer": "Bravington has a flood risk score of 39/100, while Braybrook scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bravington has a flood risk score of 38/100, while Braybrook scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bravington scores 51/100 for bushfire risk. Braybrook scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bravington scores 50/100 for bushfire risk. Braybrook scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bravington or Braybrook?",
-      "answer": "Both suburbs have climate considerations. Braybrook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bravington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Braybrook Should I Buy?",
       "url": "/suburbs/vic/braybrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

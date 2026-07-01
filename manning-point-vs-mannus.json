@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 42
+      "scoreA": 31,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 25,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 64
+      "scoreA": 67,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 40,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
+      "scoreA": 33,
       "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 29
     }
   ],
-  "verdict": "Mannus has a lower overall climate risk score (34/100) compared to Manning Point (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Manning Point has a lower overall climate risk score (36/100) compared to Mannus (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Manning Point or Mannus safer from flooding?",
-      "answer": "Manning Point has a flood risk score of 53/100, while Mannus scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Manning Point has a flood risk score of 31/100, while Mannus scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Manning Point scores 46/100 for bushfire risk. Mannus scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Manning Point scores 25/100 for bushfire risk. Mannus scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Manning Point or Mannus?",
-      "answer": "Both suburbs have climate considerations. Mannus has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Manning Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mannus Should I Buy?",
       "url": "/suburbs/nsw/mannus/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

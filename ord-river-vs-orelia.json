@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 25
+      "scoreA": 46,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 56
+      "scoreA": 16,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 40,
+      "scoreA": 49,
       "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 34,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 24
     }
   ],
-  "verdict": "Ord River has a lower overall climate risk score (31/100) compared to Orelia (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ord River has a lower overall climate risk score (32/100) compared to Orelia (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ord River or Orelia safer from flooding?",
-      "answer": "Ord River has a flood risk score of 41/100, while Orelia scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ord River has a flood risk score of 46/100, while Orelia scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ord River scores 54/100 for bushfire risk. Orelia scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ord River scores 16/100 for bushfire risk. Orelia scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ord River or Orelia?",
@@ -76,5 +76,15 @@
       "label": "Orelia Should I Buy?",
       "url": "/suburbs/wa/orelia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

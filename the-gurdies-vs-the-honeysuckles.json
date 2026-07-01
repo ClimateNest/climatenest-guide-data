@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 60
+      "scoreA": 29,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 51
+      "scoreA": 29,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 79
+      "scoreA": 55,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 34
+      "scoreA": 26,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 13
     }
   ],
-  "verdict": "The Gurdies has a lower overall climate risk score (29/100) compared to The Honeysuckles (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Gurdies has a lower overall climate risk score (28/100) compared to The Honeysuckles (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Gurdies or The Honeysuckles safer from flooding?",
-      "answer": "The Gurdies has a flood risk score of 26/100, while The Honeysuckles scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Gurdies has a flood risk score of 29/100, while The Honeysuckles scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Gurdies scores 21/100 for bushfire risk. The Honeysuckles scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Gurdies scores 29/100 for bushfire risk. The Honeysuckles scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Gurdies or The Honeysuckles?",
@@ -76,5 +76,15 @@
       "label": "The Honeysuckles Should I Buy?",
       "url": "/suburbs/vic/the-honeysuckles/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

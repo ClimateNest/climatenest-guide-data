@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 39,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 74
+      "scoreA": 54,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 38,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 22
     }
   ],
-  "verdict": "Mount Pleasant has a lower overall climate risk score (42/100) compared to Mount Pritchard (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Mount Pleasant has a lower overall climate risk score (33/100) compared to Mount Pritchard (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Pleasant or Mount Pritchard safer from flooding?",
-      "answer": "Mount Pleasant has a flood risk score of 44/100, while Mount Pritchard scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Pleasant has a flood risk score of 39/100, while Mount Pritchard scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Pleasant scores 59/100 for bushfire risk. Mount Pritchard scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Pleasant scores 23/100 for bushfire risk. Mount Pritchard scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Pleasant or Mount Pritchard?",
@@ -76,5 +76,15 @@
       "label": "Mount Pritchard Should I Buy?",
       "url": "/suburbs/nsw/mount-pritchard/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

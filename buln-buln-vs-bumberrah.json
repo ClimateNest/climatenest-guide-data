@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 55
+      "scoreA": 27,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 70
+      "scoreA": 52,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 41,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 21,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
       "scoreA": 13,
-      "scoreB": 20
+      "scoreB": 18
     }
   ],
-  "verdict": "Buln Buln has a lower overall climate risk score (29/100) compared to Bumberrah (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Buln Buln has a lower overall climate risk score (33/100) compared to Bumberrah (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Buln Buln or Bumberrah safer from flooding?",
-      "answer": "Buln Buln has a flood risk score of 30/100, while Bumberrah scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buln Buln has a flood risk score of 27/100, while Bumberrah scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buln Buln scores 19/100 for bushfire risk. Bumberrah scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buln Buln scores 45/100 for bushfire risk. Bumberrah scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buln Buln or Bumberrah?",
@@ -76,5 +76,15 @@
       "label": "Bumberrah Should I Buy?",
       "url": "/suburbs/vic/bumberrah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

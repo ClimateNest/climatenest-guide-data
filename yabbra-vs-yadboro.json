@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 35
+      "scoreA": 31,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 32,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 75
+      "scoreA": 34,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 17
+      "scoreA": 54,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 23
+      "scoreA": 28,
+      "scoreB": 12
     }
   ],
-  "verdict": "Yabbra has a lower overall climate risk score (34/100) compared to Yadboro (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yabbra has a lower overall climate risk score (34/100) compared to Yadboro (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yabbra or Yadboro safer from flooding?",
-      "answer": "Yabbra has a flood risk score of 26/100, while Yadboro scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yabbra has a flood risk score of 31/100, while Yadboro scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yabbra scores 40/100 for bushfire risk. Yadboro scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yabbra scores 32/100 for bushfire risk. Yadboro scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yabbra or Yadboro?",
@@ -76,5 +76,15 @@
       "label": "Yadboro Should I Buy?",
       "url": "/suburbs/nsw/yadboro/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

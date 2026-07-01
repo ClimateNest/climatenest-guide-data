@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 59,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
+      "scoreA": 37,
       "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 77
+      "scoreA": 69,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 20
+      "scoreA": 40,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 17
     }
   ],
-  "verdict": "Waeel has a lower overall climate risk score (34/100) compared to Waddington (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Waeel has a lower overall climate risk score (30/100) compared to Waddington (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Waddington or Waeel safer from flooding?",
-      "answer": "Waddington has a flood risk score of 45/100, while Waeel scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waddington has a flood risk score of 59/100, while Waeel scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waddington scores 41/100 for bushfire risk. Waeel scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waddington scores 37/100 for bushfire risk. Waeel scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waddington or Waeel?",
@@ -76,5 +76,15 @@
       "label": "Waeel Should I Buy?",
       "url": "/suburbs/wa/waeel/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

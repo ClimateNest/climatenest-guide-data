@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 43
+      "scoreA": 25,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 49
+      "scoreA": 50,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 52
+      "scoreA": 60,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 45
+      "scoreA": 29,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 20
+      "scoreA": 46,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 12
     }
   ],
-  "verdict": "Kandos has a lower overall climate risk score (38/100) compared to Kanahooka (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kandos has a lower overall climate risk score (35/100) compared to Kanahooka (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kanahooka or Kandos safer from flooding?",
-      "answer": "Kanahooka has a flood risk score of 24/100, while Kandos scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kanahooka has a flood risk score of 25/100, while Kandos scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kanahooka scores 59/100 for bushfire risk. Kandos scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kanahooka scores 50/100 for bushfire risk. Kandos scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kanahooka or Kandos?",
@@ -76,5 +76,15 @@
       "label": "Kandos Should I Buy?",
       "url": "/suburbs/nsw/kandos/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

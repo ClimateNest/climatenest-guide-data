@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 31
+      "scoreA": 59,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 22
+      "scoreA": 25,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 33
+      "scoreA": 67,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 26,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 14,
+      "scoreB": 14
     }
   ],
-  "verdict": "Wedgefield has a lower overall climate risk score (30/100) compared to Wedge Island (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wedgefield has a lower overall climate risk score (31/100) compared to Wedge Island (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wedge Island or Wedgefield safer from flooding?",
-      "answer": "Wedge Island has a flood risk score of 49/100, while Wedgefield scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wedge Island has a flood risk score of 59/100, while Wedgefield scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wedge Island scores 23/100 for bushfire risk. Wedgefield scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wedge Island scores 25/100 for bushfire risk. Wedgefield scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wedge Island or Wedgefield?",
@@ -76,5 +76,15 @@
       "label": "Wedgefield Should I Buy?",
       "url": "/suburbs/wa/wedgefield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

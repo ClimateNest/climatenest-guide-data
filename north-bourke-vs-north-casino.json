@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 34,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 55
-    },
-    {
-      "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 42
-    },
-    {
-      "name": "Storm",
       "scoreA": 45,
-      "scoreB": 33
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 20,
       "scoreB": 47
     },
     {
-      "name": "Cyclone",
-      "scoreA": 18,
+      "name": "Heat",
+      "scoreA": 35,
+      "scoreB": 48
+    },
+    {
+      "name": "Storm",
+      "scoreA": 46,
       "scoreB": 20
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 23,
+      "scoreB": 54
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 27,
+      "scoreB": 19
     }
   ],
-  "verdict": "North Bourke has a lower overall climate risk score (34/100) compared to North Casino (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Bourke has a lower overall climate risk score (35/100) compared to North Casino (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Bourke or North Casino safer from flooding?",
-      "answer": "North Bourke has a flood risk score of 42/100, while North Casino scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Bourke has a flood risk score of 34/100, while North Casino scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Bourke scores 37/100 for bushfire risk. North Casino scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Bourke scores 45/100 for bushfire risk. North Casino scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Bourke or North Casino?",
@@ -76,5 +76,15 @@
       "label": "North Casino Should I Buy?",
       "url": "/suburbs/nsw/north-casino/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

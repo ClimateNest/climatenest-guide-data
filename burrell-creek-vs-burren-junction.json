@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 53
+      "scoreA": 43,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 41
-    },
-    {
-      "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 79
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 41
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 33,
+      "scoreA": 37,
       "scoreB": 16
     },
     {
+      "name": "Heat",
+      "scoreA": 57,
+      "scoreB": 68
+    },
+    {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 43
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 47,
+      "scoreB": 12
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 21
     }
   ],
-  "verdict": "Burrell Creek has a lower overall climate risk score (42/100) compared to Burren Junction (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Burren Junction has a lower overall climate risk score (34/100) compared to Burrell Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Burrell Creek or Burren Junction safer from flooding?",
-      "answer": "Burrell Creek has a flood risk score of 47/100, while Burren Junction scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burrell Creek has a flood risk score of 43/100, while Burren Junction scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burrell Creek scores 53/100 for bushfire risk. Burren Junction scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burrell Creek scores 37/100 for bushfire risk. Burren Junction scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burrell Creek or Burren Junction?",
-      "answer": "Both suburbs have climate considerations. Burrell Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Burren Junction has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Burren Junction Should I Buy?",
       "url": "/suburbs/nsw/burren-junction/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

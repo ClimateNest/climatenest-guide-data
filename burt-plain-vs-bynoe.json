@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 25
+      "scoreA": 54,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 34
+      "scoreA": 30,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 30
+      "scoreA": 31,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 10,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 11,
+      "scoreB": 13
     }
   ],
-  "verdict": "Bynoe has a lower overall climate risk score (27/100) compared to Burt Plain (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Burt Plain has a lower overall climate risk score (29/100) compared to Bynoe (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burt Plain or Bynoe safer from flooding?",
-      "answer": "Burt Plain has a flood risk score of 47/100, while Bynoe scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burt Plain has a flood risk score of 54/100, while Bynoe scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burt Plain scores 62/100 for bushfire risk. Bynoe scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burt Plain scores 30/100 for bushfire risk. Bynoe scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burt Plain or Bynoe?",
-      "answer": "Both suburbs have climate considerations. Bynoe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Burt Plain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bynoe Should I Buy?",
       "url": "/suburbs/nt/bynoe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3331,
+    "projected2030": 4663,
+    "projected2050": 8660
+  },
+  "valueImpact": {
+    "dragPercent": 0.2,
+    "description": "Properties in this area may face a 0.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

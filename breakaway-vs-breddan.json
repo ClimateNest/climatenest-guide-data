@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 44
+      "scoreA": 50,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 38
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
+      "scoreA": 57,
       "scoreB": 37
     },
     {
-      "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 45
+      "name": "Heat",
+      "scoreA": 50,
+      "scoreB": 42
     },
     {
-      "name": "Coastal",
-      "scoreA": 20,
+      "name": "Storm",
+      "scoreA": 31,
       "scoreB": 29
     },
     {
+      "name": "Coastal",
+      "scoreA": 24,
+      "scoreB": 25
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 15
+      "scoreA": 15,
+      "scoreB": 7
     }
   ],
-  "verdict": "Breddan has a lower overall climate risk score (35/100) compared to Breakaway (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Breddan has a lower overall climate risk score (29/100) compared to Breakaway (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Breakaway or Breddan safer from flooding?",
-      "answer": "Breakaway has a flood risk score of 48/100, while Breddan scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Breakaway has a flood risk score of 50/100, while Breddan scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Breakaway scores 48/100 for bushfire risk. Breddan scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Breakaway scores 57/100 for bushfire risk. Breddan scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Breakaway or Breddan?",
@@ -76,5 +76,15 @@
       "label": "Breddan Should I Buy?",
       "url": "/suburbs/qld/breddan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

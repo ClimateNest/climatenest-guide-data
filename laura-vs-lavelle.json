@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 41
+      "scoreA": 41,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 38
+      "scoreA": 24,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 34,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 50,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 18,
+      "scoreB": 20
     }
   ],
-  "verdict": "Laura has a lower overall climate risk score (32/100) compared to Lavelle (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Laura has a lower overall climate risk score (32/100) compared to Lavelle (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Laura or Lavelle safer from flooding?",
-      "answer": "Laura has a flood risk score of 22/100, while Lavelle scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Laura has a flood risk score of 41/100, while Lavelle scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Laura scores 48/100 for bushfire risk. Lavelle scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Laura scores 24/100 for bushfire risk. Lavelle scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Laura or Lavelle?",
@@ -76,5 +76,15 @@
       "label": "Lavelle Should I Buy?",
       "url": "/suburbs/qld/lavelle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

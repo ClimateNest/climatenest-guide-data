@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 27
+      "scoreA": 37,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 64
+      "scoreA": 62,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 52
+      "scoreA": 60,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 41
+      "scoreA": 32,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 16,
+      "scoreB": 20
     }
   ],
-  "verdict": "Brunswick West has a lower overall climate risk score (38/100) compared to Brunswick (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Brunswick West has a lower overall climate risk score (37/100) compared to Brunswick (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Brunswick or Brunswick West safer from flooding?",
-      "answer": "Brunswick has a flood risk score of 57/100, while Brunswick West scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brunswick has a flood risk score of 37/100, while Brunswick West scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brunswick scores 42/100 for bushfire risk. Brunswick West scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brunswick scores 62/100 for bushfire risk. Brunswick West scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brunswick or Brunswick West?",
@@ -76,5 +76,15 @@
       "label": "Brunswick West Should I Buy?",
       "url": "/suburbs/vic/brunswick-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

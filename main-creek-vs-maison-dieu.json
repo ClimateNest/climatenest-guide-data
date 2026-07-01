@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 55
+      "scoreA": 30,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 16
+      "scoreA": 53,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 68
+      "scoreA": 55,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 20
+      "scoreA": 33,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 24
+      "scoreA": 10,
+      "scoreB": 12
     }
   ],
-  "verdict": "Maison Dieu has a lower overall climate risk score (39/100) compared to Main Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Maison Dieu has a lower overall climate risk score (33/100) compared to Main Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Main Creek or Maison Dieu safer from flooding?",
-      "answer": "Main Creek has a flood risk score of 20/100, while Maison Dieu scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Main Creek has a flood risk score of 30/100, while Maison Dieu scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Main Creek scores 40/100 for bushfire risk. Maison Dieu scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Main Creek scores 53/100 for bushfire risk. Maison Dieu scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Main Creek or Maison Dieu?",
@@ -76,5 +76,15 @@
       "label": "Maison Dieu Should I Buy?",
       "url": "/suburbs/nsw/maison-dieu/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

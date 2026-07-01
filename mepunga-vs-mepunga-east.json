@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 48
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 57
+      "scoreA": 41,
+      "scoreB": 62
     },
     {
       "name": "Heat",
       "scoreA": 54,
-      "scoreB": 56
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 49,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
       "scoreA": 26,
-      "scoreB": 12
+      "scoreB": 24
     }
   ],
-  "verdict": "Mepunga East has a lower overall climate risk score (37/100) compared to Mepunga (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mepunga East has a lower overall climate risk score (36/100) compared to Mepunga (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mepunga or Mepunga East safer from flooding?",
-      "answer": "Mepunga has a flood risk score of 34/100, while Mepunga East scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mepunga has a flood risk score of 50/100, while Mepunga East scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mepunga scores 61/100 for bushfire risk. Mepunga East scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mepunga scores 41/100 for bushfire risk. Mepunga East scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mepunga or Mepunga East?",
@@ -76,5 +76,15 @@
       "label": "Mepunga East Should I Buy?",
       "url": "/suburbs/vic/mepunga-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

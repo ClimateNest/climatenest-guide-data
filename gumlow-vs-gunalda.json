@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 46
+      "scoreA": 23,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 47
+      "scoreA": 24,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 24
+      "scoreA": 37,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 34
+      "scoreA": 29,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 30
     }
   ],
-  "verdict": "Gumlow has a lower overall climate risk score (29/100) compared to Gunalda (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gumlow has a lower overall climate risk score (30/100) compared to Gunalda (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gumlow or Gunalda safer from flooding?",
-      "answer": "Gumlow has a flood risk score of 31/100, while Gunalda scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gumlow has a flood risk score of 23/100, while Gunalda scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gumlow scores 38/100 for bushfire risk. Gunalda scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gumlow scores 24/100 for bushfire risk. Gunalda scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gumlow or Gunalda?",
@@ -76,5 +76,15 @@
       "label": "Gunalda Should I Buy?",
       "url": "/suburbs/qld/gunalda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

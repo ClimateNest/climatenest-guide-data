@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 49
+      "scoreA": 58,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 40
+      "scoreA": 62,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 39
     },
     {
       "name": "Storm",
       "scoreA": 26,
-      "scoreB": 28
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
+      "scoreA": 26,
       "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 17
     }
   ],
-  "verdict": "Bolwarra has a lower overall climate risk score (32/100) compared to Bon Accord (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bon Accord has a lower overall climate risk score (37/100) compared to Bolwarra (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bolwarra or Bon Accord safer from flooding?",
-      "answer": "Bolwarra has a flood risk score of 45/100, while Bon Accord scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bolwarra has a flood risk score of 58/100, while Bon Accord scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bolwarra scores 49/100 for bushfire risk. Bon Accord scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bolwarra scores 62/100 for bushfire risk. Bon Accord scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bolwarra or Bon Accord?",
-      "answer": "Both suburbs have climate considerations. Bolwarra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bon Accord has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bon Accord Should I Buy?",
       "url": "/suburbs/qld/bon-accord/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

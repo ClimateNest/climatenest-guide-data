@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 35
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 27
+      "scoreA": 56,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 53
+      "scoreA": 70,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 38
+      "scoreA": 30,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 53
+      "scoreA": 17,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 25
     }
   ],
-  "verdict": "Spencer has a lower overall climate risk score (38/100) compared to Speewa (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Speewa has a lower overall climate risk score (36/100) compared to Spencer (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Speewa or Spencer safer from flooding?",
-      "answer": "Speewa has a flood risk score of 50/100, while Spencer scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Speewa has a flood risk score of 20/100, while Spencer scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Speewa scores 63/100 for bushfire risk. Spencer scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Speewa scores 56/100 for bushfire risk. Spencer scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Speewa or Spencer?",
-      "answer": "Both suburbs have climate considerations. Spencer has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Speewa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Spencer Should I Buy?",
       "url": "/suburbs/nsw/spencer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

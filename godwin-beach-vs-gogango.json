@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 38
+      "scoreA": 37,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 44
+      "scoreA": 30,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 36,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 25
+      "scoreA": 32,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 8
     }
   ],
-  "verdict": "Gogango has a lower overall climate risk score (32/100) compared to Godwin Beach (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gogango has a lower overall climate risk score (33/100) compared to Godwin Beach (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Godwin Beach or Gogango safer from flooding?",
-      "answer": "Godwin Beach has a flood risk score of 55/100, while Gogango scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Godwin Beach has a flood risk score of 46/100, while Gogango scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Godwin Beach scores 59/100 for bushfire risk. Gogango scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Godwin Beach scores 37/100 for bushfire risk. Gogango scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Godwin Beach or Gogango?",
@@ -76,5 +76,15 @@
       "label": "Gogango Should I Buy?",
       "url": "/suburbs/qld/gogango/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

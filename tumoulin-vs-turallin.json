@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 23
+      "scoreA": 50,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
+      "scoreA": 34,
       "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 38
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
+      "scoreA": 31,
       "scoreB": 47
     },
     {
+      "name": "Storm",
+      "scoreA": 41,
+      "scoreB": 27
+    },
+    {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 33
+      "scoreA": 15,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 19
+      "scoreA": 6,
+      "scoreB": 24
     }
   ],
-  "verdict": "Tumoulin has a lower overall climate risk score (31/100) compared to Turallin (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tumoulin has a lower overall climate risk score (30/100) compared to Turallin (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tumoulin or Turallin safer from flooding?",
-      "answer": "Tumoulin has a flood risk score of 57/100, while Turallin scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tumoulin has a flood risk score of 50/100, while Turallin scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tumoulin scores 24/100 for bushfire risk. Turallin scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tumoulin scores 34/100 for bushfire risk. Turallin scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tumoulin or Turallin?",
@@ -76,5 +76,15 @@
       "label": "Turallin Should I Buy?",
       "url": "/suburbs/qld/turallin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

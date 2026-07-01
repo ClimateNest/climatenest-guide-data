@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 36,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 15,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 75,
+      "scoreA": 57,
       "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 30
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 12,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 27
     }
   ],
-  "verdict": "Redmond has a lower overall climate risk score (33/100) compared to Redcliffe (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Redcliffe has a lower overall climate risk score (29/100) compared to Redmond (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Redcliffe or Redmond safer from flooding?",
-      "answer": "Redcliffe has a flood risk score of 46/100, while Redmond scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Redcliffe has a flood risk score of 36/100, while Redmond scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Redcliffe scores 21/100 for bushfire risk. Redmond scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Redcliffe scores 15/100 for bushfire risk. Redmond scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Redcliffe or Redmond?",
-      "answer": "Both suburbs have climate considerations. Redmond has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Redcliffe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Redmond Should I Buy?",
       "url": "/suburbs/wa/redmond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

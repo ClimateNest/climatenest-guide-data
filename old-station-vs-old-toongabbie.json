@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 34
+      "scoreA": 28,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 48
+      "scoreA": 43,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 52
+      "scoreA": 66,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 50
+      "scoreA": 60,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 14,
+      "scoreB": 30
     }
   ],
-  "verdict": "Old Station has a lower overall climate risk score (39/100) compared to Old Toongabbie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Old Toongabbie has a lower overall climate risk score (36/100) compared to Old Station (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Old Station or Old Toongabbie safer from flooding?",
-      "answer": "Old Station has a flood risk score of 50/100, while Old Toongabbie scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Old Station has a flood risk score of 28/100, while Old Toongabbie scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Old Station scores 30/100 for bushfire risk. Old Toongabbie scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Old Station scores 43/100 for bushfire risk. Old Toongabbie scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Old Station or Old Toongabbie?",
-      "answer": "Both suburbs have climate considerations. Old Station has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Old Toongabbie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Old Toongabbie Should I Buy?",
       "url": "/suburbs/nsw/old-toongabbie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 34
+      "scoreA": 64,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 50
+      "scoreA": 71,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 13,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 24,
+      "scoreB": 20
     }
   ],
-  "verdict": "Hambidge has a lower overall climate risk score (31/100) compared to Hallett (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hambidge has a lower overall climate risk score (35/100) compared to Hallett (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hallett or Hambidge safer from flooding?",
-      "answer": "Hallett has a flood risk score of 52/100, while Hambidge scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hallett has a flood risk score of 26/100, while Hambidge scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hallett scores 53/100 for bushfire risk. Hambidge scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hallett scores 64/100 for bushfire risk. Hambidge scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hallett or Hambidge?",
@@ -76,5 +76,15 @@
       "label": "Hambidge Should I Buy?",
       "url": "/suburbs/sa/hambidge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

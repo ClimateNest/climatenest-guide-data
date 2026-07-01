@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 42
+      "scoreA": 25,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 47
+      "scoreA": 33,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 42
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 24
+      "scoreA": 56,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 9
+      "scoreA": 12,
+      "scoreB": 6
     }
   ],
-  "verdict": "Feluga has a lower overall climate risk score (35/100) compared to Felton (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Felton has a lower overall climate risk score (33/100) compared to Feluga (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Felton or Feluga safer from flooding?",
-      "answer": "Felton has a flood risk score of 42/100, while Feluga scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Felton has a flood risk score of 41/100, while Feluga scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Felton scores 33/100 for bushfire risk. Feluga scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Felton scores 25/100 for bushfire risk. Feluga scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Felton or Feluga?",
-      "answer": "Both suburbs have climate considerations. Feluga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Felton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Feluga Should I Buy?",
       "url": "/suburbs/qld/feluga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

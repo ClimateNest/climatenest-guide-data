@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 53
+      "scoreA": 55,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 62
+      "scoreA": 61,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 48,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 14,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
+      "scoreA": 20,
       "scoreB": 20
     }
   ],
-  "verdict": "Seddon has a lower overall climate risk score (32/100) compared to Selby (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Seddon and Selby have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Seddon or Selby safer from flooding?",
-      "answer": "Seddon has a flood risk score of 32/100, while Selby scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Seddon has a flood risk score of 23/100, while Selby scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Seddon scores 42/100 for bushfire risk. Selby scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Seddon scores 55/100 for bushfire risk. Selby scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Seddon or Selby?",
@@ -76,5 +76,15 @@
       "label": "Selby Should I Buy?",
       "url": "/suburbs/vic/selby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

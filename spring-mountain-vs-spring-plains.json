@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 55
+      "scoreA": 51,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 63
+      "scoreA": 60,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 49
+      "scoreA": 48,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 10
+      "scoreA": 48,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "Spring Mountain has a lower overall climate risk score (32/100) compared to Spring Plains (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Spring Plains has a lower overall climate risk score (30/100) compared to Spring Mountain (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Spring Mountain or Spring Plains safer from flooding?",
-      "answer": "Spring Mountain has a flood risk score of 33/100, while Spring Plains scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Spring Mountain has a flood risk score of 51/100, while Spring Plains scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Spring Mountain scores 16/100 for bushfire risk. Spring Plains scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Spring Mountain scores 60/100 for bushfire risk. Spring Plains scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Spring Mountain or Spring Plains?",
-      "answer": "Both suburbs have climate considerations. Spring Mountain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Spring Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Spring Plains Should I Buy?",
       "url": "/suburbs/nsw/spring-plains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4385,
+    "projected2030": 6139,
+    "projected2050": 11400
+  },
+  "valueImpact": {
+    "dragPercent": 2.53,
+    "description": "Properties in this area may face a 2.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

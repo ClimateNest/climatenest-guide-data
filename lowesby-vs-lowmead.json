@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 32
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Storm",
       "scoreA": 38,
-      "scoreB": 20
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 37
+      "scoreA": 21,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 16
     }
   ],
-  "verdict": "Lowmead has a lower overall climate risk score (27/100) compared to Lowesby (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lowesby has a lower overall climate risk score (29/100) compared to Lowmead (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lowesby or Lowmead safer from flooding?",
-      "answer": "Lowesby has a flood risk score of 47/100, while Lowmead scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lowesby has a flood risk score of 31/100, while Lowmead scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lowesby scores 61/100 for bushfire risk. Lowmead scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lowesby scores 27/100 for bushfire risk. Lowmead scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lowesby or Lowmead?",
-      "answer": "Both suburbs have climate considerations. Lowmead has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lowesby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lowmead Should I Buy?",
       "url": "/suburbs/qld/lowmead/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

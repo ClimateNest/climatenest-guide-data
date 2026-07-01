@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 51
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 74
+      "scoreA": 59,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 12
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 13,
+      "scoreB": 14
     }
   ],
-  "verdict": "Jarklin has a lower overall climate risk score (34/100) compared to Jarrahmond (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jarklin has a lower overall climate risk score (33/100) compared to Jarrahmond (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jarklin or Jarrahmond safer from flooding?",
-      "answer": "Jarklin has a flood risk score of 36/100, while Jarrahmond scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jarklin has a flood risk score of 30/100, while Jarrahmond scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jarklin scores 19/100 for bushfire risk. Jarrahmond scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jarklin scores 18/100 for bushfire risk. Jarrahmond scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jarklin or Jarrahmond?",
@@ -76,5 +76,15 @@
       "label": "Jarrahmond Should I Buy?",
       "url": "/suburbs/vic/jarrahmond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

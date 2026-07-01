@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 56
+      "scoreA": 45,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 16
+      "scoreA": 30,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 32
+      "scoreA": 42,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 42
+      "scoreA": 26,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 50
+      "scoreA": 19,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 23
+      "scoreA": 7,
+      "scoreB": 29
     }
   ],
-  "verdict": "Alabama Hill has a lower overall climate risk score (35/100) compared to Albany Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Alabama Hill has a lower overall climate risk score (28/100) compared to Albany Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Alabama Hill or Albany Creek safer from flooding?",
-      "answer": "Alabama Hill has a flood risk score of 28/100, while Albany Creek scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alabama Hill has a flood risk score of 45/100, while Albany Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alabama Hill scores 64/100 for bushfire risk. Albany Creek scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alabama Hill scores 30/100 for bushfire risk. Albany Creek scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alabama Hill or Albany Creek?",
@@ -76,5 +76,15 @@
       "label": "Albany Creek Should I Buy?",
       "url": "/suburbs/qld/albany-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

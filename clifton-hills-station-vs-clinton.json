@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 25
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
+      "scoreA": 55,
       "scoreB": 52
     },
     {
+      "name": "Heat",
+      "scoreA": 37,
+      "scoreB": 62
+    },
+    {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 32
+      "scoreA": 34,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 11,
+      "scoreB": 14
     }
   ],
-  "verdict": "Clinton has a lower overall climate risk score (31/100) compared to Clifton Hills Station (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Clifton Hills Station has a lower overall climate risk score (30/100) compared to Clinton (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Clifton Hills Station or Clinton safer from flooding?",
-      "answer": "Clifton Hills Station has a flood risk score of 29/100, while Clinton scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clifton Hills Station has a flood risk score of 22/100, while Clinton scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clifton Hills Station scores 26/100 for bushfire risk. Clinton scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clifton Hills Station scores 55/100 for bushfire risk. Clinton scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clifton Hills Station or Clinton?",
-      "answer": "Both suburbs have climate considerations. Clinton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Clifton Hills Station has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Clinton Should I Buy?",
       "url": "/suburbs/sa/clinton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

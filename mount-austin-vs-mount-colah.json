@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 52
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 52
+      "scoreA": 77,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 41
+      "scoreA": 48,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 38
+      "scoreA": 11,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 20
     }
   ],
-  "verdict": "Mount Austin has a lower overall climate risk score (29/100) compared to Mount Colah (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Austin has a lower overall climate risk score (37/100) compared to Mount Colah (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Austin or Mount Colah safer from flooding?",
-      "answer": "Mount Austin has a flood risk score of 28/100, while Mount Colah scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Austin has a flood risk score of 39/100, while Mount Colah scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Austin scores 18/100 for bushfire risk. Mount Colah scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Austin scores 29/100 for bushfire risk. Mount Colah scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Austin or Mount Colah?",
@@ -76,5 +76,15 @@
       "label": "Mount Colah Should I Buy?",
       "url": "/suburbs/nsw/mount-colah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

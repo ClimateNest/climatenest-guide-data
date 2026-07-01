@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 42
+      "scoreA": 55,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 18
+      "scoreA": 39,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 53
+      "scoreA": 55,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 41
+      "scoreA": 25,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 26,
+      "scoreB": 27
     }
   ],
-  "verdict": "Yalpara has a lower overall climate risk score (31/100) compared to Yallunda Flat (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yalpara has a lower overall climate risk score (33/100) compared to Yallunda Flat (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yallunda Flat or Yalpara safer from flooding?",
-      "answer": "Yallunda Flat has a flood risk score of 20/100, while Yalpara scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yallunda Flat has a flood risk score of 55/100, while Yalpara scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yallunda Flat scores 32/100 for bushfire risk. Yalpara scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yallunda Flat scores 39/100 for bushfire risk. Yalpara scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yallunda Flat or Yalpara?",
@@ -76,5 +76,15 @@
       "label": "Yalpara Should I Buy?",
       "url": "/suburbs/sa/yalpara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

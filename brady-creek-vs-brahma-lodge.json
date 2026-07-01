@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 51,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 57
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 52
+      "scoreA": 77,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 43,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 11,
-      "scoreB": 22
+      "scoreB": 15
     }
   ],
-  "verdict": "Brady Creek has a lower overall climate risk score (28/100) compared to Brahma Lodge (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Brahma Lodge has a lower overall climate risk score (35/100) compared to Brady Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Brady Creek or Brahma Lodge safer from flooding?",
-      "answer": "Brady Creek has a flood risk score of 25/100, while Brahma Lodge scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brady Creek has a flood risk score of 51/100, while Brahma Lodge scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brady Creek scores 19/100 for bushfire risk. Brahma Lodge scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brady Creek scores 39/100 for bushfire risk. Brahma Lodge scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brady Creek or Brahma Lodge?",
-      "answer": "Both suburbs have climate considerations. Brady Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Brahma Lodge has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Brahma Lodge Should I Buy?",
       "url": "/suburbs/sa/brahma-lodge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

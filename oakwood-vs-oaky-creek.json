@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 49
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 29
-    },
-    {
-      "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
-      "scoreA": 22,
+      "scoreA": 38,
       "scoreB": 31
     },
     {
+      "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 19
+    },
+    {
+      "name": "Heat",
+      "scoreA": 32,
+      "scoreB": 40
+    },
+    {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 57
+      "scoreA": 58,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 11
     }
   ],
-  "verdict": "Oakwood has a lower overall climate risk score (29/100) compared to Oaky Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Oaky Creek has a lower overall climate risk score (34/100) compared to Oakwood (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Oakwood or Oaky Creek safer from flooding?",
-      "answer": "Oakwood has a flood risk score of 32/100, while Oaky Creek scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oakwood has a flood risk score of 38/100, while Oaky Creek scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oakwood scores 18/100 for bushfire risk. Oaky Creek scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oakwood scores 37/100 for bushfire risk. Oaky Creek scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oakwood or Oaky Creek?",
-      "answer": "Both suburbs have climate considerations. Oakwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Oaky Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Oaky Creek Should I Buy?",
       "url": "/suburbs/qld/oaky-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

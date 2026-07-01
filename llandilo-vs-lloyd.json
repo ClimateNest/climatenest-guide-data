@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 34,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 37
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 52
+      "scoreA": 66,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 45
+      "scoreA": 49,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 19
+      "scoreA": 44,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 30
+      "scoreA": 11,
+      "scoreB": 14
     }
   ],
-  "verdict": "Lloyd has a lower overall climate risk score (34/100) compared to Llandilo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lloyd has a lower overall climate risk score (35/100) compared to Llandilo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Llandilo or Lloyd safer from flooding?",
-      "answer": "Llandilo has a flood risk score of 32/100, while Lloyd scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Llandilo has a flood risk score of 34/100, while Lloyd scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Llandilo scores 47/100 for bushfire risk. Lloyd scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Llandilo scores 31/100 for bushfire risk. Lloyd scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Llandilo or Lloyd?",
@@ -76,5 +76,15 @@
       "label": "Lloyd Should I Buy?",
       "url": "/suburbs/nsw/lloyd/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

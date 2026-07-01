@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 42
+      "scoreA": 58,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 48,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 59
+      "scoreA": 59,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 48
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 60,
+      "scoreA": 39,
       "scoreB": 20
     },
     {
+      "name": "Coastal",
+      "scoreA": 37,
+      "scoreB": 22
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 23
     }
   ],
-  "verdict": "North Yalgogrin has a lower overall climate risk score (41/100) compared to North Wollongong (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Yalgogrin has a lower overall climate risk score (35/100) compared to North Wollongong (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Wollongong or North Yalgogrin safer from flooding?",
-      "answer": "North Wollongong has a flood risk score of 34/100, while North Yalgogrin scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Wollongong has a flood risk score of 58/100, while North Yalgogrin scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Wollongong scores 49/100 for bushfire risk. North Yalgogrin scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Wollongong scores 48/100 for bushfire risk. North Yalgogrin scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Wollongong or North Yalgogrin?",
@@ -76,5 +76,15 @@
       "label": "North Yalgogrin Should I Buy?",
       "url": "/suburbs/nsw/north-yalgogrin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

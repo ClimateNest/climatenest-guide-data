@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 48
+      "scoreA": 55,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 50
+      "scoreA": 46,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 63
+      "scoreA": 78,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 17
     }
   ],
-  "verdict": "Wiarborough has a lower overall climate risk score (36/100) compared to Widden (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Widden has a lower overall climate risk score (39/100) compared to Wiarborough (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wiarborough or Widden safer from flooding?",
-      "answer": "Wiarborough has a flood risk score of 24/100, while Widden scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wiarborough has a flood risk score of 55/100, while Widden scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wiarborough scores 50/100 for bushfire risk. Widden scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wiarborough scores 46/100 for bushfire risk. Widden scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wiarborough or Widden?",
-      "answer": "Both suburbs have climate considerations. Wiarborough has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Widden has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Widden Should I Buy?",
       "url": "/suburbs/nsw/widden/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

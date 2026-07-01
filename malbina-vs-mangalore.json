@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 30
+      "scoreA": 49,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 55
+      "scoreA": 17,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 53
+      "scoreA": 58,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 22
+      "scoreA": 40,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 13,
       "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 21,
+      "scoreB": 20
     }
   ],
-  "verdict": "Mangalore has a lower overall climate risk score (31/100) compared to Malbina (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Malbina has a lower overall climate risk score (33/100) compared to Mangalore (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Malbina or Mangalore safer from flooding?",
-      "answer": "Malbina has a flood risk score of 48/100, while Mangalore scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Malbina has a flood risk score of 49/100, while Mangalore scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Malbina scores 59/100 for bushfire risk. Mangalore scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Malbina scores 17/100 for bushfire risk. Mangalore scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Malbina or Mangalore?",
-      "answer": "Both suburbs have climate considerations. Mangalore has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Malbina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mangalore Should I Buy?",
       "url": "/suburbs/tas/mangalore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

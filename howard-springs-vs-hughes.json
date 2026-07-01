@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 54
+      "scoreA": 33,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 39
-    },
-    {
-      "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 35
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 39
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 28,
       "scoreB": 29
     },
     {
+      "name": "Heat",
+      "scoreA": 40,
+      "scoreB": 48
+    },
+    {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 31
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 28,
+      "scoreB": 27
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 17
+      "scoreA": 7,
+      "scoreB": 14
     }
   ],
-  "verdict": "Howard Springs has a lower overall climate risk score (33/100) compared to Hughes (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Howard Springs has a lower overall climate risk score (31/100) compared to Hughes (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Howard Springs or Hughes safer from flooding?",
-      "answer": "Howard Springs has a flood risk score of 57/100, while Hughes scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Howard Springs has a flood risk score of 33/100, while Hughes scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Howard Springs scores 37/100 for bushfire risk. Hughes scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Howard Springs scores 28/100 for bushfire risk. Hughes scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Howard Springs or Hughes?",
@@ -76,5 +76,15 @@
       "label": "Hughes Should I Buy?",
       "url": "/suburbs/nt/hughes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3308,
+    "projected2030": 4631,
+    "projected2050": 8601
+  },
+  "valueImpact": {
+    "dragPercent": 0.15,
+    "description": "Properties in this area may face a 0.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

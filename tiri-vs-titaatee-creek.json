@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 40
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 49
-    },
-    {
-      "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 58
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 43,
       "scoreB": 27
     },
     {
+      "name": "Bushfire",
+      "scoreA": 59,
+      "scoreB": 37
+    },
+    {
+      "name": "Heat",
+      "scoreA": 80,
+      "scoreB": 74
+    },
+    {
+      "name": "Storm",
+      "scoreA": 26,
+      "scoreB": 45
+    },
+    {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 20
     }
   ],
-  "verdict": "Titaatee Creek has a lower overall climate risk score (41/100) compared to Tiri (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Titaatee Creek has a lower overall climate risk score (43/100) compared to Tiri (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tiri or Titaatee Creek safer from flooding?",
-      "answer": "Tiri has a flood risk score of 42/100, while Titaatee Creek scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tiri has a flood risk score of 43/100, while Titaatee Creek scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tiri scores 49/100 for bushfire risk. Titaatee Creek scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tiri scores 59/100 for bushfire risk. Titaatee Creek scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tiri or Titaatee Creek?",
@@ -76,5 +76,15 @@
       "label": "Titaatee Creek Should I Buy?",
       "url": "/suburbs/nsw/titaatee-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

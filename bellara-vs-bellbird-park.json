@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 44
+      "scoreA": 40,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 64
+      "scoreA": 27,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 38
+      "scoreA": 29,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 40
+      "scoreA": 31,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "Bellara has a lower overall climate risk score (34/100) compared to Bellbird Park (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bellara has a lower overall climate risk score (30/100) compared to Bellbird Park (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bellara or Bellbird Park safer from flooding?",
-      "answer": "Bellara has a flood risk score of 45/100, while Bellbird Park scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellara has a flood risk score of 40/100, while Bellbird Park scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellara scores 16/100 for bushfire risk. Bellbird Park scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellara scores 27/100 for bushfire risk. Bellbird Park scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellara or Bellbird Park?",
@@ -76,5 +76,15 @@
       "label": "Bellbird Park Should I Buy?",
       "url": "/suburbs/qld/bellbird-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

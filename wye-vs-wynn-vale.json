@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 23
+      "scoreA": 37,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 19
+      "scoreA": 64,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 79
+      "scoreA": 64,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 25
+      "scoreA": 46,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 10
+      "scoreA": 12,
+      "scoreB": 28
     }
   ],
-  "verdict": "Wynn Vale has a lower overall climate risk score (28/100) compared to Wye (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wynn Vale has a lower overall climate risk score (35/100) compared to Wye (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wye or Wynn Vale safer from flooding?",
-      "answer": "Wye has a flood risk score of 54/100, while Wynn Vale scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wye has a flood risk score of 37/100, while Wynn Vale scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wye scores 34/100 for bushfire risk. Wynn Vale scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wye scores 64/100 for bushfire risk. Wynn Vale scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wye or Wynn Vale?",
@@ -76,5 +76,15 @@
       "label": "Wynn Vale Should I Buy?",
       "url": "/suburbs/sa/wynn-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

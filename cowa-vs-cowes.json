@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 60
+      "scoreA": 21,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 79
+      "scoreA": 68,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 46
+      "scoreA": 39,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 11,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 21
     }
   ],
-  "verdict": "Cowa has a lower overall climate risk score (38/100) compared to Cowes (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cowa has a lower overall climate risk score (31/100) compared to Cowes (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cowa or Cowes safer from flooding?",
-      "answer": "Cowa has a flood risk score of 57/100, while Cowes scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cowa has a flood risk score of 23/100, while Cowes scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cowa scores 36/100 for bushfire risk. Cowes scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cowa scores 21/100 for bushfire risk. Cowes scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cowa or Cowes?",
@@ -76,5 +76,15 @@
       "label": "Cowes Should I Buy?",
       "url": "/suburbs/vic/cowes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

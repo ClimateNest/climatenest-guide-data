@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 53
+      "scoreA": 58,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 37
+      "scoreA": 18,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 76
+      "scoreA": 74,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 43
+      "scoreA": 32,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 19
+      "scoreA": 29,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 13
     }
   ],
-  "verdict": "Tallowal has a lower overall climate risk score (35/100) compared to Tallwood (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tallwood has a lower overall climate risk score (34/100) compared to Tallowal (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tallowal or Tallwood safer from flooding?",
-      "answer": "Tallowal has a flood risk score of 24/100, while Tallwood scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tallowal has a flood risk score of 58/100, while Tallwood scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tallowal scores 39/100 for bushfire risk. Tallwood scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tallowal scores 18/100 for bushfire risk. Tallwood scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tallowal or Tallwood?",
-      "answer": "Both suburbs have climate considerations. Tallowal has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tallwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tallwood Should I Buy?",
       "url": "/suburbs/nsw/tallwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 35
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 39
+      "scoreA": 32,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 47
+      "scoreA": 37,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 30
+      "scoreA": 48,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 43
+      "scoreA": 51,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 15
+      "scoreA": 12,
+      "scoreB": 17
     }
   ],
-  "verdict": "Woolmer has a lower overall climate risk score (34/100) compared to Woolooga (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woolmer has a lower overall climate risk score (35/100) compared to Woolooga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woolmer or Woolooga safer from flooding?",
-      "answer": "Woolmer has a flood risk score of 27/100, while Woolooga scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woolmer has a flood risk score of 32/100, while Woolooga scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woolmer scores 46/100 for bushfire risk. Woolooga scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woolmer scores 32/100 for bushfire risk. Woolooga scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woolmer or Woolooga?",
@@ -76,5 +76,15 @@
       "label": "Woolooga Should I Buy?",
       "url": "/suburbs/qld/woolooga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

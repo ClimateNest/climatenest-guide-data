@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 46
+      "scoreA": 68,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 36,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 59
+      "scoreA": 42,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 17
     }
   ],
-  "verdict": "Braunstone has a lower overall climate risk score (35/100) compared to Branxton (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Braunstone has a lower overall climate risk score (37/100) compared to Branxton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Branxton or Braunstone safer from flooding?",
-      "answer": "Branxton has a flood risk score of 45/100, while Braunstone scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Branxton has a flood risk score of 30/100, while Braunstone scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Branxton scores 48/100 for bushfire risk. Braunstone scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Branxton scores 32/100 for bushfire risk. Braunstone scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Branxton or Braunstone?",
@@ -76,5 +76,15 @@
       "label": "Braunstone Should I Buy?",
       "url": "/suburbs/nsw/braunstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

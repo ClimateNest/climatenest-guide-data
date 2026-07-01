@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 56
+      "scoreA": 51,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 44
+      "scoreA": 20,
+      "scoreB": 26
     },
     {
       "name": "Heat",
       "scoreA": 31,
-      "scoreB": 41
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 34
+      "scoreA": 46,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 16,
+      "scoreB": 12
     }
   ],
-  "verdict": "Boatman has a lower overall climate risk score (34/100) compared to Bogandilla (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bogandilla has a lower overall climate risk score (27/100) compared to Boatman (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boatman or Bogandilla safer from flooding?",
-      "answer": "Boatman has a flood risk score of 50/100, while Bogandilla scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boatman has a flood risk score of 51/100, while Bogandilla scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boatman scores 47/100 for bushfire risk. Bogandilla scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boatman scores 20/100 for bushfire risk. Bogandilla scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boatman or Bogandilla?",
-      "answer": "Both suburbs have climate considerations. Boatman has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bogandilla has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bogandilla Should I Buy?",
       "url": "/suburbs/qld/bogandilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3308,
+    "projected2030": 4631,
+    "projected2050": 8601
+  },
+  "valueImpact": {
+    "dragPercent": 0.15,
+    "description": "Properties in this area may face a 0.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

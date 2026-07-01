@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 37,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 61
+      "scoreA": 60,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 75
+      "scoreA": 80,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 32
+      "scoreA": 22,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 30,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 25
     }
   ],
-  "verdict": "Wangaratta has a lower overall climate risk score (37/100) compared to Wangaratta South (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Wangaratta South has a lower overall climate risk score (30/100) compared to Wangaratta (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wangaratta or Wangaratta South safer from flooding?",
-      "answer": "Wangaratta has a flood risk score of 39/100, while Wangaratta South scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wangaratta has a flood risk score of 37/100, while Wangaratta South scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wangaratta scores 26/100 for bushfire risk. Wangaratta South scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wangaratta scores 60/100 for bushfire risk. Wangaratta South scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wangaratta or Wangaratta South?",
-      "answer": "Both suburbs have climate considerations. Wangaratta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wangaratta South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wangaratta South Should I Buy?",
       "url": "/suburbs/vic/wangaratta-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

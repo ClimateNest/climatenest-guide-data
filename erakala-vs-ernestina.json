@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 45
+      "scoreA": 29,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 35
-    },
-    {
-      "name": "Heat",
-      "scoreA": 34,
+      "scoreA": 63,
       "scoreB": 36
     },
     {
+      "name": "Heat",
+      "scoreA": 47,
+      "scoreB": 33
+    },
+    {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 35
+      "scoreA": 34,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 9,
+      "scoreB": 10
     }
   ],
-  "verdict": "Erakala has a lower overall climate risk score (30/100) compared to Ernestina (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Ernestina has a lower overall climate risk score (31/100) compared to Erakala (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Erakala or Ernestina safer from flooding?",
-      "answer": "Erakala has a flood risk score of 58/100, while Ernestina scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Erakala has a flood risk score of 29/100, while Ernestina scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Erakala scores 40/100 for bushfire risk. Ernestina scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Erakala scores 63/100 for bushfire risk. Ernestina scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Erakala or Ernestina?",
-      "answer": "Both suburbs have climate considerations. Erakala has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ernestina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ernestina Should I Buy?",
       "url": "/suburbs/qld/ernestina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

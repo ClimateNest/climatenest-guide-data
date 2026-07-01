@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
+      "scoreA": 38,
       "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 36
+      "scoreA": 35,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 68
+      "scoreA": 57,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 27,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 15
     }
   ],
-  "verdict": "Biddon has a lower overall climate risk score (37/100) compared to Bidwill (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Biddon has a lower overall climate risk score (33/100) compared to Bidwill (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Biddon or Bidwill safer from flooding?",
-      "answer": "Biddon has a flood risk score of 33/100, while Bidwill scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Biddon has a flood risk score of 38/100, while Bidwill scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Biddon scores 49/100 for bushfire risk. Bidwill scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Biddon scores 35/100 for bushfire risk. Bidwill scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Biddon or Bidwill?",
@@ -76,5 +76,15 @@
       "label": "Bidwill Should I Buy?",
       "url": "/suburbs/nsw/bidwill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

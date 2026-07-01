@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
+      "scoreA": 24,
       "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 52
+      "scoreA": 63,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 47
+      "scoreA": 31,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 25
+      "scoreA": 42,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 31
+      "scoreA": 15,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 9,
+      "scoreB": 23
     }
   ],
-  "verdict": "St Lawrence has a lower overall climate risk score (28/100) compared to St Lucia (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "St Lawrence has a lower overall climate risk score (31/100) compared to St Lucia (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is St Lawrence or St Lucia safer from flooding?",
-      "answer": "St Lawrence has a flood risk score of 22/100, while St Lucia scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Lawrence has a flood risk score of 24/100, while St Lucia scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Lawrence scores 24/100 for bushfire risk. St Lucia scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Lawrence scores 63/100 for bushfire risk. St Lucia scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Lawrence or St Lucia?",
@@ -76,5 +76,15 @@
       "label": "St Lucia Should I Buy?",
       "url": "/suburbs/qld/st-lucia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4305,
+    "projected2030": 6027,
+    "projected2050": 11194
+  },
+  "valueImpact": {
+    "dragPercent": 2.35,
+    "description": "Properties in this area may face a 2.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

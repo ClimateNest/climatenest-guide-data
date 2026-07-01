@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 41,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 24
+      "scoreA": 57,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 24
+      "scoreA": 32,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
       "scoreA": 18,
-      "scoreB": 15
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 19
+      "scoreA": 9,
+      "scoreB": 10
     }
   ],
-  "verdict": "Creswell has a lower overall climate risk score (29/100) compared to Cox Peninsula (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cox Peninsula has a lower overall climate risk score (32/100) compared to Creswell (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cox Peninsula or Creswell safer from flooding?",
-      "answer": "Cox Peninsula has a flood risk score of 40/100, while Creswell scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cox Peninsula has a flood risk score of 41/100, while Creswell scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cox Peninsula scores 38/100 for bushfire risk. Creswell scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cox Peninsula scores 57/100 for bushfire risk. Creswell scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cox Peninsula or Creswell?",
-      "answer": "Both suburbs have climate considerations. Creswell has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cox Peninsula has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Creswell Should I Buy?",
       "url": "/suburbs/nt/creswell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

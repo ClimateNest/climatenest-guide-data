@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 53
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 25,
+      "scoreA": 36,
       "scoreB": 43
     },
     {
+      "name": "Bushfire",
+      "scoreA": 41,
+      "scoreB": 26
+    },
+    {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 35
+      "scoreA": 56,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 50
+      "scoreA": 41,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 10
+      "scoreA": 20,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 13
     }
   ],
-  "verdict": "Marola has a lower overall climate risk score (34/100) compared to Marree (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Marree has a lower overall climate risk score (30/100) compared to Marola (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marola or Marree safer from flooding?",
-      "answer": "Marola has a flood risk score of 22/100, while Marree scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marola has a flood risk score of 36/100, while Marree scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marola scores 25/100 for bushfire risk. Marree scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marola scores 41/100 for bushfire risk. Marree scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marola or Marree?",
-      "answer": "Both suburbs have climate considerations. Marola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Marree has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Marree Should I Buy?",
       "url": "/suburbs/sa/marree/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

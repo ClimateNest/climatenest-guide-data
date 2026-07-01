@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 62
+      "scoreA": 28,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 59
+      "scoreA": 60,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 21,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
       "scoreA": 25,
-      "scoreB": 11
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 19
+      "scoreB": 23
     }
   ],
-  "verdict": "Glenburn has a lower overall climate risk score (38/100) compared to Glenaroua (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Glenaroua has a lower overall climate risk score (32/100) compared to Glenburn (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Glenaroua or Glenburn safer from flooding?",
-      "answer": "Glenaroua has a flood risk score of 42/100, while Glenburn scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenaroua has a flood risk score of 33/100, while Glenburn scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenaroua scores 44/100 for bushfire risk. Glenburn scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenaroua scores 28/100 for bushfire risk. Glenburn scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenaroua or Glenburn?",
-      "answer": "Both suburbs have climate considerations. Glenburn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Glenaroua has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Glenburn Should I Buy?",
       "url": "/suburbs/vic/glenburn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

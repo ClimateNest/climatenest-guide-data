@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 58
+      "scoreA": 56,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 24
+      "scoreA": 31,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 64
+      "scoreA": 53,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 41
+      "scoreA": 50,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Basalt has a lower overall climate risk score (35/100) compared to Batesford (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Basalt has a lower overall climate risk score (38/100) compared to Batesford (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Basalt or Batesford safer from flooding?",
-      "answer": "Basalt has a flood risk score of 30/100, while Batesford scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Basalt has a flood risk score of 56/100, while Batesford scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Basalt scores 47/100 for bushfire risk. Batesford scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Basalt scores 31/100 for bushfire risk. Batesford scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Basalt or Batesford?",
@@ -76,5 +76,15 @@
       "label": "Batesford Should I Buy?",
       "url": "/suburbs/vic/batesford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

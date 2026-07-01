@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 22
+      "scoreA": 47,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 17,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 58
+      "scoreA": 65,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 11,
+      "scoreB": 21
     }
   ],
-  "verdict": "Ashville has a lower overall climate risk score (33/100) compared to Ashton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Ashton has a lower overall climate risk score (34/100) compared to Ashville (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ashton or Ashville safer from flooding?",
-      "answer": "Ashton has a flood risk score of 53/100, while Ashville scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ashton has a flood risk score of 47/100, while Ashville scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ashton scores 34/100 for bushfire risk. Ashville scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ashton scores 17/100 for bushfire risk. Ashville scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ashton or Ashville?",
-      "answer": "Both suburbs have climate considerations. Ashville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ashton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ashville Should I Buy?",
       "url": "/suburbs/sa/ashville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

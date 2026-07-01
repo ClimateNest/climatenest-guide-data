@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 40
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 74
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 58,
       "scoreB": 36
     },
     {
+      "name": "Bushfire",
+      "scoreA": 17,
+      "scoreB": 25
+    },
+    {
+      "name": "Heat",
+      "scoreA": 33,
+      "scoreB": 58
+    },
+    {
+      "name": "Storm",
+      "scoreA": 38,
+      "scoreB": 46
+    },
+    {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 15
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Yandoo Creek has a lower overall climate risk score (24/100) compared to Yanmah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Yanmah has a lower overall climate risk score (32/100) compared to Yandoo Creek (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yandoo Creek or Yanmah safer from flooding?",
-      "answer": "Yandoo Creek has a flood risk score of 38/100, while Yanmah scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yandoo Creek has a flood risk score of 58/100, while Yanmah scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yandoo Creek scores 16/100 for bushfire risk. Yanmah scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yandoo Creek scores 17/100 for bushfire risk. Yanmah scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yandoo Creek or Yanmah?",
-      "answer": "Both suburbs have climate considerations. Yandoo Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yanmah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yanmah Should I Buy?",
       "url": "/suburbs/wa/yanmah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

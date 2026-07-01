@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 48
+      "scoreA": 21,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 53
+      "scoreA": 51,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 41,
+      "scoreA": 22,
       "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 29
     }
   ],
-  "verdict": "Larpent has a lower overall climate risk score (30/100) compared to Lascelles (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Larpent has a lower overall climate risk score (30/100) compared to Lascelles (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Larpent or Lascelles safer from flooding?",
-      "answer": "Larpent has a flood risk score of 21/100, while Lascelles scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Larpent has a flood risk score of 44/100, while Lascelles scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Larpent scores 18/100 for bushfire risk. Lascelles scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Larpent scores 21/100 for bushfire risk. Lascelles scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Larpent or Lascelles?",
@@ -76,5 +76,15 @@
       "label": "Lascelles Should I Buy?",
       "url": "/suburbs/vic/lascelles/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3285,
+    "projected2030": 4599,
+    "projected2050": 8542
+  },
+  "valueImpact": {
+    "dragPercent": 0.1,
+    "description": "Properties in this area may face a 0.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

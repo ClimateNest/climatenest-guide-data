@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 39
+      "scoreA": 43,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 80
+      "scoreA": 69,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 38,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 15
     }
   ],
-  "verdict": "Sidmouth has a lower overall climate risk score (36/100) compared to Simpsons Bay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Simpsons Bay has a lower overall climate risk score (37/100) compared to Sidmouth (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sidmouth or Simpsons Bay safer from flooding?",
-      "answer": "Sidmouth has a flood risk score of 39/100, while Simpsons Bay scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sidmouth has a flood risk score of 43/100, while Simpsons Bay scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sidmouth scores 50/100 for bushfire risk. Simpsons Bay scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sidmouth scores 39/100 for bushfire risk. Simpsons Bay scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sidmouth or Simpsons Bay?",
-      "answer": "Both suburbs have climate considerations. Sidmouth has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Simpsons Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Simpsons Bay Should I Buy?",
       "url": "/suburbs/tas/simpsons-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

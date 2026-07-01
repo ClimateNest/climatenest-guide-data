@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 28
+      "scoreA": 35,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 21
+      "scoreA": 44,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 30
+      "scoreA": 14,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 9,
+      "scoreB": 12
     }
   ],
-  "verdict": "Namatjira has a lower overall climate risk score (25/100) compared to Nakara (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Namatjira has a lower overall climate risk score (27/100) compared to Nakara (28/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nakara or Namatjira safer from flooding?",
-      "answer": "Nakara has a flood risk score of 47/100, while Namatjira scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nakara has a flood risk score of 24/100, while Namatjira scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nakara scores 32/100 for bushfire risk. Namatjira scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nakara scores 35/100 for bushfire risk. Namatjira scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nakara or Namatjira?",
@@ -76,5 +76,15 @@
       "label": "Namatjira Should I Buy?",
       "url": "/suburbs/nt/namatjira/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3070,
+    "projected2030": 4298,
+    "projected2050": 7982
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

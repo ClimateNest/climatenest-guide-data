@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 58
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 49
-    },
-    {
-      "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 61
-    },
-    {
-      "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 44,
       "scoreB": 47
     },
     {
+      "name": "Bushfire",
+      "scoreA": 56,
+      "scoreB": 46
+    },
+    {
+      "name": "Heat",
+      "scoreA": 79,
+      "scoreB": 71
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 24
+    },
+    {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 21,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 11
+      "scoreA": 22,
+      "scoreB": 23
     }
   ],
-  "verdict": "Waitpinga has a lower overall climate risk score (35/100) compared to Walker Flat (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Walker Flat has a lower overall climate risk score (39/100) compared to Waitpinga (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Waitpinga or Walker Flat safer from flooding?",
-      "answer": "Waitpinga has a flood risk score of 45/100, while Walker Flat scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waitpinga has a flood risk score of 44/100, while Walker Flat scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waitpinga scores 42/100 for bushfire risk. Walker Flat scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waitpinga scores 56/100 for bushfire risk. Walker Flat scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waitpinga or Walker Flat?",
-      "answer": "Both suburbs have climate considerations. Waitpinga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Walker Flat has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Walker Flat Should I Buy?",
       "url": "/suburbs/sa/walker-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

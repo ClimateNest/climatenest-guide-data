@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 47
+      "scoreA": 50,
+      "scoreB": 64
     },
     {
       "name": "Heat",
       "scoreA": 59,
-      "scoreB": 73
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 43
+      "scoreA": 34,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 13
+      "scoreA": 24,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 28,
+      "scoreB": 11
     }
   ],
-  "verdict": "Yellowdine has a lower overall climate risk score (38/100) compared to Yealering (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yellowdine has a lower overall climate risk score (40/100) compared to Yealering (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yealering or Yellowdine safer from flooding?",
-      "answer": "Yealering has a flood risk score of 50/100, while Yellowdine scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yealering has a flood risk score of 44/100, while Yellowdine scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yealering scores 55/100 for bushfire risk. Yellowdine scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yealering scores 50/100 for bushfire risk. Yellowdine scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yealering or Yellowdine?",
@@ -76,5 +76,15 @@
       "label": "Yellowdine Should I Buy?",
       "url": "/suburbs/wa/yellowdine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

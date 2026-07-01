@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 24
+      "scoreA": 30,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 52
+      "scoreA": 57,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 73
+      "scoreA": 64,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 42
+      "scoreA": 35,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Davistown has a lower overall climate risk score (42/100) compared to Davis Creek (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Davis Creek has a lower overall climate risk score (39/100) compared to Davistown (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Davis Creek or Davistown safer from flooding?",
-      "answer": "Davis Creek has a flood risk score of 51/100, while Davistown scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Davis Creek has a flood risk score of 30/100, while Davistown scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Davis Creek scores 58/100 for bushfire risk. Davistown scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Davis Creek scores 57/100 for bushfire risk. Davistown scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Davis Creek or Davistown?",
-      "answer": "Both suburbs have climate considerations. Davistown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Davis Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Davistown Should I Buy?",
       "url": "/suburbs/nsw/davistown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

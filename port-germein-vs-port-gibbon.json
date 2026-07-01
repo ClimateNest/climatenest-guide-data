@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 35
+      "scoreA": 40,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 31
+      "scoreA": 37,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 76
+      "scoreA": 74,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 41,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 10
+      "scoreA": 15,
+      "scoreB": 29
     }
   ],
-  "verdict": "Port Gibbon has a lower overall climate risk score (33/100) compared to Port Germein (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Port Germein has a lower overall climate risk score (38/100) compared to Port Gibbon (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Port Germein or Port Gibbon safer from flooding?",
-      "answer": "Port Germein has a flood risk score of 30/100, while Port Gibbon scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Port Germein has a flood risk score of 40/100, while Port Gibbon scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Port Germein scores 58/100 for bushfire risk. Port Gibbon scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Port Germein scores 37/100 for bushfire risk. Port Gibbon scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Port Germein or Port Gibbon?",
-      "answer": "Both suburbs have climate considerations. Port Gibbon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Port Germein has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Port Gibbon Should I Buy?",
       "url": "/suburbs/sa/port-gibbon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

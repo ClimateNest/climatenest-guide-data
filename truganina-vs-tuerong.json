@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 44
+      "scoreA": 59,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 53
+      "scoreA": 62,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 45
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 27
     }
   ],
-  "verdict": "Truganina has a lower overall climate risk score (36/100) compared to Tuerong (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Truganina has a lower overall climate risk score (34/100) compared to Tuerong (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Truganina or Tuerong safer from flooding?",
-      "answer": "Truganina has a flood risk score of 51/100, while Tuerong scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Truganina has a flood risk score of 59/100, while Tuerong scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Truganina scores 22/100 for bushfire risk. Tuerong scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Truganina scores 17/100 for bushfire risk. Tuerong scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Truganina or Tuerong?",
@@ -76,5 +76,15 @@
       "label": "Tuerong Should I Buy?",
       "url": "/suburbs/vic/tuerong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

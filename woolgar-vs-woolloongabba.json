@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 22
+      "scoreA": 60,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 17
+      "scoreA": 48,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 39
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 41
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 18,
+      "scoreA": 39,
       "scoreB": 47
     },
     {
+      "name": "Storm",
+      "scoreA": 30,
+      "scoreB": 29
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 45
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 5,
+      "scoreA": 14,
       "scoreB": 20
     }
   ],
-  "verdict": "Woolloongabba has a lower overall climate risk score (31/100) compared to Woolgar (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Woolgar has a lower overall climate risk score (35/100) compared to Woolloongabba (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woolgar or Woolloongabba safer from flooding?",
-      "answer": "Woolgar has a flood risk score of 49/100, while Woolloongabba scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woolgar has a flood risk score of 60/100, while Woolloongabba scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woolgar scores 44/100 for bushfire risk. Woolloongabba scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woolgar scores 48/100 for bushfire risk. Woolloongabba scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woolgar or Woolloongabba?",
-      "answer": "Both suburbs have climate considerations. Woolloongabba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Woolgar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Woolloongabba Should I Buy?",
       "url": "/suburbs/qld/woolloongabba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 24
+      "scoreA": 58,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 57
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 78
+      "scoreA": 62,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 39
+      "scoreA": 42,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
       "scoreA": 17,
-      "scoreB": 26
+      "scoreB": 14
     }
   ],
-  "verdict": "Dooboobetic has a lower overall climate risk score (31/100) compared to Dooen (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dooboobetic has a lower overall climate risk score (37/100) compared to Dooen (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dooboobetic or Dooen safer from flooding?",
-      "answer": "Dooboobetic has a flood risk score of 53/100, while Dooen scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dooboobetic has a flood risk score of 58/100, while Dooen scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dooboobetic scores 22/100 for bushfire risk. Dooen scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dooboobetic scores 27/100 for bushfire risk. Dooen scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dooboobetic or Dooen?",
@@ -76,5 +76,15 @@
       "label": "Dooen Should I Buy?",
       "url": "/suburbs/vic/dooen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

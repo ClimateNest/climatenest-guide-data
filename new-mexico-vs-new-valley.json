@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 36
+      "scoreA": 36,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 36
+      "scoreA": 64,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 63
+      "scoreA": 52,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 39,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 36
+      "scoreA": 40,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 20,
       "scoreB": 14
     }
   ],
-  "verdict": "New Valley has a lower overall climate risk score (36/100) compared to New Mexico (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "New Mexico has a lower overall climate risk score (42/100) compared to New Valley (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is New Mexico or New Valley safer from flooding?",
-      "answer": "New Mexico has a flood risk score of 52/100, while New Valley scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "New Mexico has a flood risk score of 36/100, while New Valley scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "New Mexico scores 41/100 for bushfire risk. New Valley scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "New Mexico scores 64/100 for bushfire risk. New Valley scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in New Mexico or New Valley?",
-      "answer": "Both suburbs have climate considerations. New Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. New Mexico has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "New Valley Should I Buy?",
       "url": "/suburbs/nsw/new-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4351,
+    "projected2030": 6091,
+    "projected2050": 11312
+  },
+  "valueImpact": {
+    "dragPercent": 2.45,
+    "description": "Properties in this area may face a 2.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

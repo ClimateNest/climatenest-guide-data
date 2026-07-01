@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 41
+      "scoreA": 45,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 50
+      "scoreA": 49,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 45,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 15
+      "scoreA": 40,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 13
+      "scoreA": 21,
+      "scoreB": 25
     }
   ],
-  "verdict": "Muckadilla has a lower overall climate risk score (34/100) compared to Moy Pocket (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Muckadilla has a lower overall climate risk score (33/100) compared to Moy Pocket (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moy Pocket or Muckadilla safer from flooding?",
-      "answer": "Moy Pocket has a flood risk score of 51/100, while Muckadilla scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moy Pocket has a flood risk score of 45/100, while Muckadilla scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moy Pocket scores 42/100 for bushfire risk. Muckadilla scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moy Pocket scores 49/100 for bushfire risk. Muckadilla scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moy Pocket or Muckadilla?",
@@ -76,5 +76,15 @@
       "label": "Muckadilla Should I Buy?",
       "url": "/suburbs/qld/muckadilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

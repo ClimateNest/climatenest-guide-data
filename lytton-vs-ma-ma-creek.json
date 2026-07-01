@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 49
+      "scoreA": 56,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 47
+      "scoreA": 35,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 31
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 38
+      "scoreA": 54,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 27
+      "scoreA": 20,
+      "scoreB": 12
     }
   ],
-  "verdict": "Ma Ma Creek has a lower overall climate risk score (36/100) compared to Lytton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ma Ma Creek has a lower overall climate risk score (35/100) compared to Lytton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lytton or Ma Ma Creek safer from flooding?",
-      "answer": "Lytton has a flood risk score of 43/100, while Ma Ma Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lytton has a flood risk score of 30/100, while Ma Ma Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lytton scores 43/100 for bushfire risk. Ma Ma Creek scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lytton scores 56/100 for bushfire risk. Ma Ma Creek scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lytton or Ma Ma Creek?",
@@ -76,5 +76,15 @@
       "label": "Ma Ma Creek Should I Buy?",
       "url": "/suburbs/qld/ma-ma-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

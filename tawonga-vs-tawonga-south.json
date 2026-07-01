@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 30
+      "scoreA": 47,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 57
+      "scoreA": 41,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 56
+      "scoreA": 51,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 29
+      "scoreA": 40,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 28,
+      "scoreB": 17
     }
   ],
-  "verdict": "Tawonga South has a lower overall climate risk score (33/100) compared to Tawonga (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tawonga South has a lower overall climate risk score (37/100) compared to Tawonga (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tawonga or Tawonga South safer from flooding?",
-      "answer": "Tawonga has a flood risk score of 58/100, while Tawonga South scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tawonga has a flood risk score of 47/100, while Tawonga South scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tawonga scores 35/100 for bushfire risk. Tawonga South scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tawonga scores 41/100 for bushfire risk. Tawonga South scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tawonga or Tawonga South?",
@@ -76,5 +76,15 @@
       "label": "Tawonga South Should I Buy?",
       "url": "/suburbs/vic/tawonga-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 35
+      "scoreA": 57,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 38
+      "scoreA": 47,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 70
+      "scoreA": 63,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 27,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 52
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
       "scoreA": 23,
-      "scoreB": 28
+      "scoreB": 23
     }
   ],
-  "verdict": "Manyana has a lower overall climate risk score (36/100) compared to Maraylya (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Manyana has a lower overall climate risk score (42/100) compared to Maraylya (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Manyana or Maraylya safer from flooding?",
-      "answer": "Manyana has a flood risk score of 25/100, while Maraylya scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Manyana has a flood risk score of 57/100, while Maraylya scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Manyana scores 42/100 for bushfire risk. Maraylya scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Manyana scores 47/100 for bushfire risk. Maraylya scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Manyana or Maraylya?",
@@ -76,5 +76,15 @@
       "label": "Maraylya Should I Buy?",
       "url": "/suburbs/nsw/maraylya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

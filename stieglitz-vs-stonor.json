@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 49,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 27
+      "scoreA": 21,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 70
+      "scoreA": 54,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 28,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 22
     }
   ],
-  "verdict": "Stieglitz has a lower overall climate risk score (33/100) compared to Stonor (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Stieglitz has a lower overall climate risk score (31/100) compared to Stonor (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stieglitz or Stonor safer from flooding?",
-      "answer": "Stieglitz has a flood risk score of 35/100, while Stonor scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stieglitz has a flood risk score of 49/100, while Stonor scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stieglitz scores 30/100 for bushfire risk. Stonor scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stieglitz scores 21/100 for bushfire risk. Stonor scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stieglitz or Stonor?",
@@ -76,5 +76,15 @@
       "label": "Stonor Should I Buy?",
       "url": "/suburbs/tas/stonor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

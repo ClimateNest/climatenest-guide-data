@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 21
+      "scoreA": 51,
+      "scoreB": 47
     },
     {
       "name": "Heat",
       "scoreA": 66,
-      "scoreB": 63
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 25,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 30
+      "scoreA": 22,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 21
+      "scoreA": 16,
+      "scoreB": 29
     }
   ],
-  "verdict": "Cathkin has a lower overall climate risk score (39/100) compared to Cathcart (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cathcart has a lower overall climate risk score (38/100) compared to Cathkin (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cathcart or Cathkin safer from flooding?",
-      "answer": "Cathcart has a flood risk score of 60/100, while Cathkin scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cathcart has a flood risk score of 47/100, while Cathkin scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cathcart scores 55/100 for bushfire risk. Cathkin scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cathcart scores 51/100 for bushfire risk. Cathkin scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cathcart or Cathkin?",
-      "answer": "Both suburbs have climate considerations. Cathkin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cathcart has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cathkin Should I Buy?",
       "url": "/suburbs/vic/cathkin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

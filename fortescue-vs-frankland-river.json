@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 48,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
       "scoreA": 24,
-      "scoreB": 27
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 67
+      "scoreA": 42,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 13
+      "scoreA": 28,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 11
     }
   ],
-  "verdict": "Fortescue has a lower overall climate risk score (34/100) compared to Frankland River (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fortescue has a lower overall climate risk score (33/100) compared to Frankland River (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fortescue or Frankland River safer from flooding?",
-      "answer": "Fortescue has a flood risk score of 56/100, while Frankland River scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fortescue has a flood risk score of 48/100, while Frankland River scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fortescue scores 24/100 for bushfire risk. Frankland River scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fortescue scores 24/100 for bushfire risk. Frankland River scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fortescue or Frankland River?",
@@ -76,5 +76,15 @@
       "label": "Frankland River Should I Buy?",
       "url": "/suburbs/wa/frankland-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 50,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 21
+      "scoreA": 33,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
+      "scoreA": 46,
       "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 11
+      "scoreA": 22,
+      "scoreB": 17
     }
   ],
-  "verdict": "Struck Oil has a lower overall climate risk score (21/100) compared to Stretton (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Struck Oil has a lower overall climate risk score (31/100) compared to Stretton (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Stretton or Struck Oil safer from flooding?",
-      "answer": "Stretton has a flood risk score of 39/100, while Struck Oil scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stretton has a flood risk score of 24/100, while Struck Oil scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stretton scores 50/100 for bushfire risk. Struck Oil scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stretton scores 30/100 for bushfire risk. Struck Oil scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stretton or Struck Oil?",
@@ -76,5 +76,15 @@
       "label": "Struck Oil Should I Buy?",
       "url": "/suburbs/qld/struck-oil/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

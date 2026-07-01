@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 47
+      "scoreA": 58,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 20
+      "scoreA": 62,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 74
+      "scoreA": 69,
+      "scoreB": 77
     },
     {
       "name": "Storm",
       "scoreA": 49,
-      "scoreB": 33
+      "scoreB": 29
     },
     {
       "name": "Coastal",
       "scoreA": 26,
-      "scoreB": 29
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 21
+      "scoreA": 21,
+      "scoreB": 20
     }
   ],
-  "verdict": "Northern Heights has a lower overall climate risk score (37/100) compared to North Yelta (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Northern Heights has a lower overall climate risk score (36/100) compared to North Yelta (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Yelta or Northern Heights safer from flooding?",
-      "answer": "North Yelta has a flood risk score of 48/100, while Northern Heights scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Yelta has a flood risk score of 58/100, while Northern Heights scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Yelta scores 32/100 for bushfire risk. Northern Heights scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Yelta scores 62/100 for bushfire risk. Northern Heights scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Yelta or Northern Heights?",
@@ -76,5 +76,15 @@
       "label": "Northern Heights Should I Buy?",
       "url": "/suburbs/sa/northern-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4430,
+    "projected2030": 6202,
+    "projected2050": 11518
+  },
+  "valueImpact": {
+    "dragPercent": 2.63,
+    "description": "Properties in this area may face a 2.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

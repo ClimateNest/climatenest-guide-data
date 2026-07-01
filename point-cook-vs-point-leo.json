@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 32,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 63
+      "scoreA": 63,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 43
+      "scoreA": 25,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 11,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 14
     }
   ],
-  "verdict": "Point Leo has a lower overall climate risk score (35/100) compared to Point Cook (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Point Leo has a lower overall climate risk score (32/100) compared to Point Cook (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Point Cook or Point Leo safer from flooding?",
-      "answer": "Point Cook has a flood risk score of 31/100, while Point Leo scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Point Cook has a flood risk score of 32/100, while Point Leo scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Point Cook scores 35/100 for bushfire risk. Point Leo scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Point Cook scores 48/100 for bushfire risk. Point Leo scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Point Cook or Point Leo?",
@@ -76,5 +76,15 @@
       "label": "Point Leo Should I Buy?",
       "url": "/suburbs/vic/point-leo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

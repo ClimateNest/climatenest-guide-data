@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 38,
-      "scoreB": 44
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 30
+      "scoreA": 28,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 72
+      "scoreA": 76,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 48,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 53
+      "scoreA": 24,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 12
     }
   ],
-  "verdict": "Tooma has a lower overall climate risk score (38/100) compared to Toongabbie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tooma has a lower overall climate risk score (40/100) compared to Toongabbie (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tooma or Toongabbie safer from flooding?",
-      "answer": "Tooma has a flood risk score of 38/100, while Toongabbie scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tooma has a flood risk score of 38/100, while Toongabbie scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tooma scores 47/100 for bushfire risk. Toongabbie scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tooma scores 28/100 for bushfire risk. Toongabbie scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tooma or Toongabbie?",
@@ -76,5 +76,15 @@
       "label": "Toongabbie Should I Buy?",
       "url": "/suburbs/nsw/toongabbie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

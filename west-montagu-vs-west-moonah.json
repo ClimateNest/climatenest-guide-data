@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 24
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 41
+      "scoreA": 21,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 54
+      "scoreA": 71,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 37,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
       "scoreA": 14,
-      "scoreB": 12
+      "scoreB": 18
     }
   ],
-  "verdict": "West Moonah has a lower overall climate risk score (32/100) compared to West Montagu (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "West Montagu has a lower overall climate risk score (33/100) compared to West Moonah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is West Montagu or West Moonah safer from flooding?",
-      "answer": "West Montagu has a flood risk score of 31/100, while West Moonah scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Montagu has a flood risk score of 30/100, while West Moonah scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Montagu scores 22/100 for bushfire risk. West Moonah scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Montagu scores 21/100 for bushfire risk. West Moonah scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Montagu or West Moonah?",
-      "answer": "Both suburbs have climate considerations. West Moonah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. West Montagu has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "West Moonah Should I Buy?",
       "url": "/suburbs/tas/west-moonah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

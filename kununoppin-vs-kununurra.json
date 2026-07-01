@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 55,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 43
+      "scoreA": 49,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 48
+      "scoreA": 65,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 43
+      "scoreA": 50,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 14
+      "scoreA": 29,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 5
+      "scoreA": 14,
+      "scoreB": 17
     }
   ],
-  "verdict": "Kununurra has a lower overall climate risk score (31/100) compared to Kununoppin (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kununurra has a lower overall climate risk score (40/100) compared to Kununoppin (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kununoppin or Kununurra safer from flooding?",
-      "answer": "Kununoppin has a flood risk score of 50/100, while Kununurra scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kununoppin has a flood risk score of 55/100, while Kununurra scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kununoppin scores 46/100 for bushfire risk. Kununurra scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kununoppin scores 49/100 for bushfire risk. Kununurra scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kununoppin or Kununurra?",
@@ -76,5 +76,15 @@
       "label": "Kununurra Should I Buy?",
       "url": "/suburbs/wa/kununurra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

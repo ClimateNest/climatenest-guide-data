@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 55
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 48
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 57
+      "scoreA": 59,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 15
     }
   ],
-  "verdict": "Ormiston has a lower overall climate risk score (41/100) compared to Ormeau Hills (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ormiston has a lower overall climate risk score (34/100) compared to Ormeau Hills (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ormeau Hills or Ormiston safer from flooding?",
-      "answer": "Ormeau Hills has a flood risk score of 50/100, while Ormiston scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ormeau Hills has a flood risk score of 32/100, while Ormiston scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ormeau Hills scores 61/100 for bushfire risk. Ormiston scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ormeau Hills scores 46/100 for bushfire risk. Ormiston scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ormeau Hills or Ormiston?",
@@ -76,5 +76,15 @@
       "label": "Ormiston Should I Buy?",
       "url": "/suburbs/qld/ormiston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

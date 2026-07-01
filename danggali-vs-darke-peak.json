@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 33
+      "scoreA": 27,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 58
+      "scoreA": 63,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 63
+      "scoreA": 73,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 17
+      "scoreA": 25,
+      "scoreB": 19
     }
   ],
-  "verdict": "Danggali has a lower overall climate risk score (38/100) compared to Darke Peak (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Darke Peak has a lower overall climate risk score (28/100) compared to Danggali (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Danggali or Darke Peak safer from flooding?",
-      "answer": "Danggali has a flood risk score of 25/100, while Darke Peak scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Danggali has a flood risk score of 27/100, while Darke Peak scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Danggali scores 61/100 for bushfire risk. Darke Peak scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Danggali scores 63/100 for bushfire risk. Darke Peak scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Danggali or Darke Peak?",
-      "answer": "Both suburbs have climate considerations. Danggali has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Darke Peak has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Darke Peak Should I Buy?",
       "url": "/suburbs/sa/darke-peak/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

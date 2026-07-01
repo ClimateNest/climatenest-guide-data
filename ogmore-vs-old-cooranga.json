@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 54
+      "scoreA": 31,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 33,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 46,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 43
+      "scoreA": 27,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 56
+      "scoreA": 27,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 26
     }
   ],
-  "verdict": "Ogmore has a lower overall climate risk score (30/100) compared to Old Cooranga (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ogmore has a lower overall climate risk score (31/100) compared to Old Cooranga (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ogmore or Old Cooranga safer from flooding?",
-      "answer": "Ogmore has a flood risk score of 37/100, while Old Cooranga scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ogmore has a flood risk score of 31/100, while Old Cooranga scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ogmore scores 18/100 for bushfire risk. Old Cooranga scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ogmore scores 33/100 for bushfire risk. Old Cooranga scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ogmore or Old Cooranga?",
@@ -76,5 +76,15 @@
       "label": "Old Cooranga Should I Buy?",
       "url": "/suburbs/qld/old-cooranga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

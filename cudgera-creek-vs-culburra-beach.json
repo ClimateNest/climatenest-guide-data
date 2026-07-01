@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 48
+      "scoreA": 38,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 21
+      "scoreA": 57,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 52
+      "scoreA": 33,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 35,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 47
+      "scoreA": 57,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 11
     }
   ],
-  "verdict": "Culburra Beach has a lower overall climate risk score (36/100) compared to Cudgera Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Culburra Beach has a lower overall climate risk score (39/100) compared to Cudgera Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cudgera Creek or Culburra Beach safer from flooding?",
-      "answer": "Cudgera Creek has a flood risk score of 28/100, while Culburra Beach scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cudgera Creek has a flood risk score of 38/100, while Culburra Beach scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cudgera Creek scores 50/100 for bushfire risk. Culburra Beach scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cudgera Creek scores 57/100 for bushfire risk. Culburra Beach scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cudgera Creek or Culburra Beach?",
@@ -76,5 +76,15 @@
       "label": "Culburra Beach Should I Buy?",
       "url": "/suburbs/nsw/culburra-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 45
+      "scoreA": 55,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 18
+      "scoreA": 36,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 39
+      "scoreA": 63,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 22
+      "scoreA": 22,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 45
+      "scoreA": 20,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 12
     }
   ],
-  "verdict": "Haystack has a lower overall climate risk score (32/100) compared to Hayes Gap (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hayes Gap has a lower overall climate risk score (35/100) compared to Haystack (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hayes Gap or Haystack safer from flooding?",
-      "answer": "Hayes Gap has a flood risk score of 21/100, while Haystack scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hayes Gap has a flood risk score of 55/100, while Haystack scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hayes Gap scores 41/100 for bushfire risk. Haystack scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hayes Gap scores 36/100 for bushfire risk. Haystack scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hayes Gap or Haystack?",
-      "answer": "Both suburbs have climate considerations. Haystack has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hayes Gap has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Haystack Should I Buy?",
       "url": "/suburbs/nsw/haystack/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

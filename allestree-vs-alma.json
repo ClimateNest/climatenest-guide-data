@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 54
+      "scoreA": 29,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 15
+      "scoreA": 34,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 54
+      "scoreA": 52,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 27
+      "scoreA": 41,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 19
+      "scoreB": 15
     }
   ],
-  "verdict": "Alma has a lower overall climate risk score (31/100) compared to Allestree (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Allestree has a lower overall climate risk score (34/100) compared to Alma (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Allestree or Alma safer from flooding?",
-      "answer": "Allestree has a flood risk score of 49/100, while Alma scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Allestree has a flood risk score of 29/100, while Alma scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Allestree scores 29/100 for bushfire risk. Alma scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Allestree scores 34/100 for bushfire risk. Alma scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Allestree or Alma?",
-      "answer": "Both suburbs have climate considerations. Alma has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Allestree has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Alma Should I Buy?",
       "url": "/suburbs/vic/alma/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

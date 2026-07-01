@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 31
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 44
-    },
-    {
-      "name": "Storm",
       "scoreA": 22,
       "scoreB": 36
     },
     {
+      "name": "Bushfire",
+      "scoreA": 38,
+      "scoreB": 41
+    },
+    {
+      "name": "Heat",
+      "scoreA": 37,
+      "scoreB": 49
+    },
+    {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 22
+    },
+    {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 17,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 19,
+      "scoreB": 8
     }
   ],
-  "verdict": "Venn has a lower overall climate risk score (32/100) compared to Uralla (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Venn has a lower overall climate risk score (29/100) compared to Uralla (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Uralla or Venn safer from flooding?",
-      "answer": "Uralla has a flood risk score of 39/100, while Venn scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Uralla has a flood risk score of 22/100, while Venn scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Uralla scores 57/100 for bushfire risk. Venn scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Uralla scores 38/100 for bushfire risk. Venn scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Uralla or Venn?",
@@ -76,5 +76,15 @@
       "label": "Venn Should I Buy?",
       "url": "/suburbs/nt/venn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3183,
+    "projected2030": 4457,
+    "projected2050": 8277
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

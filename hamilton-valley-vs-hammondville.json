@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 26
+      "scoreA": 49,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 19
+      "scoreA": 35,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 66
+      "scoreA": 79,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 44
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 43
+      "scoreA": 23,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 14
     }
   ],
-  "verdict": "Hammondville has a lower overall climate risk score (37/100) compared to Hamilton Valley (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hammondville has a lower overall climate risk score (39/100) compared to Hamilton Valley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hamilton Valley or Hammondville safer from flooding?",
-      "answer": "Hamilton Valley has a flood risk score of 43/100, while Hammondville scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hamilton Valley has a flood risk score of 49/100, while Hammondville scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hamilton Valley scores 63/100 for bushfire risk. Hammondville scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hamilton Valley scores 35/100 for bushfire risk. Hammondville scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hamilton Valley or Hammondville?",
@@ -76,5 +76,15 @@
       "label": "Hammondville Should I Buy?",
       "url": "/suburbs/nsw/hammondville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

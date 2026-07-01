@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 45
+      "scoreA": 39,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 79
+      "scoreA": 75,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 35
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 14
     }
   ],
-  "verdict": "Rupanyup has a lower overall climate risk score (37/100) compared to Running Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rupanyup has a lower overall climate risk score (34/100) compared to Running Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Running Creek or Rupanyup safer from flooding?",
-      "answer": "Running Creek has a flood risk score of 36/100, while Rupanyup scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Running Creek has a flood risk score of 40/100, while Rupanyup scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Running Creek scores 49/100 for bushfire risk. Rupanyup scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Running Creek scores 39/100 for bushfire risk. Rupanyup scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Running Creek or Rupanyup?",
@@ -76,5 +76,15 @@
       "label": "Rupanyup Should I Buy?",
       "url": "/suburbs/vic/rupanyup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

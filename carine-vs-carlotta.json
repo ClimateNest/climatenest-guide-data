@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 54
+      "scoreA": 60,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 77
+      "scoreA": 61,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 21,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 17
     }
   ],
-  "verdict": "Carine has a lower overall climate risk score (31/100) compared to Carlotta (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Carine has a lower overall climate risk score (33/100) compared to Carlotta (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Carine or Carlotta safer from flooding?",
-      "answer": "Carine has a flood risk score of 25/100, while Carlotta scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carine has a flood risk score of 26/100, while Carlotta scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carine scores 33/100 for bushfire risk. Carlotta scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carine scores 60/100 for bushfire risk. Carlotta scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carine or Carlotta?",
@@ -76,5 +76,15 @@
       "label": "Carlotta Should I Buy?",
       "url": "/suburbs/wa/carlotta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

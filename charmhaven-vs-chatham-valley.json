@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 20
+      "scoreA": 50,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 64
+      "scoreA": 72,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 29,
       "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 24
+      "scoreA": 43,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 30
     }
   ],
-  "verdict": "Chatham Valley has a lower overall climate risk score (31/100) compared to Charmhaven (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Chatham Valley has a lower overall climate risk score (42/100) compared to Charmhaven (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Charmhaven or Chatham Valley safer from flooding?",
-      "answer": "Charmhaven has a flood risk score of 51/100, while Chatham Valley scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Charmhaven has a flood risk score of 39/100, while Chatham Valley scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Charmhaven scores 61/100 for bushfire risk. Chatham Valley scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Charmhaven scores 50/100 for bushfire risk. Chatham Valley scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Charmhaven or Chatham Valley?",
@@ -76,5 +76,15 @@
       "label": "Chatham Valley Should I Buy?",
       "url": "/suburbs/nsw/chatham-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

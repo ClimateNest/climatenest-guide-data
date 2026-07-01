@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 59
+      "scoreA": 53,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 69
+      "scoreA": 70,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 48
+      "scoreA": 24,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 22
     }
   ],
-  "verdict": "Warranwood has a lower overall climate risk score (34/100) compared to Warrayure (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warranwood and Warrayure have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Warranwood or Warrayure safer from flooding?",
-      "answer": "Warranwood has a flood risk score of 33/100, while Warrayure scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warranwood has a flood risk score of 53/100, while Warrayure scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warranwood scores 36/100 for bushfire risk. Warrayure scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warranwood scores 40/100 for bushfire risk. Warrayure scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warranwood or Warrayure?",
@@ -76,5 +76,15 @@
       "label": "Warrayure Should I Buy?",
       "url": "/suburbs/vic/warrayure/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

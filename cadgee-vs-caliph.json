@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 45
+      "scoreA": 55,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 67
+      "scoreA": 61,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
+      "scoreA": 30,
       "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
+      "scoreA": 24,
       "scoreB": 20
     }
   ],
-  "verdict": "Caliph has a lower overall climate risk score (33/100) compared to Cadgee (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cadgee has a lower overall climate risk score (38/100) compared to Caliph (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cadgee or Caliph safer from flooding?",
-      "answer": "Cadgee has a flood risk score of 58/100, while Caliph scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cadgee has a flood risk score of 55/100, while Caliph scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cadgee scores 26/100 for bushfire risk. Caliph scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cadgee scores 18/100 for bushfire risk. Caliph scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cadgee or Caliph?",
-      "answer": "Both suburbs have climate considerations. Caliph has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cadgee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Caliph Should I Buy?",
       "url": "/suburbs/sa/caliph/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

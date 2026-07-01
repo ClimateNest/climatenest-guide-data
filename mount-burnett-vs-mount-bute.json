@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 45
+      "scoreA": 45,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 53
+      "scoreA": 35,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 74
+      "scoreA": 56,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 28,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 10
+      "scoreA": 12,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mount Burnett has a lower overall climate risk score (36/100) compared to Mount Bute (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Burnett has a lower overall climate risk score (34/100) compared to Mount Bute (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Burnett or Mount Bute safer from flooding?",
-      "answer": "Mount Burnett has a flood risk score of 28/100, while Mount Bute scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Burnett has a flood risk score of 45/100, while Mount Bute scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Burnett scores 53/100 for bushfire risk. Mount Bute scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Burnett scores 35/100 for bushfire risk. Mount Bute scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Burnett or Mount Bute?",
@@ -76,5 +76,15 @@
       "label": "Mount Bute Should I Buy?",
       "url": "/suburbs/vic/mount-bute/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

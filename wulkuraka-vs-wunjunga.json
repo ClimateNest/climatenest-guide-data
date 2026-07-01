@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 53
+      "scoreA": 46,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 36
+      "scoreA": 33,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 28
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 48,
+      "scoreA": 49,
       "scoreB": 21
     },
     {
+      "name": "Coastal",
+      "scoreA": 49,
+      "scoreB": 11
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 13
     }
   ],
-  "verdict": "Wunjunga has a lower overall climate risk score (31/100) compared to Wulkuraka (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wunjunga has a lower overall climate risk score (26/100) compared to Wulkuraka (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wulkuraka or Wunjunga safer from flooding?",
-      "answer": "Wulkuraka has a flood risk score of 53/100, while Wunjunga scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wulkuraka has a flood risk score of 48/100, while Wunjunga scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wulkuraka scores 31/100 for bushfire risk. Wunjunga scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wulkuraka scores 46/100 for bushfire risk. Wunjunga scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wulkuraka or Wunjunga?",
@@ -76,5 +76,15 @@
       "label": "Wunjunga Should I Buy?",
       "url": "/suburbs/qld/wunjunga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

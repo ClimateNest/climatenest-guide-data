@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 48
+      "scoreA": 49,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 56
+      "scoreA": 62,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 78
+      "scoreA": 61,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 20
+      "scoreA": 49,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 40
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 26
     }
   ],
-  "verdict": "Neutral Bay has a lower overall climate risk score (41/100) compared to Never Never (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Never Never has a lower overall climate risk score (38/100) compared to Neutral Bay (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Neutral Bay or Never Never safer from flooding?",
-      "answer": "Neutral Bay has a flood risk score of 56/100, while Never Never scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Neutral Bay has a flood risk score of 49/100, while Never Never scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Neutral Bay scores 34/100 for bushfire risk. Never Never scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Neutral Bay scores 62/100 for bushfire risk. Never Never scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Neutral Bay or Never Never?",
-      "answer": "Both suburbs have climate considerations. Neutral Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Never Never has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Never Never Should I Buy?",
       "url": "/suburbs/nsw/never-never/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

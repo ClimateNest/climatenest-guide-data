@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 34
+      "scoreA": 21,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 35
+      "scoreA": 51,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 74
+      "scoreA": 51,
+      "scoreB": 55
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 38
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 15
     }
   ],
-  "verdict": "Ivanhoe East has a lower overall climate risk score (37/100) compared to Ivanhoe (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ivanhoe East has a lower overall climate risk score (34/100) compared to Ivanhoe (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ivanhoe or Ivanhoe East safer from flooding?",
-      "answer": "Ivanhoe has a flood risk score of 39/100, while Ivanhoe East scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ivanhoe has a flood risk score of 21/100, while Ivanhoe East scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ivanhoe scores 56/100 for bushfire risk. Ivanhoe East scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ivanhoe scores 51/100 for bushfire risk. Ivanhoe East scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ivanhoe or Ivanhoe East?",
@@ -76,5 +76,15 @@
       "label": "Ivanhoe East Should I Buy?",
       "url": "/suburbs/vic/ivanhoe-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

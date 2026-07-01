@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 53
+      "scoreA": 20,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 76
+      "scoreA": 66,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 33,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 18
     }
   ],
-  "verdict": "Pennington has a lower overall climate risk score (35/100) compared to Penola (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Penola has a lower overall climate risk score (30/100) compared to Pennington (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pennington or Penola safer from flooding?",
-      "answer": "Pennington has a flood risk score of 49/100, while Penola scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pennington has a flood risk score of 37/100, while Penola scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pennington scores 37/100 for bushfire risk. Penola scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pennington scores 20/100 for bushfire risk. Penola scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pennington or Penola?",
-      "answer": "Both suburbs have climate considerations. Pennington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Penola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Penola Should I Buy?",
       "url": "/suburbs/sa/penola/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

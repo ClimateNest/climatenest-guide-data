@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
       "scoreA": 17,
-      "scoreB": 54
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 54
+      "scoreA": 61,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
       "scoreA": 11,
-      "scoreB": 29
+      "scoreB": 18
     }
   ],
-  "verdict": "Mount Richmond has a lower overall climate risk score (37/100) compared to Mount Sabine (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Richmond has a lower overall climate risk score (32/100) compared to Mount Sabine (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Richmond or Mount Sabine safer from flooding?",
-      "answer": "Mount Richmond has a flood risk score of 45/100, while Mount Sabine scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Richmond has a flood risk score of 44/100, while Mount Sabine scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Richmond scores 17/100 for bushfire risk. Mount Sabine scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Richmond scores 17/100 for bushfire risk. Mount Sabine scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Richmond or Mount Sabine?",
@@ -76,5 +76,15 @@
       "label": "Mount Sabine Should I Buy?",
       "url": "/suburbs/vic/mount-sabine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

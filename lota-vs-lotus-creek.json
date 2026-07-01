@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 25
+      "scoreA": 33,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 45
+      "scoreA": 61,
+      "scoreB": 20
     },
     {
       "name": "Heat",
       "scoreA": 38,
-      "scoreB": 48
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 20
+      "scoreA": 59,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 26,
+      "scoreB": 10
     }
   ],
-  "verdict": "Lotus Creek has a lower overall climate risk score (32/100) compared to Lota (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lotus Creek has a lower overall climate risk score (27/100) compared to Lota (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lota or Lotus Creek safer from flooding?",
-      "answer": "Lota has a flood risk score of 58/100, while Lotus Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lota has a flood risk score of 33/100, while Lotus Creek scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lota scores 52/100 for bushfire risk. Lotus Creek scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lota scores 61/100 for bushfire risk. Lotus Creek scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lota or Lotus Creek?",
@@ -76,5 +76,15 @@
       "label": "Lotus Creek Should I Buy?",
       "url": "/suburbs/qld/lotus-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

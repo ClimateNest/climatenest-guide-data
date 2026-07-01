@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 54
+      "scoreA": 31,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 35
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 31,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 43
+      "scoreA": 32,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
+      "scoreA": 15,
       "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 17
     }
   ],
-  "verdict": "Miallo has a lower overall climate risk score (35/100) compared to Miara (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Miallo has a lower overall climate risk score (27/100) compared to Miara (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Miallo or Miara safer from flooding?",
-      "answer": "Miallo has a flood risk score of 55/100, while Miara scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miallo has a flood risk score of 31/100, while Miara scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miallo scores 48/100 for bushfire risk. Miara scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miallo scores 41/100 for bushfire risk. Miara scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miallo or Miara?",
@@ -76,5 +76,15 @@
       "label": "Miara Should I Buy?",
       "url": "/suburbs/qld/miara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

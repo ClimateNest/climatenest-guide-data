@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 59
+      "scoreA": 37,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 71
+      "scoreA": 53,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 23
+      "scoreA": 34,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
       "scoreA": 24,
-      "scoreB": 14
+      "scoreB": 17
     }
   ],
-  "verdict": "Bonville has a lower overall climate risk score (35/100) compared to Book Book (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bonville has a lower overall climate risk score (32/100) compared to Book Book (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bonville or Book Book safer from flooding?",
-      "answer": "Bonville has a flood risk score of 35/100, while Book Book scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bonville has a flood risk score of 37/100, while Book Book scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bonville scores 20/100 for bushfire risk. Book Book scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bonville scores 23/100 for bushfire risk. Book Book scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bonville or Book Book?",
@@ -76,5 +76,15 @@
       "label": "Book Book Should I Buy?",
       "url": "/suburbs/nsw/book-book/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

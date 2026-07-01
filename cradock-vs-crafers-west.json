@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 48
+      "scoreA": 25,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 33
+      "scoreA": 38,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 66
+      "scoreA": 79,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 34
+      "scoreA": 35,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 14,
+      "scoreB": 24
     }
   ],
-  "verdict": "Cradock has a lower overall climate risk score (34/100) compared to Crafers West (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cradock has a lower overall climate risk score (35/100) compared to Crafers West (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cradock or Crafers West safer from flooding?",
-      "answer": "Cradock has a flood risk score of 31/100, while Crafers West scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cradock has a flood risk score of 25/100, while Crafers West scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cradock scores 36/100 for bushfire risk. Crafers West scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cradock scores 38/100 for bushfire risk. Crafers West scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cradock or Crafers West?",
@@ -76,5 +76,15 @@
       "label": "Crafers West Should I Buy?",
       "url": "/suburbs/sa/crafers-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

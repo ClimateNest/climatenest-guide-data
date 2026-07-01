@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 36
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 24
+      "scoreA": 49,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 9
+      "scoreA": 26,
+      "scoreB": 5
     }
   ],
-  "verdict": "Dalma has a lower overall climate risk score (35/100) compared to Dallarnil (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dalma has a lower overall climate risk score (28/100) compared to Dallarnil (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dallarnil or Dalma safer from flooding?",
-      "answer": "Dallarnil has a flood risk score of 36/100, while Dalma scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dallarnil has a flood risk score of 46/100, while Dalma scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dallarnil scores 65/100 for bushfire risk. Dalma scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dallarnil scores 55/100 for bushfire risk. Dalma scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dallarnil or Dalma?",
@@ -76,5 +76,15 @@
       "label": "Dalma Should I Buy?",
       "url": "/suburbs/qld/dalma/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

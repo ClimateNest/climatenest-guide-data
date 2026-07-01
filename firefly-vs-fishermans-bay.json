@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 38
+      "scoreA": 20,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 76
+      "scoreA": 74,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 41
+      "scoreA": 27,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 43
+      "scoreA": 51,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 19
+      "scoreA": 22,
+      "scoreB": 17
     }
   ],
-  "verdict": "Fishermans Bay has a lower overall climate risk score (42/100) compared to Firefly (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fishermans Bay has a lower overall climate risk score (39/100) compared to Firefly (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Firefly or Fishermans Bay safer from flooding?",
-      "answer": "Firefly has a flood risk score of 56/100, while Fishermans Bay scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Firefly has a flood risk score of 43/100, while Fishermans Bay scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Firefly scores 33/100 for bushfire risk. Fishermans Bay scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Firefly scores 20/100 for bushfire risk. Fishermans Bay scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Firefly or Fishermans Bay?",
@@ -76,5 +76,15 @@
       "label": "Fishermans Bay Should I Buy?",
       "url": "/suburbs/nsw/fishermans-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

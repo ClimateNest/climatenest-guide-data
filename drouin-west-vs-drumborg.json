@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 51
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 50
-    },
-    {
-      "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 80
-    },
-    {
-      "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 31,
       "scoreB": 26
     },
     {
+      "name": "Bushfire",
+      "scoreA": 63,
+      "scoreB": 38
+    },
+    {
+      "name": "Heat",
+      "scoreA": 60,
+      "scoreB": 78
+    },
+    {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 31
+    },
+    {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 10,
+      "scoreB": 15
     }
   ],
-  "verdict": "Drouin West has a lower overall climate risk score (33/100) compared to Drumborg (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Drumborg has a lower overall climate risk score (35/100) compared to Drouin West (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Drouin West or Drumborg safer from flooding?",
-      "answer": "Drouin West has a flood risk score of 27/100, while Drumborg scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Drouin West has a flood risk score of 31/100, while Drumborg scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Drouin West scores 59/100 for bushfire risk. Drumborg scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Drouin West scores 63/100 for bushfire risk. Drumborg scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Drouin West or Drumborg?",
-      "answer": "Both suburbs have climate considerations. Drouin West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Drumborg has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Drumborg Should I Buy?",
       "url": "/suburbs/vic/drumborg/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 41
+      "scoreA": 23,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 48
+      "scoreA": 25,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 34,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 17
+      "scoreA": 56,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 7
+      "scoreA": 17,
+      "scoreB": 9
     }
   ],
-  "verdict": "Lake Eacham has a lower overall climate risk score (32/100) compared to Lake Clarendon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Eacham has a lower overall climate risk score (32/100) compared to Lake Clarendon (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lake Clarendon or Lake Eacham safer from flooding?",
-      "answer": "Lake Clarendon has a flood risk score of 31/100, while Lake Eacham scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Clarendon has a flood risk score of 23/100, while Lake Eacham scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Clarendon scores 56/100 for bushfire risk. Lake Eacham scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Clarendon scores 25/100 for bushfire risk. Lake Eacham scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Clarendon or Lake Eacham?",
@@ -76,5 +76,15 @@
       "label": "Lake Eacham Should I Buy?",
       "url": "/suburbs/qld/lake-eacham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 55
+      "scoreA": 52,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 48
+      "scoreA": 26,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 32
+      "scoreA": 32,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 26
+      "scoreA": 33,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 19
+      "scoreA": 17,
+      "scoreB": 14
     }
   ],
-  "verdict": "Greenview has a lower overall climate risk score (37/100) compared to Greenup (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Greenup has a lower overall climate risk score (34/100) compared to Greenview (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Greenup or Greenview safer from flooding?",
-      "answer": "Greenup has a flood risk score of 59/100, while Greenview scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greenup has a flood risk score of 52/100, while Greenview scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greenup scores 59/100 for bushfire risk. Greenview scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greenup scores 26/100 for bushfire risk. Greenview scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greenup or Greenview?",
-      "answer": "Both suburbs have climate considerations. Greenview has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Greenup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Greenview Should I Buy?",
       "url": "/suburbs/qld/greenview/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

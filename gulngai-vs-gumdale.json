@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 20
+      "scoreA": 39,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 43,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 34
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 50,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 55
+      "scoreA": 23,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 23
+      "scoreA": 7,
+      "scoreB": 11
     }
   ],
-  "verdict": "Gulngai has a lower overall climate risk score (31/100) compared to Gumdale (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gumdale has a lower overall climate risk score (35/100) compared to Gulngai (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gulngai or Gumdale safer from flooding?",
-      "answer": "Gulngai has a flood risk score of 51/100, while Gumdale scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gulngai has a flood risk score of 39/100, while Gumdale scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gulngai scores 39/100 for bushfire risk. Gumdale scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gulngai scores 43/100 for bushfire risk. Gumdale scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gulngai or Gumdale?",
-      "answer": "Both suburbs have climate considerations. Gulngai has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gumdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gumdale Should I Buy?",
       "url": "/suburbs/qld/gumdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

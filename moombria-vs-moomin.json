@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 55
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 63,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 36
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 24,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 8
+      "scoreA": 16,
+      "scoreB": 15
     }
   ],
-  "verdict": "Moombria has a lower overall climate risk score (27/100) compared to Moomin (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Moomin has a lower overall climate risk score (26/100) compared to Moombria (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moombria or Moomin safer from flooding?",
-      "answer": "Moombria has a flood risk score of 35/100, while Moomin scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moombria has a flood risk score of 47/100, while Moomin scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moombria scores 17/100 for bushfire risk. Moomin scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moombria scores 63/100 for bushfire risk. Moomin scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moombria or Moomin?",
-      "answer": "Both suburbs have climate considerations. Moombria has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Moomin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Moomin Should I Buy?",
       "url": "/suburbs/qld/moomin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

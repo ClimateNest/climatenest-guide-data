@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 53
+      "scoreA": 34,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 23
+      "scoreA": 49,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 66
+      "scoreA": 66,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
+      "scoreA": 18,
       "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 22
+      "scoreA": 16,
+      "scoreB": 15
     }
   ],
-  "verdict": "Nugara has a lower overall climate risk score (37/100) compared to Nubeena (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Nubeena has a lower overall climate risk score (37/100) compared to Nugara (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nubeena or Nugara safer from flooding?",
-      "answer": "Nubeena has a flood risk score of 38/100, while Nugara scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nubeena has a flood risk score of 34/100, while Nugara scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nubeena scores 56/100 for bushfire risk. Nugara scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nubeena scores 49/100 for bushfire risk. Nugara scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nubeena or Nugara?",
-      "answer": "Both suburbs have climate considerations. Nugara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Nubeena has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nugara Should I Buy?",
       "url": "/suburbs/tas/nugara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

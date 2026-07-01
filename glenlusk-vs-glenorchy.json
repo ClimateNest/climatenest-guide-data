@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 27
+      "scoreA": 52,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
       "scoreA": 53,
-      "scoreB": 19
+      "scoreB": 25
     },
     {
       "name": "Heat",
       "scoreA": 65,
-      "scoreB": 65
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 25
+      "scoreA": 38,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
+      "scoreA": 19,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Glenorchy has a lower overall climate risk score (30/100) compared to Glenlusk (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glenorchy has a lower overall climate risk score (39/100) compared to Glenlusk (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glenlusk or Glenorchy safer from flooding?",
-      "answer": "Glenlusk has a flood risk score of 60/100, while Glenorchy scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenlusk has a flood risk score of 52/100, while Glenorchy scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenlusk scores 53/100 for bushfire risk. Glenorchy scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenlusk scores 53/100 for bushfire risk. Glenorchy scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenlusk or Glenorchy?",
@@ -76,5 +76,15 @@
       "label": "Glenorchy Should I Buy?",
       "url": "/suburbs/tas/glenorchy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 36
+      "scoreA": 59,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 19
+      "scoreA": 62,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 36
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 26
+      "scoreA": 15,
+      "scoreB": 13
     }
   ],
-  "verdict": "Allandale has a lower overall climate risk score (31/100) compared to Alice River (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Allandale has a lower overall climate risk score (33/100) compared to Alice River (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Alice River or Allandale safer from flooding?",
-      "answer": "Alice River has a flood risk score of 51/100, while Allandale scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alice River has a flood risk score of 59/100, while Allandale scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alice River scores 44/100 for bushfire risk. Allandale scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alice River scores 62/100 for bushfire risk. Allandale scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alice River or Allandale?",
@@ -76,5 +76,15 @@
       "label": "Allandale Should I Buy?",
       "url": "/suburbs/qld/allandale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

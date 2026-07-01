@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 45
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 16
+      "scoreA": 38,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 57
+      "scoreA": 73,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 20
     }
   ],
-  "verdict": "Drome has a lower overall climate risk score (34/100) compared to Dowerin (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Drome has a lower overall climate risk score (38/100) compared to Dowerin (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dowerin or Drome safer from flooding?",
-      "answer": "Dowerin has a flood risk score of 48/100, while Drome scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dowerin has a flood risk score of 54/100, while Drome scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dowerin scores 55/100 for bushfire risk. Drome scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dowerin scores 38/100 for bushfire risk. Drome scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dowerin or Drome?",
@@ -76,5 +76,15 @@
       "label": "Drome Should I Buy?",
       "url": "/suburbs/wa/drome/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

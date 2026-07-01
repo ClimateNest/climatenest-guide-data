@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 59
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 40
+      "scoreA": 31,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 40
+      "scoreA": 25,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 7,
+      "scoreB": 23
     }
   ],
-  "verdict": "Groganville has a lower overall climate risk score (27/100) compared to Groomsville (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Groganville has a lower overall climate risk score (26/100) compared to Groomsville (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Groganville or Groomsville safer from flooding?",
-      "answer": "Groganville has a flood risk score of 34/100, while Groomsville scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Groganville has a flood risk score of 20/100, while Groomsville scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Groganville scores 21/100 for bushfire risk. Groomsville scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Groganville scores 28/100 for bushfire risk. Groomsville scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Groganville or Groomsville?",
@@ -76,5 +76,15 @@
       "label": "Groomsville Should I Buy?",
       "url": "/suburbs/qld/groomsville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

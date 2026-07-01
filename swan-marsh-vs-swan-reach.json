@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 59
+      "scoreA": 43,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 68,
+      "scoreA": 69,
       "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Swan Reach has a lower overall climate risk score (37/100) compared to Swan Marsh (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Swan Reach has a lower overall climate risk score (37/100) compared to Swan Marsh (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Swan Marsh or Swan Reach safer from flooding?",
-      "answer": "Swan Marsh has a flood risk score of 51/100, while Swan Reach scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Swan Marsh has a flood risk score of 43/100, while Swan Reach scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Swan Marsh scores 63/100 for bushfire risk. Swan Reach scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Swan Marsh scores 45/100 for bushfire risk. Swan Reach scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Swan Marsh or Swan Reach?",
@@ -76,5 +76,15 @@
       "label": "Swan Reach Should I Buy?",
       "url": "/suburbs/vic/swan-reach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

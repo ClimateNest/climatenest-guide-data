@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 59
+      "scoreA": 35,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 37,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 79
+      "scoreA": 60,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 43,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 33
+      "scoreA": 29,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Pooncarie has a lower overall climate risk score (33/100) compared to Port Botany (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pooncarie has a lower overall climate risk score (36/100) compared to Port Botany (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pooncarie or Port Botany safer from flooding?",
-      "answer": "Pooncarie has a flood risk score of 46/100, while Port Botany scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pooncarie has a flood risk score of 35/100, while Port Botany scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pooncarie scores 22/100 for bushfire risk. Port Botany scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pooncarie scores 37/100 for bushfire risk. Port Botany scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pooncarie or Port Botany?",
@@ -76,5 +76,15 @@
       "label": "Port Botany Should I Buy?",
       "url": "/suburbs/nsw/port-botany/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

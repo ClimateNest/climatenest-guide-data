@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 40
+      "scoreA": 52,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 62
+      "scoreA": 16,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 50
+      "scoreA": 64,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 31
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 48,
       "scoreB": 28
     },
     {
+      "name": "Coastal",
+      "scoreA": 11,
+      "scoreB": 15
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 24
     }
   ],
-  "verdict": "Warramboo has a lower overall climate risk score (38/100) compared to Warraweena (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Warraweena has a lower overall climate risk score (34/100) compared to Warramboo (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warramboo or Warraweena safer from flooding?",
-      "answer": "Warramboo has a flood risk score of 51/100, while Warraweena scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warramboo has a flood risk score of 52/100, while Warraweena scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warramboo scores 31/100 for bushfire risk. Warraweena scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warramboo scores 16/100 for bushfire risk. Warraweena scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warramboo or Warraweena?",
-      "answer": "Both suburbs have climate considerations. Warramboo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Warraweena has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Warraweena Should I Buy?",
       "url": "/suburbs/sa/warraweena/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

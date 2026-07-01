@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 56
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 20
+      "scoreA": 62,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 48,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "Geegully Creek has a lower overall climate risk score (30/100) compared to Gascoyne Junction (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Geegully Creek has a lower overall climate risk score (26/100) compared to Gascoyne Junction (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gascoyne Junction or Geegully Creek safer from flooding?",
-      "answer": "Gascoyne Junction has a flood risk score of 43/100, while Geegully Creek scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gascoyne Junction has a flood risk score of 41/100, while Geegully Creek scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gascoyne Junction scores 46/100 for bushfire risk. Geegully Creek scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gascoyne Junction scores 62/100 for bushfire risk. Geegully Creek scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gascoyne Junction or Geegully Creek?",
@@ -76,5 +76,15 @@
       "label": "Geegully Creek Should I Buy?",
       "url": "/suburbs/wa/geegully-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

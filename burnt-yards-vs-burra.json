@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 38,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 46
+      "scoreA": 15,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 62
+      "scoreA": 66,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 47
+      "scoreA": 31,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 12,
       "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 18
     }
   ],
-  "verdict": "Burnt Yards has a lower overall climate risk score (30/100) compared to Burra (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Burnt Yards has a lower overall climate risk score (31/100) compared to Burra (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burnt Yards or Burra safer from flooding?",
-      "answer": "Burnt Yards has a flood risk score of 28/100, while Burra scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burnt Yards has a flood risk score of 38/100, while Burra scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burnt Yards scores 20/100 for bushfire risk. Burra scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burnt Yards scores 15/100 for bushfire risk. Burra scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burnt Yards or Burra?",
@@ -76,5 +76,15 @@
       "label": "Burra Should I Buy?",
       "url": "/suburbs/nsw/burra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

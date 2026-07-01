@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 56
+      "scoreA": 53,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 39
+      "scoreA": 47,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 26
+      "scoreA": 45,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 34
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 10
+      "scoreA": 18,
+      "scoreB": 21
     }
   ],
-  "verdict": "Brooweena has a lower overall climate risk score (31/100) compared to Brookwater (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Brooweena has a lower overall climate risk score (31/100) compared to Brookwater (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Brookwater or Brooweena safer from flooding?",
-      "answer": "Brookwater has a flood risk score of 26/100, while Brooweena scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brookwater has a flood risk score of 42/100, while Brooweena scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brookwater scores 33/100 for bushfire risk. Brooweena scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brookwater scores 53/100 for bushfire risk. Brooweena scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brookwater or Brooweena?",
@@ -76,5 +76,15 @@
       "label": "Brooweena Should I Buy?",
       "url": "/suburbs/qld/brooweena/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

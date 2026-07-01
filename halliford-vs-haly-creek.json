@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 51,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 29
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 39
+      "scoreA": 57,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 20
     }
   ],
-  "verdict": "Haly Creek has a lower overall climate risk score (34/100) compared to Halliford (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Haly Creek has a lower overall climate risk score (35/100) compared to Halliford (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Halliford or Haly Creek safer from flooding?",
-      "answer": "Halliford has a flood risk score of 27/100, while Haly Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Halliford has a flood risk score of 30/100, while Haly Creek scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Halliford scores 41/100 for bushfire risk. Haly Creek scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Halliford scores 51/100 for bushfire risk. Haly Creek scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Halliford or Haly Creek?",
@@ -76,5 +76,15 @@
       "label": "Haly Creek Should I Buy?",
       "url": "/suburbs/qld/haly-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

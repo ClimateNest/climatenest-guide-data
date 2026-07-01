@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 32
+      "scoreA": 47,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 26
+      "scoreA": 63,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 63
+      "scoreA": 71,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 38,
+      "scoreA": 22,
       "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 24
     }
   ],
-  "verdict": "Wandella has a lower overall climate risk score (36/100) compared to Walwa (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Walwa and Wandella have similar overall climate risk scores.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Walwa or Wandella safer from flooding?",
-      "answer": "Walwa has a flood risk score of 35/100, while Wandella scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Walwa has a flood risk score of 47/100, while Wandella scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Walwa scores 64/100 for bushfire risk. Wandella scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Walwa scores 63/100 for bushfire risk. Wandella scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Walwa or Wandella?",
-      "answer": "Both suburbs have climate considerations. Wandella has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Walwa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wandella Should I Buy?",
       "url": "/suburbs/vic/wandella/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

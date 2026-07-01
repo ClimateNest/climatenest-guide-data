@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 40,
-      "scoreB": 60
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 50
+      "scoreA": 20,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 50
+      "scoreA": 34,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 13
+      "scoreA": 37,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 12
+      "scoreA": 28,
+      "scoreB": 6
     }
   ],
-  "verdict": "Toolakea has a lower overall climate risk score (38/100) compared to Toogoom (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Toolakea has a lower overall climate risk score (32/100) compared to Toogoom (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Toogoom or Toolakea safer from flooding?",
-      "answer": "Toogoom has a flood risk score of 40/100, while Toolakea scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toogoom has a flood risk score of 40/100, while Toolakea scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toogoom scores 61/100 for bushfire risk. Toolakea scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toogoom scores 20/100 for bushfire risk. Toolakea scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toogoom or Toolakea?",
@@ -76,5 +76,15 @@
       "label": "Toolakea Should I Buy?",
       "url": "/suburbs/qld/toolakea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

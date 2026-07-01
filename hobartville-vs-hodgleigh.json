@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 30
+      "scoreA": 53,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 35,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 23,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Hodgleigh has a lower overall climate risk score (35/100) compared to Hobartville (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hobartville has a lower overall climate risk score (31/100) compared to Hodgleigh (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hobartville or Hodgleigh safer from flooding?",
-      "answer": "Hobartville has a flood risk score of 43/100, while Hodgleigh scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hobartville has a flood risk score of 26/100, while Hodgleigh scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hobartville scores 47/100 for bushfire risk. Hodgleigh scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hobartville scores 53/100 for bushfire risk. Hodgleigh scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hobartville or Hodgleigh?",
-      "answer": "Both suburbs have climate considerations. Hodgleigh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hobartville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hodgleigh Should I Buy?",
       "url": "/suburbs/qld/hodgleigh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

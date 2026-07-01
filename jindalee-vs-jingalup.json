@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 23
+      "scoreA": 44,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 16
+      "scoreA": 40,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 51
+      "scoreA": 56,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 44
+      "scoreA": 49,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 29
     }
   ],
-  "verdict": "Jingalup has a lower overall climate risk score (31/100) compared to Jindalee (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jingalup has a lower overall climate risk score (36/100) compared to Jindalee (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jindalee or Jingalup safer from flooding?",
-      "answer": "Jindalee has a flood risk score of 39/100, while Jingalup scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jindalee has a flood risk score of 44/100, while Jingalup scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jindalee scores 44/100 for bushfire risk. Jingalup scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jindalee scores 40/100 for bushfire risk. Jingalup scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jindalee or Jingalup?",
@@ -76,5 +76,15 @@
       "label": "Jingalup Should I Buy?",
       "url": "/suburbs/wa/jingalup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 32
+      "scoreA": 29,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 55
+      "scoreA": 54,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 21
+      "scoreA": 56,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 14,
+      "scoreB": 27
     }
   ],
-  "verdict": "Begonia has a lower overall climate risk score (31/100) compared to Beerwah (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Begonia has a lower overall climate risk score (34/100) compared to Beerwah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beerwah or Begonia safer from flooding?",
-      "answer": "Beerwah has a flood risk score of 42/100, while Begonia scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beerwah has a flood risk score of 29/100, while Begonia scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beerwah scores 43/100 for bushfire risk. Begonia scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beerwah scores 54/100 for bushfire risk. Begonia scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beerwah or Begonia?",
@@ -76,5 +76,15 @@
       "label": "Begonia Should I Buy?",
       "url": "/suburbs/qld/begonia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

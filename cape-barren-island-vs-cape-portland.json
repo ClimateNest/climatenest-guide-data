@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 56,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 42
+      "scoreA": 54,
+      "scoreB": 56
     },
     {
       "name": "Heat",
       "scoreA": 56,
-      "scoreB": 73
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 34
+      "scoreA": 35,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 17
+      "scoreA": 20,
+      "scoreB": 18
     }
   ],
-  "verdict": "Cape Barren Island has a lower overall climate risk score (35/100) compared to Cape Portland (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cape Portland has a lower overall climate risk score (37/100) compared to Cape Barren Island (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cape Barren Island or Cape Portland safer from flooding?",
-      "answer": "Cape Barren Island has a flood risk score of 37/100, while Cape Portland scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cape Barren Island has a flood risk score of 56/100, while Cape Portland scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cape Barren Island scores 45/100 for bushfire risk. Cape Portland scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cape Barren Island scores 54/100 for bushfire risk. Cape Portland scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cape Barren Island or Cape Portland?",
-      "answer": "Both suburbs have climate considerations. Cape Barren Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cape Portland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cape Portland Should I Buy?",
       "url": "/suburbs/tas/cape-portland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

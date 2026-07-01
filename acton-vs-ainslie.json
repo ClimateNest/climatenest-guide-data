@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 50
+      "scoreA": 42,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 58
+      "scoreA": 66,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 50
+      "scoreA": 29,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 17
     }
   ],
-  "verdict": "Acton has a lower overall climate risk score (33/100) compared to Ainslie (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Acton has a lower overall climate risk score (31/100) compared to Ainslie (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Acton or Ainslie safer from flooding?",
-      "answer": "Acton has a flood risk score of 39/100, while Ainslie scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Acton has a flood risk score of 42/100, while Ainslie scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Acton scores 36/100 for bushfire risk. Ainslie scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Acton scores 20/100 for bushfire risk. Ainslie scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Acton or Ainslie?",
@@ -76,5 +76,15 @@
       "label": "Ainslie Should I Buy?",
       "url": "/suburbs/act/ainslie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

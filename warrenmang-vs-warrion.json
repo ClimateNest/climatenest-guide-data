@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 36
+      "scoreA": 28,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 51,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 61
+      "scoreA": 55,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 41
+      "scoreA": 41,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 30,
       "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 10
     }
   ],
-  "verdict": "Warrion has a lower overall climate risk score (34/100) compared to Warrenmang (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Warrenmang and Warrion have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Warrenmang or Warrion safer from flooding?",
-      "answer": "Warrenmang has a flood risk score of 33/100, while Warrion scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warrenmang has a flood risk score of 28/100, while Warrion scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warrenmang scores 28/100 for bushfire risk. Warrion scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warrenmang scores 51/100 for bushfire risk. Warrion scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warrenmang or Warrion?",
-      "answer": "Both suburbs have climate considerations. Warrion has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Warrenmang has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Warrion Should I Buy?",
       "url": "/suburbs/vic/warrion/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

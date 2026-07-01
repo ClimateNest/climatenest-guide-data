@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 22
+      "scoreA": 57,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
       "scoreA": 58,
-      "scoreB": 40
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 56
+      "scoreA": 79,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 18
+      "scoreA": 21,
+      "scoreB": 16
     }
   ],
-  "verdict": "Caltowie West has a lower overall climate risk score (30/100) compared to Caltowie (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Caltowie West has a lower overall climate risk score (35/100) compared to Caltowie (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Caltowie or Caltowie West safer from flooding?",
-      "answer": "Caltowie has a flood risk score of 58/100, while Caltowie West scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Caltowie has a flood risk score of 57/100, while Caltowie West scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Caltowie scores 58/100 for bushfire risk. Caltowie West scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Caltowie scores 58/100 for bushfire risk. Caltowie West scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Caltowie or Caltowie West?",
@@ -76,5 +76,15 @@
       "label": "Caltowie West Should I Buy?",
       "url": "/suburbs/sa/caltowie-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

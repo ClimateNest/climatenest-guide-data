@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 48
+      "scoreA": 54,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 41
+      "scoreA": 51,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 40
+      "scoreA": 61,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 34,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 22
+      "scoreA": 13,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 7
+      "scoreA": 17,
+      "scoreB": 14
     }
   ],
   "verdict": "Warmun has a lower overall climate risk score (30/100) compared to Wardering (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Wardering or Warmun safer from flooding?",
-      "answer": "Wardering has a flood risk score of 26/100, while Warmun scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wardering has a flood risk score of 54/100, while Warmun scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wardering scores 65/100 for bushfire risk. Warmun scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wardering scores 51/100 for bushfire risk. Warmun scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wardering or Warmun?",
@@ -76,5 +76,15 @@
       "label": "Warmun Should I Buy?",
       "url": "/suburbs/wa/warmun/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

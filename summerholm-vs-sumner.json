@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 36
+      "scoreA": 45,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 36
+      "scoreA": 23,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 39,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 36
+      "scoreA": 21,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 44
+      "scoreA": 38,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 23
     }
   ],
-  "verdict": "Summerholm has a lower overall climate risk score (29/100) compared to Sumner (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Summerholm has a lower overall climate risk score (30/100) compared to Sumner (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Summerholm or Sumner safer from flooding?",
-      "answer": "Summerholm has a flood risk score of 22/100, while Sumner scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Summerholm has a flood risk score of 45/100, while Sumner scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Summerholm scores 20/100 for bushfire risk. Sumner scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Summerholm scores 23/100 for bushfire risk. Sumner scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Summerholm or Sumner?",
@@ -76,5 +76,15 @@
       "label": "Sumner Should I Buy?",
       "url": "/suburbs/qld/sumner/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

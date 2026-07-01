@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 23
+      "scoreA": 43,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 40
+      "scoreA": 45,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 35
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 40
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 36,
+      "scoreA": 21,
       "scoreB": 38
     },
     {
+      "name": "Coastal",
+      "scoreA": 55,
+      "scoreB": 45
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 28
     }
   ],
-  "verdict": "Preston has a lower overall climate risk score (31/100) compared to Prawle (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Prawle has a lower overall climate risk score (38/100) compared to Preston (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Prawle or Preston safer from flooding?",
-      "answer": "Prawle has a flood risk score of 50/100, while Preston scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Prawle has a flood risk score of 43/100, while Preston scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Prawle scores 23/100 for bushfire risk. Preston scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Prawle scores 45/100 for bushfire risk. Preston scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Prawle or Preston?",
-      "answer": "Both suburbs have climate considerations. Preston has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Prawle has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Preston Should I Buy?",
       "url": "/suburbs/qld/preston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

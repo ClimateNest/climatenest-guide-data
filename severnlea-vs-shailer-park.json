@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 62
+      "scoreA": 26,
+      "scoreB": 31
     },
     {
       "name": "Heat",
       "scoreA": 47,
-      "scoreB": 49
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 47,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
+      "scoreA": 51,
       "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 29
+      "scoreA": 27,
+      "scoreB": 18
     }
   ],
-  "verdict": "Severnlea has a lower overall climate risk score (39/100) compared to Shailer Park (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Severnlea has a lower overall climate risk score (37/100) compared to Shailer Park (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Severnlea or Shailer Park safer from flooding?",
-      "answer": "Severnlea has a flood risk score of 34/100, while Shailer Park scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Severnlea has a flood risk score of 25/100, while Shailer Park scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Severnlea scores 45/100 for bushfire risk. Shailer Park scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Severnlea scores 26/100 for bushfire risk. Shailer Park scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Severnlea or Shailer Park?",
@@ -76,5 +76,15 @@
       "label": "Shailer Park Should I Buy?",
       "url": "/suburbs/qld/shailer-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

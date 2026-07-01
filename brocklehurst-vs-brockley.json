@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 60
+      "scoreA": 18,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 74
+      "scoreA": 57,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 20
     }
   ],
-  "verdict": "Brocklehurst has a lower overall climate risk score (34/100) compared to Brockley (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Brocklehurst has a lower overall climate risk score (32/100) compared to Brockley (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Brocklehurst or Brockley safer from flooding?",
-      "answer": "Brocklehurst has a flood risk score of 32/100, while Brockley scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brocklehurst has a flood risk score of 50/100, while Brockley scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brocklehurst scores 33/100 for bushfire risk. Brockley scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brocklehurst scores 18/100 for bushfire risk. Brockley scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brocklehurst or Brockley?",
@@ -76,5 +76,15 @@
       "label": "Brockley Should I Buy?",
       "url": "/suburbs/nsw/brockley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

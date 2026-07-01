@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 56
+      "scoreA": 17,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 42
+      "scoreA": 34,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 39
+      "scoreA": 34,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 52
+      "scoreA": 12,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 21
     }
   ],
-  "verdict": "Fredericksfield has a lower overall climate risk score (27/100) compared to Frenches Creek (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fredericksfield has a lower overall climate risk score (26/100) compared to Frenches Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fredericksfield or Frenches Creek safer from flooding?",
-      "answer": "Fredericksfield has a flood risk score of 43/100, while Frenches Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fredericksfield has a flood risk score of 44/100, while Frenches Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fredericksfield scores 24/100 for bushfire risk. Frenches Creek scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fredericksfield scores 17/100 for bushfire risk. Frenches Creek scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fredericksfield or Frenches Creek?",
@@ -76,5 +76,15 @@
       "label": "Frenches Creek Should I Buy?",
       "url": "/suburbs/qld/frenches-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

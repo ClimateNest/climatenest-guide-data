@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 18
+      "scoreA": 44,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 62
+      "scoreA": 74,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 19,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 14,
+      "scoreB": 24
     }
   ],
-  "verdict": "Mount Austin has a lower overall climate risk score (33/100) compared to Mount Arthur (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Austin has a lower overall climate risk score (37/100) compared to Mount Arthur (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Arthur or Mount Austin safer from flooding?",
-      "answer": "Mount Arthur has a flood risk score of 51/100, while Mount Austin scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Arthur has a flood risk score of 46/100, while Mount Austin scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Arthur scores 52/100 for bushfire risk. Mount Austin scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Arthur scores 44/100 for bushfire risk. Mount Austin scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Arthur or Mount Austin?",
@@ -76,5 +76,15 @@
       "label": "Mount Austin Should I Buy?",
       "url": "/suburbs/nsw/mount-austin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

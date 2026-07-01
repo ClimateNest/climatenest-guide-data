@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 44
+      "scoreA": 24,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 37
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
+      "scoreA": 20,
       "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 25
     }
   ],
-  "verdict": "Narbethong has a lower overall climate risk score (28/100) compared to Nathan (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Narbethong has a lower overall climate risk score (27/100) compared to Nathan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Narbethong or Nathan safer from flooding?",
-      "answer": "Narbethong has a flood risk score of 44/100, while Nathan scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Narbethong has a flood risk score of 24/100, while Nathan scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Narbethong scores 27/100 for bushfire risk. Nathan scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Narbethong scores 24/100 for bushfire risk. Nathan scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Narbethong or Nathan?",
@@ -76,5 +76,15 @@
       "label": "Nathan Should I Buy?",
       "url": "/suburbs/qld/nathan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

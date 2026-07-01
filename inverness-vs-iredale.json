@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 53
+      "scoreA": 33,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 37
+      "scoreA": 46,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 34
+      "scoreA": 46,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 53
+      "scoreA": 32,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 25
     }
   ],
-  "verdict": "Inverness has a lower overall climate risk score (39/100) compared to Iredale (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Inverness has a lower overall climate risk score (36/100) compared to Iredale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Inverness or Iredale safer from flooding?",
-      "answer": "Inverness has a flood risk score of 59/100, while Iredale scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Inverness has a flood risk score of 33/100, while Iredale scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Inverness scores 23/100 for bushfire risk. Iredale scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Inverness scores 46/100 for bushfire risk. Iredale scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Inverness or Iredale?",
@@ -76,5 +76,15 @@
       "label": "Iredale Should I Buy?",
       "url": "/suburbs/qld/iredale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

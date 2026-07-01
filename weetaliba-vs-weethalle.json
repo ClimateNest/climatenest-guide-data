@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
+      "scoreA": 46,
       "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 31
+      "scoreA": 27,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 79
+      "scoreA": 56,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 26
+      "scoreA": 45,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
       "scoreA": 12,
-      "scoreB": 23
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 27
     }
   ],
-  "verdict": "Weethalle has a lower overall climate risk score (34/100) compared to Weetaliba (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Weetaliba has a lower overall climate risk score (35/100) compared to Weethalle (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Weetaliba or Weethalle safer from flooding?",
-      "answer": "Weetaliba has a flood risk score of 30/100, while Weethalle scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Weetaliba has a flood risk score of 46/100, while Weethalle scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Weetaliba scores 64/100 for bushfire risk. Weethalle scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Weetaliba scores 27/100 for bushfire risk. Weethalle scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Weetaliba or Weethalle?",
-      "answer": "Both suburbs have climate considerations. Weethalle has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Weetaliba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Weethalle Should I Buy?",
       "url": "/suburbs/nsw/weethalle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

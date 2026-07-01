@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 56,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 45,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 41
+      "scoreA": 34,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 26,
+      "scoreB": 6
     }
   ],
-  "verdict": "Benaraby has a lower overall climate risk score (35/100) compared to Benair (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Benaraby has a lower overall climate risk score (32/100) compared to Benair (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Benair or Benaraby safer from flooding?",
-      "answer": "Benair has a flood risk score of 45/100, while Benaraby scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Benair has a flood risk score of 56/100, while Benaraby scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Benair scores 29/100 for bushfire risk. Benaraby scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Benair scores 25/100 for bushfire risk. Benaraby scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Benair or Benaraby?",
@@ -76,5 +76,15 @@
       "label": "Benaraby Should I Buy?",
       "url": "/suburbs/qld/benaraby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

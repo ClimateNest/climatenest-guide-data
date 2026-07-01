@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 17
+      "scoreA": 22,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 64
+      "scoreA": 65,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 26
     }
   ],
-  "verdict": "Muckatah has a lower overall climate risk score (32/100) compared to Muckleford South (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Muckatah has a lower overall climate risk score (30/100) compared to Muckleford South (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Muckatah or Muckleford South safer from flooding?",
-      "answer": "Muckatah has a flood risk score of 31/100, while Muckleford South scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Muckatah has a flood risk score of 40/100, while Muckleford South scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Muckatah scores 17/100 for bushfire risk. Muckleford South scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Muckatah scores 22/100 for bushfire risk. Muckleford South scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Muckatah or Muckleford South?",
@@ -76,5 +76,15 @@
       "label": "Muckleford South Should I Buy?",
       "url": "/suburbs/vic/muckleford-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

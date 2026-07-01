@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 54
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 56
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
+      "scoreA": 47,
       "scoreB": 36
     },
     {
+      "name": "Bushfire",
+      "scoreA": 42,
+      "scoreB": 28
+    },
+    {
+      "name": "Heat",
+      "scoreA": 79,
+      "scoreB": 50
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 22
+    },
+    {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 11,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 18
     }
   ],
-  "verdict": "Frying Pan has a lower overall climate risk score (37/100) compared to Fullerton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Fullerton has a lower overall climate risk score (30/100) compared to Frying Pan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Frying Pan or Fullerton safer from flooding?",
-      "answer": "Frying Pan has a flood risk score of 49/100, while Fullerton scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Frying Pan has a flood risk score of 47/100, while Fullerton scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Frying Pan scores 18/100 for bushfire risk. Fullerton scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Frying Pan scores 42/100 for bushfire risk. Fullerton scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Frying Pan or Fullerton?",
-      "answer": "Both suburbs have climate considerations. Frying Pan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Fullerton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Fullerton Should I Buy?",
       "url": "/suburbs/nsw/fullerton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

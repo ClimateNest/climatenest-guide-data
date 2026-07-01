@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 33
+      "scoreA": 50,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 61
+      "scoreA": 77,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 36,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
+      "scoreA": 28,
       "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 20,
+      "scoreB": 23
     }
   ],
-  "verdict": "Vittoria has a lower overall climate risk score (33/100) compared to Voyager Point (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Voyager Point has a lower overall climate risk score (40/100) compared to Vittoria (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Vittoria or Voyager Point safer from flooding?",
-      "answer": "Vittoria has a flood risk score of 33/100, while Voyager Point scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Vittoria has a flood risk score of 44/100, while Voyager Point scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Vittoria scores 27/100 for bushfire risk. Voyager Point scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Vittoria scores 50/100 for bushfire risk. Voyager Point scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Vittoria or Voyager Point?",
-      "answer": "Both suburbs have climate considerations. Vittoria has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Voyager Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Voyager Point Should I Buy?",
       "url": "/suburbs/nsw/voyager-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

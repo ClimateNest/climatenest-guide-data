@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 52
+      "scoreA": 23,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 31
+      "scoreA": 17,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 22,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 6
+      "scoreA": 6,
+      "scoreB": 14
     }
   ],
-  "verdict": "Howard Springs has a lower overall climate risk score (29/100) compared to Hotham (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hotham has a lower overall climate risk score (26/100) compared to Howard Springs (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hotham or Howard Springs safer from flooding?",
-      "answer": "Hotham has a flood risk score of 59/100, while Howard Springs scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hotham has a flood risk score of 23/100, while Howard Springs scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hotham scores 23/100 for bushfire risk. Howard Springs scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hotham scores 17/100 for bushfire risk. Howard Springs scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hotham or Howard Springs?",
-      "answer": "Both suburbs have climate considerations. Howard Springs has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hotham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Howard Springs Should I Buy?",
       "url": "/suburbs/nt/howard-springs/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

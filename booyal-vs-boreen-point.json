@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 51,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 16
+      "scoreA": 35,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 36,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 37
+      "scoreA": 44,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 22
     }
   ],
-  "verdict": "Boreen Point has a lower overall climate risk score (33/100) compared to Booyal (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boreen Point has a lower overall climate risk score (36/100) compared to Booyal (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Booyal or Boreen Point safer from flooding?",
-      "answer": "Booyal has a flood risk score of 47/100, while Boreen Point scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Booyal has a flood risk score of 51/100, while Boreen Point scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Booyal scores 52/100 for bushfire risk. Boreen Point scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Booyal scores 35/100 for bushfire risk. Boreen Point scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Booyal or Boreen Point?",
@@ -76,5 +76,15 @@
       "label": "Boreen Point Should I Buy?",
       "url": "/suburbs/qld/boreen-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

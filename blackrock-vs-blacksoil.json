@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 63
+      "scoreA": 30,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 50
+      "scoreA": 38,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 25,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 36
+      "scoreA": 20,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 19
+      "scoreA": 6,
+      "scoreB": 12
     }
   ],
-  "verdict": "Blackrock has a lower overall climate risk score (28/100) compared to Blacksoil (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Blacksoil has a lower overall climate risk score (24/100) compared to Blackrock (25/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blackrock or Blacksoil safer from flooding?",
-      "answer": "Blackrock has a flood risk score of 27/100, while Blacksoil scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackrock has a flood risk score of 30/100, while Blacksoil scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackrock scores 46/100 for bushfire risk. Blacksoil scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackrock scores 30/100 for bushfire risk. Blacksoil scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackrock or Blacksoil?",
-      "answer": "Both suburbs have climate considerations. Blackrock has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Blacksoil has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Blacksoil Should I Buy?",
       "url": "/suburbs/qld/blacksoil/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 2889,
+    "projected2030": 4044,
+    "projected2050": 7511
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

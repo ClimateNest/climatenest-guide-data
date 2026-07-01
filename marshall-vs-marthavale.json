@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 29
+      "scoreA": 57,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 59
+      "scoreA": 62,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 34
+      "scoreA": 39,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 16
     }
   ],
-  "verdict": "Marthavale has a lower overall climate risk score (32/100) compared to Marshall (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marthavale has a lower overall climate risk score (40/100) compared to Marshall (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marshall or Marthavale safer from flooding?",
-      "answer": "Marshall has a flood risk score of 29/100, while Marthavale scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marshall has a flood risk score of 47/100, while Marthavale scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marshall scores 50/100 for bushfire risk. Marthavale scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marshall scores 57/100 for bushfire risk. Marthavale scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marshall or Marthavale?",
@@ -76,5 +76,15 @@
       "label": "Marthavale Should I Buy?",
       "url": "/suburbs/vic/marthavale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

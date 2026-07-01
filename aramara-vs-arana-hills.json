@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 59
+      "scoreA": 24,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 52
+      "scoreA": 43,
+      "scoreB": 37
     },
     {
       "name": "Heat",
+      "scoreA": 39,
+      "scoreB": 34
+    },
+    {
+      "name": "Storm",
       "scoreA": 36,
       "scoreB": 33
     },
     {
-      "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 43
-    },
-    {
       "name": "Coastal",
       "scoreA": 56,
-      "scoreB": 39
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Aramara has a lower overall climate risk score (36/100) compared to Arana Hills (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Arana Hills has a lower overall climate risk score (31/100) compared to Aramara (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Aramara or Arana Hills safer from flooding?",
-      "answer": "Aramara has a flood risk score of 39/100, while Arana Hills scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Aramara has a flood risk score of 24/100, while Arana Hills scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Aramara scores 38/100 for bushfire risk. Arana Hills scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Aramara scores 43/100 for bushfire risk. Arana Hills scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Aramara or Arana Hills?",
-      "answer": "Both suburbs have climate considerations. Aramara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Arana Hills has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Arana Hills Should I Buy?",
       "url": "/suburbs/qld/arana-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

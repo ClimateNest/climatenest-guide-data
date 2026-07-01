@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 59
+      "scoreA": 50,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 40
-    },
-    {
-      "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 64
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 36
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 51,
+      "scoreA": 20,
       "scoreB": 23
     },
     {
-      "name": "Cyclone",
-      "scoreA": 10,
+      "name": "Heat",
+      "scoreA": 46,
+      "scoreB": 63
+    },
+    {
+      "name": "Storm",
+      "scoreA": 45,
       "scoreB": 25
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 43,
+      "scoreB": 25
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 19,
+      "scoreB": 14
     }
   ],
-  "verdict": "Hassans Walls has a lower overall climate risk score (41/100) compared to Harwood (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hassans Walls has a lower overall climate risk score (32/100) compared to Harwood (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Harwood or Hassans Walls safer from flooding?",
-      "answer": "Harwood has a flood risk score of 57/100, while Hassans Walls scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Harwood has a flood risk score of 50/100, while Hassans Walls scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Harwood scores 60/100 for bushfire risk. Hassans Walls scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Harwood scores 20/100 for bushfire risk. Hassans Walls scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Harwood or Hassans Walls?",
@@ -76,5 +76,15 @@
       "label": "Hassans Walls Should I Buy?",
       "url": "/suburbs/nsw/hassans-walls/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

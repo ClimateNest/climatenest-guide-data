@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 28
+      "scoreA": 48,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 44
+      "scoreA": 51,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 76
+      "scoreA": 71,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 46,
+      "scoreA": 42,
       "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 41
+      "scoreA": 50,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Warnervale has a lower overall climate risk score (42/100) compared to Warkworth (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warnervale has a lower overall climate risk score (41/100) compared to Warkworth (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warkworth or Warnervale safer from flooding?",
-      "answer": "Warkworth has a flood risk score of 39/100, while Warnervale scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warkworth has a flood risk score of 48/100, while Warnervale scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warkworth scores 41/100 for bushfire risk. Warnervale scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warkworth scores 51/100 for bushfire risk. Warnervale scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warkworth or Warnervale?",
@@ -76,5 +76,15 @@
       "label": "Warnervale Should I Buy?",
       "url": "/suburbs/nsw/warnervale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4407,
+    "projected2030": 6170,
+    "projected2050": 11459
+  },
+  "valueImpact": {
+    "dragPercent": 2.57,
+    "description": "Properties in this area may face a 2.57% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

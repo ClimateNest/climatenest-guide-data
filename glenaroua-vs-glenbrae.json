@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 29
+      "scoreA": 26,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
       "scoreA": 23,
-      "scoreB": 25
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 66
+      "scoreA": 57,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 47
+      "scoreA": 45,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 11
     }
   ],
-  "verdict": "Glenbrae has a lower overall climate risk score (36/100) compared to Glenaroua (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Glenaroua has a lower overall climate risk score (32/100) compared to Glenbrae (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Glenaroua or Glenbrae safer from flooding?",
-      "answer": "Glenaroua has a flood risk score of 50/100, while Glenbrae scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenaroua has a flood risk score of 26/100, while Glenbrae scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenaroua scores 23/100 for bushfire risk. Glenbrae scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenaroua scores 23/100 for bushfire risk. Glenbrae scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenaroua or Glenbrae?",
-      "answer": "Both suburbs have climate considerations. Glenbrae has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Glenaroua has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Glenbrae Should I Buy?",
       "url": "/suburbs/vic/glenbrae/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

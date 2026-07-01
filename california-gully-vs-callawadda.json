@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 32
+      "scoreA": 58,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 37
+      "scoreA": 21,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 66
+      "scoreA": 56,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 35
+      "scoreA": 41,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 10
     }
   ],
-  "verdict": "California Gully has a lower overall climate risk score (34/100) compared to Callawadda (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "California Gully has a lower overall climate risk score (36/100) compared to Callawadda (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is California Gully or Callawadda safer from flooding?",
-      "answer": "California Gully has a flood risk score of 45/100, while Callawadda scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "California Gully has a flood risk score of 58/100, while Callawadda scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "California Gully scores 33/100 for bushfire risk. Callawadda scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "California Gully scores 21/100 for bushfire risk. Callawadda scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in California Gully or Callawadda?",
@@ -76,5 +76,15 @@
       "label": "Callawadda Should I Buy?",
       "url": "/suburbs/vic/callawadda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

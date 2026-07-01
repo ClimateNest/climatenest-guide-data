@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 55
+      "scoreA": 48,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 21,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 40
+      "scoreA": 49,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 37
+      "scoreA": 25,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 30
+      "scoreA": 46,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 14
     }
   ],
-  "verdict": "Munbura has a lower overall climate risk score (36/100) compared to Mullett Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Munbura has a lower overall climate risk score (30/100) compared to Mullett Creek (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mullett Creek or Munbura safer from flooding?",
-      "answer": "Mullett Creek has a flood risk score of 50/100, while Munbura scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mullett Creek has a flood risk score of 48/100, while Munbura scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mullett Creek scores 50/100 for bushfire risk. Munbura scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mullett Creek scores 21/100 for bushfire risk. Munbura scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mullett Creek or Munbura?",
@@ -76,5 +76,15 @@
       "label": "Munbura Should I Buy?",
       "url": "/suburbs/qld/munbura/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

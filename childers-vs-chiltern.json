@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 42
+      "scoreA": 25,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 64
+      "scoreA": 57,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 74
+      "scoreA": 60,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 24
+      "scoreA": 22,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
       "scoreA": 17,
-      "scoreB": 14
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 10
+      "scoreA": 22,
+      "scoreB": 12
     }
   ],
-  "verdict": "Childers has a lower overall climate risk score (35/100) compared to Chiltern (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Childers has a lower overall climate risk score (34/100) compared to Chiltern (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Childers or Chiltern safer from flooding?",
-      "answer": "Childers has a flood risk score of 24/100, while Chiltern scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Childers has a flood risk score of 25/100, while Chiltern scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Childers scores 46/100 for bushfire risk. Chiltern scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Childers scores 57/100 for bushfire risk. Chiltern scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Childers or Chiltern?",
@@ -76,5 +76,15 @@
       "label": "Chiltern Should I Buy?",
       "url": "/suburbs/vic/chiltern/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

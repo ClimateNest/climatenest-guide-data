@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 53
+      "scoreA": 53,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
       "scoreA": 19,
-      "scoreB": 24
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 69
+      "scoreA": 68,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 29
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
   "verdict": "Barndioota has a lower overall climate risk score (35/100) compared to Baroota (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Barndioota or Baroota safer from flooding?",
-      "answer": "Barndioota has a flood risk score of 40/100, while Baroota scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barndioota has a flood risk score of 53/100, while Baroota scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barndioota scores 19/100 for bushfire risk. Baroota scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barndioota scores 19/100 for bushfire risk. Baroota scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barndioota or Baroota?",
@@ -76,5 +76,15 @@
       "label": "Baroota Should I Buy?",
       "url": "/suburbs/sa/baroota/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

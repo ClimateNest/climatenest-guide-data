@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 38,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 25
+      "scoreA": 36,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 71
+      "scoreA": 57,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 40
+      "scoreA": 46,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
       "scoreA": 16,
-      "scoreB": 24
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Curyo has a lower overall climate risk score (31/100) compared to Dadswells Bridge (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Curyo has a lower overall climate risk score (35/100) compared to Dadswells Bridge (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Curyo or Dadswells Bridge safer from flooding?",
-      "answer": "Curyo has a flood risk score of 25/100, while Dadswells Bridge scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Curyo has a flood risk score of 38/100, while Dadswells Bridge scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Curyo scores 40/100 for bushfire risk. Dadswells Bridge scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Curyo scores 36/100 for bushfire risk. Dadswells Bridge scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Curyo or Dadswells Bridge?",
@@ -76,5 +76,15 @@
       "label": "Dadswells Bridge Should I Buy?",
       "url": "/suburbs/vic/dadswells-bridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
+      "scoreA": 32,
       "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 33
+      "scoreA": 73,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 36,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 30
+      "scoreA": 34,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 11,
+      "scoreB": 16
     }
   ],
-  "verdict": "Whiporie has a lower overall climate risk score (34/100) compared to Wherrol Flat (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Whiporie has a lower overall climate risk score (37/100) compared to Wherrol Flat (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wherrol Flat or Whiporie safer from flooding?",
-      "answer": "Wherrol Flat has a flood risk score of 42/100, while Whiporie scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wherrol Flat has a flood risk score of 32/100, while Whiporie scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wherrol Flat scores 20/100 for bushfire risk. Whiporie scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wherrol Flat scores 41/100 for bushfire risk. Whiporie scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wherrol Flat or Whiporie?",
@@ -76,5 +76,15 @@
       "label": "Whiporie Should I Buy?",
       "url": "/suburbs/nsw/whiporie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

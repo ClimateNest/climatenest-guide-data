@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 58
+      "scoreA": 21,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 52
+      "scoreA": 29,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 42,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 12
     }
   ],
-  "verdict": "Woolmer has a lower overall climate risk score (39/100) compared to Woolooman (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woolmer has a lower overall climate risk score (33/100) compared to Woolooman (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woolmer or Woolooman safer from flooding?",
-      "answer": "Woolmer has a flood risk score of 33/100, while Woolooman scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woolmer has a flood risk score of 21/100, while Woolooman scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woolmer scores 31/100 for bushfire risk. Woolooman scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woolmer scores 29/100 for bushfire risk. Woolooman scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woolmer or Woolooman?",
@@ -76,5 +76,15 @@
       "label": "Woolooman Should I Buy?",
       "url": "/suburbs/qld/woolooman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

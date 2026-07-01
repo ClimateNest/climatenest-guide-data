@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 48
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 24,
+      "scoreA": 22,
       "scoreB": 59
     },
     {
+      "name": "Bushfire",
+      "scoreA": 55,
+      "scoreB": 48
+    },
+    {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 40
+      "scoreA": 45,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 40
+      "scoreA": 36,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 28,
+      "scoreB": 13
     }
   ],
-  "verdict": "Browns Plains has a lower overall climate risk score (25/100) compared to Brush Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Browns Plains has a lower overall climate risk score (35/100) compared to Brush Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Browns Plains or Brush Creek safer from flooding?",
-      "answer": "Browns Plains has a flood risk score of 25/100, while Brush Creek scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Browns Plains has a flood risk score of 22/100, while Brush Creek scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Browns Plains scores 24/100 for bushfire risk. Brush Creek scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Browns Plains scores 55/100 for bushfire risk. Brush Creek scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Browns Plains or Brush Creek?",
@@ -76,5 +76,15 @@
       "label": "Brush Creek Should I Buy?",
       "url": "/suburbs/qld/brush-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

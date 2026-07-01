@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 33
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 49,
+      "scoreA": 24,
       "scoreB": 55
     },
     {
+      "name": "Bushfire",
+      "scoreA": 35,
+      "scoreB": 45
+    },
+    {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 68
+      "scoreA": 77,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 41
+      "scoreA": 22,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 25
     }
   ],
-  "verdict": "Cuckoo has a lower overall climate risk score (40/100) compared to Cressy (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cressy has a lower overall climate risk score (31/100) compared to Cuckoo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cressy or Cuckoo safer from flooding?",
-      "answer": "Cressy has a flood risk score of 29/100, while Cuckoo scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cressy has a flood risk score of 24/100, while Cuckoo scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cressy scores 49/100 for bushfire risk. Cuckoo scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cressy scores 35/100 for bushfire risk. Cuckoo scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cressy or Cuckoo?",
-      "answer": "Both suburbs have climate considerations. Cuckoo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cressy has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cuckoo Should I Buy?",
       "url": "/suburbs/tas/cuckoo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

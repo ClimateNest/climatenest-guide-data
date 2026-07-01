@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 40
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 61
+      "scoreA": 46,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 65
+      "scoreA": 57,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
+      "scoreA": 23,
       "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 25
     }
   ],
-  "verdict": "Tocumwal has a lower overall climate risk score (33/100) compared to Tolwong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tocumwal has a lower overall climate risk score (37/100) compared to Tolwong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tocumwal or Tolwong safer from flooding?",
-      "answer": "Tocumwal has a flood risk score of 48/100, while Tolwong scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tocumwal has a flood risk score of 55/100, while Tolwong scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tocumwal scores 39/100 for bushfire risk. Tolwong scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tocumwal scores 46/100 for bushfire risk. Tolwong scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tocumwal or Tolwong?",
@@ -76,5 +76,15 @@
       "label": "Tolwong Should I Buy?",
       "url": "/suburbs/nsw/tolwong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

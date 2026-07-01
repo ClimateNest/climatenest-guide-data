@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 49,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 58,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 78
+      "scoreA": 56,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 14,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 26
     }
   ],
-  "verdict": "Myrtleford has a lower overall climate risk score (31/100) compared to Mysia (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Myrtleford has a lower overall climate risk score (41/100) compared to Mysia (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Myrtleford or Mysia safer from flooding?",
-      "answer": "Myrtleford has a flood risk score of 35/100, while Mysia scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Myrtleford has a flood risk score of 49/100, while Mysia scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Myrtleford scores 26/100 for bushfire risk. Mysia scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Myrtleford scores 58/100 for bushfire risk. Mysia scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Myrtleford or Mysia?",
@@ -76,5 +76,15 @@
       "label": "Mysia Should I Buy?",
       "url": "/suburbs/vic/mysia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

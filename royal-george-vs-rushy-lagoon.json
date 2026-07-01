@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 48,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 43
+      "scoreA": 55,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 67
+      "scoreA": 54,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 37,
+      "scoreA": 49,
       "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 25
+      "scoreA": 14,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Rushy Lagoon has a lower overall climate risk score (35/100) compared to Royal George (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rushy Lagoon has a lower overall climate risk score (40/100) compared to Royal George (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Royal George or Rushy Lagoon safer from flooding?",
-      "answer": "Royal George has a flood risk score of 44/100, while Rushy Lagoon scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Royal George has a flood risk score of 48/100, while Rushy Lagoon scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Royal George scores 56/100 for bushfire risk. Rushy Lagoon scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Royal George scores 55/100 for bushfire risk. Rushy Lagoon scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Royal George or Rushy Lagoon?",
@@ -76,5 +76,15 @@
       "label": "Rushy Lagoon Should I Buy?",
       "url": "/suburbs/tas/rushy-lagoon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

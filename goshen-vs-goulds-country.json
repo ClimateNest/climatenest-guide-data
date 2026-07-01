@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
       "scoreA": 49,
-      "scoreB": 51
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 63
+      "scoreA": 76,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 43
+      "scoreA": 37,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 30
+      "scoreA": 26,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 30,
+      "scoreB": 17
     }
   ],
-  "verdict": "Goshen has a lower overall climate risk score (38/100) compared to Goulds Country (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Goulds Country has a lower overall climate risk score (33/100) compared to Goshen (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Goshen or Goulds Country safer from flooding?",
-      "answer": "Goshen has a flood risk score of 35/100, while Goulds Country scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goshen has a flood risk score of 23/100, while Goulds Country scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goshen scores 49/100 for bushfire risk. Goulds Country scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goshen scores 49/100 for bushfire risk. Goulds Country scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goshen or Goulds Country?",
-      "answer": "Both suburbs have climate considerations. Goshen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Goulds Country has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Goulds Country Should I Buy?",
       "url": "/suburbs/tas/goulds-country/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

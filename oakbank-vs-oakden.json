@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 37
+      "scoreA": 20,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 57
+      "scoreA": 28,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 61
+      "scoreA": 53,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 44
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 15
+      "scoreA": 15,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 23,
+      "scoreB": 24
     }
   ],
-  "verdict": "Oakbank has a lower overall climate risk score (30/100) compared to Oakden (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Oakbank has a lower overall climate risk score (27/100) compared to Oakden (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Oakbank or Oakden safer from flooding?",
-      "answer": "Oakbank has a flood risk score of 26/100, while Oakden scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oakbank has a flood risk score of 20/100, while Oakden scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oakbank scores 16/100 for bushfire risk. Oakden scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oakbank scores 28/100 for bushfire risk. Oakden scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oakbank or Oakden?",
@@ -76,5 +76,15 @@
       "label": "Oakden Should I Buy?",
       "url": "/suburbs/sa/oakden/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

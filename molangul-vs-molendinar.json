@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 25
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 19
-    },
-    {
-      "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 36
-    },
-    {
-      "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 31,
+      "scoreA": 53,
       "scoreB": 32
     },
     {
+      "name": "Bushfire",
+      "scoreA": 32,
+      "scoreB": 49
+    },
+    {
+      "name": "Heat",
+      "scoreA": 42,
+      "scoreB": 38
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 26
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 55,
+      "scoreB": 31
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 19
+      "scoreA": 8,
+      "scoreB": 15
     }
   ],
-  "verdict": "Molendinar has a lower overall climate risk score (28/100) compared to Molangul (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Molendinar has a lower overall climate risk score (32/100) compared to Molangul (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Molangul or Molendinar safer from flooding?",
-      "answer": "Molangul has a flood risk score of 55/100, while Molendinar scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Molangul has a flood risk score of 53/100, while Molendinar scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Molangul scores 22/100 for bushfire risk. Molendinar scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Molangul scores 32/100 for bushfire risk. Molendinar scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Molangul or Molendinar?",
@@ -76,5 +76,15 @@
       "label": "Molendinar Should I Buy?",
       "url": "/suburbs/qld/molendinar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

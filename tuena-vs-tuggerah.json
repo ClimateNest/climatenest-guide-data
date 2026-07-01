@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 43
+      "scoreA": 51,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 53
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 56
+      "scoreA": 70,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 34
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 32
+      "scoreA": 16,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 26
     }
   ],
-  "verdict": "Tuena has a lower overall climate risk score (32/100) compared to Tuggerah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tuena has a lower overall climate risk score (38/100) compared to Tuggerah (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tuena or Tuggerah safer from flooding?",
-      "answer": "Tuena has a flood risk score of 42/100, while Tuggerah scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tuena has a flood risk score of 51/100, while Tuggerah scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tuena scores 33/100 for bushfire risk. Tuggerah scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tuena scores 26/100 for bushfire risk. Tuggerah scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tuena or Tuggerah?",
@@ -76,5 +76,15 @@
       "label": "Tuggerah Should I Buy?",
       "url": "/suburbs/nsw/tuggerah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

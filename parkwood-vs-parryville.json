@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 22
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 66
+      "scoreA": 60,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 50
+      "scoreA": 23,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 15
     }
   ],
-  "verdict": "Parryville has a lower overall climate risk score (33/100) compared to Parkwood (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Parkwood has a lower overall climate risk score (32/100) compared to Parryville (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Parkwood or Parryville safer from flooding?",
-      "answer": "Parkwood has a flood risk score of 55/100, while Parryville scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Parkwood has a flood risk score of 33/100, while Parryville scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Parkwood scores 18/100 for bushfire risk. Parryville scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Parkwood scores 30/100 for bushfire risk. Parryville scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Parkwood or Parryville?",
-      "answer": "Both suburbs have climate considerations. Parryville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Parkwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Parryville Should I Buy?",
       "url": "/suburbs/wa/parryville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

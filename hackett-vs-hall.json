@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 32
+      "scoreA": 32,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 61
+      "scoreA": 60,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 53
+      "scoreA": 52,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 27,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 22
+      "scoreA": 14,
+      "scoreB": 13
     }
   ],
-  "verdict": "Hackett has a lower overall climate risk score (34/100) compared to Hall (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hackett has a lower overall climate risk score (35/100) compared to Hall (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hackett or Hall safer from flooding?",
-      "answer": "Hackett has a flood risk score of 31/100, while Hall scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hackett has a flood risk score of 32/100, while Hall scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hackett scores 29/100 for bushfire risk. Hall scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hackett scores 60/100 for bushfire risk. Hall scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hackett or Hall?",
@@ -76,5 +76,15 @@
       "label": "Hall Should I Buy?",
       "url": "/suburbs/act/hall/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

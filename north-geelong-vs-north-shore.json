@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 27
+      "scoreA": 38,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 43
+      "scoreA": 16,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 70
+      "scoreA": 62,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 37
+      "scoreA": 26,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 18
     }
   ],
-  "verdict": "North Geelong has a lower overall climate risk score (36/100) compared to North Shore (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Geelong has a lower overall climate risk score (32/100) compared to North Shore (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Geelong or North Shore safer from flooding?",
-      "answer": "North Geelong has a flood risk score of 36/100, while North Shore scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Geelong has a flood risk score of 38/100, while North Shore scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Geelong scores 53/100 for bushfire risk. North Shore scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Geelong scores 16/100 for bushfire risk. North Shore scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Geelong or North Shore?",
@@ -76,5 +76,15 @@
       "label": "North Shore Should I Buy?",
       "url": "/suburbs/vic/north-shore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

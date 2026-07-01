@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 49,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 58
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 35
+      "scoreA": 44,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 39
+      "scoreA": 21,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 33
+      "scoreA": 11,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 16
+      "scoreA": 6,
+      "scoreB": 12
     }
   ],
-  "verdict": "Shannonvale has a lower overall climate risk score (22/100) compared to Sharon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shannonvale has a lower overall climate risk score (25/100) compared to Sharon (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Shannonvale or Sharon safer from flooding?",
-      "answer": "Shannonvale has a flood risk score of 26/100, while Sharon scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shannonvale has a flood risk score of 49/100, while Sharon scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shannonvale scores 16/100 for bushfire risk. Sharon scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shannonvale scores 19/100 for bushfire risk. Sharon scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shannonvale or Sharon?",
@@ -76,5 +76,15 @@
       "label": "Sharon Should I Buy?",
       "url": "/suburbs/qld/sharon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

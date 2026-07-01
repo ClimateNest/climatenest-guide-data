@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 34
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 55
+      "scoreA": 25,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 66
+      "scoreA": 60,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 60
+      "scoreA": 50,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 12,
+      "scoreB": 25
     }
   ],
-  "verdict": "Wollun has a lower overall climate risk score (31/100) compared to Wombarra (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wollun has a lower overall climate risk score (36/100) compared to Wombarra (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wollun or Wombarra safer from flooding?",
-      "answer": "Wollun has a flood risk score of 23/100, while Wombarra scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wollun has a flood risk score of 36/100, while Wombarra scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wollun scores 33/100 for bushfire risk. Wombarra scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wollun scores 25/100 for bushfire risk. Wombarra scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wollun or Wombarra?",
@@ -76,5 +76,15 @@
       "label": "Wombarra Should I Buy?",
       "url": "/suburbs/nsw/wombarra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

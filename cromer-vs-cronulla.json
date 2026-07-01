@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 48,
-      "scoreB": 25
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 41
-    },
-    {
-      "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
       "scoreB": 32
     },
     {
+      "name": "Bushfire",
+      "scoreA": 16,
+      "scoreB": 23
+    },
+    {
+      "name": "Heat",
+      "scoreA": 50,
+      "scoreB": 79
+    },
+    {
+      "name": "Storm",
+      "scoreA": 34,
+      "scoreB": 35
+    },
+    {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 46
+      "scoreA": 41,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 19
     }
   ],
-  "verdict": "Cronulla has a lower overall climate risk score (41/100) compared to Cromer (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cromer has a lower overall climate risk score (36/100) compared to Cronulla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cromer or Cronulla safer from flooding?",
-      "answer": "Cromer has a flood risk score of 48/100, while Cronulla scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cromer has a flood risk score of 48/100, while Cronulla scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cromer scores 22/100 for bushfire risk. Cronulla scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cromer scores 16/100 for bushfire risk. Cronulla scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cromer or Cronulla?",
-      "answer": "Both suburbs have climate considerations. Cronulla has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cromer has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cronulla Should I Buy?",
       "url": "/suburbs/nsw/cronulla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

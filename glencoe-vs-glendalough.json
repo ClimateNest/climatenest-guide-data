@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 43
+      "scoreA": 53,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 23
+      "scoreA": 43,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 61
+      "scoreA": 57,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 50
+      "scoreA": 39,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 10,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 16
     }
   ],
-  "verdict": "Glendalough has a lower overall climate risk score (36/100) compared to Glencoe (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glendalough has a lower overall climate risk score (36/100) compared to Glencoe (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glencoe or Glendalough safer from flooding?",
-      "answer": "Glencoe has a flood risk score of 52/100, while Glendalough scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glencoe has a flood risk score of 53/100, while Glendalough scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glencoe scores 62/100 for bushfire risk. Glendalough scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glencoe scores 43/100 for bushfire risk. Glendalough scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glencoe or Glendalough?",
@@ -76,5 +76,15 @@
       "label": "Glendalough Should I Buy?",
       "url": "/suburbs/wa/glendalough/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

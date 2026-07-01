@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 56,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 64
+      "scoreA": 61,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 65
+      "scoreA": 77,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 31
+      "scoreA": 46,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 24
     }
   ],
-  "verdict": "Beechford has a lower overall climate risk score (39/100) compared to Bellerive (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bellerive has a lower overall climate risk score (37/100) compared to Beechford (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beechford or Bellerive safer from flooding?",
-      "answer": "Beechford has a flood risk score of 38/100, while Bellerive scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beechford has a flood risk score of 56/100, while Bellerive scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beechford scores 57/100 for bushfire risk. Bellerive scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beechford scores 61/100 for bushfire risk. Bellerive scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beechford or Bellerive?",
-      "answer": "Both suburbs have climate considerations. Beechford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bellerive has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bellerive Should I Buy?",
       "url": "/suburbs/tas/bellerive/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4328,
+    "projected2030": 6059,
+    "projected2050": 11253
+  },
+  "valueImpact": {
+    "dragPercent": 2.4,
+    "description": "Properties in this area may face a 2.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

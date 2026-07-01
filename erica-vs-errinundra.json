@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 34
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 25
-    },
-    {
-      "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 62
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 40
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 31,
       "scoreB": 21
     },
     {
+      "name": "Bushfire",
+      "scoreA": 47,
+      "scoreB": 18
+    },
+    {
+      "name": "Heat",
+      "scoreA": 80,
+      "scoreB": 53
+    },
+    {
+      "name": "Storm",
+      "scoreA": 31,
+      "scoreB": 28
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 22,
+      "scoreB": 29
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 23
     }
   ],
-  "verdict": "Erica has a lower overall climate risk score (32/100) compared to Errinundra (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Errinundra has a lower overall climate risk score (29/100) compared to Erica (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Erica or Errinundra safer from flooding?",
-      "answer": "Erica has a flood risk score of 38/100, while Errinundra scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Erica has a flood risk score of 31/100, while Errinundra scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Erica scores 25/100 for bushfire risk. Errinundra scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Erica scores 47/100 for bushfire risk. Errinundra scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Erica or Errinundra?",
-      "answer": "Both suburbs have climate considerations. Erica has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Errinundra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Errinundra Should I Buy?",
       "url": "/suburbs/vic/errinundra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

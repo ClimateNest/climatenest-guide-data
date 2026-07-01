@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 59
+      "scoreA": 56,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 31,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 35,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 38,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 38
+      "scoreA": 54,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 22
     }
   ],
-  "verdict": "New Park has a lower overall climate risk score (34/100) compared to Newbold (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Newbold has a lower overall climate risk score (39/100) compared to New Park (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is New Park or Newbold safer from flooding?",
-      "answer": "New Park has a flood risk score of 36/100, while Newbold scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "New Park has a flood risk score of 56/100, while Newbold scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "New Park scores 24/100 for bushfire risk. Newbold scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "New Park scores 31/100 for bushfire risk. Newbold scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in New Park or Newbold?",
-      "answer": "Both suburbs have climate considerations. New Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Newbold has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Newbold Should I Buy?",
       "url": "/suburbs/nsw/newbold/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

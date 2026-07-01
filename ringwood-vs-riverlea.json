@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 51
+      "scoreA": 59,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 27
+      "scoreA": 53,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 75
+      "scoreA": 68,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 43
+      "scoreA": 32,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 23,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Riverlea has a lower overall climate risk score (39/100) compared to Ringwood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Riverlea has a lower overall climate risk score (42/100) compared to Ringwood (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ringwood or Riverlea safer from flooding?",
-      "answer": "Ringwood has a flood risk score of 55/100, while Riverlea scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ringwood has a flood risk score of 59/100, while Riverlea scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ringwood scores 54/100 for bushfire risk. Riverlea scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ringwood scores 53/100 for bushfire risk. Riverlea scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ringwood or Riverlea?",
@@ -76,5 +76,15 @@
       "label": "Riverlea Should I Buy?",
       "url": "/suburbs/nsw/riverlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

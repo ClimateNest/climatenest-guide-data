@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 38
+      "scoreA": 59,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 54
+      "scoreA": 66,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 23
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 20
     }
   ],
-  "verdict": "Grassdale has a lower overall climate risk score (31/100) compared to Grantville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Grassdale has a lower overall climate risk score (39/100) compared to Grantville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Grantville or Grassdale safer from flooding?",
-      "answer": "Grantville has a flood risk score of 52/100, while Grassdale scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Grantville has a flood risk score of 28/100, while Grassdale scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Grantville scores 44/100 for bushfire risk. Grassdale scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Grantville scores 59/100 for bushfire risk. Grassdale scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Grantville or Grassdale?",
@@ -76,5 +76,15 @@
       "label": "Grassdale Should I Buy?",
       "url": "/suburbs/vic/grassdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

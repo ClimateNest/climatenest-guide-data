@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 47
+      "scoreA": 60,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 57
+      "scoreA": 21,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 50
+      "scoreA": 77,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 30
+      "scoreA": 16,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
+      "scoreA": 18,
       "scoreB": 17
     }
   ],
-  "verdict": "Highgate has a lower overall climate risk score (41/100) compared to Hewett (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Highgate has a lower overall climate risk score (37/100) compared to Hewett (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hewett or Highgate safer from flooding?",
-      "answer": "Hewett has a flood risk score of 33/100, while Highgate scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hewett has a flood risk score of 60/100, while Highgate scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hewett scores 64/100 for bushfire risk. Highgate scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hewett scores 21/100 for bushfire risk. Highgate scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hewett or Highgate?",
@@ -76,5 +76,15 @@
       "label": "Highgate Should I Buy?",
       "url": "/suburbs/sa/highgate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

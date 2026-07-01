@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 25
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 46
-    },
-    {
-      "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 75
-    },
-    {
-      "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 48
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 24,
+      "scoreA": 35,
       "scoreB": 29
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 32
+    },
+    {
+      "name": "Heat",
+      "scoreA": 72,
+      "scoreB": 55
+    },
+    {
+      "name": "Storm",
+      "scoreA": 33,
+      "scoreB": 22
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 18,
+      "scoreB": 25
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 24
     }
   ],
-  "verdict": "Bradys Lake has a lower overall climate risk score (37/100) compared to Brandum (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Brandum has a lower overall climate risk score (31/100) compared to Bradys Lake (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bradys Lake or Brandum safer from flooding?",
-      "answer": "Bradys Lake has a flood risk score of 28/100, while Brandum scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bradys Lake has a flood risk score of 35/100, while Brandum scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bradys Lake scores 53/100 for bushfire risk. Brandum scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bradys Lake scores 28/100 for bushfire risk. Brandum scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bradys Lake or Brandum?",
-      "answer": "Both suburbs have climate considerations. Bradys Lake has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Brandum has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Brandum Should I Buy?",
       "url": "/suburbs/tas/brandum/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

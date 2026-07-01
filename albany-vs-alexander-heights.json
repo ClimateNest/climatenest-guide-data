@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 58
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 76
+      "scoreA": 71,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 42
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 16,
+      "scoreB": 21
     }
   ],
-  "verdict": "Albany has a lower overall climate risk score (29/100) compared to Alexander Heights (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Albany has a lower overall climate risk score (35/100) compared to Alexander Heights (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Albany or Alexander Heights safer from flooding?",
-      "answer": "Albany has a flood risk score of 28/100, while Alexander Heights scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Albany has a flood risk score of 48/100, while Alexander Heights scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Albany scores 23/100 for bushfire risk. Alexander Heights scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Albany scores 37/100 for bushfire risk. Alexander Heights scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Albany or Alexander Heights?",
@@ -76,5 +76,15 @@
       "label": "Alexander Heights Should I Buy?",
       "url": "/suburbs/wa/alexander-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

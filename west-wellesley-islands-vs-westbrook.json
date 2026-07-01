@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 54
+      "scoreA": 32,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 64
+      "scoreA": 34,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 36,
+      "scoreA": 42,
       "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 47,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 43
+      "scoreA": 20,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 30
+      "scoreA": 9,
+      "scoreB": 12
     }
   ],
-  "verdict": "West Wellesley Islands has a lower overall climate risk score (26/100) compared to Westbrook (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "West Wellesley Islands has a lower overall climate risk score (31/100) compared to Westbrook (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is West Wellesley Islands or Westbrook safer from flooding?",
-      "answer": "West Wellesley Islands has a flood risk score of 39/100, while Westbrook scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Wellesley Islands has a flood risk score of 32/100, while Westbrook scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Wellesley Islands scores 23/100 for bushfire risk. Westbrook scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Wellesley Islands scores 34/100 for bushfire risk. Westbrook scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Wellesley Islands or Westbrook?",
@@ -76,5 +76,15 @@
       "label": "Westbrook Should I Buy?",
       "url": "/suburbs/qld/westbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

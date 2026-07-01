@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 52,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 18
-    },
-    {
-      "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 42
-    },
-    {
-      "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 44
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 11,
+      "scoreA": 33,
       "scoreB": 31
     },
     {
+      "name": "Heat",
+      "scoreA": 43,
+      "scoreB": 34
+    },
+    {
+      "name": "Storm",
+      "scoreA": 21,
+      "scoreB": 21
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 13,
+      "scoreB": 49
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 15,
+      "scoreB": 13
     }
   ],
-  "verdict": "Bulwer has a lower overall climate risk score (29/100) compared to Bulloo Downs (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bulwer has a lower overall climate risk score (29/100) compared to Bulloo Downs (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bulloo Downs or Bulwer safer from flooding?",
-      "answer": "Bulloo Downs has a flood risk score of 21/100, while Bulwer scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bulloo Downs has a flood risk score of 52/100, while Bulwer scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bulloo Downs scores 64/100 for bushfire risk. Bulwer scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bulloo Downs scores 33/100 for bushfire risk. Bulwer scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bulloo Downs or Bulwer?",
@@ -76,5 +76,15 @@
       "label": "Bulwer Should I Buy?",
       "url": "/suburbs/qld/bulwer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3206,
+    "projected2030": 4488,
+    "projected2050": 8336
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

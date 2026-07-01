@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 62
+      "scoreA": 63,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 37
+      "scoreA": 50,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 33
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 12
+      "scoreA": 46,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 8
     }
   ],
-  "verdict": "Aramac has a lower overall climate risk score (34/100) compared to Araluen (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Aramac has a lower overall climate risk score (30/100) compared to Araluen (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Araluen or Aramac safer from flooding?",
-      "answer": "Araluen has a flood risk score of 52/100, while Aramac scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Araluen has a flood risk score of 43/100, while Aramac scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Araluen scores 29/100 for bushfire risk. Aramac scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Araluen scores 63/100 for bushfire risk. Aramac scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Araluen or Aramac?",
@@ -76,5 +76,15 @@
       "label": "Aramac Should I Buy?",
       "url": "/suburbs/qld/aramac/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

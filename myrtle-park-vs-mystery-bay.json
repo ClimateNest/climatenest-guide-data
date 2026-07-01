@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 43
+      "scoreA": 49,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 57
+      "scoreA": 60,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 78
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 18,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 17
     }
   ],
-  "verdict": "Myrtle Park has a lower overall climate risk score (34/100) compared to Mystery Bay (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mystery Bay has a lower overall climate risk score (31/100) compared to Myrtle Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Myrtle Park or Mystery Bay safer from flooding?",
-      "answer": "Myrtle Park has a flood risk score of 38/100, while Mystery Bay scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Myrtle Park has a flood risk score of 49/100, while Mystery Bay scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Myrtle Park scores 51/100 for bushfire risk. Mystery Bay scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Myrtle Park scores 60/100 for bushfire risk. Mystery Bay scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Myrtle Park or Mystery Bay?",
-      "answer": "Both suburbs have climate considerations. Myrtle Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mystery Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mystery Bay Should I Buy?",
       "url": "/suburbs/nsw/mystery-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

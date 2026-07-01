@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 34
+      "scoreA": 58,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 51
+      "scoreA": 29,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 73
+      "scoreA": 56,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 31,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 30
     }
   ],
-  "verdict": "Avondale Heights has a lower overall climate risk score (38/100) compared to Avonmore (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Avonmore has a lower overall climate risk score (35/100) compared to Avondale Heights (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Avondale Heights or Avonmore safer from flooding?",
-      "answer": "Avondale Heights has a flood risk score of 42/100, while Avonmore scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Avondale Heights has a flood risk score of 58/100, while Avonmore scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Avondale Heights scores 54/100 for bushfire risk. Avonmore scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Avondale Heights scores 29/100 for bushfire risk. Avonmore scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Avondale Heights or Avonmore?",
-      "answer": "Both suburbs have climate considerations. Avondale Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Avonmore has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Avonmore Should I Buy?",
       "url": "/suburbs/vic/avonmore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 56
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 65
-    },
-    {
-      "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 50
-    },
-    {
-      "name": "Storm",
-      "scoreA": 39,
+      "scoreA": 60,
       "scoreB": 42
     },
     {
+      "name": "Bushfire",
+      "scoreA": 48,
+      "scoreB": 33
+    },
+    {
+      "name": "Heat",
+      "scoreA": 57,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 31,
+      "scoreB": 22
+    },
+    {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 26
+      "scoreA": 11,
+      "scoreB": 16
     }
   ],
-  "verdict": "Changerup has a lower overall climate risk score (33/100) compared to Channybearup (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Channybearup has a lower overall climate risk score (35/100) compared to Changerup (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Changerup or Channybearup safer from flooding?",
-      "answer": "Changerup has a flood risk score of 29/100, while Channybearup scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Changerup has a flood risk score of 60/100, while Channybearup scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Changerup scores 21/100 for bushfire risk. Channybearup scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Changerup scores 48/100 for bushfire risk. Channybearup scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Changerup or Channybearup?",
-      "answer": "Both suburbs have climate considerations. Changerup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Channybearup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Channybearup Should I Buy?",
       "url": "/suburbs/wa/channybearup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

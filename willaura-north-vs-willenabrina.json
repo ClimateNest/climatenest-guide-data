@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 16
+      "scoreA": 62,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 71
+      "scoreA": 76,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 25,
+      "scoreB": 22
     }
   ],
-  "verdict": "Willenabrina has a lower overall climate risk score (32/100) compared to Willaura North (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Willenabrina has a lower overall climate risk score (38/100) compared to Willaura North (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Willaura North or Willenabrina safer from flooding?",
-      "answer": "Willaura North has a flood risk score of 47/100, while Willenabrina scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Willaura North has a flood risk score of 31/100, while Willenabrina scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Willaura North scores 34/100 for bushfire risk. Willenabrina scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Willaura North scores 62/100 for bushfire risk. Willenabrina scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Willaura North or Willenabrina?",
@@ -76,5 +76,15 @@
       "label": "Willenabrina Should I Buy?",
       "url": "/suburbs/vic/willenabrina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

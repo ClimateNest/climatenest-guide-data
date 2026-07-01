@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 52
+      "scoreA": 55,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 39
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 49,
+      "scoreA": 37,
       "scoreB": 35
     },
     {
+      "name": "Coastal",
+      "scoreA": 47,
+      "scoreB": 46
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 15
+      "scoreA": 23,
+      "scoreB": 25
     }
   ],
-  "verdict": "Wollumboola has a lower overall climate risk score (37/100) compared to Wollongong (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wollongong has a lower overall climate risk score (40/100) compared to Wollumboola (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Wollongong or Wollumboola safer from flooding?",
-      "answer": "Wollongong has a flood risk score of 39/100, while Wollumboola scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wollongong has a flood risk score of 33/100, while Wollumboola scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wollongong scores 56/100 for bushfire risk. Wollumboola scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wollongong scores 45/100 for bushfire risk. Wollumboola scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wollongong or Wollumboola?",
-      "answer": "Both suburbs have climate considerations. Wollumboola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wollongong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wollumboola Should I Buy?",
       "url": "/suburbs/nsw/wollumboola/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

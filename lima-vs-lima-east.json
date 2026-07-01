@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 21
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 19,
+      "scoreA": 24,
       "scoreB": 51
     },
     {
+      "name": "Bushfire",
+      "scoreA": 29,
+      "scoreB": 65
+    },
+    {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 58
+      "scoreA": 75,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 42,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Lima East has a lower overall climate risk score (32/100) compared to Lima (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lima has a lower overall climate risk score (36/100) compared to Lima East (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lima or Lima East safer from flooding?",
-      "answer": "Lima has a flood risk score of 43/100, while Lima East scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lima has a flood risk score of 24/100, while Lima East scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lima scores 19/100 for bushfire risk. Lima East scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lima scores 29/100 for bushfire risk. Lima East scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lima or Lima East?",
-      "answer": "Both suburbs have climate considerations. Lima East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lima has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lima East Should I Buy?",
       "url": "/suburbs/vic/lima-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

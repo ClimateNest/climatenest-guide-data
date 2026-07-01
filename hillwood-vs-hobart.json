@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 38
+      "scoreA": 55,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 45
+      "scoreA": 26,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 72
+      "scoreA": 77,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 15
     }
   ],
-  "verdict": "Hillwood has a lower overall climate risk score (38/100) compared to Hobart (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Hobart has a lower overall climate risk score (29/100) compared to Hillwood (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hillwood or Hobart safer from flooding?",
-      "answer": "Hillwood has a flood risk score of 39/100, while Hobart scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hillwood has a flood risk score of 55/100, while Hobart scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hillwood scores 49/100 for bushfire risk. Hobart scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hillwood scores 26/100 for bushfire risk. Hobart scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hillwood or Hobart?",
-      "answer": "Both suburbs have climate considerations. Hillwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hobart has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hobart Should I Buy?",
       "url": "/suburbs/tas/hobart/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 45
+      "scoreA": 57,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 53
+      "scoreA": 44,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 75
+      "scoreA": 79,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 22
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 23
     }
   ],
-  "verdict": "Tooligie has a lower overall climate risk score (35/100) compared to Toora (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Toora has a lower overall climate risk score (41/100) compared to Tooligie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tooligie or Toora safer from flooding?",
-      "answer": "Tooligie has a flood risk score of 36/100, while Toora scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tooligie has a flood risk score of 57/100, while Toora scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tooligie scores 39/100 for bushfire risk. Toora scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tooligie scores 44/100 for bushfire risk. Toora scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tooligie or Toora?",
-      "answer": "Both suburbs have climate considerations. Tooligie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Toora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Toora Should I Buy?",
       "url": "/suburbs/sa/toora/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

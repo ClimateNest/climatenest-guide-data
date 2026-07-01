@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 51
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 35
+      "scoreA": 44,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 74
+      "scoreA": 65,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 39
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 44
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 24,
+      "scoreB": 19
     }
   ],
-  "verdict": "Kurraba Point has a lower overall climate risk score (37/100) compared to Kurrajong Heights (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kurraba Point has a lower overall climate risk score (40/100) compared to Kurrajong Heights (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kurraba Point or Kurrajong Heights safer from flooding?",
-      "answer": "Kurraba Point has a flood risk score of 29/100, while Kurrajong Heights scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kurraba Point has a flood risk score of 32/100, while Kurrajong Heights scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kurraba Point scores 29/100 for bushfire risk. Kurrajong Heights scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kurraba Point scores 44/100 for bushfire risk. Kurrajong Heights scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kurraba Point or Kurrajong Heights?",
@@ -76,5 +76,15 @@
       "label": "Kurrajong Heights Should I Buy?",
       "url": "/suburbs/nsw/kurrajong-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

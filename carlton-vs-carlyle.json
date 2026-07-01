@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 35
+      "scoreA": 47,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 61
+      "scoreA": 49,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 64
+      "scoreA": 50,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 42
+      "scoreA": 25,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 19
     }
   ],
-  "verdict": "Carlton has a lower overall climate risk score (32/100) compared to Carlyle (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Carlyle has a lower overall climate risk score (33/100) compared to Carlton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Carlton or Carlyle safer from flooding?",
-      "answer": "Carlton has a flood risk score of 41/100, while Carlyle scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carlton has a flood risk score of 47/100, while Carlyle scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carlton scores 35/100 for bushfire risk. Carlyle scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carlton scores 49/100 for bushfire risk. Carlyle scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carlton or Carlyle?",
-      "answer": "Both suburbs have climate considerations. Carlton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Carlyle has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Carlyle Should I Buy?",
       "url": "/suburbs/vic/carlyle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

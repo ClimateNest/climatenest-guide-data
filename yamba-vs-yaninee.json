@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 52,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 60
+      "scoreA": 30,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 60
+      "scoreA": 75,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 14
     }
   ],
-  "verdict": "Yamba has a lower overall climate risk score (33/100) compared to Yaninee (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Yaninee has a lower overall climate risk score (30/100) compared to Yamba (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yamba or Yaninee safer from flooding?",
-      "answer": "Yamba has a flood risk score of 24/100, while Yaninee scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yamba has a flood risk score of 52/100, while Yaninee scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yamba scores 20/100 for bushfire risk. Yaninee scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yamba scores 30/100 for bushfire risk. Yaninee scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yamba or Yaninee?",
-      "answer": "Both suburbs have climate considerations. Yamba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yaninee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yaninee Should I Buy?",
       "url": "/suburbs/sa/yaninee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

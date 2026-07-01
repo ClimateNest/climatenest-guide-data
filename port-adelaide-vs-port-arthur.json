@@ -14,18 +14,18 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 35
+      "scoreA": 48,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 20
+      "scoreA": 51,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 59
+      "scoreA": 69,
+      "scoreB": 80
     },
     {
       "name": "Storm",
@@ -34,25 +34,25 @@
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 16,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 15
+      "scoreA": 30,
+      "scoreB": 26
     }
   ],
-  "verdict": "Port Arthur has a lower overall climate risk score (33/100) compared to Port Adelaide (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Port Arthur has a lower overall climate risk score (44/100) compared to Port Adelaide (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Port Adelaide or Port Arthur safer from flooding?",
-      "answer": "Port Adelaide has a flood risk score of 27/100, while Port Arthur scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Port Adelaide has a flood risk score of 48/100, while Port Arthur scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Port Adelaide scores 32/100 for bushfire risk. Port Arthur scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Port Adelaide scores 51/100 for bushfire risk. Port Arthur scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Port Adelaide or Port Arthur?",
@@ -76,5 +76,15 @@
       "label": "Port Arthur Should I Buy?",
       "url": "/suburbs/sa/port-arthur/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

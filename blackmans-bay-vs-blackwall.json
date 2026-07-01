@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 55
+      "scoreA": 55,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 55
+      "scoreA": 31,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 78
+      "scoreA": 77,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 27
+      "scoreA": 37,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 14
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 21
     }
   ],
-  "verdict": "Blackmans Bay has a lower overall climate risk score (35/100) compared to Blackwall (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Blackwall has a lower overall climate risk score (35/100) compared to Blackmans Bay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blackmans Bay or Blackwall safer from flooding?",
-      "answer": "Blackmans Bay has a flood risk score of 39/100, while Blackwall scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackmans Bay has a flood risk score of 55/100, while Blackwall scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackmans Bay scores 30/100 for bushfire risk. Blackwall scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackmans Bay scores 31/100 for bushfire risk. Blackwall scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackmans Bay or Blackwall?",
-      "answer": "Both suburbs have climate considerations. Blackmans Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Blackwall has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Blackwall Should I Buy?",
       "url": "/suburbs/tas/blackwall/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

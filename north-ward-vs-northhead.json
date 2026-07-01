@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 32
+      "scoreA": 57,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 50
+      "scoreA": 34,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 9,
+      "scoreB": 9
     }
   ],
-  "verdict": "Northhead has a lower overall climate risk score (32/100) compared to North Ward (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "North Ward has a lower overall climate risk score (33/100) compared to Northhead (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Ward or Northhead safer from flooding?",
-      "answer": "North Ward has a flood risk score of 58/100, while Northhead scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Ward has a flood risk score of 57/100, while Northhead scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Ward scores 65/100 for bushfire risk. Northhead scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Ward scores 41/100 for bushfire risk. Northhead scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Ward or Northhead?",
-      "answer": "Both suburbs have climate considerations. Northhead has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. North Ward has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Northhead Should I Buy?",
       "url": "/suburbs/qld/northhead/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

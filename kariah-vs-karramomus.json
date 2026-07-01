@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 50
+      "scoreA": 50,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 27
+      "scoreA": 62,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 66
+      "scoreA": 64,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 34
+      "scoreA": 30,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 22
+      "scoreA": 13,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 19
+      "scoreA": 22,
+      "scoreB": 23
     }
   ],
-  "verdict": "Karramomus has a lower overall climate risk score (36/100) compared to Kariah (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Karramomus has a lower overall climate risk score (29/100) compared to Kariah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kariah or Karramomus safer from flooding?",
-      "answer": "Kariah has a flood risk score of 29/100, while Karramomus scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kariah has a flood risk score of 50/100, while Karramomus scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kariah scores 60/100 for bushfire risk. Karramomus scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kariah scores 62/100 for bushfire risk. Karramomus scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kariah or Karramomus?",
@@ -76,5 +76,15 @@
       "label": "Karramomus Should I Buy?",
       "url": "/suburbs/vic/karramomus/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

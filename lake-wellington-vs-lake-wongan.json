@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 48
+      "scoreA": 28,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 36
+      "scoreA": 33,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 72
+      "scoreA": 58,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 27
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 14,
+      "scoreB": 27
     }
   ],
-  "verdict": "Lake Wongan has a lower overall climate risk score (38/100) compared to Lake Wellington (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lake Wellington has a lower overall climate risk score (32/100) compared to Lake Wongan (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lake Wellington or Lake Wongan safer from flooding?",
-      "answer": "Lake Wellington has a flood risk score of 56/100, while Lake Wongan scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Wellington has a flood risk score of 28/100, while Lake Wongan scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Wellington scores 38/100 for bushfire risk. Lake Wongan scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Wellington scores 33/100 for bushfire risk. Lake Wongan scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Wellington or Lake Wongan?",
-      "answer": "Both suburbs have climate considerations. Lake Wongan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lake Wellington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lake Wongan Should I Buy?",
       "url": "/suburbs/vic/lake-wongan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

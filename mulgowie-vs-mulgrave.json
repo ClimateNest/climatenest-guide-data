@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 49
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 60
-    },
-    {
-      "name": "Heat",
-      "scoreA": 37,
+      "scoreA": 45,
       "scoreB": 39
     },
     {
+      "name": "Bushfire",
+      "scoreA": 48,
+      "scoreB": 63
+    },
+    {
+      "name": "Heat",
+      "scoreA": 34,
+      "scoreB": 34
+    },
+    {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 23
+      "scoreA": 33,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 17
+      "scoreA": 57,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mulgowie has a lower overall climate risk score (33/100) compared to Mulgrave (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mulgrave has a lower overall climate risk score (31/100) compared to Mulgowie (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mulgowie or Mulgrave safer from flooding?",
-      "answer": "Mulgowie has a flood risk score of 52/100, while Mulgrave scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mulgowie has a flood risk score of 45/100, while Mulgrave scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mulgowie scores 16/100 for bushfire risk. Mulgrave scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mulgowie scores 48/100 for bushfire risk. Mulgrave scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mulgowie or Mulgrave?",
-      "answer": "Both suburbs have climate considerations. Mulgowie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mulgrave has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mulgrave Should I Buy?",
       "url": "/suburbs/qld/mulgrave/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

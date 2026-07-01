@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 25
+      "scoreA": 43,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 56
+      "scoreA": 58,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 60
+      "scoreA": 51,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 29
     }
   ],
-  "verdict": "Kiewa has a lower overall climate risk score (31/100) compared to Killara (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Killara has a lower overall climate risk score (36/100) compared to Kiewa (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kiewa or Killara safer from flooding?",
-      "answer": "Kiewa has a flood risk score of 29/100, while Killara scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kiewa has a flood risk score of 43/100, while Killara scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kiewa scores 18/100 for bushfire risk. Killara scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kiewa scores 58/100 for bushfire risk. Killara scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kiewa or Killara?",
-      "answer": "Both suburbs have climate considerations. Kiewa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Killara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Killara Should I Buy?",
       "url": "/suburbs/vic/killara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

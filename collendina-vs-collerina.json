@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 36
+      "scoreA": 38,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 15
+      "scoreA": 57,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 42
+      "scoreA": 68,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 35
+      "scoreA": 37,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 25
     }
   ],
-  "verdict": "Collerina has a lower overall climate risk score (28/100) compared to Collendina (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Collerina has a lower overall climate risk score (33/100) compared to Collendina (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Collendina or Collerina safer from flooding?",
-      "answer": "Collendina has a flood risk score of 23/100, while Collerina scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Collendina has a flood risk score of 38/100, while Collerina scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Collendina scores 51/100 for bushfire risk. Collerina scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Collendina scores 57/100 for bushfire risk. Collerina scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Collendina or Collerina?",
@@ -76,5 +76,15 @@
       "label": "Collerina Should I Buy?",
       "url": "/suburbs/nsw/collerina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

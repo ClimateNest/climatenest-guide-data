@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 48
+      "scoreA": 24,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 65
-    },
-    {
-      "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 41
-    },
-    {
-      "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 44
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 54,
+      "scoreA": 59,
       "scoreB": 49
     },
     {
+      "name": "Heat",
+      "scoreA": 50,
+      "scoreB": 34
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 29
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 55,
+      "scoreB": 40
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 29
     }
   ],
-  "verdict": "Lindendale has a lower overall climate risk score (44/100) compared to Lindesay Creek (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Lindesay Creek has a lower overall climate risk score (36/100) compared to Lindendale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lindendale or Lindesay Creek safer from flooding?",
-      "answer": "Lindendale has a flood risk score of 50/100, while Lindesay Creek scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lindendale has a flood risk score of 24/100, while Lindesay Creek scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lindendale scores 53/100 for bushfire risk. Lindesay Creek scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lindendale scores 59/100 for bushfire risk. Lindesay Creek scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lindendale or Lindesay Creek?",
-      "answer": "Both suburbs have climate considerations. Lindendale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lindesay Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lindesay Creek Should I Buy?",
       "url": "/suburbs/nsw/lindesay-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

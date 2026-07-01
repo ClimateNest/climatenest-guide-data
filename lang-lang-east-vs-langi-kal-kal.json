@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 56
+      "scoreA": 59,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 20
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
+      "scoreA": 26,
       "scoreB": 61
     },
     {
+      "name": "Heat",
+      "scoreA": 62,
+      "scoreB": 73
+    },
+    {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 20,
+      "scoreB": 19
     }
   ],
-  "verdict": "Lang Lang East has a lower overall climate risk score (32/100) compared to Langi Kal Kal (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lang Lang East has a lower overall climate risk score (38/100) compared to Langi Kal Kal (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lang Lang East or Langi Kal Kal safer from flooding?",
-      "answer": "Lang Lang East has a flood risk score of 23/100, while Langi Kal Kal scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lang Lang East has a flood risk score of 59/100, while Langi Kal Kal scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lang Lang East scores 45/100 for bushfire risk. Langi Kal Kal scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lang Lang East scores 26/100 for bushfire risk. Langi Kal Kal scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lang Lang East or Langi Kal Kal?",
@@ -76,5 +76,15 @@
       "label": "Langi Kal Kal Should I Buy?",
       "url": "/suburbs/vic/langi-kal-kal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

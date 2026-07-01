@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 46,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 36
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 36,
+      "scoreA": 32,
       "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 22
+      "scoreA": 59,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 18
     }
   ],
-  "verdict": "Redlynch has a lower overall climate risk score (27/100) compared to Redland Bay (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Redlynch has a lower overall climate risk score (33/100) compared to Redland Bay (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Redland Bay or Redlynch safer from flooding?",
-      "answer": "Redland Bay has a flood risk score of 47/100, while Redlynch scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Redland Bay has a flood risk score of 46/100, while Redlynch scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Redland Bay scores 19/100 for bushfire risk. Redlynch scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Redland Bay scores 32/100 for bushfire risk. Redlynch scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Redland Bay or Redlynch?",
@@ -76,5 +76,15 @@
       "label": "Redlynch Should I Buy?",
       "url": "/suburbs/qld/redlynch/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

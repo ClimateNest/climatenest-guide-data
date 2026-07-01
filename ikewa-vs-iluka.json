@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 42
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 51
+      "scoreA": 18,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 62
+      "scoreA": 38,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 36
+      "scoreA": 24,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 12
     }
   ],
-  "verdict": "Ikewa has a lower overall climate risk score (30/100) compared to Iluka (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ikewa has a lower overall climate risk score (28/100) compared to Iluka (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ikewa or Iluka safer from flooding?",
-      "answer": "Ikewa has a flood risk score of 31/100, while Iluka scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ikewa has a flood risk score of 48/100, while Iluka scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ikewa scores 59/100 for bushfire risk. Iluka scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ikewa scores 18/100 for bushfire risk. Iluka scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ikewa or Iluka?",
@@ -76,5 +76,15 @@
       "label": "Iluka Should I Buy?",
       "url": "/suburbs/wa/iluka/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

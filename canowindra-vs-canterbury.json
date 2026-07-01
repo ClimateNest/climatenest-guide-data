@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 76
+      "scoreA": 55,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 43
+      "scoreA": 14,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 22
+      "scoreA": 25,
+      "scoreB": 28
     }
   ],
-  "verdict": "Canowindra has a lower overall climate risk score (33/100) compared to Canterbury (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Canowindra has a lower overall climate risk score (31/100) compared to Canterbury (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Canowindra or Canterbury safer from flooding?",
-      "answer": "Canowindra has a flood risk score of 45/100, while Canterbury scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Canowindra has a flood risk score of 44/100, while Canterbury scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Canowindra scores 45/100 for bushfire risk. Canterbury scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Canowindra scores 24/100 for bushfire risk. Canterbury scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Canowindra or Canterbury?",
@@ -76,5 +76,15 @@
       "label": "Canterbury Should I Buy?",
       "url": "/suburbs/nsw/canterbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

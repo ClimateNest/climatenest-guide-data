@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 36
+      "scoreA": 22,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 57
+      "scoreA": 73,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 15
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Cope has a lower overall climate risk score (33/100) compared to Cooyal (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cooyal has a lower overall climate risk score (33/100) compared to Cope (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cooyal or Cope safer from flooding?",
-      "answer": "Cooyal has a flood risk score of 49/100, while Cope scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cooyal has a flood risk score of 22/100, while Cope scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cooyal scores 60/100 for bushfire risk. Cope scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cooyal scores 33/100 for bushfire risk. Cope scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cooyal or Cope?",
-      "answer": "Both suburbs have climate considerations. Cope has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cooyal has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cope Should I Buy?",
       "url": "/suburbs/nsw/cope/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 33
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 75
+      "scoreA": 65,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 44
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 10
     }
   ],
-  "verdict": "Bothwell has a lower overall climate risk score (37/100) compared to Boyer (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Boyer has a lower overall climate risk score (31/100) compared to Bothwell (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bothwell or Boyer safer from flooding?",
-      "answer": "Bothwell has a flood risk score of 23/100, while Boyer scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bothwell has a flood risk score of 34/100, while Boyer scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bothwell scores 44/100 for bushfire risk. Boyer scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bothwell scores 46/100 for bushfire risk. Boyer scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bothwell or Boyer?",
-      "answer": "Both suburbs have climate considerations. Bothwell has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boyer has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boyer Should I Buy?",
       "url": "/suburbs/tas/boyer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

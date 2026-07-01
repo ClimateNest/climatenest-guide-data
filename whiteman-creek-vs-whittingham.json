@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 38
+      "scoreA": 53,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 44
+      "scoreA": 63,
+      "scoreB": 49
     },
     {
       "name": "Heat",
       "scoreA": 35,
-      "scoreB": 63
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 38
+      "scoreA": 51,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 24
     }
   ],
-  "verdict": "Whiteman Creek has a lower overall climate risk score (35/100) compared to Whittingham (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Whiteman Creek has a lower overall climate risk score (40/100) compared to Whittingham (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Whiteman Creek or Whittingham safer from flooding?",
-      "answer": "Whiteman Creek has a flood risk score of 35/100, while Whittingham scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whiteman Creek has a flood risk score of 53/100, while Whittingham scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whiteman Creek scores 55/100 for bushfire risk. Whittingham scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whiteman Creek scores 63/100 for bushfire risk. Whittingham scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whiteman Creek or Whittingham?",
@@ -76,5 +76,15 @@
       "label": "Whittingham Should I Buy?",
       "url": "/suburbs/nsw/whittingham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

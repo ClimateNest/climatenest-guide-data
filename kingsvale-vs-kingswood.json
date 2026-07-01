@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 55
+      "scoreA": 45,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 31
+      "scoreA": 61,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 62
+      "scoreA": 52,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 43
+      "scoreA": 21,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 28,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 30
     }
   ],
-  "verdict": "Kingsvale has a lower overall climate risk score (41/100) compared to Kingswood (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Kingsvale has a lower overall climate risk score (37/100) compared to Kingswood (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kingsvale or Kingswood safer from flooding?",
-      "answer": "Kingsvale has a flood risk score of 28/100, while Kingswood scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kingsvale has a flood risk score of 45/100, while Kingswood scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kingsvale scores 53/100 for bushfire risk. Kingswood scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kingsvale scores 61/100 for bushfire risk. Kingswood scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kingsvale or Kingswood?",
@@ -76,5 +76,15 @@
       "label": "Kingswood Should I Buy?",
       "url": "/suburbs/nsw/kingswood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

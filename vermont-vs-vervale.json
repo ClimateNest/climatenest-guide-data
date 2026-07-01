@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 56
+      "scoreA": 57,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 65,
+      "scoreA": 50,
       "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 34,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 19,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 22,
+      "scoreB": 19
     }
   ],
-  "verdict": "Vermont has a lower overall climate risk score (31/100) compared to Vervale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Vermont has a lower overall climate risk score (35/100) compared to Vervale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Vermont or Vervale safer from flooding?",
-      "answer": "Vermont has a flood risk score of 41/100, while Vervale scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Vermont has a flood risk score of 27/100, while Vervale scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Vermont scores 25/100 for bushfire risk. Vervale scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Vermont scores 57/100 for bushfire risk. Vervale scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Vermont or Vervale?",
@@ -76,5 +76,15 @@
       "label": "Vervale Should I Buy?",
       "url": "/suburbs/vic/vervale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

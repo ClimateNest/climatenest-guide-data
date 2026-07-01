@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
+      "scoreA": 50,
       "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 56
+      "scoreA": 25,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 29
+      "scoreA": 9,
+      "scoreB": 15
     }
   ],
-  "verdict": "Saxby has a lower overall climate risk score (30/100) compared to Scarborough (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Saxby has a lower overall climate risk score (31/100) compared to Scarborough (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Saxby or Scarborough safer from flooding?",
-      "answer": "Saxby has a flood risk score of 22/100, while Scarborough scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Saxby has a flood risk score of 40/100, while Scarborough scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Saxby scores 61/100 for bushfire risk. Scarborough scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Saxby scores 50/100 for bushfire risk. Scarborough scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Saxby or Scarborough?",
@@ -76,5 +76,15 @@
       "label": "Scarborough Should I Buy?",
       "url": "/suburbs/qld/scarborough/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

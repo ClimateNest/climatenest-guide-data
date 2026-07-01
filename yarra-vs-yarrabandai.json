@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 28
+      "scoreA": 28,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 56
+      "scoreA": 51,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 52
+      "scoreA": 60,
+      "scoreB": 77
     },
     {
       "name": "Storm",
       "scoreA": 49,
-      "scoreB": 38
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 11
     }
   ],
-  "verdict": "Yarrabandai has a lower overall climate risk score (36/100) compared to Yarra (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yarrabandai has a lower overall climate risk score (35/100) compared to Yarra (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yarra or Yarrabandai safer from flooding?",
-      "answer": "Yarra has a flood risk score of 32/100, while Yarrabandai scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yarra has a flood risk score of 28/100, while Yarrabandai scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yarra scores 55/100 for bushfire risk. Yarrabandai scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yarra scores 51/100 for bushfire risk. Yarrabandai scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yarra or Yarrabandai?",
@@ -76,5 +76,15 @@
       "label": "Yarrabandai Should I Buy?",
       "url": "/suburbs/nsw/yarrabandai/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 46,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 54
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 42
+      "scoreA": 38,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 14
+      "scoreA": 55,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 10,
+      "scoreB": 7
     }
   ],
-  "verdict": "Deeral has a lower overall climate risk score (32/100) compared to Deepwater (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Deeral has a lower overall climate risk score (31/100) compared to Deepwater (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Deepwater or Deeral safer from flooding?",
-      "answer": "Deepwater has a flood risk score of 45/100, while Deeral scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Deepwater has a flood risk score of 46/100, while Deeral scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Deepwater scores 39/100 for bushfire risk. Deeral scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Deepwater scores 43/100 for bushfire risk. Deeral scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Deepwater or Deeral?",
@@ -76,5 +76,15 @@
       "label": "Deeral Should I Buy?",
       "url": "/suburbs/qld/deeral/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

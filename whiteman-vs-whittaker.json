@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 30
+      "scoreA": 20,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 57
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 58
+      "scoreA": 66,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 11
     }
   ],
-  "verdict": "Whittaker has a lower overall climate risk score (36/100) compared to Whiteman (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Whiteman has a lower overall climate risk score (36/100) compared to Whittaker (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Whiteman or Whittaker safer from flooding?",
-      "answer": "Whiteman has a flood risk score of 45/100, while Whittaker scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whiteman has a flood risk score of 20/100, while Whittaker scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whiteman scores 58/100 for bushfire risk. Whittaker scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whiteman scores 47/100 for bushfire risk. Whittaker scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whiteman or Whittaker?",
-      "answer": "Both suburbs have climate considerations. Whittaker has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Whiteman has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Whittaker Should I Buy?",
       "url": "/suburbs/wa/whittaker/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

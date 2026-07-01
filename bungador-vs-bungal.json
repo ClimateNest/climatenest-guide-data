@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
+      "scoreA": 51,
       "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 44
+      "scoreA": 17,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 61
+      "scoreA": 66,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 35
+      "scoreA": 34,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 24
+      "scoreA": 15,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 26
+      "scoreB": 18
     }
   ],
-  "verdict": "Bungador has a lower overall climate risk score (29/100) compared to Bungal (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bungador has a lower overall climate risk score (33/100) compared to Bungal (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bungador or Bungal safer from flooding?",
-      "answer": "Bungador has a flood risk score of 21/100, while Bungal scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bungador has a flood risk score of 51/100, while Bungal scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bungador scores 20/100 for bushfire risk. Bungal scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bungador scores 17/100 for bushfire risk. Bungal scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bungador or Bungal?",
@@ -76,5 +76,15 @@
       "label": "Bungal Should I Buy?",
       "url": "/suburbs/vic/bungal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

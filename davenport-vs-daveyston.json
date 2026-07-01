@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 45
+      "scoreA": 50,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 26
+      "scoreA": 52,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 51
+      "scoreA": 66,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 11,
+      "scoreB": 17
     }
   ],
-  "verdict": "Daveyston has a lower overall climate risk score (33/100) compared to Davenport (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Daveyston has a lower overall climate risk score (39/100) compared to Davenport (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Davenport or Daveyston safer from flooding?",
-      "answer": "Davenport has a flood risk score of 54/100, while Daveyston scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Davenport has a flood risk score of 50/100, while Daveyston scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Davenport scores 45/100 for bushfire risk. Daveyston scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Davenport scores 52/100 for bushfire risk. Daveyston scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Davenport or Daveyston?",
@@ -76,5 +76,15 @@
       "label": "Daveyston Should I Buy?",
       "url": "/suburbs/sa/daveyston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

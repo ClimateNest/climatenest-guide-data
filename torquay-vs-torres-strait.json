@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 54
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 23
+      "scoreA": 50,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 50
+      "scoreA": 38,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 24
+      "scoreA": 31,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 15
+      "scoreA": 27,
+      "scoreB": 10
     }
   ],
-  "verdict": "Torres Strait has a lower overall climate risk score (34/100) compared to Torquay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Torres Strait has a lower overall climate risk score (32/100) compared to Torquay (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Torquay or Torres Strait safer from flooding?",
-      "answer": "Torquay has a flood risk score of 43/100, while Torres Strait scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Torquay has a flood risk score of 32/100, while Torres Strait scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Torquay scores 62/100 for bushfire risk. Torres Strait scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Torquay scores 50/100 for bushfire risk. Torres Strait scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Torquay or Torres Strait?",
@@ -76,5 +76,15 @@
       "label": "Torres Strait Should I Buy?",
       "url": "/suburbs/qld/torres-strait/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 52
+      "scoreA": 37,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 67
+      "scoreA": 65,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 31
+      "scoreA": 29,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 40
+      "scoreA": 32,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 28
+      "scoreB": 20
     }
   ],
-  "verdict": "Gymea Bay has a lower overall climate risk score (37/100) compared to Hacks Ferry (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gymea Bay has a lower overall climate risk score (36/100) compared to Hacks Ferry (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gymea Bay or Hacks Ferry safer from flooding?",
-      "answer": "Gymea Bay has a flood risk score of 42/100, while Hacks Ferry scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gymea Bay has a flood risk score of 26/100, while Hacks Ferry scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gymea Bay scores 31/100 for bushfire risk. Hacks Ferry scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gymea Bay scores 37/100 for bushfire risk. Hacks Ferry scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gymea Bay or Hacks Ferry?",
@@ -76,5 +76,15 @@
       "label": "Hacks Ferry Should I Buy?",
       "url": "/suburbs/nsw/hacks-ferry/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

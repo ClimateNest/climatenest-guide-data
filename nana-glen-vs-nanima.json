@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 33
+      "scoreA": 37,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 47
+      "scoreA": 25,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 75
+      "scoreA": 73,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 15
+      "scoreA": 58,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 16
     }
   ],
-  "verdict": "Nanima has a lower overall climate risk score (38/100) compared to Nana Glen (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nanima has a lower overall climate risk score (36/100) compared to Nana Glen (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nana Glen or Nanima safer from flooding?",
-      "answer": "Nana Glen has a flood risk score of 43/100, while Nanima scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nana Glen has a flood risk score of 37/100, while Nanima scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nana Glen scores 26/100 for bushfire risk. Nanima scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nana Glen scores 25/100 for bushfire risk. Nanima scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nana Glen or Nanima?",
@@ -76,5 +76,15 @@
       "label": "Nanima Should I Buy?",
       "url": "/suburbs/nsw/nanima/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

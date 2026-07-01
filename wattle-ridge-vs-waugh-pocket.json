@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 41,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 48
+      "scoreA": 17,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 33
+      "scoreA": 37,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 23
+      "scoreA": 51,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "Waugh Pocket has a lower overall climate risk score (31/100) compared to Wattle Ridge (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wattle Ridge has a lower overall climate risk score (31/100) compared to Waugh Pocket (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wattle Ridge or Waugh Pocket safer from flooding?",
-      "answer": "Wattle Ridge has a flood risk score of 44/100, while Waugh Pocket scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wattle Ridge has a flood risk score of 41/100, while Waugh Pocket scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wattle Ridge scores 26/100 for bushfire risk. Waugh Pocket scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wattle Ridge scores 17/100 for bushfire risk. Waugh Pocket scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wattle Ridge or Waugh Pocket?",
-      "answer": "Both suburbs have climate considerations. Waugh Pocket has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wattle Ridge has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Waugh Pocket Should I Buy?",
       "url": "/suburbs/qld/waugh-pocket/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

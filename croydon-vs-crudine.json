@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 34
+      "scoreA": 31,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 16
+      "scoreA": 50,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 76
+      "scoreA": 67,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 23,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 20
+      "scoreA": 44,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 23
     }
   ],
-  "verdict": "Crudine has a lower overall climate risk score (32/100) compared to Croydon (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Crudine has a lower overall climate risk score (37/100) compared to Croydon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Croydon or Crudine safer from flooding?",
-      "answer": "Croydon has a flood risk score of 33/100, while Crudine scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Croydon has a flood risk score of 31/100, while Crudine scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Croydon scores 43/100 for bushfire risk. Crudine scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Croydon scores 50/100 for bushfire risk. Crudine scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Croydon or Crudine?",
@@ -76,5 +76,15 @@
       "label": "Crudine Should I Buy?",
       "url": "/suburbs/nsw/crudine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

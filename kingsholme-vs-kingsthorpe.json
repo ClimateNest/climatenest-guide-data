@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 57
+      "scoreA": 45,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
+      "scoreA": 37,
       "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 48
+      "scoreA": 52,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 15
     }
   ],
-  "verdict": "Kingsholme has a lower overall climate risk score (33/100) compared to Kingsthorpe (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kingsthorpe has a lower overall climate risk score (36/100) compared to Kingsholme (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kingsholme or Kingsthorpe safer from flooding?",
-      "answer": "Kingsholme has a flood risk score of 36/100, while Kingsthorpe scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kingsholme has a flood risk score of 45/100, while Kingsthorpe scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kingsholme scores 33/100 for bushfire risk. Kingsthorpe scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kingsholme scores 37/100 for bushfire risk. Kingsthorpe scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kingsholme or Kingsthorpe?",
-      "answer": "Both suburbs have climate considerations. Kingsholme has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kingsthorpe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kingsthorpe Should I Buy?",
       "url": "/suburbs/qld/kingsthorpe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

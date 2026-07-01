@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 50,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 38
+      "scoreA": 39,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 71
+      "scoreA": 36,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 37,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 47
+      "scoreA": 36,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 10,
+      "scoreB": 19
     }
   ],
-  "verdict": "Eighteen Mile has a lower overall climate risk score (36/100) compared to Elands (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eighteen Mile has a lower overall climate risk score (35/100) compared to Elands (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eighteen Mile or Elands safer from flooding?",
-      "answer": "Eighteen Mile has a flood risk score of 42/100, while Elands scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eighteen Mile has a flood risk score of 50/100, while Elands scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eighteen Mile scores 17/100 for bushfire risk. Elands scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eighteen Mile scores 39/100 for bushfire risk. Elands scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eighteen Mile or Elands?",
@@ -76,5 +76,15 @@
       "label": "Elands Should I Buy?",
       "url": "/suburbs/nsw/elands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

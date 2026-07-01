@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 54
+      "scoreA": 56,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 49
+      "scoreA": 63,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 60
+      "scoreA": 64,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 30
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 34
+      "scoreA": 20,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 12,
+      "scoreB": 22
     }
   ],
-  "verdict": "Chatham Valley has a lower overall climate risk score (33/100) compared to Chatswood (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Chatswood has a lower overall climate risk score (39/100) compared to Chatham Valley (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Chatham Valley or Chatswood safer from flooding?",
-      "answer": "Chatham Valley has a flood risk score of 42/100, while Chatswood scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Chatham Valley has a flood risk score of 56/100, while Chatswood scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Chatham Valley scores 42/100 for bushfire risk. Chatswood scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Chatham Valley scores 63/100 for bushfire risk. Chatswood scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Chatham Valley or Chatswood?",
-      "answer": "Both suburbs have climate considerations. Chatham Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Chatswood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Chatswood Should I Buy?",
       "url": "/suburbs/nsw/chatswood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

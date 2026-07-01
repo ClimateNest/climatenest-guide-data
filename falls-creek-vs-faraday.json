@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 43
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 25
-    },
-    {
-      "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 35,
+      "scoreA": 45,
       "scoreB": 41
     },
     {
+      "name": "Bushfire",
+      "scoreA": 24,
+      "scoreB": 57
+    },
+    {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 25,
+      "scoreB": 50
+    },
+    {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 22
     }
   ],
-  "verdict": "Falls Creek has a lower overall climate risk score (34/100) compared to Faraday (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Falls Creek has a lower overall climate risk score (33/100) compared to Faraday (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Falls Creek or Faraday safer from flooding?",
-      "answer": "Falls Creek has a flood risk score of 53/100, while Faraday scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Falls Creek has a flood risk score of 45/100, while Faraday scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Falls Creek scores 32/100 for bushfire risk. Faraday scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Falls Creek scores 24/100 for bushfire risk. Faraday scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Falls Creek or Faraday?",
@@ -76,5 +76,15 @@
       "label": "Faraday Should I Buy?",
       "url": "/suburbs/vic/faraday/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

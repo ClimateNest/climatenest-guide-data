@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 40,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 49
+      "scoreA": 34,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 75
+      "scoreA": 54,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 20
+      "scoreA": 10,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 18
     }
   ],
-  "verdict": "Southbank has a lower overall climate risk score (34/100) compared to Spargo Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Southbank has a lower overall climate risk score (31/100) compared to Spargo Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Southbank or Spargo Creek safer from flooding?",
-      "answer": "Southbank has a flood risk score of 24/100, while Spargo Creek scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Southbank has a flood risk score of 40/100, while Spargo Creek scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Southbank scores 41/100 for bushfire risk. Spargo Creek scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Southbank scores 34/100 for bushfire risk. Spargo Creek scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Southbank or Spargo Creek?",
@@ -76,5 +76,15 @@
       "label": "Spargo Creek Should I Buy?",
       "url": "/suburbs/vic/spargo-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

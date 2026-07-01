@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 36
+      "scoreA": 25,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 75
+      "scoreA": 67,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 11
+      "scoreA": 22,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 14
+      "scoreA": 27,
+      "scoreB": 15
     }
   ],
-  "verdict": "Strathmore Heights has a lower overall climate risk score (33/100) compared to Strzelecki (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Strzelecki has a lower overall climate risk score (32/100) compared to Strathmore Heights (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Strathmore Heights or Strzelecki safer from flooding?",
-      "answer": "Strathmore Heights has a flood risk score of 48/100, while Strzelecki scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Strathmore Heights has a flood risk score of 34/100, while Strzelecki scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Strathmore Heights scores 34/100 for bushfire risk. Strzelecki scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Strathmore Heights scores 25/100 for bushfire risk. Strzelecki scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Strathmore Heights or Strzelecki?",
-      "answer": "Both suburbs have climate considerations. Strathmore Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Strzelecki has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Strzelecki Should I Buy?",
       "url": "/suburbs/vic/strzelecki/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

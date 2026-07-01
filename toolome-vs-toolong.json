@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 40
+      "scoreA": 55,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 57,
+      "scoreA": 64,
       "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 21
     }
   ],
-  "verdict": "Toolong has a lower overall climate risk score (34/100) compared to Toolome (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Toolome has a lower overall climate risk score (34/100) compared to Toolong (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Toolome or Toolong safer from flooding?",
-      "answer": "Toolome has a flood risk score of 38/100, while Toolong scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toolome has a flood risk score of 22/100, while Toolong scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toolome scores 40/100 for bushfire risk. Toolong scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toolome scores 55/100 for bushfire risk. Toolong scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toolome or Toolong?",
-      "answer": "Both suburbs have climate considerations. Toolong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Toolome has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Toolong Should I Buy?",
       "url": "/suburbs/vic/toolong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

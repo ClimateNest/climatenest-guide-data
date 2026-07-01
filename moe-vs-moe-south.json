@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 48
+      "scoreA": 26,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 35
+      "scoreA": 20,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 72
+      "scoreA": 77,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 46
+      "scoreA": 27,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 15
+      "scoreA": 29,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Moe has a lower overall climate risk score (40/100) compared to Moe South (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Moe South has a lower overall climate risk score (30/100) compared to Moe (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moe or Moe South safer from flooding?",
-      "answer": "Moe has a flood risk score of 40/100, while Moe South scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moe has a flood risk score of 26/100, while Moe South scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moe scores 52/100 for bushfire risk. Moe South scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moe scores 20/100 for bushfire risk. Moe South scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moe or Moe South?",
-      "answer": "Both suburbs have climate considerations. Moe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Moe South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Moe South Should I Buy?",
       "url": "/suburbs/vic/moe-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

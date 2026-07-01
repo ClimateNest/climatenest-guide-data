@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 38
+      "scoreA": 45,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 27
+      "scoreA": 45,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 35
+      "scoreA": 33,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 26
+      "scoreA": 34,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 12
+      "scoreA": 52,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 7
+      "scoreA": 27,
+      "scoreB": 10
     }
   ],
-  "verdict": "Dalbeg has a lower overall climate risk score (24/100) compared to Dakabin (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dalbeg has a lower overall climate risk score (38/100) compared to Dakabin (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dakabin or Dalbeg safer from flooding?",
-      "answer": "Dakabin has a flood risk score of 33/100, while Dalbeg scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dakabin has a flood risk score of 45/100, while Dalbeg scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dakabin scores 58/100 for bushfire risk. Dalbeg scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dakabin scores 45/100 for bushfire risk. Dalbeg scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dakabin or Dalbeg?",
@@ -76,5 +76,15 @@
       "label": "Dalbeg Should I Buy?",
       "url": "/suburbs/qld/dalbeg/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

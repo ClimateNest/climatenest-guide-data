@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 60
+      "scoreA": 47,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 18
+      "scoreA": 35,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 59
+      "scoreA": 54,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 23
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 25
     }
   ],
-  "verdict": "Kent Town has a lower overall climate risk score (32/100) compared to Kensington Gardens (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kensington Gardens has a lower overall climate risk score (36/100) compared to Kent Town (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kensington Gardens or Kent Town safer from flooding?",
-      "answer": "Kensington Gardens has a flood risk score of 50/100, while Kent Town scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kensington Gardens has a flood risk score of 47/100, while Kent Town scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kensington Gardens scores 64/100 for bushfire risk. Kent Town scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kensington Gardens scores 35/100 for bushfire risk. Kent Town scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kensington Gardens or Kent Town?",
-      "answer": "Both suburbs have climate considerations. Kent Town has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kensington Gardens has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kent Town Should I Buy?",
       "url": "/suburbs/sa/kent-town/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

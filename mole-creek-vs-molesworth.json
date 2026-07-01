@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 46
+      "scoreA": 35,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 63
+      "scoreA": 51,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 39,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 18,
+      "scoreB": 14
     }
   ],
-  "verdict": "Molesworth has a lower overall climate risk score (35/100) compared to Mole Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Molesworth has a lower overall climate risk score (31/100) compared to Mole Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mole Creek or Molesworth safer from flooding?",
-      "answer": "Mole Creek has a flood risk score of 53/100, while Molesworth scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mole Creek has a flood risk score of 35/100, while Molesworth scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mole Creek scores 48/100 for bushfire risk. Molesworth scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mole Creek scores 40/100 for bushfire risk. Molesworth scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mole Creek or Molesworth?",
@@ -76,5 +76,15 @@
       "label": "Molesworth Should I Buy?",
       "url": "/suburbs/tas/molesworth/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

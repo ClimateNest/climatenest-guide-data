@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 26
+      "scoreA": 36,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 35
+      "scoreA": 62,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 57
+      "scoreA": 52,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
+      "scoreA": 18,
       "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
+      "scoreA": 22,
       "scoreB": 18
     }
   ],
-  "verdict": "Pittong has a lower overall climate risk score (31/100) compared to Pitfield (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Pitfield has a lower overall climate risk score (37/100) compared to Pittong (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pitfield or Pittong safer from flooding?",
-      "answer": "Pitfield has a flood risk score of 31/100, while Pittong scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pitfield has a flood risk score of 36/100, while Pittong scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pitfield scores 52/100 for bushfire risk. Pittong scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pitfield scores 62/100 for bushfire risk. Pittong scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pitfield or Pittong?",
-      "answer": "Both suburbs have climate considerations. Pittong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pitfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pittong Should I Buy?",
       "url": "/suburbs/vic/pittong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

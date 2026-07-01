@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 47
+      "scoreA": 59,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 31
+      "scoreA": 57,
+      "scoreB": 50
     },
     {
       "name": "Heat",
       "scoreA": 37,
-      "scoreB": 44
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 24
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
       "scoreA": 51,
-      "scoreB": 28
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 15
+      "scoreA": 12,
+      "scoreB": 12
     }
   ],
-  "verdict": "Ballaroo has a lower overall climate risk score (32/100) compared to Ballard (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ballaroo has a lower overall climate risk score (30/100) compared to Ballard (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ballard or Ballaroo safer from flooding?",
-      "answer": "Ballard has a flood risk score of 30/100, while Ballaroo scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ballard has a flood risk score of 59/100, while Ballaroo scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ballard scores 25/100 for bushfire risk. Ballaroo scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ballard scores 57/100 for bushfire risk. Ballaroo scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ballard or Ballaroo?",
@@ -76,5 +76,15 @@
       "label": "Ballaroo Should I Buy?",
       "url": "/suburbs/qld/ballaroo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

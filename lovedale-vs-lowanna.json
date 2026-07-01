@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 56
+      "scoreA": 32,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 52
+      "scoreA": 38,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 53
+      "scoreA": 63,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 24
+      "scoreA": 34,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 53
+      "scoreA": 46,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 16
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Lovedale has a lower overall climate risk score (38/100) compared to Lowanna (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lovedale has a lower overall climate risk score (38/100) compared to Lowanna (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lovedale or Lowanna safer from flooding?",
-      "answer": "Lovedale has a flood risk score of 26/100, while Lowanna scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lovedale has a flood risk score of 32/100, while Lowanna scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lovedale scores 51/100 for bushfire risk. Lowanna scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lovedale scores 38/100 for bushfire risk. Lowanna scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lovedale or Lowanna?",
@@ -76,5 +76,15 @@
       "label": "Lowanna Should I Buy?",
       "url": "/suburbs/nsw/lowanna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 51
+      "scoreA": 29,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 35
+      "scoreA": 65,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 51
+      "scoreA": 68,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 41
+      "scoreA": 25,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 26
     }
   ],
-  "verdict": "Karramindie has a lower overall climate risk score (33/100) compared to Karranadgin (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Karramindie and Karranadgin have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Karramindie or Karranadgin safer from flooding?",
-      "answer": "Karramindie has a flood risk score of 28/100, while Karranadgin scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Karramindie has a flood risk score of 29/100, while Karranadgin scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Karramindie scores 17/100 for bushfire risk. Karranadgin scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Karramindie scores 65/100 for bushfire risk. Karranadgin scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Karramindie or Karranadgin?",
@@ -76,5 +76,15 @@
       "label": "Karranadgin Should I Buy?",
       "url": "/suburbs/wa/karranadgin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

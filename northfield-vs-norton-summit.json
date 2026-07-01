@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 56
+      "scoreA": 30,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 46
+      "scoreA": 17,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 71
+      "scoreA": 68,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 46
+      "scoreA": 32,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 17
     }
   ],
-  "verdict": "Northfield has a lower overall climate risk score (34/100) compared to Norton Summit (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Northfield has a lower overall climate risk score (31/100) compared to Norton Summit (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Northfield or Norton Summit safer from flooding?",
-      "answer": "Northfield has a flood risk score of 35/100, while Norton Summit scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Northfield has a flood risk score of 30/100, while Norton Summit scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Northfield scores 23/100 for bushfire risk. Norton Summit scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Northfield scores 17/100 for bushfire risk. Norton Summit scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Northfield or Norton Summit?",
@@ -76,5 +76,15 @@
       "label": "Norton Summit Should I Buy?",
       "url": "/suburbs/sa/norton-summit/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

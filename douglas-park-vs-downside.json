@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 58,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 33
+      "scoreA": 55,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 60
+      "scoreA": 60,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 27
+      "scoreA": 35,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 10
+      "scoreA": 50,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Downside has a lower overall climate risk score (32/100) compared to Douglas Park (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Downside has a lower overall climate risk score (36/100) compared to Douglas Park (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Douglas Park or Downside safer from flooding?",
-      "answer": "Douglas Park has a flood risk score of 56/100, while Downside scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Douglas Park has a flood risk score of 58/100, while Downside scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Douglas Park scores 64/100 for bushfire risk. Downside scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Douglas Park scores 55/100 for bushfire risk. Downside scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Douglas Park or Downside?",
@@ -76,5 +76,15 @@
       "label": "Downside Should I Buy?",
       "url": "/suburbs/nsw/downside/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

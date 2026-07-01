@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 43
+      "scoreA": 43,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 52,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 67,
+      "scoreA": 73,
       "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 21,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 23,
+      "scoreB": 26
     }
   ],
   "verdict": "Kalbeeba and Kaldoonera have similar overall climate risk scores.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Kalbeeba or Kaldoonera safer from flooding?",
-      "answer": "Kalbeeba has a flood risk score of 54/100, while Kaldoonera scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kalbeeba has a flood risk score of 43/100, while Kaldoonera scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kalbeeba scores 24/100 for bushfire risk. Kaldoonera scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kalbeeba scores 52/100 for bushfire risk. Kaldoonera scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kalbeeba or Kaldoonera?",
@@ -76,5 +76,15 @@
       "label": "Kaldoonera Should I Buy?",
       "url": "/suburbs/sa/kaldoonera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

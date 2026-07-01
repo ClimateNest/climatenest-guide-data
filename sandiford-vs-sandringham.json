@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 25
+      "scoreA": 38,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 51,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 45
+      "scoreA": 20,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 45
+      "scoreA": 16,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
       "scoreA": 7,
-      "scoreB": 5
+      "scoreB": 7
     }
   ],
-  "verdict": "Sandringham has a lower overall climate risk score (36/100) compared to Sandiford (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Sandiford has a lower overall climate risk score (27/100) compared to Sandringham (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sandiford or Sandringham safer from flooding?",
-      "answer": "Sandiford has a flood risk score of 48/100, while Sandringham scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandiford has a flood risk score of 38/100, while Sandringham scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandiford scores 56/100 for bushfire risk. Sandringham scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandiford scores 51/100 for bushfire risk. Sandringham scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandiford or Sandringham?",
-      "answer": "Both suburbs have climate considerations. Sandringham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Sandiford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sandringham Should I Buy?",
       "url": "/suburbs/qld/sandringham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

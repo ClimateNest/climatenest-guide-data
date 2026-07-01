@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 55
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 31
+      "scoreA": 58,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 38
+      "scoreA": 25,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 54
+      "scoreA": 21,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 18
     }
   ],
-  "verdict": "Limerick has a lower overall climate risk score (36/100) compared to Limpinwood (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Limerick has a lower overall climate risk score (32/100) compared to Limpinwood (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Limerick or Limpinwood safer from flooding?",
-      "answer": "Limerick has a flood risk score of 21/100, while Limpinwood scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Limerick has a flood risk score of 42/100, while Limpinwood scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Limerick scores 58/100 for bushfire risk. Limpinwood scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Limerick scores 20/100 for bushfire risk. Limpinwood scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Limerick or Limpinwood?",
@@ -76,5 +76,15 @@
       "label": "Limpinwood Should I Buy?",
       "url": "/suburbs/nsw/limpinwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

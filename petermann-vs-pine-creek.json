@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 51
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 53
-    },
-    {
-      "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 37
-    },
-    {
-      "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 40
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 33,
       "scoreB": 23
     },
     {
+      "name": "Bushfire",
+      "scoreA": 23,
+      "scoreB": 26
+    },
+    {
+      "name": "Heat",
+      "scoreA": 34,
+      "scoreB": 43
+    },
+    {
+      "name": "Storm",
+      "scoreA": 36,
+      "scoreB": 39
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 11,
+      "scoreB": 28
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "Petermann has a lower overall climate risk score (33/100) compared to Pine Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Petermann has a lower overall climate risk score (26/100) compared to Pine Creek (28/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Petermann or Pine Creek safer from flooding?",
-      "answer": "Petermann has a flood risk score of 49/100, while Pine Creek scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Petermann has a flood risk score of 33/100, while Pine Creek scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Petermann scores 22/100 for bushfire risk. Pine Creek scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Petermann scores 23/100 for bushfire risk. Pine Creek scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Petermann or Pine Creek?",
@@ -76,5 +76,15 @@
       "label": "Pine Creek Should I Buy?",
       "url": "/suburbs/nt/pine-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3115,
+    "projected2030": 4361,
+    "projected2050": 8100
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

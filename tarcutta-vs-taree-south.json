@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 39,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 18
+      "scoreA": 57,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 60
+      "scoreA": 66,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 41
+      "scoreA": 47,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 45
+      "scoreA": 22,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
       "scoreA": 29,
-      "scoreB": 16
+      "scoreB": 28
     }
   ],
-  "verdict": "Tarcutta has a lower overall climate risk score (36/100) compared to Taree South (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tarcutta has a lower overall climate risk score (43/100) compared to Taree South (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Tarcutta or Taree South safer from flooding?",
-      "answer": "Tarcutta has a flood risk score of 45/100, while Taree South scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarcutta has a flood risk score of 39/100, while Taree South scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarcutta scores 47/100 for bushfire risk. Taree South scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarcutta scores 57/100 for bushfire risk. Taree South scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarcutta or Taree South?",
@@ -76,5 +76,15 @@
       "label": "Taree South Should I Buy?",
       "url": "/suburbs/nsw/taree-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

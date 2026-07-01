@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 34
+      "scoreA": 29,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
+      "scoreA": 52,
       "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 65
+      "scoreA": 50,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 22
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 11,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 30
     }
   ],
-  "verdict": "Casey has a lower overall climate risk score (35/100) compared to Canberra Airport (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Canberra Airport has a lower overall climate risk score (33/100) compared to Casey (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Canberra Airport or Casey safer from flooding?",
-      "answer": "Canberra Airport has a flood risk score of 23/100, while Casey scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Canberra Airport has a flood risk score of 29/100, while Casey scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Canberra Airport scores 32/100 for bushfire risk. Casey scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Canberra Airport scores 52/100 for bushfire risk. Casey scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Canberra Airport or Casey?",
-      "answer": "Both suburbs have climate considerations. Casey has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Canberra Airport has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Casey Should I Buy?",
       "url": "/suburbs/act/casey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

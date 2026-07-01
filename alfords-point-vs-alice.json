@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 55
+      "scoreA": 57,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 40
+      "scoreA": 62,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 21
+      "scoreA": 39,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 55
+      "scoreA": 38,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 29
     }
   ],
-  "verdict": "Alice has a lower overall climate risk score (38/100) compared to Alfords Point (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Alice has a lower overall climate risk score (35/100) compared to Alfords Point (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Alfords Point or Alice safer from flooding?",
-      "answer": "Alfords Point has a flood risk score of 34/100, while Alice scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alfords Point has a flood risk score of 57/100, while Alice scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alfords Point scores 37/100 for bushfire risk. Alice scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alfords Point scores 45/100 for bushfire risk. Alice scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alfords Point or Alice?",
@@ -76,5 +76,15 @@
       "label": "Alice Should I Buy?",
       "url": "/suburbs/nsw/alice/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

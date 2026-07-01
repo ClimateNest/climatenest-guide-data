@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 54
+      "scoreA": 37,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 46
+      "scoreA": 39,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 74
+      "scoreA": 74,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 24
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 12,
+      "scoreA": 38,
       "scoreB": 27
     },
     {
+      "name": "Coastal",
+      "scoreA": 16,
+      "scoreB": 29
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Globe Derby Park has a lower overall climate risk score (35/100) compared to Glynde (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Globe Derby Park has a lower overall climate risk score (38/100) compared to Glynde (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Globe Derby Park or Glynde safer from flooding?",
-      "answer": "Globe Derby Park has a flood risk score of 54/100, while Glynde scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Globe Derby Park has a flood risk score of 37/100, while Glynde scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Globe Derby Park scores 28/100 for bushfire risk. Glynde scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Globe Derby Park scores 39/100 for bushfire risk. Glynde scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Globe Derby Park or Glynde?",
@@ -76,5 +76,15 @@
       "label": "Glynde Should I Buy?",
       "url": "/suburbs/sa/glynde/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

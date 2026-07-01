@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
+      "scoreA": 52,
       "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 37
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 57
+      "scoreA": 74,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 20
+      "scoreA": 44,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 13
     }
   ],
-  "verdict": "Norway has a lower overall climate risk score (32/100) compared to Northwood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Norway has a lower overall climate risk score (33/100) compared to Northwood (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Northwood or Norway safer from flooding?",
-      "answer": "Northwood has a flood risk score of 55/100, while Norway scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Northwood has a flood risk score of 52/100, while Norway scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Northwood scores 26/100 for bushfire risk. Norway scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Northwood scores 47/100 for bushfire risk. Norway scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Northwood or Norway?",
@@ -76,5 +76,15 @@
       "label": "Norway Should I Buy?",
       "url": "/suburbs/nsw/norway/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

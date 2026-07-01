@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 44
+      "scoreA": 55,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 18,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 34
+      "scoreA": 63,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 30
+      "scoreA": 37,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 50
+      "scoreA": 12,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 23,
+      "scoreB": 29
     }
   ],
-  "verdict": "Urbenville has a lower overall climate risk score (36/100) compared to Urawilkie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Urbenville has a lower overall climate risk score (34/100) compared to Urawilkie (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Urawilkie or Urbenville safer from flooding?",
-      "answer": "Urawilkie has a flood risk score of 54/100, while Urbenville scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Urawilkie has a flood risk score of 55/100, while Urbenville scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Urawilkie scores 34/100 for bushfire risk. Urbenville scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Urawilkie scores 18/100 for bushfire risk. Urbenville scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Urawilkie or Urbenville?",
@@ -76,5 +76,15 @@
       "label": "Urbenville Should I Buy?",
       "url": "/suburbs/nsw/urbenville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

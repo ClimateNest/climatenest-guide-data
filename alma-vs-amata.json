@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 40
+      "scoreA": 50,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 33
+      "scoreA": 65,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 48
+      "scoreA": 75,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 33,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
       "scoreA": 26,
-      "scoreB": 28
+      "scoreB": 17
     }
   ],
-  "verdict": "Alma has a lower overall climate risk score (30/100) compared to Amata (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Amata has a lower overall climate risk score (35/100) compared to Alma (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Alma or Amata safer from flooding?",
-      "answer": "Alma has a flood risk score of 21/100, while Amata scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alma has a flood risk score of 50/100, while Amata scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alma scores 27/100 for bushfire risk. Amata scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alma scores 65/100 for bushfire risk. Amata scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alma or Amata?",
-      "answer": "Both suburbs have climate considerations. Alma has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Amata has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Amata Should I Buy?",
       "url": "/suburbs/sa/amata/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4317,
+    "projected2030": 6043,
+    "projected2050": 11223
+  },
+  "valueImpact": {
+    "dragPercent": 2.38,
+    "description": "Properties in this area may face a 2.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

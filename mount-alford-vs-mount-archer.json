@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 51
+      "scoreA": 46,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 57
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 39,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 58
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 25
+      "scoreA": 16,
+      "scoreB": 19
     }
   ],
-  "verdict": "Mount Alford has a lower overall climate risk score (33/100) compared to Mount Archer (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Archer has a lower overall climate risk score (31/100) compared to Mount Alford (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Alford or Mount Archer safer from flooding?",
-      "answer": "Mount Alford has a flood risk score of 40/100, while Mount Archer scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Alford has a flood risk score of 46/100, while Mount Archer scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Alford scores 22/100 for bushfire risk. Mount Archer scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Alford scores 23/100 for bushfire risk. Mount Archer scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Alford or Mount Archer?",
-      "answer": "Both suburbs have climate considerations. Mount Alford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Archer has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Archer Should I Buy?",
       "url": "/suburbs/qld/mount-archer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

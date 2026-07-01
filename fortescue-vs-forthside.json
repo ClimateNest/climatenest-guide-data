@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 37
+      "scoreA": 26,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 53
+      "scoreA": 67,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 43
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 21,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
       "scoreA": 14,
-      "scoreB": 28
+      "scoreB": 12
     }
   ],
-  "verdict": "Fortescue has a lower overall climate risk score (30/100) compared to Forthside (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fortescue has a lower overall climate risk score (36/100) compared to Forthside (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fortescue or Forthside safer from flooding?",
-      "answer": "Fortescue has a flood risk score of 36/100, while Forthside scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fortescue has a flood risk score of 26/100, while Forthside scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fortescue scores 31/100 for bushfire risk. Forthside scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fortescue scores 45/100 for bushfire risk. Forthside scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fortescue or Forthside?",
@@ -76,5 +76,15 @@
       "label": "Forthside Should I Buy?",
       "url": "/suburbs/tas/forthside/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

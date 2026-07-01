@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 30,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 29
+      "scoreA": 43,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 31
+      "scoreA": 60,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 25,
+      "scoreB": 28
     }
   ],
-  "verdict": "Mount Mort has a lower overall climate risk score (32/100) compared to Mount Moriah (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Mort has a lower overall climate risk score (36/100) compared to Mount Moriah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Moriah or Mount Mort safer from flooding?",
-      "answer": "Mount Moriah has a flood risk score of 53/100, while Mount Mort scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Moriah has a flood risk score of 31/100, while Mount Mort scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Moriah scores 33/100 for bushfire risk. Mount Mort scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Moriah scores 38/100 for bushfire risk. Mount Mort scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Moriah or Mount Mort?",
@@ -76,5 +76,15 @@
       "label": "Mount Mort Should I Buy?",
       "url": "/suburbs/qld/mount-mort/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

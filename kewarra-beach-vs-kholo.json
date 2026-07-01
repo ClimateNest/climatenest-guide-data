@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 53
+      "scoreA": 53,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 34
+      "scoreA": 60,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 49
+      "scoreA": 25,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 34
+      "scoreA": 25,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 19
     }
   ],
-  "verdict": "Kewarra Beach has a lower overall climate risk score (32/100) compared to Kholo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kewarra Beach has a lower overall climate risk score (36/100) compared to Kholo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kewarra Beach or Kholo safer from flooding?",
-      "answer": "Kewarra Beach has a flood risk score of 39/100, while Kholo scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kewarra Beach has a flood risk score of 53/100, while Kholo scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kewarra Beach scores 35/100 for bushfire risk. Kholo scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kewarra Beach scores 60/100 for bushfire risk. Kholo scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kewarra Beach or Kholo?",
@@ -76,5 +76,15 @@
       "label": "Kholo Should I Buy?",
       "url": "/suburbs/qld/kholo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

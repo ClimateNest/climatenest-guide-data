@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 22
+      "scoreA": 44,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
       "scoreA": 60,
-      "scoreB": 33
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 52,
+      "scoreA": 65,
       "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
       "scoreA": 27,
-      "scoreB": 41
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 28
     }
   ],
-  "verdict": "Terrace Creek has a lower overall climate risk score (29/100) compared to Termeil (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Terrace Creek has a lower overall climate risk score (40/100) compared to Termeil (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Termeil or Terrace Creek safer from flooding?",
-      "answer": "Termeil has a flood risk score of 53/100, while Terrace Creek scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Termeil has a flood risk score of 44/100, while Terrace Creek scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Termeil scores 60/100 for bushfire risk. Terrace Creek scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Termeil scores 60/100 for bushfire risk. Terrace Creek scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Termeil or Terrace Creek?",
@@ -76,5 +76,15 @@
       "label": "Terrace Creek Should I Buy?",
       "url": "/suburbs/nsw/terrace-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

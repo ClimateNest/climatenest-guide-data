@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 48
+      "scoreA": 48,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 29
+      "scoreA": 43,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 36
+      "scoreA": 49,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 42,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 15,
+      "scoreB": 15
     }
   ],
-  "verdict": "Bracken Ridge has a lower overall climate risk score (39/100) compared to Bracalba (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bracken Ridge has a lower overall climate risk score (30/100) compared to Bracalba (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bracalba or Bracken Ridge safer from flooding?",
-      "answer": "Bracalba has a flood risk score of 58/100, while Bracken Ridge scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bracalba has a flood risk score of 48/100, while Bracken Ridge scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bracalba scores 51/100 for bushfire risk. Bracken Ridge scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bracalba scores 43/100 for bushfire risk. Bracken Ridge scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bracalba or Bracken Ridge?",
@@ -76,5 +76,15 @@
       "label": "Bracken Ridge Should I Buy?",
       "url": "/suburbs/qld/bracken-ridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

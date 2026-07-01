@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 45,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 50
+      "scoreA": 37,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 27
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 57
+      "scoreA": 34,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 14
     }
   ],
-  "verdict": "Childers has a lower overall climate risk score (32/100) compared to Chinchilla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Childers has a lower overall climate risk score (31/100) compared to Chinchilla (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Childers or Chinchilla safer from flooding?",
-      "answer": "Childers has a flood risk score of 49/100, while Chinchilla scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Childers has a flood risk score of 45/100, while Chinchilla scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Childers scores 22/100 for bushfire risk. Chinchilla scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Childers scores 30/100 for bushfire risk. Chinchilla scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Childers or Chinchilla?",
@@ -76,5 +76,15 @@
       "label": "Chinchilla Should I Buy?",
       "url": "/suburbs/qld/chinchilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

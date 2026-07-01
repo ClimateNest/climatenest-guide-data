@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 45
+      "scoreA": 38,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 80
+      "scoreA": 64,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 36,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 12,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 15
     }
   ],
-  "verdict": "Pine Ridge and Piney Range have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Piney Range has a lower overall climate risk score (32/100) compared to Pine Ridge (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pine Ridge or Piney Range safer from flooding?",
-      "answer": "Pine Ridge has a flood risk score of 37/100, while Piney Range scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pine Ridge has a flood risk score of 38/100, while Piney Range scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pine Ridge scores 37/100 for bushfire risk. Piney Range scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pine Ridge scores 26/100 for bushfire risk. Piney Range scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pine Ridge or Piney Range?",
-      "answer": "Both suburbs have climate considerations. Pine Ridge has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Piney Range has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Piney Range Should I Buy?",
       "url": "/suburbs/nsw/piney-range/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

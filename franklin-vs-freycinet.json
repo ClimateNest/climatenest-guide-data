@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 35
+      "scoreA": 24,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 35,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 67
+      "scoreA": 53,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 38
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 25
+      "scoreA": 17,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 20
     }
   ],
-  "verdict": "Franklin has a lower overall climate risk score (37/100) compared to Freycinet (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Franklin has a lower overall climate risk score (33/100) compared to Freycinet (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Franklin or Freycinet safer from flooding?",
-      "answer": "Franklin has a flood risk score of 56/100, while Freycinet scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Franklin has a flood risk score of 24/100, while Freycinet scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Franklin scores 40/100 for bushfire risk. Freycinet scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Franklin scores 35/100 for bushfire risk. Freycinet scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Franklin or Freycinet?",
@@ -76,5 +76,15 @@
       "label": "Freycinet Should I Buy?",
       "url": "/suburbs/tas/freycinet/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

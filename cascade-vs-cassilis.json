@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 58
+      "scoreA": 33,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
+      "scoreA": 55,
       "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 63
+      "scoreA": 64,
+      "scoreB": 68
     },
     {
       "name": "Storm",
       "scoreA": 34,
-      "scoreB": 45
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 28
+      "scoreA": 35,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 14
+      "scoreA": 20,
+      "scoreB": 24
     }
   ],
-  "verdict": "Cassilis has a lower overall climate risk score (43/100) compared to Cascade (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cassilis has a lower overall climate risk score (38/100) compared to Cascade (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cascade or Cassilis safer from flooding?",
-      "answer": "Cascade has a flood risk score of 29/100, while Cassilis scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cascade has a flood risk score of 33/100, while Cassilis scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cascade scores 60/100 for bushfire risk. Cassilis scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cascade scores 55/100 for bushfire risk. Cassilis scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cascade or Cassilis?",
@@ -76,5 +76,15 @@
       "label": "Cassilis Should I Buy?",
       "url": "/suburbs/nsw/cassilis/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

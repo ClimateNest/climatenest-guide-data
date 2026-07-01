@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 52
+      "scoreA": 50,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 79
+      "scoreA": 66,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 35
+      "scoreA": 12,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Home Rule has a lower overall climate risk score (34/100) compared to Homebush West (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Home Rule has a lower overall climate risk score (34/100) compared to Homebush West (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Home Rule or Homebush West safer from flooding?",
-      "answer": "Home Rule has a flood risk score of 21/100, while Homebush West scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Home Rule has a flood risk score of 50/100, while Homebush West scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Home Rule scores 36/100 for bushfire risk. Homebush West scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Home Rule scores 27/100 for bushfire risk. Homebush West scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Home Rule or Homebush West?",
@@ -76,5 +76,15 @@
       "label": "Homebush West Should I Buy?",
       "url": "/suburbs/nsw/homebush-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

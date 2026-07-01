@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 54
+      "scoreA": 53,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 53,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 73
+      "scoreA": 78,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 27,
+      "scoreA": 38,
       "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 59
+      "scoreA": 24,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
+      "scoreA": 20,
       "scoreB": 27
     }
   ],
-  "verdict": "Curragh has a lower overall climate risk score (31/100) compared to Curramore (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Curramore has a lower overall climate risk score (36/100) compared to Curragh (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Curragh or Curramore safer from flooding?",
-      "answer": "Curragh has a flood risk score of 38/100, while Curramore scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Curragh has a flood risk score of 53/100, while Curramore scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Curragh scores 21/100 for bushfire risk. Curramore scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Curragh scores 53/100 for bushfire risk. Curramore scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Curragh or Curramore?",
-      "answer": "Both suburbs have climate considerations. Curragh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Curramore has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Curramore Should I Buy?",
       "url": "/suburbs/nsw/curramore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

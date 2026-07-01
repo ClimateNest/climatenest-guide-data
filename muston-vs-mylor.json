@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 31
+      "scoreA": 30,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 31
+      "scoreA": 55,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 58
+      "scoreA": 53,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 36,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 22
     }
   ],
-  "verdict": "Mylor has a lower overall climate risk score (31/100) compared to Muston (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mylor has a lower overall climate risk score (35/100) compared to Muston (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Muston or Mylor safer from flooding?",
-      "answer": "Muston has a flood risk score of 20/100, while Mylor scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Muston has a flood risk score of 30/100, while Mylor scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Muston scores 44/100 for bushfire risk. Mylor scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Muston scores 55/100 for bushfire risk. Mylor scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Muston or Mylor?",
@@ -76,5 +76,15 @@
       "label": "Mylor Should I Buy?",
       "url": "/suburbs/sa/mylor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 55
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 56
+      "scoreA": 65,
+      "scoreB": 67
     },
     {
       "name": "Storm",
       "scoreA": 43,
-      "scoreB": 45
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 10
+      "scoreA": 13,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 21
     }
   ],
-  "verdict": "Clydesdale has a lower overall climate risk score (38/100) compared to Clyde North (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Clydesdale has a lower overall climate risk score (29/100) compared to Clyde North (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Clyde North or Clydesdale safer from flooding?",
-      "answer": "Clyde North has a flood risk score of 58/100, while Clydesdale scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clyde North has a flood risk score of 40/100, while Clydesdale scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clyde North scores 53/100 for bushfire risk. Clydesdale scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clyde North scores 18/100 for bushfire risk. Clydesdale scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clyde North or Clydesdale?",
@@ -76,5 +76,15 @@
       "label": "Clydesdale Should I Buy?",
       "url": "/suburbs/vic/clydesdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 48
+      "scoreA": 26,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 25
+      "scoreA": 62,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 43
+      "scoreA": 43,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 12
+      "scoreA": 18,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 20
+      "scoreA": 5,
+      "scoreB": 15
     }
   ],
-  "verdict": "Pindi Pindi has a lower overall climate risk score (32/100) compared to Pin Gin Hill (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pindi Pindi has a lower overall climate risk score (26/100) compared to Pin Gin Hill (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pin Gin Hill or Pindi Pindi safer from flooding?",
-      "answer": "Pin Gin Hill has a flood risk score of 52/100, while Pindi Pindi scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pin Gin Hill has a flood risk score of 26/100, while Pindi Pindi scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pin Gin Hill scores 34/100 for bushfire risk. Pindi Pindi scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pin Gin Hill scores 62/100 for bushfire risk. Pindi Pindi scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pin Gin Hill or Pindi Pindi?",
@@ -76,5 +76,15 @@
       "label": "Pindi Pindi Should I Buy?",
       "url": "/suburbs/qld/pindi-pindi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

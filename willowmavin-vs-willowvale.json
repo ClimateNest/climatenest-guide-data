@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 55
+      "scoreA": 23,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 41
+      "scoreA": 49,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 50
+      "scoreA": 64,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 34
+      "scoreA": 41,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 25
     }
   ],
-  "verdict": "Willowmavin has a lower overall climate risk score (32/100) compared to Willowvale (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Willowmavin has a lower overall climate risk score (37/100) compared to Willowvale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Willowmavin or Willowvale safer from flooding?",
-      "answer": "Willowmavin has a flood risk score of 22/100, while Willowvale scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Willowmavin has a flood risk score of 23/100, while Willowvale scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Willowmavin scores 22/100 for bushfire risk. Willowvale scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Willowmavin scores 49/100 for bushfire risk. Willowvale scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Willowmavin or Willowvale?",
@@ -76,5 +76,15 @@
       "label": "Willowvale Should I Buy?",
       "url": "/suburbs/vic/willowvale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

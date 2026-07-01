@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 40
+      "scoreA": 54,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 29
+      "scoreA": 38,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 37
     },
     {
       "name": "Storm",
       "scoreA": 46,
-      "scoreB": 49
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 20
+      "scoreA": 7,
+      "scoreB": 27
     }
   ],
-  "verdict": "Comoon Loop has a lower overall climate risk score (32/100) compared to Condamine (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Comoon Loop has a lower overall climate risk score (35/100) compared to Condamine (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Comoon Loop or Condamine safer from flooding?",
-      "answer": "Comoon Loop has a flood risk score of 27/100, while Condamine scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Comoon Loop has a flood risk score of 54/100, while Condamine scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Comoon Loop scores 35/100 for bushfire risk. Condamine scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Comoon Loop scores 38/100 for bushfire risk. Condamine scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Comoon Loop or Condamine?",
@@ -76,5 +76,15 @@
       "label": "Condamine Should I Buy?",
       "url": "/suburbs/qld/condamine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

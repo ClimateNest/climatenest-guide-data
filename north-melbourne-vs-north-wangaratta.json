@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 59
+      "scoreA": 58,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 59
-    },
-    {
-      "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 55
-    },
-    {
-      "name": "Storm",
       "scoreA": 33,
-      "scoreB": 47
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 13,
       "scoreB": 28
     },
     {
+      "name": "Heat",
+      "scoreA": 58,
+      "scoreB": 54
+    },
+    {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 26
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 10,
+      "scoreB": 22
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 20
     }
   ],
-  "verdict": "North Melbourne has a lower overall climate risk score (39/100) compared to North Wangaratta (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "North Wangaratta has a lower overall climate risk score (28/100) compared to North Melbourne (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Melbourne or North Wangaratta safer from flooding?",
-      "answer": "North Melbourne has a flood risk score of 39/100, while North Wangaratta scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Melbourne has a flood risk score of 58/100, while North Wangaratta scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Melbourne scores 59/100 for bushfire risk. North Wangaratta scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Melbourne scores 33/100 for bushfire risk. North Wangaratta scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Melbourne or North Wangaratta?",
-      "answer": "Both suburbs have climate considerations. North Melbourne has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. North Wangaratta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "North Wangaratta Should I Buy?",
       "url": "/suburbs/vic/north-wangaratta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

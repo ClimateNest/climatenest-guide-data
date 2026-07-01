@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 57
+      "scoreA": 22,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 40
+      "scoreA": 31,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 24,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 23
+      "scoreA": 43,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 13,
+      "scoreB": 26
     }
   ],
-  "verdict": "Clifford has a lower overall climate risk score (38/100) compared to Cleveland (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cleveland has a lower overall climate risk score (32/100) compared to Clifford (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cleveland or Clifford safer from flooding?",
-      "answer": "Cleveland has a flood risk score of 31/100, while Clifford scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cleveland has a flood risk score of 58/100, while Clifford scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cleveland scores 55/100 for bushfire risk. Clifford scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cleveland scores 22/100 for bushfire risk. Clifford scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cleveland or Clifford?",
-      "answer": "Both suburbs have climate considerations. Clifford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cleveland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Clifford Should I Buy?",
       "url": "/suburbs/qld/clifford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 42
+      "scoreA": 60,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 54
+      "scoreA": 30,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 37
+      "scoreA": 46,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 33
+      "scoreA": 25,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Alawa has a lower overall climate risk score (30/100) compared to Alice Springs (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Alawa has a lower overall climate risk score (34/100) compared to Alice Springs (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Alawa or Alice Springs safer from flooding?",
-      "answer": "Alawa has a flood risk score of 20/100, while Alice Springs scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alawa has a flood risk score of 60/100, while Alice Springs scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alawa scores 57/100 for bushfire risk. Alice Springs scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alawa scores 30/100 for bushfire risk. Alice Springs scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alawa or Alice Springs?",
@@ -76,5 +76,15 @@
       "label": "Alice Springs Should I Buy?",
       "url": "/suburbs/nt/alice-springs/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

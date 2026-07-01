@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 48
+      "scoreA": 46,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 34
+    },
+    {
+      "name": "Heat",
+      "scoreA": 49,
+      "scoreB": 49
+    },
+    {
+      "name": "Storm",
       "scoreA": 34,
       "scoreB": 46
     },
     {
-      "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 44
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 23
-    },
-    {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 43
+      "scoreA": 47,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 14
     }
   ],
-  "verdict": "Durah has a lower overall climate risk score (38/100) compared to Durack (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Durah has a lower overall climate risk score (38/100) compared to Durack (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Durack or Durah safer from flooding?",
-      "answer": "Durack has a flood risk score of 55/100, while Durah scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Durack has a flood risk score of 46/100, while Durah scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Durack scores 34/100 for bushfire risk. Durah scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Durack scores 37/100 for bushfire risk. Durah scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Durack or Durah?",
@@ -76,5 +76,15 @@
       "label": "Durah Should I Buy?",
       "url": "/suburbs/qld/durah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

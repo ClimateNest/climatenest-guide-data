@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 55
+      "scoreA": 21,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 59
+      "scoreA": 21,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 45
+      "scoreA": 51,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Adamsvale has a lower overall climate risk score (34/100) compared to Ajana (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Adamsvale has a lower overall climate risk score (24/100) compared to Ajana (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Adamsvale or Ajana safer from flooding?",
-      "answer": "Adamsvale has a flood risk score of 25/100, while Ajana scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Adamsvale has a flood risk score of 21/100, while Ajana scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Adamsvale scores 34/100 for bushfire risk. Ajana scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Adamsvale scores 21/100 for bushfire risk. Ajana scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Adamsvale or Ajana?",
@@ -76,5 +76,15 @@
       "label": "Ajana Should I Buy?",
       "url": "/suburbs/wa/ajana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3195,
+    "projected2030": 4473,
+    "projected2050": 8306
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

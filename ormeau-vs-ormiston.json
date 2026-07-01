@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 52
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 30
+      "scoreA": 53,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 49
+      "scoreA": 37,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 30
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 44
+      "scoreA": 49,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 24
+      "scoreA": 22,
+      "scoreB": 11
     }
   ],
-  "verdict": "Ormiston has a lower overall climate risk score (38/100) compared to Ormeau (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ormiston has a lower overall climate risk score (31/100) compared to Ormeau (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ormeau or Ormiston safer from flooding?",
-      "answer": "Ormeau has a flood risk score of 47/100, while Ormiston scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ormeau has a flood risk score of 23/100, while Ormiston scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ormeau scores 57/100 for bushfire risk. Ormiston scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ormeau scores 53/100 for bushfire risk. Ormiston scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ormeau or Ormiston?",
@@ -76,5 +76,15 @@
       "label": "Ormiston Should I Buy?",
       "url": "/suburbs/qld/ormiston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

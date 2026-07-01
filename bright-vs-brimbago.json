@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 28
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 30
+      "scoreA": 58,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 78
+      "scoreA": 74,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 44
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 18,
+      "scoreB": 25
     }
   ],
-  "verdict": "Bright has a lower overall climate risk score (36/100) compared to Brimbago (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Brimbago has a lower overall climate risk score (38/100) compared to Bright (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bright or Brimbago safer from flooding?",
-      "answer": "Bright has a flood risk score of 39/100, while Brimbago scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bright has a flood risk score of 40/100, while Brimbago scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bright scores 30/100 for bushfire risk. Brimbago scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bright scores 58/100 for bushfire risk. Brimbago scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bright or Brimbago?",
-      "answer": "Both suburbs have climate considerations. Bright has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Brimbago has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Brimbago Should I Buy?",
       "url": "/suburbs/sa/brimbago/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

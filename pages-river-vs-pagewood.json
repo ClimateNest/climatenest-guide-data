@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 32
+      "scoreA": 58,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 28
+      "scoreA": 15,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 55
+      "scoreA": 79,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 31
+      "scoreA": 41,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 58
+      "scoreA": 47,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 10
+      "scoreA": 20,
+      "scoreB": 20
     }
   ],
-  "verdict": "Pagewood has a lower overall climate risk score (36/100) compared to Pages River (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pagewood has a lower overall climate risk score (39/100) compared to Pages River (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pages River or Pagewood safer from flooding?",
-      "answer": "Pages River has a flood risk score of 51/100, while Pagewood scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pages River has a flood risk score of 58/100, while Pagewood scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pages River scores 50/100 for bushfire risk. Pagewood scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pages River scores 15/100 for bushfire risk. Pagewood scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pages River or Pagewood?",
@@ -76,5 +76,15 @@
       "label": "Pagewood Should I Buy?",
       "url": "/suburbs/nsw/pagewood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

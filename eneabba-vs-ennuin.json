@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 53,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 80
+      "scoreA": 49,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 33,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 19
+      "scoreA": 28,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 12
     }
   ],
-  "verdict": "Eneabba has a lower overall climate risk score (29/100) compared to Ennuin (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eneabba has a lower overall climate risk score (35/100) compared to Ennuin (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eneabba or Ennuin safer from flooding?",
-      "answer": "Eneabba has a flood risk score of 33/100, while Ennuin scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eneabba has a flood risk score of 53/100, while Ennuin scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eneabba scores 27/100 for bushfire risk. Ennuin scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eneabba scores 23/100 for bushfire risk. Ennuin scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eneabba or Ennuin?",
@@ -76,5 +76,15 @@
       "label": "Ennuin Should I Buy?",
       "url": "/suburbs/wa/ennuin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

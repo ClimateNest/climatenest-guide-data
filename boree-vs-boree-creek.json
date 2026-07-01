@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 34
+      "scoreA": 29,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 16
+      "scoreA": 53,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 52
+      "scoreA": 53,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 43
+      "scoreA": 35,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 13,
       "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 26
     }
   ],
-  "verdict": "Boree Creek has a lower overall climate risk score (31/100) compared to Boree (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Boree has a lower overall climate risk score (33/100) compared to Boree Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boree or Boree Creek safer from flooding?",
-      "answer": "Boree has a flood risk score of 37/100, while Boree Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boree has a flood risk score of 29/100, while Boree Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boree scores 47/100 for bushfire risk. Boree Creek scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boree scores 53/100 for bushfire risk. Boree Creek scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boree or Boree Creek?",
-      "answer": "Both suburbs have climate considerations. Boree Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boree has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boree Creek Should I Buy?",
       "url": "/suburbs/nsw/boree-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

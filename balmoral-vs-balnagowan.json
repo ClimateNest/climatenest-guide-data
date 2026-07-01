@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 51
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 35
-    },
-    {
-      "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 34
-    },
-    {
-      "name": "Storm",
-      "scoreA": 45,
+      "scoreA": 27,
       "scoreB": 38
     },
     {
+      "name": "Bushfire",
+      "scoreA": 52,
+      "scoreB": 62
+    },
+    {
+      "name": "Heat",
+      "scoreA": 33,
+      "scoreB": 31
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 42
+    },
+    {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 26
+      "scoreA": 31,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Balnagowan has a lower overall climate risk score (33/100) compared to Balmoral (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Balmoral has a lower overall climate risk score (35/100) compared to Balnagowan (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Balmoral or Balnagowan safer from flooding?",
-      "answer": "Balmoral has a flood risk score of 52/100, while Balnagowan scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balmoral has a flood risk score of 27/100, while Balnagowan scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balmoral scores 51/100 for bushfire risk. Balnagowan scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balmoral scores 52/100 for bushfire risk. Balnagowan scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balmoral or Balnagowan?",
-      "answer": "Both suburbs have climate considerations. Balnagowan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Balmoral has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Balnagowan Should I Buy?",
       "url": "/suburbs/qld/balnagowan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

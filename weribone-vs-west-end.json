@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 46
+      "scoreA": 45,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 44
+      "scoreA": 45,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 48
+      "scoreA": 42,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 32
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 17,
+      "scoreB": 18
     }
   ],
-  "verdict": "Weribone has a lower overall climate risk score (33/100) compared to West End (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "West End has a lower overall climate risk score (33/100) compared to Weribone (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Weribone or West End safer from flooding?",
-      "answer": "Weribone has a flood risk score of 57/100, while West End scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Weribone has a flood risk score of 45/100, while West End scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Weribone scores 23/100 for bushfire risk. West End scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Weribone scores 45/100 for bushfire risk. West End scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Weribone or West End?",
-      "answer": "Both suburbs have climate considerations. Weribone has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. West End has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "West End Should I Buy?",
       "url": "/suburbs/qld/west-end/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

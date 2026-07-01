@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 44
+      "scoreA": 64,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 69
+      "scoreA": 66,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 37,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 18,
+      "scoreB": 10
     }
   ],
-  "verdict": "Solus has a lower overall climate risk score (39/100) compared to Sorrento (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Sorrento has a lower overall climate risk score (35/100) compared to Solus (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Solus or Sorrento safer from flooding?",
-      "answer": "Solus has a flood risk score of 36/100, while Sorrento scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Solus has a flood risk score of 22/100, while Sorrento scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Solus scores 56/100 for bushfire risk. Sorrento scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Solus scores 64/100 for bushfire risk. Sorrento scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Solus or Sorrento?",
-      "answer": "Both suburbs have climate considerations. Solus has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Sorrento has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sorrento Should I Buy?",
       "url": "/suburbs/wa/sorrento/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 53,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 15
+      "scoreA": 61,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 54
+      "scoreA": 50,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 48
+      "scoreA": 47,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 28
     }
   ],
-  "verdict": "Tarra Valley has a lower overall climate risk score (30/100) compared to Tarnook (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tarra Valley has a lower overall climate risk score (37/100) compared to Tarnook (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tarnook or Tarra Valley safer from flooding?",
-      "answer": "Tarnook has a flood risk score of 29/100, while Tarra Valley scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarnook has a flood risk score of 53/100, while Tarra Valley scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarnook scores 64/100 for bushfire risk. Tarra Valley scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarnook scores 61/100 for bushfire risk. Tarra Valley scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarnook or Tarra Valley?",
@@ -76,5 +76,15 @@
       "label": "Tarra Valley Should I Buy?",
       "url": "/suburbs/vic/tarra-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

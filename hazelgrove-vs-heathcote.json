@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 55
+      "scoreA": 57,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
+      "scoreA": 53,
       "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 54
-    },
-    {
-      "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 27
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 27,
+      "scoreA": 54,
       "scoreB": 53
     },
     {
+      "name": "Storm",
+      "scoreA": 46,
+      "scoreB": 23
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 10,
+      "scoreB": 59
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 22
     }
   ],
-  "verdict": "Heathcote has a lower overall climate risk score (38/100) compared to Hazelgrove (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Heathcote has a lower overall climate risk score (36/100) compared to Hazelgrove (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hazelgrove or Heathcote safer from flooding?",
-      "answer": "Hazelgrove has a flood risk score of 38/100, while Heathcote scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hazelgrove has a flood risk score of 57/100, while Heathcote scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hazelgrove scores 41/100 for bushfire risk. Heathcote scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hazelgrove scores 53/100 for bushfire risk. Heathcote scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hazelgrove or Heathcote?",
@@ -76,5 +76,15 @@
       "label": "Heathcote Should I Buy?",
       "url": "/suburbs/nsw/heathcote/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

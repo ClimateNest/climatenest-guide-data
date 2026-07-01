@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 47
+      "scoreA": 43,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 44
+      "scoreA": 57,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 36
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 35
+      "scoreA": 44,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 50
+      "scoreA": 42,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 11
     }
   ],
-  "verdict": "Elanora has a lower overall climate risk score (36/100) compared to Elbow Valley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Elbow Valley has a lower overall climate risk score (30/100) compared to Elanora (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Elanora or Elbow Valley safer from flooding?",
-      "answer": "Elanora has a flood risk score of 60/100, while Elbow Valley scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elanora has a flood risk score of 43/100, while Elbow Valley scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elanora scores 25/100 for bushfire risk. Elbow Valley scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elanora scores 57/100 for bushfire risk. Elbow Valley scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elanora or Elbow Valley?",
-      "answer": "Both suburbs have climate considerations. Elanora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Elbow Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Elbow Valley Should I Buy?",
       "url": "/suburbs/qld/elbow-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

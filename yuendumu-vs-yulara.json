@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 51
+      "scoreA": 59,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 55
+      "scoreA": 24,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 32
+      "scoreA": 23,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 12
+      "scoreA": 14,
+      "scoreB": 18
     }
   ],
-  "verdict": "Yuendumu has a lower overall climate risk score (33/100) compared to Yulara (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yuendumu has a lower overall climate risk score (31/100) compared to Yulara (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yuendumu or Yulara safer from flooding?",
-      "answer": "Yuendumu has a flood risk score of 55/100, while Yulara scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yuendumu has a flood risk score of 59/100, while Yulara scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yuendumu scores 43/100 for bushfire risk. Yulara scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yuendumu scores 24/100 for bushfire risk. Yulara scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yuendumu or Yulara?",
@@ -76,5 +76,15 @@
       "label": "Yulara Should I Buy?",
       "url": "/suburbs/nt/yulara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

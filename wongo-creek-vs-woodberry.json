@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 49
-    },
-    {
-      "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 55
-    },
-    {
-      "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 42,
       "scoreB": 38
     },
     {
+      "name": "Heat",
+      "scoreA": 66,
+      "scoreB": 79
+    },
+    {
+      "name": "Storm",
+      "scoreA": 36,
+      "scoreB": 32
+    },
+    {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 48
+      "scoreA": 37,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 26,
+      "scoreB": 18
     }
   ],
-  "verdict": "Woodberry has a lower overall climate risk score (40/100) compared to Wongo Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wongo Creek has a lower overall climate risk score (40/100) compared to Woodberry (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Wongo Creek or Woodberry safer from flooding?",
-      "answer": "Wongo Creek has a flood risk score of 56/100, while Woodberry scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wongo Creek has a flood risk score of 33/100, while Woodberry scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wongo Creek scores 23/100 for bushfire risk. Woodberry scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wongo Creek scores 42/100 for bushfire risk. Woodberry scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wongo Creek or Woodberry?",
-      "answer": "Both suburbs have climate considerations. Woodberry has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wongo Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Woodberry Should I Buy?",
       "url": "/suburbs/nsw/woodberry/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

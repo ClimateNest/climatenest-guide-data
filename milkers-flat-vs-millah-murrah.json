@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 54
+      "scoreA": 39,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 57
+      "scoreA": 65,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 57
+      "scoreA": 72,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 14
     }
   ],
-  "verdict": "Milkers Flat has a lower overall climate risk score (39/100) compared to Millah Murrah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Milkers Flat has a lower overall climate risk score (41/100) compared to Millah Murrah (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Milkers Flat or Millah Murrah safer from flooding?",
-      "answer": "Milkers Flat has a flood risk score of 36/100, while Millah Murrah scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Milkers Flat has a flood risk score of 39/100, while Millah Murrah scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Milkers Flat scores 44/100 for bushfire risk. Millah Murrah scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Milkers Flat scores 65/100 for bushfire risk. Millah Murrah scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Milkers Flat or Millah Murrah?",
@@ -76,5 +76,15 @@
       "label": "Millah Murrah Should I Buy?",
       "url": "/suburbs/nsw/millah-murrah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 24,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 27
+      "scoreA": 42,
+      "scoreB": 47
     },
     {
       "name": "Heat",
       "scoreA": 67,
-      "scoreB": 74
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 42
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 24,
+      "scoreA": 26,
       "scoreB": 30
     },
     {
+      "name": "Coastal",
+      "scoreA": 29,
+      "scoreB": 23
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 27
     }
   ],
-  "verdict": "Coragulac has a lower overall climate risk score (37/100) compared to Coral Bank (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coragulac has a lower overall climate risk score (33/100) compared to Coral Bank (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coragulac or Coral Bank safer from flooding?",
-      "answer": "Coragulac has a flood risk score of 35/100, while Coral Bank scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coragulac has a flood risk score of 24/100, while Coral Bank scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coragulac scores 39/100 for bushfire risk. Coral Bank scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coragulac scores 42/100 for bushfire risk. Coral Bank scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coragulac or Coral Bank?",
@@ -76,5 +76,15 @@
       "label": "Coral Bank Should I Buy?",
       "url": "/suburbs/vic/coral-bank/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

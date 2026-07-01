@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 40
+      "scoreA": 32,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 80
+      "scoreA": 68,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 31
+      "scoreA": 23,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
       "scoreA": 16,
-      "scoreB": 29
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 23
     }
   ],
-  "verdict": "Henty has a lower overall climate risk score (31/100) compared to Herdsman (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Henty has a lower overall climate risk score (29/100) compared to Herdsman (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Henty or Herdsman safer from flooding?",
-      "answer": "Henty has a flood risk score of 51/100, while Herdsman scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Henty has a flood risk score of 32/100, while Herdsman scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Henty scores 23/100 for bushfire risk. Herdsman scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Henty scores 18/100 for bushfire risk. Herdsman scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Henty or Herdsman?",
@@ -76,5 +76,15 @@
       "label": "Herdsman Should I Buy?",
       "url": "/suburbs/wa/herdsman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

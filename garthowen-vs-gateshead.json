@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 59
+      "scoreA": 59,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 50
+      "scoreA": 57,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 68
+      "scoreA": 76,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 31,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 34,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 24
     }
   ],
-  "verdict": "Garthowen has a lower overall climate risk score (35/100) compared to Gateshead (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Garthowen has a lower overall climate risk score (45/100) compared to Gateshead (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Garthowen or Gateshead safer from flooding?",
-      "answer": "Garthowen has a flood risk score of 34/100, while Gateshead scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Garthowen has a flood risk score of 59/100, while Gateshead scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Garthowen scores 22/100 for bushfire risk. Gateshead scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Garthowen scores 57/100 for bushfire risk. Gateshead scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Garthowen or Gateshead?",
@@ -76,5 +76,15 @@
       "label": "Gateshead Should I Buy?",
       "url": "/suburbs/nsw/gateshead/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4328,
+    "projected2030": 6059,
+    "projected2050": 11253
+  },
+  "valueImpact": {
+    "dragPercent": 2.4,
+    "description": "Properties in this area may face a 2.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

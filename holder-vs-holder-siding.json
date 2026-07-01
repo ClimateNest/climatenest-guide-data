@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
+      "scoreA": 56,
       "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 55,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 76
+      "scoreA": 54,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 32,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 10
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 21
+      "scoreA": 11,
+      "scoreB": 27
     }
   ],
-  "verdict": "Holder has a lower overall climate risk score (32/100) compared to Holder Siding (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Holder Siding has a lower overall climate risk score (35/100) compared to Holder (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Holder or Holder Siding safer from flooding?",
-      "answer": "Holder has a flood risk score of 51/100, while Holder Siding scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Holder has a flood risk score of 56/100, while Holder Siding scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Holder scores 20/100 for bushfire risk. Holder Siding scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Holder scores 55/100 for bushfire risk. Holder Siding scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Holder or Holder Siding?",
-      "answer": "Both suburbs have climate considerations. Holder has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Holder Siding has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Holder Siding Should I Buy?",
       "url": "/suburbs/sa/holder-siding/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 40
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 61
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 66
-    },
-    {
-      "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 45
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 16,
+      "scoreA": 40,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 47,
+      "scoreB": 43
+    },
+    {
+      "name": "Heat",
+      "scoreA": 51,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 37
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 11
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 17,
+      "scoreB": 11
     }
   ],
-  "verdict": "Derriwong has a lower overall climate risk score (38/100) compared to Deua (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Deua has a lower overall climate risk score (33/100) compared to Derriwong (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Derriwong or Deua safer from flooding?",
-      "answer": "Derriwong has a flood risk score of 42/100, while Deua scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Derriwong has a flood risk score of 40/100, while Deua scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Derriwong scores 53/100 for bushfire risk. Deua scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Derriwong scores 47/100 for bushfire risk. Deua scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Derriwong or Deua?",
-      "answer": "Both suburbs have climate considerations. Derriwong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Deua has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Deua Should I Buy?",
       "url": "/suburbs/nsw/deua/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

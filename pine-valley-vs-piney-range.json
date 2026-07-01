@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 27
+      "scoreA": 48,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
+      "scoreA": 50,
       "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 58
+      "scoreA": 51,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 50,
+      "scoreA": 28,
       "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 28,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 15
+      "scoreA": 29,
+      "scoreB": 20
     }
   ],
-  "verdict": "Piney Range has a lower overall climate risk score (37/100) compared to Pine Valley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Pine Valley has a lower overall climate risk score (39/100) compared to Piney Range (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pine Valley or Piney Range safer from flooding?",
-      "answer": "Pine Valley has a flood risk score of 43/100, while Piney Range scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pine Valley has a flood risk score of 48/100, while Piney Range scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pine Valley scores 24/100 for bushfire risk. Piney Range scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pine Valley scores 50/100 for bushfire risk. Piney Range scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pine Valley or Piney Range?",
-      "answer": "Both suburbs have climate considerations. Piney Range has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pine Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Piney Range Should I Buy?",
       "url": "/suburbs/nsw/piney-range/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

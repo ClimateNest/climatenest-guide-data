@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 59
+      "scoreA": 51,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 54,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 73
+      "scoreA": 70,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 38
+      "scoreA": 28,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 27
     }
   ],
-  "verdict": "Lucyvale has a lower overall climate risk score (40/100) compared to Lynbrook (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Lynbrook has a lower overall climate risk score (33/100) compared to Lucyvale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lucyvale or Lynbrook safer from flooding?",
-      "answer": "Lucyvale has a flood risk score of 54/100, while Lynbrook scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lucyvale has a flood risk score of 51/100, while Lynbrook scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lucyvale scores 17/100 for bushfire risk. Lynbrook scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lucyvale scores 54/100 for bushfire risk. Lynbrook scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lucyvale or Lynbrook?",
-      "answer": "Both suburbs have climate considerations. Lucyvale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lynbrook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lynbrook Should I Buy?",
       "url": "/suburbs/vic/lynbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

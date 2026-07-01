@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 47,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 59,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 60
+      "scoreA": 62,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 44
+      "scoreA": 35,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
+      "scoreA": 23,
       "scoreB": 26
     }
   ],
-  "verdict": "Penguin has a lower overall climate risk score (34/100) compared to Penna (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Penna has a lower overall climate risk score (36/100) compared to Penguin (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Penguin or Penna safer from flooding?",
-      "answer": "Penguin has a flood risk score of 25/100, while Penna scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Penguin has a flood risk score of 47/100, while Penna scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Penguin scores 30/100 for bushfire risk. Penna scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Penguin scores 59/100 for bushfire risk. Penna scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Penguin or Penna?",
-      "answer": "Both suburbs have climate considerations. Penguin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Penna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Penna Should I Buy?",
       "url": "/suburbs/tas/penna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

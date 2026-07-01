@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 51,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 22
+      "scoreA": 18,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 40
+      "scoreA": 34,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 52
+      "scoreA": 54,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 29
     }
   ],
-  "verdict": "Boreen Point has a lower overall climate risk score (38/100) compared to Borallon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Borallon has a lower overall climate risk score (35/100) compared to Boreen Point (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Borallon or Boreen Point safer from flooding?",
-      "answer": "Borallon has a flood risk score of 35/100, while Boreen Point scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Borallon has a flood risk score of 51/100, while Boreen Point scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Borallon scores 58/100 for bushfire risk. Boreen Point scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Borallon scores 18/100 for bushfire risk. Boreen Point scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Borallon or Boreen Point?",
-      "answer": "Both suburbs have climate considerations. Boreen Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Borallon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boreen Point Should I Buy?",
       "url": "/suburbs/qld/boreen-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

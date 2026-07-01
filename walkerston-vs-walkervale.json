@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 50
+      "scoreA": 34,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 41
+      "scoreA": 61,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 30
+      "scoreA": 22,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 20,
       "scoreB": 7
     }
   ],
-  "verdict": "Walkerston has a lower overall climate risk score (28/100) compared to Walkervale (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Walkerston has a lower overall climate risk score (35/100) compared to Walkervale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Walkerston or Walkervale safer from flooding?",
-      "answer": "Walkerston has a flood risk score of 22/100, while Walkervale scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Walkerston has a flood risk score of 34/100, while Walkervale scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Walkerston scores 34/100 for bushfire risk. Walkervale scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Walkerston scores 61/100 for bushfire risk. Walkervale scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Walkerston or Walkervale?",
@@ -76,5 +76,15 @@
       "label": "Walkervale Should I Buy?",
       "url": "/suburbs/qld/walkervale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

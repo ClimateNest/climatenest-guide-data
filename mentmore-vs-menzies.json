@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 48,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 59
+      "scoreA": 41,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 38
+      "scoreA": 34,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 24
+      "scoreA": 19,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 10
+      "scoreA": 14,
+      "scoreB": 18
     }
   ],
-  "verdict": "Mentmore has a lower overall climate risk score (29/100) compared to Menzies (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Menzies has a lower overall climate risk score (23/100) compared to Mentmore (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mentmore or Menzies safer from flooding?",
-      "answer": "Mentmore has a flood risk score of 23/100, while Menzies scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mentmore has a flood risk score of 48/100, while Menzies scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mentmore scores 38/100 for bushfire risk. Menzies scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mentmore scores 41/100 for bushfire risk. Menzies scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mentmore or Menzies?",
-      "answer": "Both suburbs have climate considerations. Mentmore has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Menzies has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Menzies Should I Buy?",
       "url": "/suburbs/qld/menzies/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

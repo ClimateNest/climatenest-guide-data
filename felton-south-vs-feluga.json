@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 45
+      "scoreA": 51,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 35
+      "scoreA": 31,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 40
+      "scoreA": 21,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 16
+      "scoreA": 49,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 7
+      "scoreA": 12,
+      "scoreB": 19
     }
   ],
-  "verdict": "Feluga has a lower overall climate risk score (29/100) compared to Felton South (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Feluga has a lower overall climate risk score (29/100) compared to Felton South (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Felton South or Feluga safer from flooding?",
-      "answer": "Felton South has a flood risk score of 25/100, while Feluga scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Felton South has a flood risk score of 31/100, while Feluga scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Felton South scores 58/100 for bushfire risk. Feluga scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Felton South scores 51/100 for bushfire risk. Feluga scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Felton South or Feluga?",
@@ -76,5 +76,15 @@
       "label": "Feluga Should I Buy?",
       "url": "/suburbs/qld/feluga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

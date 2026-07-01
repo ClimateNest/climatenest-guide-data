@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 35
+      "scoreA": 49,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 62
+      "scoreA": 63,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 65
+      "scoreA": 75,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 33
+      "scoreA": 28,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
       "scoreA": 18,
-      "scoreB": 13
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 27
     }
   ],
-  "verdict": "Hay Flat has a lower overall climate risk score (33/100) compared to Hay Valley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Hay Flat has a lower overall climate risk score (43/100) compared to Hay Valley (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Hay Flat or Hay Valley safer from flooding?",
-      "answer": "Hay Flat has a flood risk score of 48/100, while Hay Valley scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hay Flat has a flood risk score of 49/100, while Hay Valley scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hay Flat scores 25/100 for bushfire risk. Hay Valley scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hay Flat scores 63/100 for bushfire risk. Hay Valley scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hay Flat or Hay Valley?",
@@ -76,5 +76,15 @@
       "label": "Hay Valley Should I Buy?",
       "url": "/suburbs/sa/hay-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

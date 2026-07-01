@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 33
+      "scoreA": 27,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 54
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 56
+      "scoreA": 72,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 10
+      "scoreA": 18,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 29,
+      "scoreB": 25
     }
   ],
-  "verdict": "Tarwin has a lower overall climate risk score (34/100) compared to Tarwin Lower (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tarwin has a lower overall climate risk score (35/100) compared to Tarwin Lower (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tarwin or Tarwin Lower safer from flooding?",
-      "answer": "Tarwin has a flood risk score of 44/100, while Tarwin Lower scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarwin has a flood risk score of 27/100, while Tarwin Lower scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarwin scores 26/100 for bushfire risk. Tarwin Lower scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarwin scores 44/100 for bushfire risk. Tarwin Lower scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarwin or Tarwin Lower?",
@@ -76,5 +76,15 @@
       "label": "Tarwin Lower Should I Buy?",
       "url": "/suburbs/vic/tarwin-lower/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 52
+      "scoreA": 58,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 44
-    },
-    {
-      "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 37
-    },
-    {
-      "name": "Storm",
-      "scoreA": 32,
+      "scoreA": 41,
       "scoreB": 42
     },
     {
+      "name": "Heat",
+      "scoreA": 36,
+      "scoreB": 39
+    },
+    {
+      "name": "Storm",
+      "scoreA": 44,
+      "scoreB": 21
+    },
+    {
       "name": "Coastal",
-      "scoreA": 35,
+      "scoreA": 52,
       "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 20
     }
   ],
-  "verdict": "Oakdale has a lower overall climate risk score (33/100) compared to Oakey (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Oakey has a lower overall climate risk score (35/100) compared to Oakdale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Oakdale or Oakey safer from flooding?",
-      "answer": "Oakdale has a flood risk score of 44/100, while Oakey scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oakdale has a flood risk score of 58/100, while Oakey scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oakdale scores 15/100 for bushfire risk. Oakey scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oakdale scores 41/100 for bushfire risk. Oakey scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oakdale or Oakey?",
-      "answer": "Both suburbs have climate considerations. Oakdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Oakey has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Oakey Should I Buy?",
       "url": "/suburbs/qld/oakey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

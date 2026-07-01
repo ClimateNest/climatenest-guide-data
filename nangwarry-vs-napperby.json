@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 51
+      "scoreA": 56,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 77
+      "scoreA": 78,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 23,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 16,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Nangwarry has a lower overall climate risk score (34/100) compared to Napperby (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nangwarry has a lower overall climate risk score (37/100) compared to Napperby (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nangwarry or Napperby safer from flooding?",
-      "answer": "Nangwarry has a flood risk score of 21/100, while Napperby scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nangwarry has a flood risk score of 22/100, while Napperby scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nangwarry scores 30/100 for bushfire risk. Napperby scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nangwarry scores 56/100 for bushfire risk. Napperby scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nangwarry or Napperby?",
@@ -76,5 +76,15 @@
       "label": "Napperby Should I Buy?",
       "url": "/suburbs/sa/napperby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 56
+      "scoreA": 55,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 48
+      "scoreA": 37,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 50
+      "scoreA": 62,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 42
+      "scoreA": 30,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 37
+      "scoreA": 16,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 23
     }
   ],
-  "verdict": "Summer Hill Creek has a lower overall climate risk score (40/100) compared to Summerland Point (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Summer Hill Creek has a lower overall climate risk score (38/100) compared to Summerland Point (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Summer Hill Creek or Summerland Point safer from flooding?",
-      "answer": "Summer Hill Creek has a flood risk score of 42/100, while Summerland Point scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Summer Hill Creek has a flood risk score of 55/100, while Summerland Point scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Summer Hill Creek scores 58/100 for bushfire risk. Summerland Point scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Summer Hill Creek scores 37/100 for bushfire risk. Summerland Point scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Summer Hill Creek or Summerland Point?",
@@ -76,5 +76,15 @@
       "label": "Summerland Point Should I Buy?",
       "url": "/suburbs/nsw/summerland-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 45
+      "scoreA": 34,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 43
+      "scoreA": 64,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 79
+      "scoreA": 55,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 34
+      "scoreA": 25,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Wolseley has a lower overall climate risk score (33/100) compared to Wombats Rest (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wolseley has a lower overall climate risk score (37/100) compared to Wombats Rest (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wolseley or Wombats Rest safer from flooding?",
-      "answer": "Wolseley has a flood risk score of 40/100, while Wombats Rest scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wolseley has a flood risk score of 34/100, while Wombats Rest scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wolseley scores 22/100 for bushfire risk. Wombats Rest scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wolseley scores 64/100 for bushfire risk. Wombats Rest scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wolseley or Wombats Rest?",
@@ -76,5 +76,15 @@
       "label": "Wombats Rest Should I Buy?",
       "url": "/suburbs/sa/wombats-rest/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 45
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 55
+      "scoreA": 17,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 46,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 12,
+      "scoreB": 20
     }
   ],
-  "verdict": "Westgrove has a lower overall climate risk score (33/100) compared to Westmar (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Westgrove has a lower overall climate risk score (26/100) compared to Westmar (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Westgrove or Westmar safer from flooding?",
-      "answer": "Westgrove has a flood risk score of 31/100, while Westmar scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Westgrove has a flood risk score of 24/100, while Westmar scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Westgrove scores 44/100 for bushfire risk. Westmar scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Westgrove scores 17/100 for bushfire risk. Westmar scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Westgrove or Westmar?",
@@ -76,5 +76,15 @@
       "label": "Westmar Should I Buy?",
       "url": "/suburbs/qld/westmar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3251,
+    "projected2030": 4552,
+    "projected2050": 8453
+  },
+  "valueImpact": {
+    "dragPercent": 0.03,
+    "description": "Properties in this area may face a 0.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 27
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 18
-    },
-    {
-      "name": "Heat",
-      "scoreA": 63,
+      "scoreA": 36,
       "scoreB": 51
     },
     {
+      "name": "Bushfire",
+      "scoreA": 45,
+      "scoreB": 35
+    },
+    {
+      "name": "Heat",
+      "scoreA": 73,
+      "scoreB": 58
+    },
+    {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 33
+      "scoreA": 28,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
+      "scoreA": 16,
       "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 17
     }
   ],
-  "verdict": "Taggerty has a lower overall climate risk score (27/100) compared to Tabor (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Taggerty has a lower overall climate risk score (35/100) compared to Tabor (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tabor or Taggerty safer from flooding?",
-      "answer": "Tabor has a flood risk score of 35/100, while Taggerty scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tabor has a flood risk score of 36/100, while Taggerty scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tabor scores 32/100 for bushfire risk. Taggerty scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tabor scores 45/100 for bushfire risk. Taggerty scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tabor or Taggerty?",
@@ -76,5 +76,15 @@
       "label": "Taggerty Should I Buy?",
       "url": "/suburbs/vic/taggerty/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

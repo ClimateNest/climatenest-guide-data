@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 54
+      "scoreA": 28,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 35
-    },
-    {
-      "name": "Heat",
-      "scoreA": 34,
+      "scoreA": 58,
       "scoreB": 51
     },
     {
+      "name": "Heat",
+      "scoreA": 32,
+      "scoreB": 60
+    },
+    {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 36
+      "scoreA": 38,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 15
     }
   ],
-  "verdict": "Kingsford has a lower overall climate risk score (26/100) compared to Kingston (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kingsford has a lower overall climate risk score (30/100) compared to Kingston (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kingsford or Kingston safer from flooding?",
-      "answer": "Kingsford has a flood risk score of 43/100, while Kingston scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kingsford has a flood risk score of 28/100, while Kingston scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kingsford scores 17/100 for bushfire risk. Kingston scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kingsford scores 58/100 for bushfire risk. Kingston scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kingsford or Kingston?",
@@ -76,5 +76,15 @@
       "label": "Kingston Should I Buy?",
       "url": "/suburbs/wa/kingston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

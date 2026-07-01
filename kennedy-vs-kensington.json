@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 44
+      "scoreA": 57,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 32
+      "scoreA": 21,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 54
+      "scoreA": 26,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 8,
+      "scoreB": 15
     }
   ],
-  "verdict": "Kensington has a lower overall climate risk score (34/100) compared to Kennedy (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kennedy has a lower overall climate risk score (29/100) compared to Kensington (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kennedy or Kensington safer from flooding?",
-      "answer": "Kennedy has a flood risk score of 53/100, while Kensington scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kennedy has a flood risk score of 57/100, while Kensington scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kennedy scores 60/100 for bushfire risk. Kensington scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kennedy scores 21/100 for bushfire risk. Kensington scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kennedy or Kensington?",
-      "answer": "Both suburbs have climate considerations. Kensington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kennedy has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kensington Should I Buy?",
       "url": "/suburbs/qld/kensington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

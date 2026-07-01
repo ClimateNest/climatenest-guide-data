@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 32
+      "scoreA": 42,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 44
+      "scoreA": 16,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 67
+      "scoreA": 69,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 30
+      "scoreA": 46,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 13
     }
   ],
-  "verdict": "Boundain has a lower overall climate risk score (36/100) compared to Boscabel (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boundain has a lower overall climate risk score (31/100) compared to Boscabel (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boscabel or Boundain safer from flooding?",
-      "answer": "Boscabel has a flood risk score of 48/100, while Boundain scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boscabel has a flood risk score of 42/100, while Boundain scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boscabel scores 64/100 for bushfire risk. Boundain scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boscabel scores 16/100 for bushfire risk. Boundain scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boscabel or Boundain?",
@@ -76,5 +76,15 @@
       "label": "Boundain Should I Buy?",
       "url": "/suburbs/wa/boundain/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

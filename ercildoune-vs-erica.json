@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 36
+      "scoreA": 60,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 73
+      "scoreA": 74,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 45
+      "scoreA": 36,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 10
+      "scoreA": 19,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Erica has a lower overall climate risk score (33/100) compared to Ercildoune (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Ercildoune has a lower overall climate risk score (40/100) compared to Erica (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ercildoune or Erica safer from flooding?",
-      "answer": "Ercildoune has a flood risk score of 56/100, while Erica scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ercildoune has a flood risk score of 60/100, while Erica scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ercildoune scores 36/100 for bushfire risk. Erica scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ercildoune scores 22/100 for bushfire risk. Erica scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ercildoune or Erica?",
-      "answer": "Both suburbs have climate considerations. Erica has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ercildoune has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Erica Should I Buy?",
       "url": "/suburbs/vic/erica/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

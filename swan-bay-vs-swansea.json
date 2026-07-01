@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 40
+      "scoreA": 25,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 46
+      "scoreA": 53,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 60
+      "scoreA": 60,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 47
+      "scoreA": 33,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 22
+      "scoreA": 15,
+      "scoreB": 23
     }
   ],
-  "verdict": "Swansea has a lower overall climate risk score (38/100) compared to Swan Bay (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Swan Bay has a lower overall climate risk score (33/100) compared to Swansea (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Swan Bay or Swansea safer from flooding?",
-      "answer": "Swan Bay has a flood risk score of 58/100, while Swansea scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Swan Bay has a flood risk score of 25/100, while Swansea scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Swan Bay scores 59/100 for bushfire risk. Swansea scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Swan Bay scores 53/100 for bushfire risk. Swansea scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Swan Bay or Swansea?",
-      "answer": "Both suburbs have climate considerations. Swansea has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Swan Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Swansea Should I Buy?",
       "url": "/suburbs/tas/swansea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 22,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 25
+      "scoreA": 35,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 46
+      "scoreA": 31,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 24
+      "scoreA": 50,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 49
+      "scoreA": 54,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 16
+      "scoreA": 30,
+      "scoreB": 19
     }
   ],
-  "verdict": "Warialda Rail has a lower overall climate risk score (30/100) compared to Warialda (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warialda Rail has a lower overall climate risk score (33/100) compared to Warialda (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warialda or Warialda Rail safer from flooding?",
-      "answer": "Warialda has a flood risk score of 30/100, while Warialda Rail scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warialda has a flood risk score of 22/100, while Warialda Rail scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warialda scores 32/100 for bushfire risk. Warialda Rail scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warialda scores 35/100 for bushfire risk. Warialda Rail scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warialda or Warialda Rail?",
@@ -76,5 +76,15 @@
       "label": "Warialda Rail Should I Buy?",
       "url": "/suburbs/nsw/warialda-rail/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

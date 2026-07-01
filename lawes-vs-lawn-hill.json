@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
+      "scoreA": 20,
       "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 47
+      "scoreA": 49,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 35
+      "scoreA": 20,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 11
+      "scoreA": 33,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Lawn Hill has a lower overall climate risk score (28/100) compared to Lawes (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lawes has a lower overall climate risk score (26/100) compared to Lawn Hill (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lawes or Lawn Hill safer from flooding?",
-      "answer": "Lawes has a flood risk score of 58/100, while Lawn Hill scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lawes has a flood risk score of 20/100, while Lawn Hill scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lawes scores 24/100 for bushfire risk. Lawn Hill scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lawes scores 16/100 for bushfire risk. Lawn Hill scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lawes or Lawn Hill?",
-      "answer": "Both suburbs have climate considerations. Lawn Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lawes has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lawn Hill Should I Buy?",
       "url": "/suburbs/qld/lawn-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3138,
+    "projected2030": 4393,
+    "projected2050": 8159
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

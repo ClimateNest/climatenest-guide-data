@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 51
+      "scoreA": 15,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 64
+      "scoreA": 70,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
       "scoreA": 17,
-      "scoreB": 30
+      "scoreB": 23
     }
   ],
-  "verdict": "Condingup has a lower overall climate risk score (38/100) compared to Como (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Como has a lower overall climate risk score (30/100) compared to Condingup (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Como or Condingup safer from flooding?",
-      "answer": "Como has a flood risk score of 44/100, while Condingup scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Como has a flood risk score of 30/100, while Condingup scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Como scores 33/100 for bushfire risk. Condingup scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Como scores 15/100 for bushfire risk. Condingup scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Como or Condingup?",
-      "answer": "Both suburbs have climate considerations. Condingup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Como has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Condingup Should I Buy?",
       "url": "/suburbs/wa/condingup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

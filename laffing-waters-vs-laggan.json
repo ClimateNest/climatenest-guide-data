@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 35
+      "scoreA": 40,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 60
-    },
-    {
-      "name": "Heat",
-      "scoreA": 76,
+      "scoreA": 50,
       "scoreB": 55
     },
     {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 53
+    },
+    {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 32,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 12
     }
   ],
-  "verdict": "Laggan has a lower overall climate risk score (35/100) compared to Laffing Waters (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Laggan has a lower overall climate risk score (34/100) compared to Laffing Waters (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Laffing Waters or Laggan safer from flooding?",
-      "answer": "Laffing Waters has a flood risk score of 48/100, while Laggan scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Laffing Waters has a flood risk score of 40/100, while Laggan scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Laffing Waters scores 39/100 for bushfire risk. Laggan scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Laffing Waters scores 50/100 for bushfire risk. Laggan scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Laffing Waters or Laggan?",
@@ -76,5 +76,15 @@
       "label": "Laggan Should I Buy?",
       "url": "/suburbs/nsw/laggan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

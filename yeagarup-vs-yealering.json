@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 50
+      "scoreA": 40,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 63
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 56
+      "scoreA": 56,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 35
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 25,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 14
     }
   ],
-  "verdict": "Yeagarup has a lower overall climate risk score (42/100) compared to Yealering (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Yeagarup has a lower overall climate risk score (38/100) compared to Yealering (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yeagarup or Yealering safer from flooding?",
-      "answer": "Yeagarup has a flood risk score of 45/100, while Yealering scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yeagarup has a flood risk score of 40/100, while Yealering scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yeagarup scores 57/100 for bushfire risk. Yealering scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yeagarup scores 46/100 for bushfire risk. Yealering scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yeagarup or Yealering?",
@@ -76,5 +76,15 @@
       "label": "Yealering Should I Buy?",
       "url": "/suburbs/wa/yealering/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 34
+      "scoreA": 56,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 36
+      "scoreA": 37,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 64
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 42,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Nanga Brook has a lower overall climate risk score (40/100) compared to Nanarup (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nanga Brook has a lower overall climate risk score (33/100) compared to Nanarup (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nanarup or Nanga Brook safer from flooding?",
-      "answer": "Nanarup has a flood risk score of 31/100, while Nanga Brook scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nanarup has a flood risk score of 56/100, while Nanga Brook scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nanarup scores 43/100 for bushfire risk. Nanga Brook scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nanarup scores 37/100 for bushfire risk. Nanga Brook scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nanarup or Nanga Brook?",
@@ -76,5 +76,15 @@
       "label": "Nanga Brook Should I Buy?",
       "url": "/suburbs/wa/nanga-brook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

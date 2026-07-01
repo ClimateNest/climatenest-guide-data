@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 31
+      "scoreA": 54,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 35
+      "scoreA": 52,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 29
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 39,
       "scoreB": 48
     },
     {
+      "name": "Coastal",
+      "scoreA": 26,
+      "scoreB": 57
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 14,
       "scoreB": 12
     }
   ],
-  "verdict": "Furracabad has a lower overall climate risk score (33/100) compared to Fullerton (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Fullerton has a lower overall climate risk score (36/100) compared to Furracabad (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fullerton or Furracabad safer from flooding?",
-      "answer": "Fullerton has a flood risk score of 22/100, while Furracabad scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fullerton has a flood risk score of 54/100, while Furracabad scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fullerton scores 49/100 for bushfire risk. Furracabad scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fullerton scores 33/100 for bushfire risk. Furracabad scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fullerton or Furracabad?",
-      "answer": "Both suburbs have climate considerations. Furracabad has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Fullerton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Furracabad Should I Buy?",
       "url": "/suburbs/nsw/furracabad/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

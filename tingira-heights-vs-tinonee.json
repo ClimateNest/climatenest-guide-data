@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 29
+      "scoreA": 57,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 20
+      "scoreA": 52,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 51
+      "scoreA": 75,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 50
+      "scoreA": 24,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 36
+      "scoreA": 35,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 26
     }
   ],
-  "verdict": "Tinonee has a lower overall climate risk score (34/100) compared to Tingira Heights (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tinonee has a lower overall climate risk score (42/100) compared to Tingira Heights (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tingira Heights or Tinonee safer from flooding?",
-      "answer": "Tingira Heights has a flood risk score of 60/100, while Tinonee scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tingira Heights has a flood risk score of 57/100, while Tinonee scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tingira Heights scores 59/100 for bushfire risk. Tinonee scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tingira Heights scores 52/100 for bushfire risk. Tinonee scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tingira Heights or Tinonee?",
@@ -76,5 +76,15 @@
       "label": "Tinonee Should I Buy?",
       "url": "/suburbs/nsw/tinonee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 26,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 62
+      "scoreA": 46,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 57
+      "scoreA": 37,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 23,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 14
+      "scoreA": 29,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 21
     }
   ],
-  "verdict": "Isseka has a lower overall climate risk score (36/100) compared to Jacup (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Isseka has a lower overall climate risk score (32/100) compared to Jacup (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Isseka or Jacup safer from flooding?",
-      "answer": "Isseka has a flood risk score of 45/100, while Jacup scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Isseka has a flood risk score of 26/100, while Jacup scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Isseka scores 44/100 for bushfire risk. Jacup scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Isseka scores 46/100 for bushfire risk. Jacup scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Isseka or Jacup?",
@@ -76,5 +76,15 @@
       "label": "Jacup Should I Buy?",
       "url": "/suburbs/wa/jacup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

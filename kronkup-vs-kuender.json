@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 58,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 49
+      "scoreA": 57,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 74
+      "scoreA": 62,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 36
+      "scoreA": 31,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
       "scoreA": 23,
-      "scoreB": 24
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 26
     }
   ],
-  "verdict": "Kuender has a lower overall climate risk score (40/100) compared to Kronkup (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kronkup has a lower overall climate risk score (40/100) compared to Kuender (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Kronkup or Kuender safer from flooding?",
-      "answer": "Kronkup has a flood risk score of 35/100, while Kuender scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kronkup has a flood risk score of 58/100, while Kuender scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kronkup scores 56/100 for bushfire risk. Kuender scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kronkup scores 57/100 for bushfire risk. Kuender scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kronkup or Kuender?",
-      "answer": "Both suburbs have climate considerations. Kuender has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kronkup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kuender Should I Buy?",
       "url": "/suburbs/wa/kuender/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

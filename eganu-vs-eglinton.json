@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 69
+      "scoreA": 73,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 34,
       "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 12
+      "scoreA": 11,
+      "scoreB": 11
     }
   ],
-  "verdict": "Eglinton has a lower overall climate risk score (36/100) compared to Eganu (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eglinton has a lower overall climate risk score (32/100) compared to Eganu (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eganu or Eglinton safer from flooding?",
-      "answer": "Eganu has a flood risk score of 47/100, while Eglinton scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eganu has a flood risk score of 26/100, while Eglinton scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eganu scores 58/100 for bushfire risk. Eglinton scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eganu scores 29/100 for bushfire risk. Eglinton scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eganu or Eglinton?",
@@ -76,5 +76,15 @@
       "label": "Eglinton Should I Buy?",
       "url": "/suburbs/wa/eglinton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

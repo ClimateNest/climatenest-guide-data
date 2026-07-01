@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 47
+      "scoreA": 45,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 63
+      "scoreA": 59,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 62
+      "scoreA": 75,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 39
+      "scoreA": 23,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Rocky Plain has a lower overall climate risk score (39/100) compared to Rocky Point (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rocky Point has a lower overall climate risk score (38/100) compared to Rocky Plain (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rocky Plain or Rocky Point safer from flooding?",
-      "answer": "Rocky Plain has a flood risk score of 58/100, while Rocky Point scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rocky Plain has a flood risk score of 45/100, while Rocky Point scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rocky Plain scores 42/100 for bushfire risk. Rocky Point scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rocky Plain scores 59/100 for bushfire risk. Rocky Point scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rocky Plain or Rocky Point?",
-      "answer": "Both suburbs have climate considerations. Rocky Plain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rocky Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rocky Point Should I Buy?",
       "url": "/suburbs/sa/rocky-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

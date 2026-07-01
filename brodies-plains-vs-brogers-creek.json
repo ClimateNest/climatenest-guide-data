@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 56
+      "scoreA": 54,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 17
+      "scoreA": 43,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 65
+      "scoreA": 41,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 59
+      "scoreA": 31,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 30
     }
   ],
-  "verdict": "Brodies Plains has a lower overall climate risk score (35/100) compared to Brogers Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Brodies Plains has a lower overall climate risk score (34/100) compared to Brogers Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Brodies Plains or Brogers Creek safer from flooding?",
-      "answer": "Brodies Plains has a flood risk score of 45/100, while Brogers Creek scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brodies Plains has a flood risk score of 54/100, while Brogers Creek scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brodies Plains scores 24/100 for bushfire risk. Brogers Creek scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brodies Plains scores 43/100 for bushfire risk. Brogers Creek scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brodies Plains or Brogers Creek?",
@@ -76,5 +76,15 @@
       "label": "Brogers Creek Should I Buy?",
       "url": "/suburbs/nsw/brogers-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

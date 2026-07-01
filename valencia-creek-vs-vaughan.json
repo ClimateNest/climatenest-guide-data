@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 46
+      "scoreA": 33,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 76
+      "scoreA": 58,
+      "scoreB": 79
     },
     {
       "name": "Storm",
       "scoreA": 29,
-      "scoreB": 34
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 18
     }
   ],
-  "verdict": "Valencia Creek has a lower overall climate risk score (36/100) compared to Vaughan (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Valencia Creek has a lower overall climate risk score (34/100) compared to Vaughan (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Valencia Creek or Vaughan safer from flooding?",
-      "answer": "Valencia Creek has a flood risk score of 47/100, while Vaughan scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Valencia Creek has a flood risk score of 33/100, while Vaughan scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Valencia Creek scores 27/100 for bushfire risk. Vaughan scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Valencia Creek scores 33/100 for bushfire risk. Vaughan scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Valencia Creek or Vaughan?",
@@ -76,5 +76,15 @@
       "label": "Vaughan Should I Buy?",
       "url": "/suburbs/vic/vaughan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

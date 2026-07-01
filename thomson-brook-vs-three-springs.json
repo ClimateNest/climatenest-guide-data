@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 21
+      "scoreA": 55,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 42
-    },
-    {
-      "name": "Storm",
-      "scoreA": 22,
+      "scoreA": 58,
       "scoreB": 21
     },
     {
+      "name": "Heat",
+      "scoreA": 56,
+      "scoreB": 35
+    },
+    {
+      "name": "Storm",
+      "scoreA": 47,
+      "scoreB": 23
+    },
+    {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 29,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 14
+      "scoreA": 17,
+      "scoreB": 24
     }
   ],
-  "verdict": "Three Springs has a lower overall climate risk score (27/100) compared to Thomson Brook (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Three Springs has a lower overall climate risk score (23/100) compared to Thomson Brook (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Thomson Brook or Three Springs safer from flooding?",
-      "answer": "Thomson Brook has a flood risk score of 32/100, while Three Springs scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Thomson Brook has a flood risk score of 55/100, while Three Springs scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Thomson Brook scores 46/100 for bushfire risk. Three Springs scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Thomson Brook scores 58/100 for bushfire risk. Three Springs scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Thomson Brook or Three Springs?",
@@ -76,5 +76,15 @@
       "label": "Three Springs Should I Buy?",
       "url": "/suburbs/wa/three-springs/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

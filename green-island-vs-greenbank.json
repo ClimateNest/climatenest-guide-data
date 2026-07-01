@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 25
+      "scoreA": 35,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 40
+      "scoreA": 44,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 30
+      "scoreA": 32,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 49,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 40
+      "scoreA": 25,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 10,
+      "scoreB": 13
     }
   ],
-  "verdict": "Greenbank has a lower overall climate risk score (31/100) compared to Green Island (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Greenbank has a lower overall climate risk score (32/100) compared to Green Island (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Green Island or Greenbank safer from flooding?",
-      "answer": "Green Island has a flood risk score of 52/100, while Greenbank scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Green Island has a flood risk score of 35/100, while Greenbank scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Green Island scores 65/100 for bushfire risk. Greenbank scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Green Island scores 44/100 for bushfire risk. Greenbank scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Green Island or Greenbank?",
@@ -76,5 +76,15 @@
       "label": "Greenbank Should I Buy?",
       "url": "/suburbs/qld/greenbank/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 37,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 68
+      "scoreA": 62,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 43,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 33
+      "scoreA": 19,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
       "scoreA": 11,
-      "scoreB": 22
+      "scoreB": 20
     }
   ],
-  "verdict": "Tarriaro has a lower overall climate risk score (37/100) compared to Tarro (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tarriaro has a lower overall climate risk score (36/100) compared to Tarro (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tarriaro or Tarro safer from flooding?",
-      "answer": "Tarriaro has a flood risk score of 31/100, while Tarro scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarriaro has a flood risk score of 37/100, while Tarro scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarriaro scores 61/100 for bushfire risk. Tarro scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarriaro scores 43/100 for bushfire risk. Tarro scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarriaro or Tarro?",
@@ -76,5 +76,15 @@
       "label": "Tarro Should I Buy?",
       "url": "/suburbs/nsw/tarro/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

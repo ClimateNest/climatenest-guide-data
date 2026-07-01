@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 55
+      "scoreA": 56,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 46
+      "scoreA": 18,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 63
+      "scoreA": 51,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 11
+      "scoreA": 12,
+      "scoreB": 22
     }
   ],
-  "verdict": "Malbina has a lower overall climate risk score (38/100) compared to Macquarie Plains (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Macquarie Plains has a lower overall climate risk score (31/100) compared to Malbina (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Macquarie Plains or Malbina safer from flooding?",
-      "answer": "Macquarie Plains has a flood risk score of 45/100, while Malbina scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Macquarie Plains has a flood risk score of 56/100, while Malbina scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Macquarie Plains scores 26/100 for bushfire risk. Malbina scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Macquarie Plains scores 18/100 for bushfire risk. Malbina scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Macquarie Plains or Malbina?",
-      "answer": "Both suburbs have climate considerations. Malbina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Macquarie Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Malbina Should I Buy?",
       "url": "/suburbs/tas/malbina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

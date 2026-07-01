@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 34,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 67
+      "scoreA": 79,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 50
+      "scoreA": 27,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 47
+      "scoreA": 59,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
       "scoreA": 14,
-      "scoreB": 21
+      "scoreB": 13
     }
   ],
-  "verdict": "Bundabah has a lower overall climate risk score (34/100) compared to Bundagen (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bundagen has a lower overall climate risk score (36/100) compared to Bundabah (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bundabah or Bundagen safer from flooding?",
-      "answer": "Bundabah has a flood risk score of 25/100, while Bundagen scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bundabah has a flood risk score of 48/100, while Bundagen scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bundabah scores 24/100 for bushfire risk. Bundagen scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bundabah scores 34/100 for bushfire risk. Bundagen scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bundabah or Bundagen?",
-      "answer": "Both suburbs have climate considerations. Bundabah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bundagen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bundagen Should I Buy?",
       "url": "/suburbs/nsw/bundagen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

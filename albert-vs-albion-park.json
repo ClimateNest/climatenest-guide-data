@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 39,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 58
+      "scoreA": 28,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 59
+      "scoreA": 65,
+      "scoreB": 51
     },
     {
       "name": "Storm",
       "scoreA": 28,
-      "scoreB": 23
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 39
+      "scoreA": 10,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
+      "scoreA": 12,
       "scoreB": 11
     }
   ],
-  "verdict": "Albion Park has a lower overall climate risk score (35/100) compared to Albert (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Albert has a lower overall climate risk score (30/100) compared to Albion Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Albert or Albion Park safer from flooding?",
-      "answer": "Albert has a flood risk score of 30/100, while Albion Park scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Albert has a flood risk score of 39/100, while Albion Park scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Albert scores 46/100 for bushfire risk. Albion Park scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Albert scores 28/100 for bushfire risk. Albion Park scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Albert or Albion Park?",
-      "answer": "Both suburbs have climate considerations. Albion Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Albert has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Albion Park Should I Buy?",
       "url": "/suburbs/nsw/albion-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

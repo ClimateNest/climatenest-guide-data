@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 27
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 42
-    },
-    {
-      "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 41
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 41,
+      "scoreA": 21,
       "scoreB": 49
     },
     {
+      "name": "Bushfire",
+      "scoreA": 30,
+      "scoreB": 26
+    },
+    {
+      "name": "Heat",
+      "scoreA": 45,
+      "scoreB": 40
+    },
+    {
+      "name": "Storm",
+      "scoreA": 47,
+      "scoreB": 32
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 39,
+      "scoreB": 50
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 20
     }
   ],
-  "verdict": "Bulwer has a lower overall climate risk score (30/100) compared to Bunburra (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bulwer has a lower overall climate risk score (35/100) compared to Bunburra (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bulwer or Bunburra safer from flooding?",
-      "answer": "Bulwer has a flood risk score of 42/100, while Bunburra scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bulwer has a flood risk score of 21/100, while Bunburra scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bulwer scores 23/100 for bushfire risk. Bunburra scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bulwer scores 30/100 for bushfire risk. Bunburra scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bulwer or Bunburra?",
@@ -76,5 +76,15 @@
       "label": "Bunburra Should I Buy?",
       "url": "/suburbs/qld/bunburra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 22
+      "scoreA": 22,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 46,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 69
+      "scoreA": 69,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 27,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 11,
+      "scoreB": 13
     }
   ],
-  "verdict": "Moonee Ponds has a lower overall climate risk score (34/100) compared to Moonambel (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moonee Ponds has a lower overall climate risk score (33/100) compared to Moonambel (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moonambel or Moonee Ponds safer from flooding?",
-      "answer": "Moonambel has a flood risk score of 55/100, while Moonee Ponds scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moonambel has a flood risk score of 22/100, while Moonee Ponds scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moonambel scores 30/100 for bushfire risk. Moonee Ponds scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moonambel scores 46/100 for bushfire risk. Moonee Ponds scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moonambel or Moonee Ponds?",
@@ -76,5 +76,15 @@
       "label": "Moonee Ponds Should I Buy?",
       "url": "/suburbs/vic/moonee-ponds/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

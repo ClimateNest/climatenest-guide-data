@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 50
+      "scoreA": 44,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 57
+      "scoreA": 54,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 40
+      "scoreA": 31,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 41
+      "scoreA": 46,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 56
+      "scoreA": 41,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 12,
+      "scoreB": 24
     }
   ],
-  "verdict": "Point Arkwright has a lower overall climate risk score (39/100) compared to Point Lookout (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Point Arkwright has a lower overall climate risk score (38/100) compared to Point Lookout (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Point Arkwright or Point Lookout safer from flooding?",
-      "answer": "Point Arkwright has a flood risk score of 58/100, while Point Lookout scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Point Arkwright has a flood risk score of 44/100, while Point Lookout scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Point Arkwright scores 48/100 for bushfire risk. Point Lookout scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Point Arkwright scores 54/100 for bushfire risk. Point Lookout scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Point Arkwright or Point Lookout?",
@@ -76,5 +76,15 @@
       "label": "Point Lookout Should I Buy?",
       "url": "/suburbs/qld/point-lookout/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

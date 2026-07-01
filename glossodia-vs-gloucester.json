@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 35
+      "scoreA": 53,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 19
+      "scoreA": 53,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 60
+      "scoreA": 65,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 33
+      "scoreA": 34,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 57
+      "scoreA": 41,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 30
+      "scoreA": 19,
+      "scoreB": 12
     }
   ],
-  "verdict": "Gloucester has a lower overall climate risk score (39/100) compared to Glossodia (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gloucester has a lower overall climate risk score (40/100) compared to Glossodia (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glossodia or Gloucester safer from flooding?",
-      "answer": "Glossodia has a flood risk score of 50/100, while Gloucester scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glossodia has a flood risk score of 53/100, while Gloucester scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glossodia scores 52/100 for bushfire risk. Gloucester scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glossodia scores 53/100 for bushfire risk. Gloucester scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glossodia or Gloucester?",
@@ -76,5 +76,15 @@
       "label": "Gloucester Should I Buy?",
       "url": "/suburbs/nsw/gloucester/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

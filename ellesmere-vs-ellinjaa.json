@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 52
+      "scoreA": 22,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
+      "scoreA": 22,
       "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 37,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 44,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 14
+      "scoreA": 51,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 8
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Ellinjaa has a lower overall climate risk score (26/100) compared to Ellesmere (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ellinjaa has a lower overall climate risk score (29/100) compared to Ellesmere (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ellesmere or Ellinjaa safer from flooding?",
-      "answer": "Ellesmere has a flood risk score of 56/100, while Ellinjaa scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ellesmere has a flood risk score of 22/100, while Ellinjaa scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ellesmere scores 29/100 for bushfire risk. Ellinjaa scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ellesmere scores 22/100 for bushfire risk. Ellinjaa scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ellesmere or Ellinjaa?",
@@ -76,5 +76,15 @@
       "label": "Ellinjaa Should I Buy?",
       "url": "/suburbs/qld/ellinjaa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

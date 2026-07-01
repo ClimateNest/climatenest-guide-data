@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 55
+      "scoreA": 24,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 33
+      "scoreA": 19,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 64
+      "scoreA": 58,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 24,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 27,
+      "scoreB": 11
     }
   ],
-  "verdict": "Croydon Park has a lower overall climate risk score (36/100) compared to Cudlee Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Croydon Park has a lower overall climate risk score (29/100) compared to Cudlee Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Croydon Park or Cudlee Creek safer from flooding?",
-      "answer": "Croydon Park has a flood risk score of 25/100, while Cudlee Creek scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Croydon Park has a flood risk score of 24/100, while Cudlee Creek scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Croydon Park scores 38/100 for bushfire risk. Cudlee Creek scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Croydon Park scores 19/100 for bushfire risk. Cudlee Creek scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Croydon Park or Cudlee Creek?",
@@ -76,5 +76,15 @@
       "label": "Cudlee Creek Should I Buy?",
       "url": "/suburbs/sa/cudlee-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

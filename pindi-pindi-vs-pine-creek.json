@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 55
+      "scoreA": 52,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 29,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 39,
+      "scoreA": 43,
       "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 43,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 52
+      "scoreA": 17,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 11
+      "scoreA": 5,
+      "scoreB": 19
     }
   ],
   "verdict": "Pindi Pindi has a lower overall climate risk score (32/100) compared to Pine Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Pindi Pindi or Pine Creek safer from flooding?",
-      "answer": "Pindi Pindi has a flood risk score of 33/100, while Pine Creek scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pindi Pindi has a flood risk score of 52/100, while Pine Creek scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pindi Pindi scores 42/100 for bushfire risk. Pine Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pindi Pindi scores 29/100 for bushfire risk. Pine Creek scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pindi Pindi or Pine Creek?",
@@ -76,5 +76,15 @@
       "label": "Pine Creek Should I Buy?",
       "url": "/suburbs/qld/pine-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 57,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 35
+      "scoreA": 20,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 46
+      "scoreA": 51,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 44
+      "scoreA": 29,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 26
+      "scoreA": 11,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 16
+      "scoreA": 23,
+      "scoreB": 18
     }
   ],
-  "verdict": "Kojarena has a lower overall climate risk score (36/100) compared to Kojaneerup South (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kojarena has a lower overall climate risk score (30/100) compared to Kojaneerup South (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kojaneerup South or Kojarena safer from flooding?",
-      "answer": "Kojaneerup South has a flood risk score of 25/100, while Kojarena scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kojaneerup South has a flood risk score of 57/100, while Kojarena scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kojaneerup South scores 60/100 for bushfire risk. Kojarena scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kojaneerup South scores 20/100 for bushfire risk. Kojarena scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kojaneerup South or Kojarena?",
@@ -76,5 +76,15 @@
       "label": "Kojarena Should I Buy?",
       "url": "/suburbs/wa/kojarena/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

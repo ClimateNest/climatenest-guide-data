@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 50
+      "scoreA": 48,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 60
+      "scoreA": 27,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 42,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 8,
+      "scoreB": 17
     }
   ],
-  "verdict": "Coconut Grove has a lower overall climate risk score (27/100) compared to Connellan (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coconut Grove has a lower overall climate risk score (29/100) compared to Connellan (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coconut Grove or Connellan safer from flooding?",
-      "answer": "Coconut Grove has a flood risk score of 20/100, while Connellan scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coconut Grove has a flood risk score of 48/100, while Connellan scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coconut Grove scores 33/100 for bushfire risk. Connellan scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coconut Grove scores 27/100 for bushfire risk. Connellan scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coconut Grove or Connellan?",
@@ -76,5 +76,15 @@
       "label": "Connellan Should I Buy?",
       "url": "/suburbs/nt/connellan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3206,
+    "projected2030": 4488,
+    "projected2050": 8336
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

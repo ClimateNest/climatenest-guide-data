@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 26,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 32
+      "scoreA": 37,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 25
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
       "scoreA": 58,
-      "scoreB": 57
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 13
     }
   ],
-  "verdict": "Josephville has a lower overall climate risk score (35/100) compared to Jones Gully (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Josephville has a lower overall climate risk score (35/100) compared to Jones Gully (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jones Gully or Josephville safer from flooding?",
-      "answer": "Jones Gully has a flood risk score of 39/100, while Josephville scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jones Gully has a flood risk score of 47/100, while Josephville scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jones Gully scores 21/100 for bushfire risk. Josephville scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jones Gully scores 26/100 for bushfire risk. Josephville scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jones Gully or Josephville?",
@@ -76,5 +76,15 @@
       "label": "Josephville Should I Buy?",
       "url": "/suburbs/qld/josephville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

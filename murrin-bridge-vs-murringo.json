@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 45
+      "scoreA": 51,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 26
+      "scoreA": 46,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 67
+      "scoreA": 52,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 36
+      "scoreA": 47,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
       "scoreA": 11,
-      "scoreB": 24
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Murringo has a lower overall climate risk score (38/100) compared to Murrin Bridge (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Murringo has a lower overall climate risk score (37/100) compared to Murrin Bridge (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Murrin Bridge or Murringo safer from flooding?",
-      "answer": "Murrin Bridge has a flood risk score of 28/100, while Murringo scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Murrin Bridge has a flood risk score of 51/100, while Murringo scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Murrin Bridge scores 64/100 for bushfire risk. Murringo scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Murrin Bridge scores 46/100 for bushfire risk. Murringo scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Murrin Bridge or Murringo?",
@@ -76,5 +76,15 @@
       "label": "Murringo Should I Buy?",
       "url": "/suburbs/nsw/murringo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

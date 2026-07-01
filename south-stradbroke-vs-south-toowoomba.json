@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 25
+      "scoreA": 59,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 25
+      "scoreA": 57,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 46,
+      "scoreA": 33,
       "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 32
+      "scoreA": 21,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
+      "scoreA": 52,
       "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 26
     }
   ],
-  "verdict": "South Toowoomba has a lower overall climate risk score (29/100) compared to South Stradbroke (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "South Toowoomba has a lower overall climate risk score (33/100) compared to South Stradbroke (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is South Stradbroke or South Toowoomba safer from flooding?",
-      "answer": "South Stradbroke has a flood risk score of 23/100, while South Toowoomba scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Stradbroke has a flood risk score of 59/100, while South Toowoomba scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Stradbroke scores 36/100 for bushfire risk. South Toowoomba scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Stradbroke scores 57/100 for bushfire risk. South Toowoomba scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Stradbroke or South Toowoomba?",
@@ -76,5 +76,15 @@
       "label": "South Toowoomba Should I Buy?",
       "url": "/suburbs/qld/south-toowoomba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

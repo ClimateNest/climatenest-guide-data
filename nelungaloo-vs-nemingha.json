@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 37
+      "scoreA": 26,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 26
+      "scoreA": 62,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 61
+      "scoreA": 66,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 43
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 54
+      "scoreA": 10,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 16
     }
   ],
-  "verdict": "Nelungaloo has a lower overall climate risk score (41/100) compared to Nemingha (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Nelungaloo has a lower overall climate risk score (36/100) compared to Nemingha (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nelungaloo or Nemingha safer from flooding?",
-      "answer": "Nelungaloo has a flood risk score of 50/100, while Nemingha scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nelungaloo has a flood risk score of 26/100, while Nemingha scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nelungaloo scores 53/100 for bushfire risk. Nemingha scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nelungaloo scores 62/100 for bushfire risk. Nemingha scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nelungaloo or Nemingha?",
@@ -76,5 +76,15 @@
       "label": "Nemingha Should I Buy?",
       "url": "/suburbs/nsw/nemingha/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

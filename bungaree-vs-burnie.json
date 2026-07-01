@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 28
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 16
-    },
-    {
-      "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 58
-    },
-    {
-      "name": "Storm",
-      "scoreA": 50,
+      "scoreA": 31,
       "scoreB": 41
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 48
+    },
+    {
+      "name": "Heat",
+      "scoreA": 79,
+      "scoreB": 74
+    },
+    {
+      "name": "Storm",
+      "scoreA": 27,
+      "scoreB": 33
+    },
+    {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 29
+      "scoreA": 27,
+      "scoreB": 24
     }
   ],
-  "verdict": "Burnie has a lower overall climate risk score (31/100) compared to Bungaree (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bungaree has a lower overall climate risk score (35/100) compared to Burnie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bungaree or Burnie safer from flooding?",
-      "answer": "Bungaree has a flood risk score of 54/100, while Burnie scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bungaree has a flood risk score of 31/100, while Burnie scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bungaree scores 47/100 for bushfire risk. Burnie scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bungaree scores 28/100 for bushfire risk. Burnie scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bungaree or Burnie?",
-      "answer": "Both suburbs have climate considerations. Burnie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bungaree has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Burnie Should I Buy?",
       "url": "/suburbs/tas/burnie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

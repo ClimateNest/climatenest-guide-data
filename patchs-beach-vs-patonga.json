@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 45
+      "scoreA": 58,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 35,
+      "scoreA": 37,
       "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 22
+      "scoreA": 33,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 56,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 16
     }
   ],
-  "verdict": "Patonga has a lower overall climate risk score (39/100) compared to Patchs Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Patonga has a lower overall climate risk score (42/100) compared to Patchs Beach (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Patchs Beach or Patonga safer from flooding?",
-      "answer": "Patchs Beach has a flood risk score of 57/100, while Patonga scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Patchs Beach has a flood risk score of 58/100, while Patonga scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Patchs Beach scores 53/100 for bushfire risk. Patonga scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Patchs Beach scores 42/100 for bushfire risk. Patonga scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Patchs Beach or Patonga?",
@@ -76,5 +76,15 @@
       "label": "Patonga Should I Buy?",
       "url": "/suburbs/nsw/patonga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

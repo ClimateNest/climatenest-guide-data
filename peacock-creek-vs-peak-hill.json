@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 57
+      "scoreA": 30,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 76
+      "scoreA": 45,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 19
+      "scoreA": 36,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 30
     }
   ],
-  "verdict": "Peacock Creek has a lower overall climate risk score (33/100) compared to Peak Hill (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Peacock Creek has a lower overall climate risk score (34/100) compared to Peak Hill (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Peacock Creek or Peak Hill safer from flooding?",
-      "answer": "Peacock Creek has a flood risk score of 30/100, while Peak Hill scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Peacock Creek has a flood risk score of 40/100, while Peak Hill scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Peacock Creek scores 26/100 for bushfire risk. Peak Hill scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Peacock Creek scores 30/100 for bushfire risk. Peak Hill scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Peacock Creek or Peak Hill?",
@@ -76,5 +76,15 @@
       "label": "Peak Hill Should I Buy?",
       "url": "/suburbs/nsw/peak-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

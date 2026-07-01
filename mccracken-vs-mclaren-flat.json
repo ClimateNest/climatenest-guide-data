@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 36
+      "scoreA": 51,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 30
+      "scoreA": 40,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 61
+      "scoreA": 61,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
       "scoreA": 12,
-      "scoreB": 26
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 10
     }
   ],
-  "verdict": "McLaren Flat has a lower overall climate risk score (35/100) compared to McCracken (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "McLaren Flat has a lower overall climate risk score (32/100) compared to McCracken (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is McCracken or McLaren Flat safer from flooding?",
-      "answer": "McCracken has a flood risk score of 57/100, while McLaren Flat scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "McCracken has a flood risk score of 51/100, while McLaren Flat scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "McCracken scores 37/100 for bushfire risk. McLaren Flat scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "McCracken scores 40/100 for bushfire risk. McLaren Flat scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in McCracken or McLaren Flat?",
@@ -76,5 +76,15 @@
       "label": "McLaren Flat Should I Buy?",
       "url": "/suburbs/sa/mclaren-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

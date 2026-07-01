@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 56,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 60
+      "scoreA": 15,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 60
+      "scoreA": 49,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 55
+      "scoreA": 46,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 21
     }
   ],
-  "verdict": "Yellow Dam has a lower overall climate risk score (39/100) compared to Yellow Rock (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yellow Dam has a lower overall climate risk score (35/100) compared to Yellow Rock (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yellow Dam or Yellow Rock safer from flooding?",
-      "answer": "Yellow Dam has a flood risk score of 42/100, while Yellow Rock scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yellow Dam has a flood risk score of 56/100, while Yellow Rock scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yellow Dam scores 55/100 for bushfire risk. Yellow Rock scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yellow Dam scores 15/100 for bushfire risk. Yellow Rock scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yellow Dam or Yellow Rock?",
@@ -76,5 +76,15 @@
       "label": "Yellow Rock Should I Buy?",
       "url": "/suburbs/nsw/yellow-rock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

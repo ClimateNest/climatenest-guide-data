@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 60
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 27
-    },
-    {
-      "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 60
-    },
-    {
-      "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 32,
       "scoreB": 33
     },
     {
+      "name": "Bushfire",
+      "scoreA": 54,
+      "scoreB": 38
+    },
+    {
+      "name": "Heat",
+      "scoreA": 65,
+      "scoreB": 70
+    },
+    {
+      "name": "Storm",
+      "scoreA": 39,
+      "scoreB": 46
+    },
+    {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 28
     }
   ],
-  "verdict": "Palana has a lower overall climate risk score (36/100) compared to Oyster Cove (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Palana has a lower overall climate risk score (38/100) compared to Oyster Cove (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Oyster Cove or Palana safer from flooding?",
-      "answer": "Oyster Cove has a flood risk score of 34/100, while Palana scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oyster Cove has a flood risk score of 32/100, while Palana scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oyster Cove scores 51/100 for bushfire risk. Palana scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oyster Cove scores 54/100 for bushfire risk. Palana scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oyster Cove or Palana?",
@@ -76,5 +76,15 @@
       "label": "Palana Should I Buy?",
       "url": "/suburbs/tas/palana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

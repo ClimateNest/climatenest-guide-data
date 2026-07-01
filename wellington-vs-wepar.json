@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 26
+      "scoreA": 56,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 15
-    },
-    {
-      "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 74
-    },
-    {
-      "name": "Storm",
-      "scoreA": 27,
+      "scoreA": 64,
       "scoreB": 32
     },
     {
+      "name": "Heat",
+      "scoreA": 63,
+      "scoreB": 67
+    },
+    {
+      "name": "Storm",
+      "scoreA": 23,
+      "scoreB": 45
+    },
+    {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 20,
+      "scoreB": 16
     }
   ],
-  "verdict": "Wepar has a lower overall climate risk score (29/100) compared to Wellington (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wepar has a lower overall climate risk score (39/100) compared to Wellington (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wellington or Wepar safer from flooding?",
-      "answer": "Wellington has a flood risk score of 57/100, while Wepar scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wellington has a flood risk score of 56/100, while Wepar scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wellington scores 42/100 for bushfire risk. Wepar scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wellington scores 64/100 for bushfire risk. Wepar scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wellington or Wepar?",
@@ -76,5 +76,15 @@
       "label": "Wepar Should I Buy?",
       "url": "/suburbs/sa/wepar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

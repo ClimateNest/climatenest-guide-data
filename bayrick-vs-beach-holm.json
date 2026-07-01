@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 38
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 63
-    },
-    {
-      "name": "Heat",
-      "scoreA": 47,
+      "scoreA": 39,
       "scoreB": 36
     },
     {
+      "name": "Bushfire",
+      "scoreA": 54,
+      "scoreB": 37
+    },
+    {
+      "name": "Heat",
+      "scoreA": 38,
+      "scoreB": 45
+    },
+    {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 24,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 8
+      "scoreA": 18,
+      "scoreB": 15
     }
   ],
-  "verdict": "Beach Holm has a lower overall climate risk score (33/100) compared to Bayrick (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beach Holm has a lower overall climate risk score (29/100) compared to Bayrick (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bayrick or Beach Holm safer from flooding?",
-      "answer": "Bayrick has a flood risk score of 24/100, while Beach Holm scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bayrick has a flood risk score of 39/100, while Beach Holm scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bayrick scores 63/100 for bushfire risk. Beach Holm scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bayrick scores 54/100 for bushfire risk. Beach Holm scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bayrick or Beach Holm?",
@@ -76,5 +76,15 @@
       "label": "Beach Holm Should I Buy?",
       "url": "/suburbs/qld/beach-holm/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

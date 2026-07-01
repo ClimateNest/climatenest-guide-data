@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 37
+      "scoreA": 25,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 18
+      "scoreA": 45,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 45
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 32
+      "scoreA": 33,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 51
+      "scoreA": 38,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 11
     }
   ],
-  "verdict": "Lockrose has a lower overall climate risk score (30/100) compared to Lockyer (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Lockyer has a lower overall climate risk score (34/100) compared to Lockrose (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lockrose or Lockyer safer from flooding?",
-      "answer": "Lockrose has a flood risk score of 26/100, while Lockyer scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lockrose has a flood risk score of 25/100, while Lockyer scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lockrose scores 22/100 for bushfire risk. Lockyer scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lockrose scores 45/100 for bushfire risk. Lockyer scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lockrose or Lockyer?",
-      "answer": "Both suburbs have climate considerations. Lockrose has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lockyer has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lockyer Should I Buy?",
       "url": "/suburbs/qld/lockyer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

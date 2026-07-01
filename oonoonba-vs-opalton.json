@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 55,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 36
+      "scoreA": 36,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 39
+      "scoreA": 36,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 18,
+      "scoreB": 15
     }
   ],
-  "verdict": "Opalton has a lower overall climate risk score (27/100) compared to Oonoonba (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Opalton has a lower overall climate risk score (32/100) compared to Oonoonba (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Oonoonba or Opalton safer from flooding?",
-      "answer": "Oonoonba has a flood risk score of 22/100, while Opalton scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oonoonba has a flood risk score of 55/100, while Opalton scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oonoonba scores 58/100 for bushfire risk. Opalton scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oonoonba scores 36/100 for bushfire risk. Opalton scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oonoonba or Opalton?",
@@ -76,5 +76,15 @@
       "label": "Opalton Should I Buy?",
       "url": "/suburbs/qld/opalton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

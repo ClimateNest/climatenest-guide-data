@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
+      "scoreA": 43,
       "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 31,
+      "scoreA": 42,
       "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 35,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 53
+      "scoreA": 19,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 21
     }
   ],
-  "verdict": "Fairfield has a lower overall climate risk score (33/100) compared to Evora (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Evora has a lower overall climate risk score (28/100) compared to Fairfield (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Evora or Fairfield safer from flooding?",
-      "answer": "Evora has a flood risk score of 42/100, while Fairfield scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Evora has a flood risk score of 43/100, while Fairfield scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Evora scores 53/100 for bushfire risk. Fairfield scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Evora scores 15/100 for bushfire risk. Fairfield scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Evora or Fairfield?",
-      "answer": "Both suburbs have climate considerations. Fairfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Evora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Fairfield Should I Buy?",
       "url": "/suburbs/qld/fairfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

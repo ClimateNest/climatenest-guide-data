@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 53
+      "scoreA": 49,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 51
+      "scoreA": 24,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 67
+      "scoreA": 35,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 12
+      "scoreA": 14,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 7,
+      "scoreB": 13
     }
   ],
-  "verdict": "Marble Bar has a lower overall climate risk score (30/100) compared to Mardella (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marble Bar has a lower overall climate risk score (26/100) compared to Mardella (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Marble Bar or Mardella safer from flooding?",
-      "answer": "Marble Bar has a flood risk score of 40/100, while Mardella scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marble Bar has a flood risk score of 49/100, while Mardella scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marble Bar scores 26/100 for bushfire risk. Mardella scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marble Bar scores 24/100 for bushfire risk. Mardella scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marble Bar or Mardella?",
@@ -76,5 +76,15 @@
       "label": "Mardella Should I Buy?",
       "url": "/suburbs/wa/mardella/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

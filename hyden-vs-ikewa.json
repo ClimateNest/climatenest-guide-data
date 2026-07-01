@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 53,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 61
     },
     {
       "name": "Heat",
       "scoreA": 54,
-      "scoreB": 43
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
       "scoreB": 37
     },
     {
+      "name": "Storm",
+      "scoreA": 41,
+      "scoreB": 24
+    },
+    {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 12
+      "scoreA": 28,
+      "scoreB": 20
     }
   ],
-  "verdict": "Ikewa has a lower overall climate risk score (33/100) compared to Hyden (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ikewa has a lower overall climate risk score (31/100) compared to Hyden (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hyden or Ikewa safer from flooding?",
-      "answer": "Hyden has a flood risk score of 43/100, while Ikewa scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hyden has a flood risk score of 53/100, while Ikewa scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hyden scores 45/100 for bushfire risk. Ikewa scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hyden scores 36/100 for bushfire risk. Ikewa scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hyden or Ikewa?",
@@ -76,5 +76,15 @@
       "label": "Ikewa Should I Buy?",
       "url": "/suburbs/wa/ikewa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

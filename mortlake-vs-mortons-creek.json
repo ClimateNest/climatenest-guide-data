@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 56,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 41
+      "scoreA": 57,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 54
+      "scoreA": 70,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 44,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 17,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mortons Creek has a lower overall climate risk score (38/100) compared to Mortlake (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mortons Creek has a lower overall climate risk score (32/100) compared to Mortlake (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mortlake or Mortons Creek safer from flooding?",
-      "answer": "Mortlake has a flood risk score of 27/100, while Mortons Creek scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mortlake has a flood risk score of 56/100, while Mortons Creek scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mortlake scores 55/100 for bushfire risk. Mortons Creek scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mortlake scores 57/100 for bushfire risk. Mortons Creek scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mortlake or Mortons Creek?",
@@ -76,5 +76,15 @@
       "label": "Mortons Creek Should I Buy?",
       "url": "/suburbs/nsw/mortons-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4453,
+    "projected2030": 6234,
+    "projected2050": 11577
+  },
+  "valueImpact": {
+    "dragPercent": 2.68,
+    "description": "Properties in this area may face a 2.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

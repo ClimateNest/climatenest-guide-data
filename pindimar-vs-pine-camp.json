@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 55
+      "scoreA": 32,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 33,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 71
+      "scoreA": 61,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 23
+      "scoreA": 39,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 11
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 21
     }
   ],
-  "verdict": "Pine Camp has a lower overall climate risk score (36/100) compared to Pindimar (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pine Camp has a lower overall climate risk score (35/100) compared to Pindimar (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pindimar or Pine Camp safer from flooding?",
-      "answer": "Pindimar has a flood risk score of 20/100, while Pine Camp scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pindimar has a flood risk score of 32/100, while Pine Camp scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pindimar scores 24/100 for bushfire risk. Pine Camp scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pindimar scores 33/100 for bushfire risk. Pine Camp scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pindimar or Pine Camp?",
@@ -76,5 +76,15 @@
       "label": "Pine Camp Should I Buy?",
       "url": "/suburbs/nsw/pine-camp/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

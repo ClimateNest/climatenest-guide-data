@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 59
+      "scoreA": 41,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 47
+      "scoreA": 35,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 59
+      "scoreA": 74,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 42
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
+      "scoreA": 27,
       "scoreB": 20
     }
   ],
-  "verdict": "Bidgeemia has a lower overall climate risk score (42/100) compared to Biddon (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bidgeemia has a lower overall climate risk score (32/100) compared to Biddon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Biddon or Bidgeemia safer from flooding?",
-      "answer": "Biddon has a flood risk score of 59/100, while Bidgeemia scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Biddon has a flood risk score of 41/100, while Bidgeemia scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Biddon scores 58/100 for bushfire risk. Bidgeemia scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Biddon scores 35/100 for bushfire risk. Bidgeemia scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Biddon or Bidgeemia?",
@@ -76,5 +76,15 @@
       "label": "Bidgeemia Should I Buy?",
       "url": "/suburbs/nsw/bidgeemia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

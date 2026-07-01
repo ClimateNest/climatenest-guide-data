@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 49
+      "scoreA": 34,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 61
+      "scoreA": 58,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 25
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
       "scoreA": 27,
-      "scoreB": 28
+      "scoreB": 15
     }
   ],
-  "verdict": "Marrangaroo has a lower overall climate risk score (36/100) compared to Marrar (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Marrar has a lower overall climate risk score (32/100) compared to Marrangaroo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marrangaroo or Marrar safer from flooding?",
-      "answer": "Marrangaroo has a flood risk score of 40/100, while Marrar scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marrangaroo has a flood risk score of 42/100, while Marrar scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marrangaroo scores 20/100 for bushfire risk. Marrar scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marrangaroo scores 34/100 for bushfire risk. Marrar scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marrangaroo or Marrar?",
-      "answer": "Both suburbs have climate considerations. Marrangaroo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Marrar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Marrar Should I Buy?",
       "url": "/suburbs/nsw/marrar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

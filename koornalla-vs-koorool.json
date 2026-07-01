@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 51
+      "scoreA": 39,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 60
+      "scoreA": 73,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Koornalla has a lower overall climate risk score (29/100) compared to Koorool (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Koornalla has a lower overall climate risk score (39/100) compared to Koorool (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Koornalla or Koorool safer from flooding?",
-      "answer": "Koornalla has a flood risk score of 25/100, while Koorool scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Koornalla has a flood risk score of 39/100, while Koorool scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Koornalla scores 23/100 for bushfire risk. Koorool scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Koornalla scores 32/100 for bushfire risk. Koorool scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Koornalla or Koorool?",
@@ -76,5 +76,15 @@
       "label": "Koorool Should I Buy?",
       "url": "/suburbs/vic/koorool/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4317,
+    "projected2030": 6043,
+    "projected2050": 11223
+  },
+  "valueImpact": {
+    "dragPercent": 2.38,
+    "description": "Properties in this area may face a 2.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 34
+      "scoreA": 53,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 22
+      "scoreA": 51,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 42,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 18
+      "scoreA": 52,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 18
+      "scoreB": 13
     }
   ],
-  "verdict": "Torrens Creek has a lower overall climate risk score (28/100) compared to Torbanlea (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Torrens Creek has a lower overall climate risk score (23/100) compared to Torbanlea (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Torbanlea or Torrens Creek safer from flooding?",
-      "answer": "Torbanlea has a flood risk score of 58/100, while Torrens Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Torbanlea has a flood risk score of 53/100, while Torrens Creek scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Torbanlea scores 50/100 for bushfire risk. Torrens Creek scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Torbanlea scores 51/100 for bushfire risk. Torrens Creek scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Torbanlea or Torrens Creek?",
@@ -76,5 +76,15 @@
       "label": "Torrens Creek Should I Buy?",
       "url": "/suburbs/qld/torrens-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

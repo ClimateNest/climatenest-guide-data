@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 58
+      "scoreA": 59,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 28
+      "scoreA": 64,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 45
+      "scoreA": 77,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 10,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mimili has a lower overall climate risk score (34/100) compared to Miltalie (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mimili has a lower overall climate risk score (32/100) compared to Miltalie (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Miltalie or Mimili safer from flooding?",
-      "answer": "Miltalie has a flood risk score of 58/100, while Mimili scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miltalie has a flood risk score of 59/100, while Mimili scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miltalie scores 43/100 for bushfire risk. Mimili scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miltalie scores 64/100 for bushfire risk. Mimili scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miltalie or Mimili?",
@@ -76,5 +76,15 @@
       "label": "Mimili Should I Buy?",
       "url": "/suburbs/sa/mimili/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

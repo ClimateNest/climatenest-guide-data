@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 64
+      "scoreA": 34,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 76
+      "scoreA": 41,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 26
+      "scoreA": 37,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 30
+      "scoreA": 28,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
       "scoreA": 7,
-      "scoreB": 13
+      "scoreB": 29
     }
   ],
-  "verdict": "Angelo River has a lower overall climate risk score (30/100) compared to Anketell (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Angelo River has a lower overall climate risk score (30/100) compared to Anketell (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Angelo River or Anketell safer from flooding?",
-      "answer": "Angelo River has a flood risk score of 25/100, while Anketell scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Angelo River has a flood risk score of 30/100, while Anketell scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Angelo River scores 44/100 for bushfire risk. Anketell scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Angelo River scores 34/100 for bushfire risk. Anketell scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Angelo River or Anketell?",
@@ -76,5 +76,15 @@
       "label": "Anketell Should I Buy?",
       "url": "/suburbs/wa/anketell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

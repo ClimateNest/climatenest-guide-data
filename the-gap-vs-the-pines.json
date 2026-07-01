@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 24
+      "scoreA": 45,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 58
+      "scoreA": 24,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 53
+      "scoreA": 56,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 48
+      "scoreA": 45,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
+      "scoreA": 12,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "The Gap has a lower overall climate risk score (38/100) compared to The Pines (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Gap has a lower overall climate risk score (33/100) compared to The Pines (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Gap or The Pines safer from flooding?",
-      "answer": "The Gap has a flood risk score of 49/100, while The Pines scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Gap has a flood risk score of 45/100, while The Pines scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Gap scores 36/100 for bushfire risk. The Pines scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Gap scores 24/100 for bushfire risk. The Pines scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Gap or The Pines?",
@@ -76,5 +76,15 @@
       "label": "The Pines Should I Buy?",
       "url": "/suburbs/sa/the-pines/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

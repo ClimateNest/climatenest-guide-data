@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 52,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 61
+      "scoreA": 34,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 79
+      "scoreA": 66,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 31
+      "scoreA": 40,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 51
+      "scoreA": 20,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 14
+      "scoreA": 27,
+      "scoreB": 20
     }
   ],
-  "verdict": "Greigs Flat has a lower overall climate risk score (40/100) compared to Gresford (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Greigs Flat has a lower overall climate risk score (40/100) compared to Gresford (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Greigs Flat or Gresford safer from flooding?",
-      "answer": "Greigs Flat has a flood risk score of 45/100, while Gresford scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greigs Flat has a flood risk score of 52/100, while Gresford scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greigs Flat scores 47/100 for bushfire risk. Gresford scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greigs Flat scores 34/100 for bushfire risk. Gresford scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greigs Flat or Gresford?",
@@ -76,5 +76,15 @@
       "label": "Gresford Should I Buy?",
       "url": "/suburbs/nsw/gresford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

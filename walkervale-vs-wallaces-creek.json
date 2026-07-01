@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 43
+      "scoreA": 26,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 41
+      "scoreA": 31,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 42
+      "scoreA": 45,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
+      "scoreA": 6,
       "scoreB": 21
     }
   ],
-  "verdict": "Walkervale has a lower overall climate risk score (32/100) compared to Wallaces Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Walkervale has a lower overall climate risk score (27/100) compared to Wallaces Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Walkervale or Wallaces Creek safer from flooding?",
-      "answer": "Walkervale has a flood risk score of 41/100, while Wallaces Creek scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Walkervale has a flood risk score of 26/100, while Wallaces Creek scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Walkervale scores 21/100 for bushfire risk. Wallaces Creek scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Walkervale scores 18/100 for bushfire risk. Wallaces Creek scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Walkervale or Wallaces Creek?",
@@ -76,5 +76,15 @@
       "label": "Wallaces Creek Should I Buy?",
       "url": "/suburbs/qld/wallaces-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

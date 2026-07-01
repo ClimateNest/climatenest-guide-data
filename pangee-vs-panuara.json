@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 56
+      "scoreA": 40,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 61
+      "scoreA": 15,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 73
+      "scoreA": 64,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
       "scoreA": 16,
-      "scoreB": 13
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 14,
+      "scoreB": 13
     }
   ],
-  "verdict": "Pangee has a lower overall climate risk score (35/100) compared to Panuara (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Panuara has a lower overall climate risk score (30/100) compared to Pangee (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pangee or Panuara safer from flooding?",
-      "answer": "Pangee has a flood risk score of 27/100, while Panuara scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pangee has a flood risk score of 40/100, while Panuara scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pangee scores 17/100 for bushfire risk. Panuara scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pangee scores 15/100 for bushfire risk. Panuara scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pangee or Panuara?",
-      "answer": "Both suburbs have climate considerations. Pangee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Panuara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Panuara Should I Buy?",
       "url": "/suburbs/nsw/panuara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

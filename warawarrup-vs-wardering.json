@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 58
+      "scoreA": 57,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 56
+      "scoreA": 64,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 58
+      "scoreA": 72,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 20
+      "scoreA": 32,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 29
     }
   ],
-  "verdict": "Wardering has a lower overall climate risk score (38/100) compared to Warawarrup (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wardering has a lower overall climate risk score (42/100) compared to Warawarrup (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warawarrup or Wardering safer from flooding?",
-      "answer": "Warawarrup has a flood risk score of 53/100, while Wardering scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warawarrup has a flood risk score of 57/100, while Wardering scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warawarrup scores 41/100 for bushfire risk. Wardering scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warawarrup scores 64/100 for bushfire risk. Wardering scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warawarrup or Wardering?",
@@ -76,5 +76,15 @@
       "label": "Wardering Should I Buy?",
       "url": "/suburbs/wa/wardering/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

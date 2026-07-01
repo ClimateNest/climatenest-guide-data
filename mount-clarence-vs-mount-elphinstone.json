@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 55
+      "scoreA": 22,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 59
+      "scoreA": 62,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 80
+      "scoreA": 72,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 32
+      "scoreA": 49,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
       "scoreA": 15,
-      "scoreB": 26
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 26
     }
   ],
-  "verdict": "Mount Clarence has a lower overall climate risk score (35/100) compared to Mount Elphinstone (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Clarence has a lower overall climate risk score (40/100) compared to Mount Elphinstone (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Mount Clarence or Mount Elphinstone safer from flooding?",
-      "answer": "Mount Clarence has a flood risk score of 32/100, while Mount Elphinstone scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Clarence has a flood risk score of 22/100, while Mount Elphinstone scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Clarence scores 53/100 for bushfire risk. Mount Elphinstone scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Clarence scores 62/100 for bushfire risk. Mount Elphinstone scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Clarence or Mount Elphinstone?",
@@ -76,5 +76,15 @@
       "label": "Mount Elphinstone Should I Buy?",
       "url": "/suburbs/wa/mount-elphinstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

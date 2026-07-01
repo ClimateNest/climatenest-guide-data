@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 54
+      "scoreA": 26,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 29
+      "scoreA": 52,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 34
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 38
+      "scoreA": 45,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
       "scoreA": 15,
-      "scoreB": 48
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 12
+      "scoreB": 20
     }
   ],
-  "verdict": "Broadwater has a lower overall climate risk score (36/100) compared to Broadmere (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Broadmere has a lower overall climate risk score (32/100) compared to Broadwater (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Broadmere or Broadwater safer from flooding?",
-      "answer": "Broadmere has a flood risk score of 58/100, while Broadwater scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Broadmere has a flood risk score of 26/100, while Broadwater scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Broadmere scores 57/100 for bushfire risk. Broadwater scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Broadmere scores 52/100 for bushfire risk. Broadwater scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Broadmere or Broadwater?",
-      "answer": "Both suburbs have climate considerations. Broadwater has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Broadmere has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Broadwater Should I Buy?",
       "url": "/suburbs/qld/broadwater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

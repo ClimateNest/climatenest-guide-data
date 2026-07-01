@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 25,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 28
+      "scoreA": 62,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 63
+      "scoreA": 58,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 18,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 30
+      "scoreA": 26,
+      "scoreB": 29
     }
   ],
-  "verdict": "Parkham has a lower overall climate risk score (36/100) compared to Park Grove (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Park Grove has a lower overall climate risk score (39/100) compared to Parkham (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Park Grove or Parkham safer from flooding?",
-      "answer": "Park Grove has a flood risk score of 36/100, while Parkham scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Park Grove has a flood risk score of 25/100, while Parkham scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Park Grove scores 38/100 for bushfire risk. Parkham scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Park Grove scores 62/100 for bushfire risk. Parkham scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Park Grove or Parkham?",
-      "answer": "Both suburbs have climate considerations. Parkham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Park Grove has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Parkham Should I Buy?",
       "url": "/suburbs/tas/parkham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

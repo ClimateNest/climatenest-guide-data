@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 55
+      "scoreA": 49,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 49
+      "scoreA": 49,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 24
+      "scoreA": 30,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 14
     }
   ],
-  "verdict": "Aloomba has a lower overall climate risk score (29/100) compared to Alpha (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Alpha has a lower overall climate risk score (32/100) compared to Aloomba (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Aloomba or Alpha safer from flooding?",
-      "answer": "Aloomba has a flood risk score of 23/100, while Alpha scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Aloomba has a flood risk score of 49/100, while Alpha scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Aloomba scores 52/100 for bushfire risk. Alpha scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Aloomba scores 49/100 for bushfire risk. Alpha scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Aloomba or Alpha?",
-      "answer": "Both suburbs have climate considerations. Aloomba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Alpha has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Alpha Should I Buy?",
       "url": "/suburbs/qld/alpha/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

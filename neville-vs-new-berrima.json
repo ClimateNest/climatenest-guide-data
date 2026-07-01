@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 49
+      "scoreA": 17,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 56
+      "scoreA": 68,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 45
+      "scoreA": 25,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
       "scoreA": 16,
-      "scoreB": 29
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Neville has a lower overall climate risk score (36/100) compared to New Berrima (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Neville has a lower overall climate risk score (32/100) compared to New Berrima (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Neville or New Berrima safer from flooding?",
-      "answer": "Neville has a flood risk score of 54/100, while New Berrima scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Neville has a flood risk score of 38/100, while New Berrima scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Neville scores 27/100 for bushfire risk. New Berrima scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Neville scores 17/100 for bushfire risk. New Berrima scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Neville or New Berrima?",
@@ -76,5 +76,15 @@
       "label": "New Berrima Should I Buy?",
       "url": "/suburbs/nsw/new-berrima/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

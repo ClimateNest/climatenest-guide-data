@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 42
+      "scoreA": 46,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 29,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 47
+      "scoreA": 41,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 49
+      "scoreA": 19,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 5,
-      "scoreB": 11
+      "scoreA": 9,
+      "scoreB": 29
     }
   ],
-  "verdict": "Kaban has a lower overall climate risk score (31/100) compared to Kagaru (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kaban has a lower overall climate risk score (30/100) compared to Kagaru (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kaban or Kagaru safer from flooding?",
-      "answer": "Kaban has a flood risk score of 41/100, while Kagaru scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kaban has a flood risk score of 46/100, while Kagaru scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kaban scores 35/100 for bushfire risk. Kagaru scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kaban scores 29/100 for bushfire risk. Kagaru scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kaban or Kagaru?",
@@ -76,5 +76,15 @@
       "label": "Kagaru Should I Buy?",
       "url": "/suburbs/qld/kagaru/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

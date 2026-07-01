@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 47
+      "scoreA": 55,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 32
+      "scoreA": 31,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 31
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
+      "scoreA": 30,
       "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 24
+      "scoreA": 19,
+      "scoreB": 21
     }
   ],
-  "verdict": "Bidwill has a lower overall climate risk score (31/100) compared to Biggenden (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Biggenden has a lower overall climate risk score (34/100) compared to Bidwill (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bidwill or Biggenden safer from flooding?",
-      "answer": "Bidwill has a flood risk score of 27/100, while Biggenden scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bidwill has a flood risk score of 55/100, while Biggenden scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bidwill scores 34/100 for bushfire risk. Biggenden scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bidwill scores 31/100 for bushfire risk. Biggenden scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bidwill or Biggenden?",
-      "answer": "Both suburbs have climate considerations. Bidwill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Biggenden has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Biggenden Should I Buy?",
       "url": "/suburbs/qld/biggenden/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

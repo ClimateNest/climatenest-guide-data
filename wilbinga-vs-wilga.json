@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 34
+      "scoreA": 25,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 72,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
+      "scoreA": 17,
       "scoreB": 29
     }
   ],
-  "verdict": "Wilga has a lower overall climate risk score (29/100) compared to Wilbinga (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wilbinga has a lower overall climate risk score (30/100) compared to Wilga (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wilbinga or Wilga safer from flooding?",
-      "answer": "Wilbinga has a flood risk score of 56/100, while Wilga scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wilbinga has a flood risk score of 28/100, while Wilga scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wilbinga scores 57/100 for bushfire risk. Wilga scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wilbinga scores 25/100 for bushfire risk. Wilga scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wilbinga or Wilga?",
-      "answer": "Both suburbs have climate considerations. Wilga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wilbinga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wilga Should I Buy?",
       "url": "/suburbs/wa/wilga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

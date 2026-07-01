@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 48,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 59
+      "scoreA": 30,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 40
     },
     {
       "name": "Storm",
       "scoreA": 23,
-      "scoreB": 42
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
+      "scoreA": 23,
       "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Alpurrurulam has a lower overall climate risk score (30/100) compared to Amoonguna (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Alpurrurulam has a lower overall climate risk score (29/100) compared to Amoonguna (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Alpurrurulam or Amoonguna safer from flooding?",
-      "answer": "Alpurrurulam has a flood risk score of 47/100, while Amoonguna scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alpurrurulam has a flood risk score of 48/100, while Amoonguna scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alpurrurulam scores 36/100 for bushfire risk. Amoonguna scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alpurrurulam scores 30/100 for bushfire risk. Amoonguna scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alpurrurulam or Amoonguna?",
@@ -76,5 +76,15 @@
       "label": "Amoonguna Should I Buy?",
       "url": "/suburbs/nt/amoonguna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

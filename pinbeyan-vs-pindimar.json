@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 24
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 23,
+      "scoreA": 32,
       "scoreB": 27
     },
     {
+      "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 51
+    },
+    {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 73
+      "scoreA": 78,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 49
+      "scoreA": 26,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 46
+      "scoreA": 12,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 20
     }
   ],
-  "verdict": "Pinbeyan has a lower overall climate risk score (30/100) compared to Pindimar (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pinbeyan has a lower overall climate risk score (36/100) compared to Pindimar (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pinbeyan or Pindimar safer from flooding?",
-      "answer": "Pinbeyan has a flood risk score of 33/100, while Pindimar scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pinbeyan has a flood risk score of 32/100, while Pindimar scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pinbeyan scores 23/100 for bushfire risk. Pindimar scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pinbeyan scores 37/100 for bushfire risk. Pindimar scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pinbeyan or Pindimar?",
@@ -76,5 +76,15 @@
       "label": "Pindimar Should I Buy?",
       "url": "/suburbs/nsw/pindimar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

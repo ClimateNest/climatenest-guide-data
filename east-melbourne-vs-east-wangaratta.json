@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 67
+      "scoreA": 75,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 21
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "East Melbourne has a lower overall climate risk score (27/100) compared to East Wangaratta (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Melbourne has a lower overall climate risk score (38/100) compared to East Wangaratta (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Melbourne or East Wangaratta safer from flooding?",
-      "answer": "East Melbourne has a flood risk score of 29/100, while East Wangaratta scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Melbourne has a flood risk score of 44/100, while East Wangaratta scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Melbourne scores 24/100 for bushfire risk. East Wangaratta scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Melbourne scores 25/100 for bushfire risk. East Wangaratta scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Melbourne or East Wangaratta?",
@@ -76,5 +76,15 @@
       "label": "East Wangaratta Should I Buy?",
       "url": "/suburbs/vic/east-wangaratta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

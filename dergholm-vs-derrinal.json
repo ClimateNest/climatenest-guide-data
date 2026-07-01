@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 17
+      "scoreA": 57,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 59
+      "scoreA": 57,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 35
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 40,
       "scoreB": 23
     },
     {
+      "name": "Coastal",
+      "scoreA": 18,
+      "scoreB": 14
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 12
     }
   ],
-  "verdict": "Derrinal has a lower overall climate risk score (30/100) compared to Dergholm (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Derrinal has a lower overall climate risk score (34/100) compared to Dergholm (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dergholm or Derrinal safer from flooding?",
-      "answer": "Dergholm has a flood risk score of 38/100, while Derrinal scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dergholm has a flood risk score of 27/100, while Derrinal scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dergholm scores 42/100 for bushfire risk. Derrinal scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dergholm scores 57/100 for bushfire risk. Derrinal scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dergholm or Derrinal?",
@@ -76,5 +76,15 @@
       "label": "Derrinal Should I Buy?",
       "url": "/suburbs/vic/derrinal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

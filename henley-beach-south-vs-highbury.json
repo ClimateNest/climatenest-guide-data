@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 33,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 62,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 76
+      "scoreA": 60,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 30
+      "scoreA": 43,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 20,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 12
+      "scoreA": 26,
+      "scoreB": 26
     }
   ],
-  "verdict": "Henley Beach South has a lower overall climate risk score (37/100) compared to Highbury (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Henley Beach South has a lower overall climate risk score (41/100) compared to Highbury (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Henley Beach South or Highbury safer from flooding?",
-      "answer": "Henley Beach South has a flood risk score of 21/100, while Highbury scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Henley Beach South has a flood risk score of 33/100, while Highbury scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Henley Beach South scores 36/100 for bushfire risk. Highbury scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Henley Beach South scores 62/100 for bushfire risk. Highbury scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Henley Beach South or Highbury?",
@@ -76,5 +76,15 @@
       "label": "Highbury Should I Buy?",
       "url": "/suburbs/sa/highbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

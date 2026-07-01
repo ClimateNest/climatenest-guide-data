@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 55
+      "scoreA": 29,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 15
+      "scoreA": 20,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 75
+      "scoreA": 60,
+      "scoreB": 62
     },
     {
       "name": "Storm",
       "scoreA": 20,
-      "scoreB": 36
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
+      "scoreA": 24,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 24
+      "scoreA": 12,
+      "scoreB": 13
     }
   ],
-  "verdict": "Brooklyn has a lower overall climate risk score (32/100) compared to Buckland (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Brooklyn has a lower overall climate risk score (28/100) compared to Buckland (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Brooklyn or Buckland safer from flooding?",
-      "answer": "Brooklyn has a flood risk score of 43/100, while Buckland scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brooklyn has a flood risk score of 29/100, while Buckland scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brooklyn scores 38/100 for bushfire risk. Buckland scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brooklyn scores 20/100 for bushfire risk. Buckland scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brooklyn or Buckland?",
@@ -76,5 +76,15 @@
       "label": "Buckland Should I Buy?",
       "url": "/suburbs/tas/buckland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

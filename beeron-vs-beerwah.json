@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 48
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 18
     }
   ],
-  "verdict": "Beeron has a lower overall climate risk score (38/100) compared to Beerwah (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beeron has a lower overall climate risk score (34/100) compared to Beerwah (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Beeron or Beerwah safer from flooding?",
-      "answer": "Beeron has a flood risk score of 38/100, while Beerwah scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beeron has a flood risk score of 43/100, while Beerwah scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beeron scores 33/100 for bushfire risk. Beerwah scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beeron scores 21/100 for bushfire risk. Beerwah scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beeron or Beerwah?",
@@ -76,5 +76,15 @@
       "label": "Beerwah Should I Buy?",
       "url": "/suburbs/qld/beerwah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

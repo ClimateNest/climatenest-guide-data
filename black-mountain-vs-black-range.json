@@ -14,8 +14,8 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 24
+      "scoreA": 57,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
@@ -24,31 +24,31 @@
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 77
+      "scoreA": 78,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 15
+      "scoreA": 56,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 20
     }
   ],
-  "verdict": "Black Range has a lower overall climate risk score (30/100) compared to Black Mountain (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Black Range has a lower overall climate risk score (35/100) compared to Black Mountain (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Black Mountain or Black Range safer from flooding?",
-      "answer": "Black Mountain has a flood risk score of 49/100, while Black Range scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Black Mountain has a flood risk score of 57/100, while Black Range scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
@@ -76,5 +76,15 @@
       "label": "Black Range Should I Buy?",
       "url": "/suburbs/nsw/black-range/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4419,
+    "projected2030": 6186,
+    "projected2050": 11489
+  },
+  "valueImpact": {
+    "dragPercent": 2.6,
+    "description": "Properties in this area may face a 2.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

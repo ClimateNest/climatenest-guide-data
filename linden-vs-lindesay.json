@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 51
+      "scoreA": 23,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 57
+      "scoreA": 46,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 63
+      "scoreA": 65,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 15
+      "scoreA": 30,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 26
     }
   ],
-  "verdict": "Linden has a lower overall climate risk score (34/100) compared to Lindesay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Linden has a lower overall climate risk score (38/100) compared to Lindesay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Linden or Lindesay safer from flooding?",
-      "answer": "Linden has a flood risk score of 44/100, while Lindesay scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Linden has a flood risk score of 23/100, while Lindesay scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Linden scores 29/100 for bushfire risk. Lindesay scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Linden scores 46/100 for bushfire risk. Lindesay scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Linden or Lindesay?",
@@ -76,5 +76,15 @@
       "label": "Lindesay Should I Buy?",
       "url": "/suburbs/nsw/lindesay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

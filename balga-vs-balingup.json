@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 46
+      "scoreA": 21,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 24
+      "scoreA": 41,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 70,
+      "scoreA": 62,
       "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 37
+      "scoreA": 32,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 14,
+      "scoreB": 14
     }
   ],
-  "verdict": "Balga has a lower overall climate risk score (31/100) compared to Balingup (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balga has a lower overall climate risk score (32/100) compared to Balingup (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Balga or Balingup safer from flooding?",
-      "answer": "Balga has a flood risk score of 20/100, while Balingup scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balga has a flood risk score of 21/100, while Balingup scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balga scores 33/100 for bushfire risk. Balingup scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balga scores 41/100 for bushfire risk. Balingup scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balga or Balingup?",
@@ -76,5 +76,15 @@
       "label": "Balingup Should I Buy?",
       "url": "/suburbs/wa/balingup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

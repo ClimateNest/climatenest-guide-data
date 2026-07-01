@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 47
+      "scoreA": 36,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 59
+      "scoreA": 31,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 65
+      "scoreA": 72,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 12,
+      "scoreB": 21
     }
   ],
-  "verdict": "Essendon has a lower overall climate risk score (38/100) compared to Esmond (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Esmond has a lower overall climate risk score (34/100) compared to Essendon (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Esmond or Essendon safer from flooding?",
-      "answer": "Esmond has a flood risk score of 55/100, while Essendon scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Esmond has a flood risk score of 36/100, while Essendon scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Esmond scores 37/100 for bushfire risk. Essendon scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Esmond scores 31/100 for bushfire risk. Essendon scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Esmond or Essendon?",
-      "answer": "Both suburbs have climate considerations. Essendon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Esmond has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Essendon Should I Buy?",
       "url": "/suburbs/vic/essendon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 53
+      "scoreA": 38,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 35
+      "scoreA": 53,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 62
+      "scoreA": 59,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 47
+      "scoreA": 27,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 20
+      "scoreA": 56,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 27
+      "scoreA": 28,
+      "scoreB": 12
     }
   ],
-  "verdict": "Moppy has a lower overall climate risk score (31/100) compared to Morago (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Morago has a lower overall climate risk score (37/100) compared to Moppy (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moppy or Morago safer from flooding?",
-      "answer": "Moppy has a flood risk score of 20/100, while Morago scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moppy has a flood risk score of 38/100, while Morago scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moppy scores 18/100 for bushfire risk. Morago scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moppy scores 53/100 for bushfire risk. Morago scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moppy or Morago?",
-      "answer": "Both suburbs have climate considerations. Moppy has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Morago has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Morago Should I Buy?",
       "url": "/suburbs/nsw/morago/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

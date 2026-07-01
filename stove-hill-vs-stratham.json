@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 40
+      "scoreA": 24,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 52
+      "scoreA": 55,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 64
+      "scoreA": 36,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 15
     }
   ],
-  "verdict": "Stove Hill has a lower overall climate risk score (24/100) compared to Stratham (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Stove Hill has a lower overall climate risk score (34/100) compared to Stratham (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stove Hill or Stratham safer from flooding?",
-      "answer": "Stove Hill has a flood risk score of 38/100, while Stratham scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stove Hill has a flood risk score of 24/100, while Stratham scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stove Hill scores 15/100 for bushfire risk. Stratham scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stove Hill scores 55/100 for bushfire risk. Stratham scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stove Hill or Stratham?",
@@ -76,5 +76,15 @@
       "label": "Stratham Should I Buy?",
       "url": "/suburbs/wa/stratham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

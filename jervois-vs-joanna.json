@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 50
+      "scoreA": 53,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 57
+      "scoreA": 53,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 53
+      "scoreA": 64,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 33
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 20
+      "scoreA": 11,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 19
     }
   ],
-  "verdict": "Joanna has a lower overall climate risk score (40/100) compared to Jervois (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Joanna has a lower overall climate risk score (33/100) compared to Jervois (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jervois or Joanna safer from flooding?",
-      "answer": "Jervois has a flood risk score of 55/100, while Joanna scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jervois has a flood risk score of 53/100, while Joanna scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jervois scores 34/100 for bushfire risk. Joanna scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jervois scores 53/100 for bushfire risk. Joanna scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jervois or Joanna?",
@@ -76,5 +76,15 @@
       "label": "Joanna Should I Buy?",
       "url": "/suburbs/sa/joanna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 24
+      "scoreA": 51,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 55
+      "scoreA": 63,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 53
+      "scoreA": 70,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 34
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
       "scoreA": 29,
-      "scoreB": 23
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 29,
+      "scoreB": 21
     }
   ],
-  "verdict": "Kyneton South has a lower overall climate risk score (35/100) compared to Kyabram South (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kyneton South has a lower overall climate risk score (30/100) compared to Kyabram South (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kyabram South or Kyneton South safer from flooding?",
-      "answer": "Kyabram South has a flood risk score of 53/100, while Kyneton South scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kyabram South has a flood risk score of 51/100, while Kyneton South scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kyabram South scores 49/100 for bushfire risk. Kyneton South scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kyabram South scores 63/100 for bushfire risk. Kyneton South scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kyabram South or Kyneton South?",
@@ -76,5 +76,15 @@
       "label": "Kyneton South Should I Buy?",
       "url": "/suburbs/vic/kyneton-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

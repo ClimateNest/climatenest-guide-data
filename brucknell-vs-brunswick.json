@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 34,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 50
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 79
+      "scoreA": 65,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 24
+      "scoreA": 41,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 22
+      "scoreA": 18,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 26
     }
   ],
-  "verdict": "Brucknell has a lower overall climate risk score (29/100) compared to Brunswick (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Brucknell has a lower overall climate risk score (35/100) compared to Brunswick (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Brucknell or Brunswick safer from flooding?",
-      "answer": "Brucknell has a flood risk score of 23/100, while Brunswick scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brucknell has a flood risk score of 34/100, while Brunswick scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brucknell scores 31/100 for bushfire risk. Brunswick scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brucknell scores 29/100 for bushfire risk. Brunswick scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brucknell or Brunswick?",
@@ -76,5 +76,15 @@
       "label": "Brunswick Should I Buy?",
       "url": "/suburbs/vic/brunswick/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 55
+      "scoreA": 24,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 42
+      "scoreA": 63,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 61
+      "scoreA": 69,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 22
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 15
+      "scoreA": 20,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 17
     }
   ],
-  "verdict": "Gunbower has a lower overall climate risk score (36/100) compared to Gruyere (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gunbower has a lower overall climate risk score (36/100) compared to Gruyere (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gruyere or Gunbower safer from flooding?",
-      "answer": "Gruyere has a flood risk score of 55/100, while Gunbower scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gruyere has a flood risk score of 24/100, while Gunbower scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gruyere scores 56/100 for bushfire risk. Gunbower scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gruyere scores 63/100 for bushfire risk. Gunbower scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gruyere or Gunbower?",
@@ -76,5 +76,15 @@
       "label": "Gunbower Should I Buy?",
       "url": "/suburbs/vic/gunbower/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

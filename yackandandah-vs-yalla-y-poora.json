@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 35
+      "scoreA": 46,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 18
+      "scoreA": 40,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 78
+      "scoreA": 60,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 37,
+      "scoreA": 39,
       "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 29
+      "scoreA": 29,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
       "scoreA": 16,
-      "scoreB": 24
+      "scoreB": 26
     }
   ],
-  "verdict": "Yackandandah has a lower overall climate risk score (38/100) compared to Yalla-Y-Poora (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Yalla-Y-Poora has a lower overall climate risk score (37/100) compared to Yackandandah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yackandandah or Yalla-Y-Poora safer from flooding?",
-      "answer": "Yackandandah has a flood risk score of 55/100, while Yalla-Y-Poora scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yackandandah has a flood risk score of 46/100, while Yalla-Y-Poora scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yackandandah scores 30/100 for bushfire risk. Yalla-Y-Poora scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yackandandah scores 40/100 for bushfire risk. Yalla-Y-Poora scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yackandandah or Yalla-Y-Poora?",
-      "answer": "Both suburbs have climate considerations. Yackandandah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yalla-Y-Poora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yalla-Y-Poora Should I Buy?",
       "url": "/suburbs/vic/yalla-y-poora/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

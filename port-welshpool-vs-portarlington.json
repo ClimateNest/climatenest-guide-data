@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 43
+      "scoreA": 55,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 59
+      "scoreA": 68,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 27,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 10
+      "scoreA": 11,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 17
     }
   ],
-  "verdict": "Portarlington has a lower overall climate risk score (36/100) compared to Port Welshpool (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Portarlington has a lower overall climate risk score (36/100) compared to Port Welshpool (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Port Welshpool or Portarlington safer from flooding?",
-      "answer": "Port Welshpool has a flood risk score of 58/100, while Portarlington scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Port Welshpool has a flood risk score of 55/100, while Portarlington scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Port Welshpool scores 38/100 for bushfire risk. Portarlington scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Port Welshpool scores 41/100 for bushfire risk. Portarlington scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Port Welshpool or Portarlington?",
@@ -76,5 +76,15 @@
       "label": "Portarlington Should I Buy?",
       "url": "/suburbs/vic/portarlington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

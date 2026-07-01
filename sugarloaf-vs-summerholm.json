@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 17
+      "scoreA": 34,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 44
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 13,
+      "scoreA": 31,
       "scoreB": 48
     },
     {
+      "name": "Storm",
+      "scoreA": 47,
+      "scoreB": 27
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 26,
+      "scoreB": 36
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 23
     }
   ],
-  "verdict": "Sugarloaf has a lower overall climate risk score (30/100) compared to Summerholm (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sugarloaf has a lower overall climate risk score (29/100) compared to Summerholm (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sugarloaf or Summerholm safer from flooding?",
-      "answer": "Sugarloaf has a flood risk score of 34/100, while Summerholm scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sugarloaf has a flood risk score of 22/100, while Summerholm scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sugarloaf scores 33/100 for bushfire risk. Summerholm scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sugarloaf scores 34/100 for bushfire risk. Summerholm scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sugarloaf or Summerholm?",
@@ -76,5 +76,15 @@
       "label": "Summerholm Should I Buy?",
       "url": "/suburbs/qld/summerholm/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

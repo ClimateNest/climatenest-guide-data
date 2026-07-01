@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 30,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 38
+      "scoreA": 42,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 48
+      "scoreA": 12,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 9,
+      "scoreB": 19
     }
   ],
-  "verdict": "Einasleigh has a lower overall climate risk score (28/100) compared to Elaman Creek (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Einasleigh has a lower overall climate risk score (26/100) compared to Elaman Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Einasleigh or Elaman Creek safer from flooding?",
-      "answer": "Einasleigh has a flood risk score of 40/100, while Elaman Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Einasleigh has a flood risk score of 21/100, while Elaman Creek scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Einasleigh scores 16/100 for bushfire risk. Elaman Creek scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Einasleigh scores 30/100 for bushfire risk. Elaman Creek scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Einasleigh or Elaman Creek?",
@@ -76,5 +76,15 @@
       "label": "Elaman Creek Should I Buy?",
       "url": "/suburbs/qld/elaman-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 34
+      "scoreA": 42,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 58
+      "scoreA": 72,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 32
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 49,
       "scoreB": 27
     },
     {
+      "name": "Coastal",
+      "scoreA": 10,
+      "scoreB": 20
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 17
     }
   ],
-  "verdict": "Chadstone has a lower overall climate risk score (31/100) compared to Cavendish (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Chadstone has a lower overall climate risk score (36/100) compared to Cavendish (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cavendish or Chadstone safer from flooding?",
-      "answer": "Cavendish has a flood risk score of 28/100, while Chadstone scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cavendish has a flood risk score of 42/100, while Chadstone scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cavendish scores 28/100 for bushfire risk. Chadstone scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cavendish scores 24/100 for bushfire risk. Chadstone scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cavendish or Chadstone?",
@@ -76,5 +76,15 @@
       "label": "Chadstone Should I Buy?",
       "url": "/suburbs/vic/chadstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

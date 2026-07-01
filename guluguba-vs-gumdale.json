@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 37
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 23
-    },
-    {
-      "name": "Heat",
-      "scoreA": 45,
+      "scoreA": 16,
       "scoreB": 44
     },
     {
+      "name": "Heat",
+      "scoreA": 42,
+      "scoreB": 32
+    },
+    {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 42
+      "scoreA": 15,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 29,
+      "scoreB": 25
     }
   ],
-  "verdict": "Guluguba has a lower overall climate risk score (33/100) compared to Gumdale (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Guluguba has a lower overall climate risk score (27/100) compared to Gumdale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Guluguba or Gumdale safer from flooding?",
-      "answer": "Guluguba has a flood risk score of 27/100, while Gumdale scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Guluguba has a flood risk score of 35/100, while Gumdale scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Guluguba scores 49/100 for bushfire risk. Gumdale scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Guluguba scores 16/100 for bushfire risk. Gumdale scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Guluguba or Gumdale?",
@@ -76,5 +76,15 @@
       "label": "Gumdale Should I Buy?",
       "url": "/suburbs/qld/gumdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

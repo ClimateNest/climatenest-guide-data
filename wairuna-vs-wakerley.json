@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 33
+      "scoreA": 44,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 60
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
+      "scoreA": 21,
       "scoreB": 35
     },
     {
+      "name": "Heat",
+      "scoreA": 47,
+      "scoreB": 41
+    },
+    {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 31
+      "scoreA": 32,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 45
+      "scoreA": 14,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 16,
+      "scoreB": 16
     }
   ],
-  "verdict": "Wairuna has a lower overall climate risk score (36/100) compared to Wakerley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wairuna has a lower overall climate risk score (29/100) compared to Wakerley (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wairuna or Wakerley safer from flooding?",
-      "answer": "Wairuna has a flood risk score of 29/100, while Wakerley scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wairuna has a flood risk score of 44/100, while Wakerley scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wairuna scores 62/100 for bushfire risk. Wakerley scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wairuna scores 21/100 for bushfire risk. Wakerley scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wairuna or Wakerley?",
@@ -76,5 +76,15 @@
       "label": "Wakerley Should I Buy?",
       "url": "/suburbs/qld/wakerley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3353,
+    "projected2030": 4695,
+    "projected2050": 8719
+  },
+  "valueImpact": {
+    "dragPercent": 0.25,
+    "description": "Properties in this area may face a 0.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

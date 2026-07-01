@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 33,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 19
+      "scoreA": 43,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 64
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 16
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Ludlow has a lower overall climate risk score (32/100) compared to Lowlands (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lowlands has a lower overall climate risk score (33/100) compared to Ludlow (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lowlands or Ludlow safer from flooding?",
-      "answer": "Lowlands has a flood risk score of 47/100, while Ludlow scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lowlands has a flood risk score of 33/100, while Ludlow scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lowlands scores 23/100 for bushfire risk. Ludlow scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lowlands scores 43/100 for bushfire risk. Ludlow scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lowlands or Ludlow?",
-      "answer": "Both suburbs have climate considerations. Ludlow has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lowlands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ludlow Should I Buy?",
       "url": "/suburbs/wa/ludlow/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

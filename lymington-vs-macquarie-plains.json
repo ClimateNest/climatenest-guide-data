@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 49
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 51
+      "scoreA": 44,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 54
+      "scoreA": 73,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 20
     }
   ],
-  "verdict": "Lymington has a lower overall climate risk score (33/100) compared to Macquarie Plains (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Macquarie Plains has a lower overall climate risk score (38/100) compared to Lymington (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lymington or Macquarie Plains safer from flooding?",
-      "answer": "Lymington has a flood risk score of 50/100, while Macquarie Plains scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lymington has a flood risk score of 48/100, while Macquarie Plains scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lymington scores 16/100 for bushfire risk. Macquarie Plains scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lymington scores 44/100 for bushfire risk. Macquarie Plains scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lymington or Macquarie Plains?",
-      "answer": "Both suburbs have climate considerations. Lymington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Macquarie Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Macquarie Plains Should I Buy?",
       "url": "/suburbs/tas/macquarie-plains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

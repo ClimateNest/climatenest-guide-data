@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 24
+      "scoreA": 35,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 26
+      "scoreA": 18,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 40
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 49
+      "scoreA": 26,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 55
+      "scoreA": 26,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Bingil Bay has a lower overall climate risk score (31/100) compared to Binjour (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bingil Bay has a lower overall climate risk score (26/100) compared to Binjour (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bingil Bay or Binjour safer from flooding?",
-      "answer": "Bingil Bay has a flood risk score of 54/100, while Binjour scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bingil Bay has a flood risk score of 35/100, while Binjour scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bingil Bay scores 31/100 for bushfire risk. Binjour scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bingil Bay scores 18/100 for bushfire risk. Binjour scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bingil Bay or Binjour?",
@@ -76,5 +76,15 @@
       "label": "Binjour Should I Buy?",
       "url": "/suburbs/qld/binjour/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

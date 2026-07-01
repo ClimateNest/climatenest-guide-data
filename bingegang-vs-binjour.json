@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 39
+      "scoreA": 42,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 47
+      "scoreA": 34,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 44
+      "scoreA": 41,
+      "scoreB": 40
     },
     {
       "name": "Storm",
       "scoreA": 27,
-      "scoreB": 33
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 37
+      "scoreA": 27,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 26
+      "scoreA": 10,
+      "scoreB": 27
     }
   ],
-  "verdict": "Bingegang has a lower overall climate risk score (31/100) compared to Binjour (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bingegang has a lower overall climate risk score (30/100) compared to Binjour (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bingegang or Binjour safer from flooding?",
-      "answer": "Bingegang has a flood risk score of 45/100, while Binjour scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bingegang has a flood risk score of 42/100, while Binjour scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bingegang scores 39/100 for bushfire risk. Binjour scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bingegang scores 34/100 for bushfire risk. Binjour scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bingegang or Binjour?",
@@ -76,5 +76,15 @@
       "label": "Binjour Should I Buy?",
       "url": "/suburbs/qld/binjour/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

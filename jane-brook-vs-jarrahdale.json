@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 47
+      "scoreA": 56,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 24
+      "scoreA": 53,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 77
+      "scoreA": 68,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 20
+      "scoreA": 47,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 28
+      "scoreA": 11,
+      "scoreB": 17
     }
   ],
-  "verdict": "Jane Brook has a lower overall climate risk score (33/100) compared to Jarrahdale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Jarrahdale has a lower overall climate risk score (36/100) compared to Jane Brook (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jane Brook or Jarrahdale safer from flooding?",
-      "answer": "Jane Brook has a flood risk score of 28/100, while Jarrahdale scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jane Brook has a flood risk score of 56/100, while Jarrahdale scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jane Brook scores 42/100 for bushfire risk. Jarrahdale scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jane Brook scores 53/100 for bushfire risk. Jarrahdale scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jane Brook or Jarrahdale?",
-      "answer": "Both suburbs have climate considerations. Jane Brook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Jarrahdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Jarrahdale Should I Buy?",
       "url": "/suburbs/wa/jarrahdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

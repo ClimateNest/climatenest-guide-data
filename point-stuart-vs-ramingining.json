@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 48,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 42
+      "scoreA": 51,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 40
-    },
-    {
-      "name": "Storm",
-      "scoreA": 28,
+      "scoreA": 49,
       "scoreB": 31
     },
     {
+      "name": "Storm",
+      "scoreA": 39,
+      "scoreB": 45
+    },
+    {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 10,
+      "scoreB": 6
     }
   ],
-  "verdict": "Ramingining has a lower overall climate risk score (28/100) compared to Point Stuart (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Point Stuart has a lower overall climate risk score (35/100) compared to Ramingining (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Point Stuart or Ramingining safer from flooding?",
-      "answer": "Point Stuart has a flood risk score of 26/100, while Ramingining scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Point Stuart has a flood risk score of 48/100, while Ramingining scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Point Stuart scores 53/100 for bushfire risk. Ramingining scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Point Stuart scores 51/100 for bushfire risk. Ramingining scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Point Stuart or Ramingining?",
-      "answer": "Both suburbs have climate considerations. Ramingining has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Point Stuart has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ramingining Should I Buy?",
       "url": "/suburbs/nt/ramingining/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

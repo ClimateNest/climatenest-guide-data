@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 58,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 20
+      "scoreA": 34,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 70
+      "scoreA": 54,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 39,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 10
+      "scoreA": 21,
+      "scoreB": 29
     }
   ],
-  "verdict": "Bromley has a lower overall climate risk score (29/100) compared to Broken Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Broken Creek has a lower overall climate risk score (39/100) compared to Bromley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Broken Creek or Bromley safer from flooding?",
-      "answer": "Broken Creek has a flood risk score of 26/100, while Bromley scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Broken Creek has a flood risk score of 58/100, while Bromley scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Broken Creek scores 27/100 for bushfire risk. Bromley scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Broken Creek scores 34/100 for bushfire risk. Bromley scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Broken Creek or Bromley?",
-      "answer": "Both suburbs have climate considerations. Bromley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Broken Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bromley Should I Buy?",
       "url": "/suburbs/vic/bromley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

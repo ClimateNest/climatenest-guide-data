@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 60
+      "scoreA": 50,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 48
+      "scoreA": 18,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 64
+      "scoreA": 51,
+      "scoreB": 63
     },
     {
       "name": "Storm",
       "scoreA": 30,
-      "scoreB": 27
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 20
+      "scoreA": 10,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 23
     }
   ],
-  "verdict": "Culla has a lower overall climate risk score (37/100) compared to Cullen (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Culla has a lower overall climate risk score (31/100) compared to Cullen (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Culla or Cullen safer from flooding?",
-      "answer": "Culla has a flood risk score of 33/100, while Cullen scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Culla has a flood risk score of 50/100, while Cullen scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Culla scores 32/100 for bushfire risk. Cullen scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Culla scores 18/100 for bushfire risk. Cullen scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Culla or Cullen?",
@@ -76,5 +76,15 @@
       "label": "Cullen Should I Buy?",
       "url": "/suburbs/vic/cullen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

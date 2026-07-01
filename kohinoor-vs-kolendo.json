@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 52
+      "scoreA": 16,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 62
+      "scoreA": 53,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 46
+      "scoreA": 46,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 17
     }
   ],
-  "verdict": "Kohinoor has a lower overall climate risk score (34/100) compared to Kolendo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kohinoor has a lower overall climate risk score (31/100) compared to Kolendo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kohinoor or Kolendo safer from flooding?",
-      "answer": "Kohinoor has a flood risk score of 34/100, while Kolendo scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kohinoor has a flood risk score of 28/100, while Kolendo scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kohinoor scores 39/100 for bushfire risk. Kolendo scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kohinoor scores 16/100 for bushfire risk. Kolendo scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kohinoor or Kolendo?",
@@ -76,5 +76,15 @@
       "label": "Kolendo Should I Buy?",
       "url": "/suburbs/sa/kolendo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

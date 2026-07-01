@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 36
+      "scoreA": 15,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 30
+      "scoreA": 30,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 49,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 36
+      "scoreA": 29,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 26
     }
   ],
-  "verdict": "Pimlico has a lower overall climate risk score (30/100) compared to Pimpimbudgee (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pimlico has a lower overall climate risk score (31/100) compared to Pimpimbudgee (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pimlico or Pimpimbudgee safer from flooding?",
-      "answer": "Pimlico has a flood risk score of 43/100, while Pimpimbudgee scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pimlico has a flood risk score of 48/100, while Pimpimbudgee scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pimlico scores 32/100 for bushfire risk. Pimpimbudgee scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pimlico scores 15/100 for bushfire risk. Pimpimbudgee scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pimlico or Pimpimbudgee?",
@@ -76,5 +76,15 @@
       "label": "Pimpimbudgee Should I Buy?",
       "url": "/suburbs/qld/pimpimbudgee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

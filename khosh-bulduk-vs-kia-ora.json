@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 51
+      "scoreA": 38,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 63
+      "scoreA": 49,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 32,
+      "scoreA": 34,
       "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 52
+      "scoreA": 26,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
       "scoreA": 15,
-      "scoreB": 25
+      "scoreB": 12
     }
   ],
-  "verdict": "Khosh Bulduk has a lower overall climate risk score (37/100) compared to Kia Ora (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Khosh Bulduk has a lower overall climate risk score (30/100) compared to Kia Ora (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Khosh Bulduk or Kia Ora safer from flooding?",
-      "answer": "Khosh Bulduk has a flood risk score of 45/100, while Kia Ora scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Khosh Bulduk has a flood risk score of 38/100, while Kia Ora scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Khosh Bulduk scores 61/100 for bushfire risk. Kia Ora scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Khosh Bulduk scores 49/100 for bushfire risk. Kia Ora scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Khosh Bulduk or Kia Ora?",
@@ -76,5 +76,15 @@
       "label": "Kia Ora Should I Buy?",
       "url": "/suburbs/qld/kia-ora/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

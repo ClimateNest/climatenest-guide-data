@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 45
+      "scoreA": 32,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 57
-    },
-    {
-      "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 51
-    },
-    {
-      "name": "Storm",
-      "scoreA": 39,
+      "scoreA": 17,
       "scoreB": 41
     },
     {
+      "name": "Heat",
+      "scoreA": 60,
+      "scoreB": 55
+    },
+    {
+      "name": "Storm",
+      "scoreA": 21,
+      "scoreB": 27
+    },
+    {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Ceres has a lower overall climate risk score (37/100) compared to Cavendish (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cavendish has a lower overall climate risk score (29/100) compared to Ceres (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cavendish or Ceres safer from flooding?",
-      "answer": "Cavendish has a flood risk score of 47/100, while Ceres scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cavendish has a flood risk score of 32/100, while Ceres scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cavendish scores 38/100 for bushfire risk. Ceres scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cavendish scores 17/100 for bushfire risk. Ceres scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cavendish or Ceres?",
-      "answer": "Both suburbs have climate considerations. Ceres has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cavendish has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ceres Should I Buy?",
       "url": "/suburbs/vic/ceres/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

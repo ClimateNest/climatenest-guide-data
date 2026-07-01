@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 48
+      "scoreA": 58,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 33
+      "scoreA": 27,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 24
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 24,
+      "scoreA": 70,
       "scoreB": 53
     },
     {
+      "name": "Storm",
+      "scoreA": 38,
+      "scoreB": 36
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 47
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 30
     }
   ],
-  "verdict": "Bribbaree has a lower overall climate risk score (35/100) compared to Brierfield (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bribbaree has a lower overall climate risk score (39/100) compared to Brierfield (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bribbaree or Brierfield safer from flooding?",
-      "answer": "Bribbaree has a flood risk score of 36/100, while Brierfield scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bribbaree has a flood risk score of 58/100, while Brierfield scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bribbaree scores 19/100 for bushfire risk. Brierfield scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bribbaree scores 27/100 for bushfire risk. Brierfield scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bribbaree or Brierfield?",
@@ -76,5 +76,15 @@
       "label": "Brierfield Should I Buy?",
       "url": "/suburbs/nsw/brierfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

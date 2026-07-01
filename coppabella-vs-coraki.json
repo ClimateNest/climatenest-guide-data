@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 33
+      "scoreA": 41,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 38
-    },
-    {
-      "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 38
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 19,
+      "scoreA": 70,
       "scoreB": 31
     },
     {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 37
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 30,
+      "scoreB": 57
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 28,
+      "scoreB": 25
     }
   ],
-  "verdict": "Coraki has a lower overall climate risk score (34/100) compared to Coppabella (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coraki has a lower overall climate risk score (37/100) compared to Coppabella (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Coppabella or Coraki safer from flooding?",
-      "answer": "Coppabella has a flood risk score of 31/100, while Coraki scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coppabella has a flood risk score of 40/100, while Coraki scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coppabella scores 65/100 for bushfire risk. Coraki scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coppabella scores 41/100 for bushfire risk. Coraki scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coppabella or Coraki?",
@@ -76,5 +76,15 @@
       "label": "Coraki Should I Buy?",
       "url": "/suburbs/nsw/coraki/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

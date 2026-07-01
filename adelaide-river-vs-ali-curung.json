@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 33
+      "scoreA": 30,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 18
+      "scoreA": 21,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 34
+      "scoreA": 48,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 6,
+      "scoreB": 18
     }
   ],
-  "verdict": "Adelaide River has a lower overall climate risk score (26/100) compared to Ali Curung (27/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Adelaide River has a lower overall climate risk score (26/100) compared to Ali Curung (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Adelaide River or Ali Curung safer from flooding?",
-      "answer": "Adelaide River has a flood risk score of 31/100, while Ali Curung scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Adelaide River has a flood risk score of 30/100, while Ali Curung scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Adelaide River scores 33/100 for bushfire risk. Ali Curung scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Adelaide River scores 21/100 for bushfire risk. Ali Curung scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Adelaide River or Ali Curung?",
@@ -76,5 +76,15 @@
       "label": "Ali Curung Should I Buy?",
       "url": "/suburbs/nt/ali-curung/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3229,
+    "projected2030": 4520,
+    "projected2050": 8395
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 38
+      "scoreA": 57,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 55
+      "scoreA": 56,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 72,
+      "scoreA": 74,
       "scoreB": 63
     },
     {
       "name": "Storm",
       "scoreA": 26,
-      "scoreB": 22
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 11
+      "scoreA": 23,
+      "scoreB": 17
     }
   ],
-  "verdict": "McMahons Creek has a lower overall climate risk score (35/100) compared to McLoughlins Beach (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "McMahons Creek has a lower overall climate risk score (39/100) compared to McLoughlins Beach (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is McLoughlins Beach or McMahons Creek safer from flooding?",
-      "answer": "McLoughlins Beach has a flood risk score of 56/100, while McMahons Creek scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "McLoughlins Beach has a flood risk score of 57/100, while McMahons Creek scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "McLoughlins Beach scores 31/100 for bushfire risk. McMahons Creek scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "McLoughlins Beach scores 56/100 for bushfire risk. McMahons Creek scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in McLoughlins Beach or McMahons Creek?",
@@ -76,5 +76,15 @@
       "label": "McMahons Creek Should I Buy?",
       "url": "/suburbs/vic/mcmahons-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

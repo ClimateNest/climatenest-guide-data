@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 55
+      "scoreA": 49,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 55
+      "scoreA": 40,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 55
+      "scoreA": 56,
+      "scoreB": 52
     },
     {
       "name": "Storm",
       "scoreA": 29,
-      "scoreB": 39
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 11
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 22
     }
   ],
-  "verdict": "Crescent has a lower overall climate risk score (39/100) compared to Craigburn Farm (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Craigburn Farm has a lower overall climate risk score (35/100) compared to Crescent (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Craigburn Farm or Crescent safer from flooding?",
-      "answer": "Craigburn Farm has a flood risk score of 54/100, while Crescent scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Craigburn Farm has a flood risk score of 49/100, while Crescent scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Craigburn Farm scores 58/100 for bushfire risk. Crescent scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Craigburn Farm scores 40/100 for bushfire risk. Crescent scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Craigburn Farm or Crescent?",
-      "answer": "Both suburbs have climate considerations. Crescent has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Craigburn Farm has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Crescent Should I Buy?",
       "url": "/suburbs/sa/crescent/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

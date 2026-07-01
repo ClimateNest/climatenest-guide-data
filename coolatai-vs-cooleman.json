@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 48
+      "scoreA": 55,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 50
+      "scoreA": 49,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 49,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 30
+      "scoreA": 56,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Cooleman has a lower overall climate risk score (36/100) compared to Coolatai (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cooleman has a lower overall climate risk score (34/100) compared to Coolatai (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Coolatai or Cooleman safer from flooding?",
-      "answer": "Coolatai has a flood risk score of 33/100, while Cooleman scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coolatai has a flood risk score of 55/100, while Cooleman scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coolatai scores 22/100 for bushfire risk. Cooleman scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coolatai scores 17/100 for bushfire risk. Cooleman scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coolatai or Cooleman?",
@@ -76,5 +76,15 @@
       "label": "Cooleman Should I Buy?",
       "url": "/suburbs/nsw/cooleman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 48
+      "scoreA": 31,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 42
+      "scoreA": 48,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 26
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 52
+      "scoreA": 20,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 6,
+      "scoreB": 23
     }
   ],
-  "verdict": "Yarraden has a lower overall climate risk score (33/100) compared to Yarranlea (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yarraden has a lower overall climate risk score (32/100) compared to Yarranlea (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yarraden or Yarranlea safer from flooding?",
-      "answer": "Yarraden has a flood risk score of 42/100, while Yarranlea scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yarraden has a flood risk score of 31/100, while Yarranlea scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yarraden scores 57/100 for bushfire risk. Yarranlea scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yarraden scores 44/100 for bushfire risk. Yarranlea scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yarraden or Yarranlea?",
@@ -76,5 +76,15 @@
       "label": "Yarranlea Should I Buy?",
       "url": "/suburbs/qld/yarranlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

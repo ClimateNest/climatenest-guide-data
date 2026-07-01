@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 26
+      "scoreA": 41,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 40,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 73
+      "scoreA": 61,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 32
+      "scoreA": 37,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 19
+      "scoreA": 26,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 11
     }
   ],
-  "verdict": "Craigieburn has a lower overall climate risk score (32/100) compared to Cowwarr (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Craigieburn has a lower overall climate risk score (33/100) compared to Cowwarr (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cowwarr or Craigieburn safer from flooding?",
-      "answer": "Cowwarr has a flood risk score of 53/100, while Craigieburn scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cowwarr has a flood risk score of 41/100, while Craigieburn scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cowwarr scores 45/100 for bushfire risk. Craigieburn scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cowwarr scores 40/100 for bushfire risk. Craigieburn scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cowwarr or Craigieburn?",
@@ -76,5 +76,15 @@
       "label": "Craigieburn Should I Buy?",
       "url": "/suburbs/vic/craigieburn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

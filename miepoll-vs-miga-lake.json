@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 27
+      "scoreA": 39,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 75
+      "scoreA": 67,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 43
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 26
     }
   ],
-  "verdict": "Miga Lake has a lower overall climate risk score (37/100) compared to Miepoll (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Miga Lake has a lower overall climate risk score (37/100) compared to Miepoll (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Miepoll or Miga Lake safer from flooding?",
-      "answer": "Miepoll has a flood risk score of 56/100, while Miga Lake scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miepoll has a flood risk score of 39/100, while Miga Lake scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miepoll scores 26/100 for bushfire risk. Miga Lake scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miepoll scores 44/100 for bushfire risk. Miga Lake scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miepoll or Miga Lake?",
@@ -76,5 +76,15 @@
       "label": "Miga Lake Should I Buy?",
       "url": "/suburbs/vic/miga-lake/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

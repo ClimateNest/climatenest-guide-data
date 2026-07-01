@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 40
+      "scoreA": 42,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 55
+      "scoreA": 52,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 63
+      "scoreA": 59,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 32
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 27,
       "scoreB": 28
     },
     {
+      "name": "Coastal",
+      "scoreA": 25,
+      "scoreB": 24
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 11
     }
   ],
-  "verdict": "ACT Remainder - Paddys River has a lower overall climate risk score (30/100) compared to ACT Remainder - Stromlo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "ACT Remainder - Stromlo has a lower overall climate risk score (27/100) compared to ACT Remainder - Paddys River (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is ACT Remainder - Paddys River or ACT Remainder - Stromlo safer from flooding?",
-      "answer": "ACT Remainder - Paddys River has a flood risk score of 21/100, while ACT Remainder - Stromlo scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "ACT Remainder - Paddys River has a flood risk score of 42/100, while ACT Remainder - Stromlo scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "ACT Remainder - Paddys River scores 27/100 for bushfire risk. ACT Remainder - Stromlo scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "ACT Remainder - Paddys River scores 52/100 for bushfire risk. ACT Remainder - Stromlo scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in ACT Remainder - Paddys River or ACT Remainder - Stromlo?",
-      "answer": "Both suburbs have climate considerations. ACT Remainder - Paddys River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. ACT Remainder - Stromlo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "ACT Remainder - Stromlo Should I Buy?",
       "url": "/suburbs/act/act-remainder-stromlo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

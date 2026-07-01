@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 45
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 63
+      "scoreA": 31,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 50,
+      "scoreA": 60,
       "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Wangary has a lower overall climate risk score (33/100) compared to Wanilla (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wangary has a lower overall climate risk score (32/100) compared to Wanilla (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wangary or Wanilla safer from flooding?",
-      "answer": "Wangary has a flood risk score of 32/100, while Wanilla scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wangary has a flood risk score of 40/100, while Wanilla scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wangary scores 29/100 for bushfire risk. Wanilla scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wangary scores 31/100 for bushfire risk. Wanilla scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wangary or Wanilla?",
@@ -76,5 +76,15 @@
       "label": "Wanilla Should I Buy?",
       "url": "/suburbs/sa/wanilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

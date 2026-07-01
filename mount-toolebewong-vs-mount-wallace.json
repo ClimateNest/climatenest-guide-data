@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 59
+      "scoreA": 52,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 58
+      "scoreA": 32,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 71,
+      "scoreA": 60,
       "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 22,
       "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 22
     }
   ],
-  "verdict": "Mount Toolebewong has a lower overall climate risk score (36/100) compared to Mount Wallace (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Toolebewong has a lower overall climate risk score (36/100) compared to Mount Wallace (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Toolebewong or Mount Wallace safer from flooding?",
-      "answer": "Mount Toolebewong has a flood risk score of 39/100, while Mount Wallace scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Toolebewong has a flood risk score of 52/100, while Mount Wallace scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Toolebewong scores 35/100 for bushfire risk. Mount Wallace scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Toolebewong scores 32/100 for bushfire risk. Mount Wallace scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Toolebewong or Mount Wallace?",
@@ -76,5 +76,15 @@
       "label": "Mount Wallace Should I Buy?",
       "url": "/suburbs/vic/mount-wallace/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

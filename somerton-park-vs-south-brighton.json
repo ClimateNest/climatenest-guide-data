@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 63
+      "scoreA": 37,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 59
+      "scoreA": 74,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 21
     }
   ],
-  "verdict": "Somerton Park has a lower overall climate risk score (39/100) compared to South Brighton (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Somerton Park and South Brighton have similar overall climate risk scores.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Somerton Park or South Brighton safer from flooding?",
-      "answer": "Somerton Park has a flood risk score of 59/100, while South Brighton scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Somerton Park has a flood risk score of 45/100, while South Brighton scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Somerton Park scores 29/100 for bushfire risk. South Brighton scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Somerton Park scores 37/100 for bushfire risk. South Brighton scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Somerton Park or South Brighton?",
@@ -76,5 +76,15 @@
       "label": "South Brighton Should I Buy?",
       "url": "/suburbs/sa/south-brighton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

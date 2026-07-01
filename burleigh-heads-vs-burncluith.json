@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 43
+      "scoreA": 28,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 58
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Heat",
       "scoreA": 36,
-      "scoreB": 42
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 17
     }
   ],
-  "verdict": "Burleigh Heads has a lower overall climate risk score (33/100) compared to Burncluith (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Burleigh Heads has a lower overall climate risk score (31/100) compared to Burncluith (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burleigh Heads or Burncluith safer from flooding?",
-      "answer": "Burleigh Heads has a flood risk score of 35/100, while Burncluith scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burleigh Heads has a flood risk score of 28/100, while Burncluith scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burleigh Heads scores 29/100 for bushfire risk. Burncluith scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burleigh Heads scores 31/100 for bushfire risk. Burncluith scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burleigh Heads or Burncluith?",
@@ -76,5 +76,15 @@
       "label": "Burncluith Should I Buy?",
       "url": "/suburbs/qld/burncluith/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

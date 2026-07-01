@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 47
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 38
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 70
+      "scoreA": 76,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 20
+      "scoreA": 43,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 17,
+      "scoreB": 20
     }
   ],
-  "verdict": "Penong has a lower overall climate risk score (34/100) compared to Penola (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Penong has a lower overall climate risk score (38/100) compared to Penola (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Penola or Penong safer from flooding?",
-      "answer": "Penola has a flood risk score of 53/100, while Penong scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Penola has a flood risk score of 48/100, while Penong scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Penola scores 19/100 for bushfire risk. Penong scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Penola scores 36/100 for bushfire risk. Penong scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Penola or Penong?",
@@ -76,5 +76,15 @@
       "label": "Penong Should I Buy?",
       "url": "/suburbs/sa/penong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

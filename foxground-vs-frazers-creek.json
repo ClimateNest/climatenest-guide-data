@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 22
+      "scoreA": 38,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 40
+      "scoreA": 60,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 55
+      "scoreA": 55,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 33
+      "scoreA": 23,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 55
+      "scoreA": 46,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 23
     }
   ],
-  "verdict": "Frazers Creek has a lower overall climate risk score (37/100) compared to Foxground (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Frazers Creek has a lower overall climate risk score (40/100) compared to Foxground (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Foxground or Frazers Creek safer from flooding?",
-      "answer": "Foxground has a flood risk score of 34/100, while Frazers Creek scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Foxground has a flood risk score of 38/100, while Frazers Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Foxground scores 37/100 for bushfire risk. Frazers Creek scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Foxground scores 60/100 for bushfire risk. Frazers Creek scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Foxground or Frazers Creek?",
@@ -76,5 +76,15 @@
       "label": "Frazers Creek Should I Buy?",
       "url": "/suburbs/nsw/frazers-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

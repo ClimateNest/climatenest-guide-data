@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 45
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 16
-    },
-    {
-      "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 70
-    },
-    {
-      "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 22
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 47,
+      "scoreA": 38,
       "scoreB": 52
     },
     {
+      "name": "Bushfire",
+      "scoreA": 32,
+      "scoreB": 28
+    },
+    {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 77
+    },
+    {
+      "name": "Storm",
+      "scoreA": 28,
+      "scoreB": 46
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 31,
+      "scoreB": 51
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 13,
+      "scoreB": 20
     }
   ],
-  "verdict": "Revesby Heights has a lower overall climate risk score (36/100) compared to Revesby (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Revesby has a lower overall climate risk score (35/100) compared to Revesby Heights (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Revesby or Revesby Heights safer from flooding?",
-      "answer": "Revesby has a flood risk score of 39/100, while Revesby Heights scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Revesby has a flood risk score of 38/100, while Revesby Heights scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Revesby scores 61/100 for bushfire risk. Revesby Heights scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Revesby scores 32/100 for bushfire risk. Revesby Heights scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Revesby or Revesby Heights?",
-      "answer": "Both suburbs have climate considerations. Revesby Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Revesby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Revesby Heights Should I Buy?",
       "url": "/suburbs/nsw/revesby-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4305,
+    "projected2030": 6027,
+    "projected2050": 11194
+  },
+  "valueImpact": {
+    "dragPercent": 2.35,
+    "description": "Properties in this area may face a 2.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

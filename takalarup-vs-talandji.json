@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 37
+      "scoreA": 16,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 39
+      "scoreA": 78,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 47
+      "scoreA": 24,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 17
+      "scoreA": 20,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 19
     }
   ],
-  "verdict": "Talandji has a lower overall climate risk score (30/100) compared to Takalarup (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Takalarup and Talandji have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Takalarup or Talandji safer from flooding?",
-      "answer": "Takalarup has a flood risk score of 57/100, while Talandji scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Takalarup has a flood risk score of 33/100, while Talandji scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Takalarup scores 65/100 for bushfire risk. Talandji scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Takalarup scores 16/100 for bushfire risk. Talandji scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Takalarup or Talandji?",
-      "answer": "Both suburbs have climate considerations. Talandji has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Takalarup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Talandji Should I Buy?",
       "url": "/suburbs/wa/talandji/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

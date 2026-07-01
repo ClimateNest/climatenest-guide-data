@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 51,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 31
+      "scoreA": 45,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 59
+      "scoreA": 67,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 30
+      "scoreA": 44,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 35
+      "scoreA": 53,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 30
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Abermain has a lower overall climate risk score (37/100) compared to Aberglasslyn (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Abermain has a lower overall climate risk score (36/100) compared to Aberglasslyn (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Aberglasslyn or Abermain safer from flooding?",
-      "answer": "Aberglasslyn has a flood risk score of 38/100, while Abermain scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Aberglasslyn has a flood risk score of 51/100, while Abermain scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Aberglasslyn scores 41/100 for bushfire risk. Abermain scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Aberglasslyn scores 45/100 for bushfire risk. Abermain scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Aberglasslyn or Abermain?",
@@ -76,5 +76,15 @@
       "label": "Abermain Should I Buy?",
       "url": "/suburbs/nsw/abermain/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

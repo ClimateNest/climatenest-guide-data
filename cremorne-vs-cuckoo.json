@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 16
+      "scoreA": 41,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 54
+      "scoreA": 70,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
       "scoreA": 11,
-      "scoreB": 21
+      "scoreB": 23
     }
   ],
-  "verdict": "Cuckoo has a lower overall climate risk score (31/100) compared to Cremorne (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cremorne has a lower overall climate risk score (34/100) compared to Cuckoo (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cremorne or Cuckoo safer from flooding?",
-      "answer": "Cremorne has a flood risk score of 46/100, while Cuckoo scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cremorne has a flood risk score of 31/100, while Cuckoo scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cremorne scores 56/100 for bushfire risk. Cuckoo scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cremorne scores 41/100 for bushfire risk. Cuckoo scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cremorne or Cuckoo?",
-      "answer": "Both suburbs have climate considerations. Cuckoo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cremorne has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cuckoo Should I Buy?",
       "url": "/suburbs/tas/cuckoo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 36
+      "scoreA": 35,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 63
+      "scoreA": 64,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 11,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 17
+      "scoreB": 12
     }
   ],
-  "verdict": "Tomahawk has a lower overall climate risk score (32/100) compared to Toiberry (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tomahawk has a lower overall climate risk score (26/100) compared to Toiberry (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Toiberry or Tomahawk safer from flooding?",
-      "answer": "Toiberry has a flood risk score of 36/100, while Tomahawk scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toiberry has a flood risk score of 35/100, while Tomahawk scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toiberry scores 55/100 for bushfire risk. Tomahawk scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toiberry scores 24/100 for bushfire risk. Tomahawk scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toiberry or Tomahawk?",
@@ -76,5 +76,15 @@
       "label": "Tomahawk Should I Buy?",
       "url": "/suburbs/tas/tomahawk/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

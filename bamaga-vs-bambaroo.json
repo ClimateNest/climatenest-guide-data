@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 23
+      "scoreA": 36,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 39
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 45
+      "scoreA": 50,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
+      "scoreA": 29,
       "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 5,
-      "scoreB": 19
+      "scoreA": 9,
+      "scoreB": 16
     }
   ],
-  "verdict": "Bamaga has a lower overall climate risk score (32/100) compared to Bambaroo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bambaroo has a lower overall climate risk score (30/100) compared to Bamaga (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bamaga or Bambaroo safer from flooding?",
-      "answer": "Bamaga has a flood risk score of 22/100, while Bambaroo scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bamaga has a flood risk score of 55/100, while Bambaroo scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bamaga scores 57/100 for bushfire risk. Bambaroo scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bamaga scores 36/100 for bushfire risk. Bambaroo scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bamaga or Bambaroo?",
-      "answer": "Both suburbs have climate considerations. Bamaga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bambaroo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bambaroo Should I Buy?",
       "url": "/suburbs/qld/bambaroo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

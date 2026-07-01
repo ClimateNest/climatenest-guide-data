@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 26
+      "scoreA": 37,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 26
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Heat",
       "scoreA": 44,
-      "scoreB": 37
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 55
+      "scoreA": 18,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Toolakea has a lower overall climate risk score (25/100) compared to Toolburra (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Toolakea has a lower overall climate risk score (28/100) compared to Toolburra (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Toolakea or Toolburra safer from flooding?",
-      "answer": "Toolakea has a flood risk score of 31/100, while Toolburra scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toolakea has a flood risk score of 37/100, while Toolburra scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toolakea scores 25/100 for bushfire risk. Toolburra scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toolakea scores 31/100 for bushfire risk. Toolburra scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toolakea or Toolburra?",
@@ -76,5 +76,15 @@
       "label": "Toolburra Should I Buy?",
       "url": "/suburbs/qld/toolburra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3138,
+    "projected2030": 4393,
+    "projected2050": 8159
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

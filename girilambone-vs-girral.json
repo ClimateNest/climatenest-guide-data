@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 24
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 63
-    },
-    {
-      "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 56
-    },
-    {
-      "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 23,
       "scoreB": 48
     },
     {
+      "name": "Bushfire",
+      "scoreA": 25,
+      "scoreB": 55
+    },
+    {
+      "name": "Heat",
+      "scoreA": 52,
+      "scoreB": 52
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 35
+    },
+    {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Girilambone has a lower overall climate risk score (32/100) compared to Girral (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Girilambone has a lower overall climate risk score (30/100) compared to Girral (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Girilambone or Girral safer from flooding?",
-      "answer": "Girilambone has a flood risk score of 30/100, while Girral scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Girilambone has a flood risk score of 23/100, while Girral scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Girilambone scores 35/100 for bushfire risk. Girral scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Girilambone scores 25/100 for bushfire risk. Girral scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Girilambone or Girral?",
@@ -76,5 +76,15 @@
       "label": "Girral Should I Buy?",
       "url": "/suburbs/nsw/girral/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

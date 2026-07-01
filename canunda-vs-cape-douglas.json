@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 36
+      "scoreA": 36,
+      "scoreB": 32
     },
     {
       "name": "Heat",
       "scoreA": 70,
-      "scoreB": 61
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 38
+      "scoreA": 31,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 18
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 24,
+      "scoreB": 22
     }
   ],
-  "verdict": "Cape Douglas has a lower overall climate risk score (34/100) compared to Canunda (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cape Douglas has a lower overall climate risk score (33/100) compared to Canunda (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Canunda or Cape Douglas safer from flooding?",
-      "answer": "Canunda has a flood risk score of 33/100, while Cape Douglas scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Canunda has a flood risk score of 30/100, while Cape Douglas scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Canunda scores 39/100 for bushfire risk. Cape Douglas scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Canunda scores 36/100 for bushfire risk. Cape Douglas scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Canunda or Cape Douglas?",
@@ -76,5 +76,15 @@
       "label": "Cape Douglas Should I Buy?",
       "url": "/suburbs/sa/cape-douglas/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

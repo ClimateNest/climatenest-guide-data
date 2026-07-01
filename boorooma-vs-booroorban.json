@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 37
+      "scoreA": 54,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
       "scoreA": 20,
-      "scoreB": 54
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 73
+      "scoreA": 76,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 17
+      "scoreA": 28,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 24
     }
   ],
-  "verdict": "Boorooma has a lower overall climate risk score (34/100) compared to Booroorban (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Booroorban has a lower overall climate risk score (34/100) compared to Boorooma (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boorooma or Booroorban safer from flooding?",
-      "answer": "Boorooma has a flood risk score of 33/100, while Booroorban scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boorooma has a flood risk score of 54/100, while Booroorban scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boorooma scores 20/100 for bushfire risk. Booroorban scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boorooma scores 20/100 for bushfire risk. Booroorban scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boorooma or Booroorban?",
-      "answer": "Both suburbs have climate considerations. Boorooma has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Booroorban has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Booroorban Should I Buy?",
       "url": "/suburbs/nsw/booroorban/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

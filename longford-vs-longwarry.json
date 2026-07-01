@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 40
+      "scoreA": 30,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 24
+      "scoreA": 59,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 72
+      "scoreA": 51,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 38
+      "scoreA": 41,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 12,
+      "scoreB": 16
     }
   ],
-  "verdict": "Longwarry has a lower overall climate risk score (35/100) compared to Longford (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Longwarry has a lower overall climate risk score (32/100) compared to Longford (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Longford or Longwarry safer from flooding?",
-      "answer": "Longford has a flood risk score of 46/100, while Longwarry scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Longford has a flood risk score of 30/100, while Longwarry scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Longford scores 45/100 for bushfire risk. Longwarry scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Longford scores 59/100 for bushfire risk. Longwarry scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Longford or Longwarry?",
@@ -76,5 +76,15 @@
       "label": "Longwarry Should I Buy?",
       "url": "/suburbs/vic/longwarry/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

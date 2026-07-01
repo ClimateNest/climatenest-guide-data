@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 34
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 40
+      "scoreA": 37,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 79
+      "scoreA": 40,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 25
+      "scoreA": 43,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 22
+      "scoreA": 8,
+      "scoreB": 20
     }
   ],
-  "verdict": "Karijini has a lower overall climate risk score (33/100) compared to Karlgarin (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Karijini has a lower overall climate risk score (28/100) compared to Karlgarin (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Karijini or Karlgarin safer from flooding?",
-      "answer": "Karijini has a flood risk score of 35/100, while Karlgarin scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Karijini has a flood risk score of 23/100, while Karlgarin scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Karijini scores 52/100 for bushfire risk. Karlgarin scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Karijini scores 37/100 for bushfire risk. Karlgarin scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Karijini or Karlgarin?",
@@ -76,5 +76,15 @@
       "label": "Karlgarin Should I Buy?",
       "url": "/suburbs/wa/karlgarin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

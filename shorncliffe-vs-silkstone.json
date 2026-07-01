@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 47,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 32
+      "scoreA": 61,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 38
+      "scoreA": 42,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 49
+      "scoreA": 51,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 23
+      "scoreA": 22,
+      "scoreB": 18
     }
   ],
-  "verdict": "Silkstone has a lower overall climate risk score (39/100) compared to Shorncliffe (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Silkstone has a lower overall climate risk score (36/100) compared to Shorncliffe (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Shorncliffe or Silkstone safer from flooding?",
-      "answer": "Shorncliffe has a flood risk score of 44/100, while Silkstone scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shorncliffe has a flood risk score of 47/100, while Silkstone scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shorncliffe scores 51/100 for bushfire risk. Silkstone scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shorncliffe scores 61/100 for bushfire risk. Silkstone scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shorncliffe or Silkstone?",
@@ -76,5 +76,15 @@
       "label": "Silkstone Should I Buy?",
       "url": "/suburbs/qld/silkstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

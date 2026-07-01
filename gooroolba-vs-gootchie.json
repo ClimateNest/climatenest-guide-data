@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 51
+      "scoreA": 26,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 52
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 35,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 57
+      "scoreA": 41,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 10,
+      "scoreB": 26
     }
   ],
-  "verdict": "Gooroolba has a lower overall climate risk score (37/100) compared to Gootchie (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gooroolba has a lower overall climate risk score (31/100) compared to Gootchie (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gooroolba or Gootchie safer from flooding?",
-      "answer": "Gooroolba has a flood risk score of 60/100, while Gootchie scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gooroolba has a flood risk score of 26/100, while Gootchie scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gooroolba scores 28/100 for bushfire risk. Gootchie scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gooroolba scores 32/100 for bushfire risk. Gootchie scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gooroolba or Gootchie?",
@@ -76,5 +76,15 @@
       "label": "Gootchie Should I Buy?",
       "url": "/suburbs/qld/gootchie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

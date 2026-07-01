@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 44
+      "scoreA": 50,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 64
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 56
+      "scoreA": 77,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 50
+      "scoreA": 20,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 52
+      "scoreA": 20,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 20
     }
   ],
-  "verdict": "Orange Grove has a lower overall climate risk score (33/100) compared to Orchard Hills (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Orange Grove has a lower overall climate risk score (38/100) compared to Orchard Hills (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Orange Grove or Orchard Hills safer from flooding?",
-      "answer": "Orange Grove has a flood risk score of 25/100, while Orchard Hills scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Orange Grove has a flood risk score of 50/100, while Orchard Hills scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Orange Grove scores 37/100 for bushfire risk. Orchard Hills scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Orange Grove scores 34/100 for bushfire risk. Orchard Hills scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Orange Grove or Orchard Hills?",
@@ -76,5 +76,15 @@
       "label": "Orchard Hills Should I Buy?",
       "url": "/suburbs/nsw/orchard-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

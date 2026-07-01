@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 30
+      "scoreA": 49,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 37
+      "scoreA": 59,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 63
+      "scoreA": 68,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 41,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 10
+      "scoreA": 27,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 26
     }
   ],
-  "verdict": "Navigators has a lower overall climate risk score (29/100) compared to Navarre (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Navigators has a lower overall climate risk score (41/100) compared to Navarre (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Navarre or Navigators safer from flooding?",
-      "answer": "Navarre has a flood risk score of 53/100, while Navigators scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Navarre has a flood risk score of 49/100, while Navigators scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Navarre scores 29/100 for bushfire risk. Navigators scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Navarre scores 59/100 for bushfire risk. Navigators scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Navarre or Navigators?",
@@ -76,5 +76,15 @@
       "label": "Navigators Should I Buy?",
       "url": "/suburbs/vic/navigators/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

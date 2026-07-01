@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 32
+      "scoreA": 57,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 48
+      "scoreA": 26,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 39
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 31,
       "scoreB": 42
     },
     {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 36
+    },
+    {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 20
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 12
     }
   ],
-  "verdict": "Richmond has a lower overall climate risk score (33/100) compared to Richlands (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Richmond has a lower overall climate risk score (35/100) compared to Richlands (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Richlands or Richmond safer from flooding?",
-      "answer": "Richlands has a flood risk score of 48/100, while Richmond scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Richlands has a flood risk score of 57/100, while Richmond scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Richlands scores 49/100 for bushfire risk. Richmond scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Richlands scores 26/100 for bushfire risk. Richmond scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Richlands or Richmond?",
@@ -76,5 +76,15 @@
       "label": "Richmond Should I Buy?",
       "url": "/suburbs/qld/richmond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

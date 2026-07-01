@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 29
+      "scoreA": 36,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 34,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 78
+      "scoreA": 68,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 32
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 11,
+      "scoreB": 23
     }
   ],
-  "verdict": "Targa has a lower overall climate risk score (32/100) compared to Talawa (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Talawa has a lower overall climate risk score (36/100) compared to Targa (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Talawa or Targa safer from flooding?",
-      "answer": "Talawa has a flood risk score of 38/100, while Targa scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Talawa has a flood risk score of 36/100, while Targa scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Talawa scores 28/100 for bushfire risk. Targa scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Talawa scores 34/100 for bushfire risk. Targa scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Talawa or Targa?",
-      "answer": "Both suburbs have climate considerations. Targa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Talawa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Targa Should I Buy?",
       "url": "/suburbs/tas/targa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

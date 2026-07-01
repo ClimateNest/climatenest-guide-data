@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 58
+      "scoreA": 48,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 46
+      "scoreA": 50,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 29
+      "scoreA": 33,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 52
+      "scoreA": 46,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 26
+      "scoreA": 29,
+      "scoreB": 21
     }
   ],
-  "verdict": "Woodhill has a lower overall climate risk score (37/100) compared to Woodlands (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Woodlands has a lower overall climate risk score (35/100) compared to Woodhill (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Woodhill or Woodlands safer from flooding?",
-      "answer": "Woodhill has a flood risk score of 25/100, while Woodlands scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodhill has a flood risk score of 44/100, while Woodlands scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodhill scores 55/100 for bushfire risk. Woodlands scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodhill scores 48/100 for bushfire risk. Woodlands scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodhill or Woodlands?",
-      "answer": "Both suburbs have climate considerations. Woodhill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Woodlands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Woodlands Should I Buy?",
       "url": "/suburbs/qld/woodlands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

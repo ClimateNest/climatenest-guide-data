@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 52
+      "scoreA": 32,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 26
+      "scoreA": 15,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 39
-    },
-    {
-      "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 49
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 30,
+      "scoreA": 38,
       "scoreB": 42
     },
     {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 28
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 16,
+      "scoreB": 45
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "Masig Island has a lower overall climate risk score (37/100) compared to Maudsland (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Masig Island has a lower overall climate risk score (25/100) compared to Maudsland (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Masig Island or Maudsland safer from flooding?",
-      "answer": "Masig Island has a flood risk score of 42/100, while Maudsland scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Masig Island has a flood risk score of 32/100, while Maudsland scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Masig Island scores 62/100 for bushfire risk. Maudsland scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Masig Island scores 15/100 for bushfire risk. Maudsland scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Masig Island or Maudsland?",
@@ -76,5 +76,15 @@
       "label": "Maudsland Should I Buy?",
       "url": "/suburbs/qld/maudsland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

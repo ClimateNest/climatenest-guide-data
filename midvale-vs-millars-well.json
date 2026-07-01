@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 65
-    },
-    {
-      "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 31
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 51,
       "scoreB": 22
     },
     {
+      "name": "Heat",
+      "scoreA": 65,
+      "scoreB": 49
+    },
+    {
+      "name": "Storm",
+      "scoreA": 44,
+      "scoreB": 21
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 27,
+      "scoreB": 29
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 18,
+      "scoreB": 7
     }
   ],
-  "verdict": "Millars Well has a lower overall climate risk score (34/100) compared to Midvale (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Millars Well has a lower overall climate risk score (30/100) compared to Midvale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Midvale or Millars Well safer from flooding?",
-      "answer": "Midvale has a flood risk score of 52/100, while Millars Well scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Midvale has a flood risk score of 23/100, while Millars Well scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Midvale scores 52/100 for bushfire risk. Millars Well scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Midvale scores 51/100 for bushfire risk. Millars Well scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Midvale or Millars Well?",
@@ -76,5 +76,15 @@
       "label": "Millars Well Should I Buy?",
       "url": "/suburbs/wa/millars-well/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

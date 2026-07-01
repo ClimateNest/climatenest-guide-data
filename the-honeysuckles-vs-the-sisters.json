@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 53
+      "scoreA": 21,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 25
+      "scoreA": 55,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 65
+      "scoreA": 70,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 28
     }
   ],
-  "verdict": "The Honeysuckles has a lower overall climate risk score (32/100) compared to The Sisters (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Honeysuckles has a lower overall climate risk score (36/100) compared to The Sisters (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Honeysuckles or The Sisters safer from flooding?",
-      "answer": "The Honeysuckles has a flood risk score of 37/100, while The Sisters scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Honeysuckles has a flood risk score of 21/100, while The Sisters scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Honeysuckles scores 48/100 for bushfire risk. The Sisters scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Honeysuckles scores 55/100 for bushfire risk. The Sisters scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Honeysuckles or The Sisters?",
@@ -76,5 +76,15 @@
       "label": "The Sisters Should I Buy?",
       "url": "/suburbs/vic/the-sisters/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

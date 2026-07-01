@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 37
+      "scoreA": 58,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 75
+      "scoreA": 62,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 49
+      "scoreA": 37,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 21,
+      "scoreB": 30
     }
   ],
-  "verdict": "Patchewollock has a lower overall climate risk score (38/100) compared to Patterson Lakes (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Patchewollock has a lower overall climate risk score (38/100) compared to Patterson Lakes (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Patchewollock or Patterson Lakes safer from flooding?",
-      "answer": "Patchewollock has a flood risk score of 38/100, while Patterson Lakes scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Patchewollock has a flood risk score of 27/100, while Patterson Lakes scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Patchewollock scores 29/100 for bushfire risk. Patterson Lakes scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Patchewollock scores 58/100 for bushfire risk. Patterson Lakes scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Patchewollock or Patterson Lakes?",
@@ -76,5 +76,15 @@
       "label": "Patterson Lakes Should I Buy?",
       "url": "/suburbs/vic/patterson-lakes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

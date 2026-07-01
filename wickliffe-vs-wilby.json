@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 55
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 30,
+      "scoreA": 22,
       "scoreB": 47
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 36
+    },
+    {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 51
+      "scoreA": 58,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 32,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 10,
       "scoreB": 23
     }
   ],
-  "verdict": "Wickliffe has a lower overall climate risk score (31/100) compared to Wilby (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wickliffe has a lower overall climate risk score (30/100) compared to Wilby (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wickliffe or Wilby safer from flooding?",
-      "answer": "Wickliffe has a flood risk score of 40/100, while Wilby scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wickliffe has a flood risk score of 22/100, while Wilby scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wickliffe scores 30/100 for bushfire risk. Wilby scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wickliffe scores 28/100 for bushfire risk. Wilby scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wickliffe or Wilby?",
@@ -76,5 +76,15 @@
       "label": "Wilby Should I Buy?",
       "url": "/suburbs/vic/wilby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

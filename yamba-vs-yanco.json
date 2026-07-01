@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 53
+      "scoreA": 48,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 52
+      "scoreA": 37,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 11
+      "scoreA": 47,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 16,
+      "scoreB": 28
     }
   ],
-  "verdict": "Yanco has a lower overall climate risk score (34/100) compared to Yamba (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Yamba has a lower overall climate risk score (36/100) compared to Yanco (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yamba or Yanco safer from flooding?",
-      "answer": "Yamba has a flood risk score of 55/100, while Yanco scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yamba has a flood risk score of 48/100, while Yanco scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yamba scores 41/100 for bushfire risk. Yanco scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yamba scores 22/100 for bushfire risk. Yanco scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yamba or Yanco?",
-      "answer": "Both suburbs have climate considerations. Yanco has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yamba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yanco Should I Buy?",
       "url": "/suburbs/nsw/yanco/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 26
+      "scoreA": 31,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 38
+      "scoreA": 77,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 20
+      "scoreA": 47,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 17,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 20
     }
   ],
-  "verdict": "Milo has a lower overall climate risk score (26/100) compared to Mills Lake (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mills Lake has a lower overall climate risk score (34/100) compared to Milo (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mills Lake or Milo safer from flooding?",
-      "answer": "Mills Lake has a flood risk score of 38/100, while Milo scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mills Lake has a flood risk score of 31/100, while Milo scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mills Lake scores 55/100 for bushfire risk. Milo scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mills Lake scores 18/100 for bushfire risk. Milo scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mills Lake or Milo?",
-      "answer": "Both suburbs have climate considerations. Milo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mills Lake has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Milo Should I Buy?",
       "url": "/suburbs/wa/milo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

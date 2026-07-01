@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 54
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 19,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 44
+      "scoreA": 21,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 12
     }
   ],
-  "verdict": "Gray has a lower overall climate risk score (30/100) compared to Gulung Mardrulk (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gray has a lower overall climate risk score (24/100) compared to Gulung Mardrulk (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gray or Gulung Mardrulk safer from flooding?",
-      "answer": "Gray has a flood risk score of 54/100, while Gulung Mardrulk scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gray has a flood risk score of 32/100, while Gulung Mardrulk scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gray scores 26/100 for bushfire risk. Gulung Mardrulk scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gray scores 19/100 for bushfire risk. Gulung Mardrulk scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gray or Gulung Mardrulk?",
@@ -76,5 +76,15 @@
       "label": "Gulung Mardrulk Should I Buy?",
       "url": "/suburbs/nt/gulung-mardrulk/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

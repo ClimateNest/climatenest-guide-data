@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 55
+      "scoreA": 36,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 52
+      "scoreA": 51,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 24
     }
   ],
-  "verdict": "Rokewood has a lower overall climate risk score (32/100) compared to Rocky Point (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Rocky Point has a lower overall climate risk score (30/100) compared to Rokewood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rocky Point or Rokewood safer from flooding?",
-      "answer": "Rocky Point has a flood risk score of 41/100, while Rokewood scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rocky Point has a flood risk score of 23/100, while Rokewood scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rocky Point scores 43/100 for bushfire risk. Rokewood scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rocky Point scores 36/100 for bushfire risk. Rokewood scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rocky Point or Rokewood?",
-      "answer": "Both suburbs have climate considerations. Rokewood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rocky Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rokewood Should I Buy?",
       "url": "/suburbs/vic/rokewood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

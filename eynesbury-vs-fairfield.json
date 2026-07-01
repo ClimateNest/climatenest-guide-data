@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 41
+      "scoreA": 21,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 54
-    },
-    {
-      "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 68
-    },
-    {
-      "name": "Storm",
-      "scoreA": 31,
+      "scoreA": 50,
       "scoreB": 44
     },
     {
+      "name": "Heat",
+      "scoreA": 59,
+      "scoreB": 61
+    },
+    {
+      "name": "Storm",
+      "scoreA": 30,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 27,
+      "scoreB": 25
     }
   ],
-  "verdict": "Eynesbury has a lower overall climate risk score (37/100) compared to Fairfield (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eynesbury has a lower overall climate risk score (35/100) compared to Fairfield (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eynesbury or Fairfield safer from flooding?",
-      "answer": "Eynesbury has a flood risk score of 44/100, while Fairfield scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eynesbury has a flood risk score of 21/100, while Fairfield scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eynesbury scores 20/100 for bushfire risk. Fairfield scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eynesbury scores 50/100 for bushfire risk. Fairfield scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eynesbury or Fairfield?",
@@ -76,5 +76,15 @@
       "label": "Fairfield Should I Buy?",
       "url": "/suburbs/vic/fairfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 63
+      "scoreA": 59,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 69
+      "scoreA": 59,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 48,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Mairjimmy has a lower overall climate risk score (32/100) compared to Maitland (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mairjimmy has a lower overall climate risk score (44/100) compared to Maitland (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Mairjimmy or Maitland safer from flooding?",
-      "answer": "Mairjimmy has a flood risk score of 44/100, while Maitland scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mairjimmy has a flood risk score of 46/100, while Maitland scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mairjimmy scores 36/100 for bushfire risk. Maitland scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mairjimmy scores 59/100 for bushfire risk. Maitland scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mairjimmy or Maitland?",
@@ -76,5 +76,15 @@
       "label": "Maitland Should I Buy?",
       "url": "/suburbs/nsw/maitland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4532,
+    "projected2030": 6345,
+    "projected2050": 11783
+  },
+  "valueImpact": {
+    "dragPercent": 2.85,
+    "description": "Properties in this area may face a 2.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

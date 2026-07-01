@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 47
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 31
+      "scoreA": 54,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 67
+      "scoreA": 48,
+      "scoreB": 71
     },
     {
       "name": "Storm",
       "scoreA": 27,
-      "scoreB": 48
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 41,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
+      "scoreA": 19,
       "scoreB": 17
     }
   ],
-  "verdict": "Goolmangar has a lower overall climate risk score (34/100) compared to Goombargana (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goolmangar has a lower overall climate risk score (39/100) compared to Goombargana (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Goolmangar or Goombargana safer from flooding?",
-      "answer": "Goolmangar has a flood risk score of 50/100, while Goombargana scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goolmangar has a flood risk score of 42/100, while Goombargana scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goolmangar scores 22/100 for bushfire risk. Goombargana scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goolmangar scores 54/100 for bushfire risk. Goombargana scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goolmangar or Goombargana?",
@@ -76,5 +76,15 @@
       "label": "Goombargana Should I Buy?",
       "url": "/suburbs/nsw/goombargana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

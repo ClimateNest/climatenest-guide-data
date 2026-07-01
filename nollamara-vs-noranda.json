@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 34
+      "scoreA": 57,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 53,
+      "scoreA": 77,
       "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 40
+      "scoreA": 32,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
+      "scoreA": 12,
       "scoreB": 20
     }
   ],
-  "verdict": "Noranda has a lower overall climate risk score (32/100) compared to Nollamara (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Noranda has a lower overall climate risk score (37/100) compared to Nollamara (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nollamara or Noranda safer from flooding?",
-      "answer": "Nollamara has a flood risk score of 38/100, while Noranda scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nollamara has a flood risk score of 57/100, while Noranda scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nollamara scores 55/100 for bushfire risk. Noranda scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nollamara scores 22/100 for bushfire risk. Noranda scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nollamara or Noranda?",
@@ -76,5 +76,15 @@
       "label": "Noranda Should I Buy?",
       "url": "/suburbs/wa/noranda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

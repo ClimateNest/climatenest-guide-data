@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 57
+      "scoreA": 28,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 57
+      "scoreA": 35,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 43
+      "scoreA": 62,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 36
+      "scoreA": 35,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Mindaribba has a lower overall climate risk score (39/100) compared to Mingoola (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mingoola has a lower overall climate risk score (35/100) compared to Mindaribba (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mindaribba or Mingoola safer from flooding?",
-      "answer": "Mindaribba has a flood risk score of 43/100, while Mingoola scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mindaribba has a flood risk score of 28/100, while Mingoola scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mindaribba scores 19/100 for bushfire risk. Mingoola scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mindaribba scores 35/100 for bushfire risk. Mingoola scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mindaribba or Mingoola?",
-      "answer": "Both suburbs have climate considerations. Mindaribba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mingoola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mingoola Should I Buy?",
       "url": "/suburbs/nsw/mingoola/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

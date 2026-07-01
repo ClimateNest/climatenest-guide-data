@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 42
+      "scoreA": 56,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 60,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 62
+      "scoreA": 66,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 32,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 47
+      "scoreA": 52,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 25
     }
   ],
-  "verdict": "East Gosford has a lower overall climate risk score (40/100) compared to East Corrimal (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Gosford has a lower overall climate risk score (43/100) compared to East Corrimal (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is East Corrimal or East Gosford safer from flooding?",
-      "answer": "East Corrimal has a flood risk score of 60/100, while East Gosford scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Corrimal has a flood risk score of 56/100, while East Gosford scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Corrimal scores 28/100 for bushfire risk. East Gosford scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Corrimal scores 60/100 for bushfire risk. East Gosford scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Corrimal or East Gosford?",
@@ -76,5 +76,15 @@
       "label": "East Gosford Should I Buy?",
       "url": "/suburbs/nsw/east-gosford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 30
+      "scoreA": 37,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 20
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 69
+      "scoreA": 41,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 28,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 27
+      "scoreA": 57,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 28
     }
   ],
-  "verdict": "Mount Werong has a lower overall climate risk score (35/100) compared to Mount Warning (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mount Warning has a lower overall climate risk score (34/100) compared to Mount Werong (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Warning or Mount Werong safer from flooding?",
-      "answer": "Mount Warning has a flood risk score of 55/100, while Mount Werong scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Warning has a flood risk score of 37/100, while Mount Werong scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Warning scores 33/100 for bushfire risk. Mount Werong scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Warning scores 30/100 for bushfire risk. Mount Werong scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Warning or Mount Werong?",
-      "answer": "Both suburbs have climate considerations. Mount Werong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Warning has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Werong Should I Buy?",
       "url": "/suburbs/nsw/mount-werong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

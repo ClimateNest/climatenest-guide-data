@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 42
+      "scoreA": 31,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 46
+      "scoreA": 47,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 75
+      "scoreA": 62,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 46
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 23
+      "scoreA": 30,
+      "scoreB": 20
     }
   ],
-  "verdict": "Toolondo has a lower overall climate risk score (37/100) compared to Toombon (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Toombon has a lower overall climate risk score (39/100) compared to Toolondo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Toolondo or Toombon safer from flooding?",
-      "answer": "Toolondo has a flood risk score of 41/100, while Toombon scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toolondo has a flood risk score of 31/100, while Toombon scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toolondo scores 24/100 for bushfire risk. Toombon scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toolondo scores 47/100 for bushfire risk. Toombon scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toolondo or Toombon?",
-      "answer": "Both suburbs have climate considerations. Toolondo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Toombon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Toombon Should I Buy?",
       "url": "/suburbs/vic/toombon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

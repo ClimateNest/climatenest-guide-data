@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 49
+      "scoreA": 42,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 57,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 56
+      "scoreA": 77,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 16,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 16
     }
   ],
-  "verdict": "Lottah has a lower overall climate risk score (35/100) compared to Low Head (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Low Head has a lower overall climate risk score (28/100) compared to Lottah (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lottah or Low Head safer from flooding?",
-      "answer": "Lottah has a flood risk score of 35/100, while Low Head scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lottah has a flood risk score of 42/100, while Low Head scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lottah scores 44/100 for bushfire risk. Low Head scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lottah scores 57/100 for bushfire risk. Low Head scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lottah or Low Head?",
-      "answer": "Both suburbs have climate considerations. Lottah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Low Head has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Low Head Should I Buy?",
       "url": "/suburbs/tas/low-head/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

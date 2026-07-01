@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 36
+      "scoreA": 46,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 58
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 41
-    },
-    {
-      "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 46,
       "scoreB": 44
     },
     {
+      "name": "Heat",
+      "scoreA": 31,
+      "scoreB": 31
+    },
+    {
+      "name": "Storm",
+      "scoreA": 46,
+      "scoreB": 47
+    },
+    {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 24
+      "scoreA": 50,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
       "scoreA": 10,
-      "scoreB": 12
+      "scoreB": 19
     }
   ],
-  "verdict": "Little Mulgrave has a lower overall climate risk score (36/100) compared to Linville (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Little Mulgrave has a lower overall climate risk score (31/100) compared to Linville (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Linville or Little Mulgrave safer from flooding?",
-      "answer": "Linville has a flood risk score of 32/100, while Little Mulgrave scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Linville has a flood risk score of 46/100, while Little Mulgrave scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Linville scores 55/100 for bushfire risk. Little Mulgrave scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Linville scores 46/100 for bushfire risk. Little Mulgrave scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Linville or Little Mulgrave?",
@@ -76,5 +76,15 @@
       "label": "Little Mulgrave Should I Buy?",
       "url": "/suburbs/qld/little-mulgrave/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

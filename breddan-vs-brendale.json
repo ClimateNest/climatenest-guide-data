@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 46,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 60
+      "scoreA": 43,
+      "scoreB": 30
     },
     {
       "name": "Heat",
       "scoreA": 35,
-      "scoreB": 36
+      "scoreB": 41
     },
     {
       "name": "Storm",
       "scoreA": 33,
-      "scoreB": 33
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 36
+      "scoreA": 22,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 19
+      "scoreA": 8,
+      "scoreB": 27
     }
   ],
-  "verdict": "Breddan has a lower overall climate risk score (29/100) compared to Brendale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Breddan has a lower overall climate risk score (31/100) compared to Brendale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Breddan or Brendale safer from flooding?",
-      "answer": "Breddan has a flood risk score of 27/100, while Brendale scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Breddan has a flood risk score of 46/100, while Brendale scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Breddan scores 31/100 for bushfire risk. Brendale scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Breddan scores 43/100 for bushfire risk. Brendale scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Breddan or Brendale?",
@@ -76,5 +76,15 @@
       "label": "Brendale Should I Buy?",
       "url": "/suburbs/qld/brendale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

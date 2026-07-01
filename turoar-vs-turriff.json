@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 53,
-      "scoreB": 33
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 21
-    },
-    {
-      "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 64
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 33
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 10,
+      "scoreA": 27,
       "scoreB": 16
     },
     {
+      "name": "Heat",
+      "scoreA": 78,
+      "scoreB": 73
+    },
+    {
+      "name": "Storm",
+      "scoreA": 44,
+      "scoreB": 38
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 18
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 24,
+      "scoreB": 18
     }
   ],
-  "verdict": "Turriff has a lower overall climate risk score (30/100) compared to Turoar (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Turriff has a lower overall climate risk score (31/100) compared to Turoar (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Turoar or Turriff safer from flooding?",
-      "answer": "Turoar has a flood risk score of 53/100, while Turriff scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Turoar has a flood risk score of 53/100, while Turriff scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Turoar scores 49/100 for bushfire risk. Turriff scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Turoar scores 27/100 for bushfire risk. Turriff scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Turoar or Turriff?",
@@ -76,5 +76,15 @@
       "label": "Turriff Should I Buy?",
       "url": "/suburbs/vic/turriff/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

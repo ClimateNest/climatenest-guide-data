@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 40
+      "scoreA": 51,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 20
     },
     {
       "name": "Heat",
       "scoreA": 60,
-      "scoreB": 52
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 21
     }
   ],
-  "verdict": "Webb Beach has a lower overall climate risk score (31/100) compared to Wedge Island (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Webb Beach has a lower overall climate risk score (34/100) compared to Wedge Island (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Webb Beach or Wedge Island safer from flooding?",
-      "answer": "Webb Beach has a flood risk score of 29/100, while Wedge Island scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Webb Beach has a flood risk score of 51/100, while Wedge Island scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Webb Beach scores 52/100 for bushfire risk. Wedge Island scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Webb Beach scores 25/100 for bushfire risk. Wedge Island scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Webb Beach or Wedge Island?",
@@ -76,5 +76,15 @@
       "label": "Wedge Island Should I Buy?",
       "url": "/suburbs/sa/wedge-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 30
+      "scoreA": 31,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 29
-    },
-    {
-      "name": "Heat",
-      "scoreA": 67,
+      "scoreA": 41,
       "scoreB": 43
     },
     {
+      "name": "Heat",
+      "scoreA": 56,
+      "scoreB": 47
+    },
+    {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 28
+      "scoreA": 46,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 56
+      "scoreA": 30,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 17,
+      "scoreB": 28
     }
   ],
-  "verdict": "Fortis Creek has a lower overall climate risk score (36/100) compared to Forresters Beach (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Forresters Beach has a lower overall climate risk score (37/100) compared to Fortis Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Forresters Beach or Fortis Creek safer from flooding?",
-      "answer": "Forresters Beach has a flood risk score of 22/100, while Fortis Creek scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Forresters Beach has a flood risk score of 31/100, while Fortis Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Forresters Beach scores 51/100 for bushfire risk. Fortis Creek scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Forresters Beach scores 41/100 for bushfire risk. Fortis Creek scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Forresters Beach or Fortis Creek?",
-      "answer": "Both suburbs have climate considerations. Fortis Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Forresters Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Fortis Creek Should I Buy?",
       "url": "/suburbs/nsw/fortis-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

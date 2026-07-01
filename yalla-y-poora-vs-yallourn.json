@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 55
+      "scoreA": 27,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 60
+      "scoreA": 24,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 55
+      "scoreA": 77,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Yalla-Y-Poora has a lower overall climate risk score (36/100) compared to Yallourn (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yalla-Y-Poora has a lower overall climate risk score (32/100) compared to Yallourn (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yalla-Y-Poora or Yallourn safer from flooding?",
-      "answer": "Yalla-Y-Poora has a flood risk score of 24/100, while Yallourn scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yalla-Y-Poora has a flood risk score of 27/100, while Yallourn scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yalla-Y-Poora scores 60/100 for bushfire risk. Yallourn scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yalla-Y-Poora scores 24/100 for bushfire risk. Yallourn scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yalla-Y-Poora or Yallourn?",
@@ -76,5 +76,15 @@
       "label": "Yallourn Should I Buy?",
       "url": "/suburbs/vic/yallourn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

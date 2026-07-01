@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 54
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 23
+      "scoreA": 43,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 30
+      "scoreA": 39,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 28
     }
   ],
-  "verdict": "Djuan has a lower overall climate risk score (30/100) compared to Doctor Creek (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Djuan has a lower overall climate risk score (32/100) compared to Doctor Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Djuan or Doctor Creek safer from flooding?",
-      "answer": "Djuan has a flood risk score of 27/100, while Doctor Creek scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Djuan has a flood risk score of 28/100, while Doctor Creek scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Djuan scores 38/100 for bushfire risk. Doctor Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Djuan scores 43/100 for bushfire risk. Doctor Creek scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Djuan or Doctor Creek?",
@@ -76,5 +76,15 @@
       "label": "Doctor Creek Should I Buy?",
       "url": "/suburbs/qld/doctor-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

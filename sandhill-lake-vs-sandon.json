@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
+      "scoreA": 39,
       "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 65
+      "scoreA": 55,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 76
+      "scoreA": 55,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 29
     }
   ],
-  "verdict": "Sandhill Lake has a lower overall climate risk score (34/100) compared to Sandon (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sandhill Lake has a lower overall climate risk score (37/100) compared to Sandon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sandhill Lake or Sandon safer from flooding?",
-      "answer": "Sandhill Lake has a flood risk score of 41/100, while Sandon scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandhill Lake has a flood risk score of 39/100, while Sandon scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandhill Lake scores 38/100 for bushfire risk. Sandon scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandhill Lake scores 55/100 for bushfire risk. Sandon scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandhill Lake or Sandon?",
@@ -76,5 +76,15 @@
       "label": "Sandon Should I Buy?",
       "url": "/suburbs/vic/sandon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

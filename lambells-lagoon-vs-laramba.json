@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 32
+      "scoreA": 46,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 16
+      "scoreA": 37,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 47
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 7
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "Laramba has a lower overall climate risk score (27/100) compared to Lambells Lagoon (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Laramba has a lower overall climate risk score (34/100) compared to Lambells Lagoon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lambells Lagoon or Laramba safer from flooding?",
-      "answer": "Lambells Lagoon has a flood risk score of 41/100, while Laramba scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lambells Lagoon has a flood risk score of 46/100, while Laramba scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lambells Lagoon scores 49/100 for bushfire risk. Laramba scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lambells Lagoon scores 37/100 for bushfire risk. Laramba scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lambells Lagoon or Laramba?",
@@ -76,5 +76,15 @@
       "label": "Laramba Should I Buy?",
       "url": "/suburbs/nt/laramba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

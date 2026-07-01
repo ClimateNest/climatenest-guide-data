@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 30
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 42
-    },
-    {
-      "name": "Heat",
-      "scoreA": 68,
+      "scoreA": 26,
       "scoreB": 57
     },
     {
+      "name": "Bushfire",
+      "scoreA": 55,
+      "scoreB": 23
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 56
+    },
+    {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 33
+      "scoreA": 30,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 14
+      "scoreA": 29,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 17
     }
   ],
-  "verdict": "Murrabit West has a lower overall climate risk score (30/100) compared to Murray-Sunset (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Murrabit West has a lower overall climate risk score (36/100) compared to Murray-Sunset (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Murrabit West or Murray-Sunset safer from flooding?",
-      "answer": "Murrabit West has a flood risk score of 21/100, while Murray-Sunset scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Murrabit West has a flood risk score of 26/100, while Murray-Sunset scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Murrabit West scores 28/100 for bushfire risk. Murray-Sunset scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Murrabit West scores 55/100 for bushfire risk. Murray-Sunset scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Murrabit West or Murray-Sunset?",
@@ -76,5 +76,15 @@
       "label": "Murray-Sunset Should I Buy?",
       "url": "/suburbs/vic/murray-sunset/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

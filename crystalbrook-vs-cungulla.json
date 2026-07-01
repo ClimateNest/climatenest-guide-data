@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 42
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 53
+      "scoreA": 46,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 28,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 14
     }
   ],
-  "verdict": "Crystalbrook has a lower overall climate risk score (29/100) compared to Cungulla (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cungulla has a lower overall climate risk score (31/100) compared to Crystalbrook (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Crystalbrook or Cungulla safer from flooding?",
-      "answer": "Crystalbrook has a flood risk score of 60/100, while Cungulla scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Crystalbrook has a flood risk score of 35/100, while Cungulla scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Crystalbrook scores 16/100 for bushfire risk. Cungulla scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Crystalbrook scores 46/100 for bushfire risk. Cungulla scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Crystalbrook or Cungulla?",
-      "answer": "Both suburbs have climate considerations. Crystalbrook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cungulla has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cungulla Should I Buy?",
       "url": "/suburbs/qld/cungulla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3331,
+    "projected2030": 4663,
+    "projected2050": 8660
+  },
+  "valueImpact": {
+    "dragPercent": 0.2,
+    "description": "Properties in this area may face a 0.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

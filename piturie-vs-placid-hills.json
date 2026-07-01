@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 49
+      "scoreA": 52,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
+      "scoreA": 39,
       "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 42,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 26
+      "scoreA": 34,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 50
+      "scoreA": 10,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 11
     }
   ],
-  "verdict": "Piturie has a lower overall climate risk score (33/100) compared to Placid Hills (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Piturie has a lower overall climate risk score (32/100) compared to Placid Hills (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Piturie or Placid Hills safer from flooding?",
-      "answer": "Piturie has a flood risk score of 47/100, while Placid Hills scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Piturie has a flood risk score of 52/100, while Placid Hills scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Piturie scores 41/100 for bushfire risk. Placid Hills scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Piturie scores 39/100 for bushfire risk. Placid Hills scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Piturie or Placid Hills?",
@@ -76,5 +76,15 @@
       "label": "Placid Hills Should I Buy?",
       "url": "/suburbs/qld/placid-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

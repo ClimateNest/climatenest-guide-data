@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 44
+      "scoreA": 31,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 79
+      "scoreA": 77,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 43
+      "scoreA": 29,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 14
+      "scoreA": 27,
+      "scoreB": 15
     }
   ],
-  "verdict": "Binnaway has a lower overall climate risk score (37/100) compared to Binjura (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Binnaway has a lower overall climate risk score (32/100) compared to Binjura (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Binjura or Binnaway safer from flooding?",
-      "answer": "Binjura has a flood risk score of 58/100, while Binnaway scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Binjura has a flood risk score of 31/100, while Binnaway scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Binjura scores 37/100 for bushfire risk. Binnaway scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Binjura scores 23/100 for bushfire risk. Binnaway scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Binjura or Binnaway?",
@@ -76,5 +76,15 @@
       "label": "Binnaway Should I Buy?",
       "url": "/suburbs/nsw/binnaway/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

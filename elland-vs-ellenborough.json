@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 46
+      "scoreA": 34,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 52
+      "scoreA": 38,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 46,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
       "scoreA": 45,
-      "scoreB": 52
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 22
     }
   ],
-  "verdict": "Elland has a lower overall climate risk score (38/100) compared to Ellenborough (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Elland has a lower overall climate risk score (36/100) compared to Ellenborough (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Elland or Ellenborough safer from flooding?",
-      "answer": "Elland has a flood risk score of 41/100, while Ellenborough scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elland has a flood risk score of 34/100, while Ellenborough scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elland scores 63/100 for bushfire risk. Ellenborough scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elland scores 33/100 for bushfire risk. Ellenborough scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elland or Ellenborough?",
@@ -76,5 +76,15 @@
       "label": "Ellenborough Should I Buy?",
       "url": "/suburbs/nsw/ellenborough/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

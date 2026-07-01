@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 56
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 53
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 75
-    },
-    {
-      "name": "Storm",
-      "scoreA": 35,
+      "scoreA": 41,
       "scoreB": 22
     },
     {
+      "name": "Bushfire",
+      "scoreA": 44,
+      "scoreB": 18
+    },
+    {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 28
+    },
+    {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 24,
+      "scoreB": 20
     }
   ],
-  "verdict": "Brukunga has a lower overall climate risk score (39/100) compared to Buchanan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Buchanan has a lower overall climate risk score (29/100) compared to Brukunga (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Brukunga or Buchanan safer from flooding?",
-      "answer": "Brukunga has a flood risk score of 54/100, while Buchanan scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brukunga has a flood risk score of 41/100, while Buchanan scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brukunga scores 56/100 for bushfire risk. Buchanan scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brukunga scores 44/100 for bushfire risk. Buchanan scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brukunga or Buchanan?",
-      "answer": "Both suburbs have climate considerations. Brukunga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Buchanan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Buchanan Should I Buy?",
       "url": "/suburbs/sa/buchanan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

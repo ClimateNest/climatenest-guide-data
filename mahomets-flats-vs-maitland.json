@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 55
+      "scoreA": 37,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 34
+      "scoreA": 58,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 41,
+      "scoreA": 43,
       "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 32
+      "scoreA": 36,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 30,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 7
+      "scoreA": 25,
+      "scoreB": 11
     }
   ],
-  "verdict": "Maitland has a lower overall climate risk score (30/100) compared to Mahomets Flats (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Maitland has a lower overall climate risk score (24/100) compared to Mahomets Flats (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mahomets Flats or Maitland safer from flooding?",
-      "answer": "Mahomets Flats has a flood risk score of 53/100, while Maitland scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mahomets Flats has a flood risk score of 37/100, while Maitland scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mahomets Flats scores 49/100 for bushfire risk. Maitland scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mahomets Flats scores 58/100 for bushfire risk. Maitland scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mahomets Flats or Maitland?",
@@ -76,5 +76,15 @@
       "label": "Maitland Should I Buy?",
       "url": "/suburbs/wa/maitland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

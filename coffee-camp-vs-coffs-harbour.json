@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 48
+      "scoreA": 52,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 55
+      "scoreA": 29,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 55
+      "scoreA": 35,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 49
+      "scoreA": 31,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 45
+      "scoreA": 60,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 14
+      "scoreA": 20,
+      "scoreB": 15
     }
   ],
-  "verdict": "Coffee Camp has a lower overall climate risk score (36/100) compared to Coffs Harbour (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coffee Camp has a lower overall climate risk score (38/100) compared to Coffs Harbour (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coffee Camp or Coffs Harbour safer from flooding?",
-      "answer": "Coffee Camp has a flood risk score of 23/100, while Coffs Harbour scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coffee Camp has a flood risk score of 52/100, while Coffs Harbour scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coffee Camp scores 59/100 for bushfire risk. Coffs Harbour scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coffee Camp scores 29/100 for bushfire risk. Coffs Harbour scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coffee Camp or Coffs Harbour?",
@@ -76,5 +76,15 @@
       "label": "Coffs Harbour Should I Buy?",
       "url": "/suburbs/nsw/coffs-harbour/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

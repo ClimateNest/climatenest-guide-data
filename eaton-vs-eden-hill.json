@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 26
+      "scoreA": 37,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 59
+      "scoreA": 17,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 64
+      "scoreA": 60,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 23
+      "scoreA": 36,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 28,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 11
     }
   ],
-  "verdict": "Eden Hill has a lower overall climate risk score (36/100) compared to Eaton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Eaton has a lower overall climate risk score (34/100) compared to Eden Hill (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eaton or Eden Hill safer from flooding?",
-      "answer": "Eaton has a flood risk score of 49/100, while Eden Hill scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eaton has a flood risk score of 37/100, while Eden Hill scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eaton scores 31/100 for bushfire risk. Eden Hill scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eaton scores 17/100 for bushfire risk. Eden Hill scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eaton or Eden Hill?",
-      "answer": "Both suburbs have climate considerations. Eden Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eaton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eden Hill Should I Buy?",
       "url": "/suburbs/wa/eden-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

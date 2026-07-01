@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 24,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 35
+      "scoreA": 51,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 59
+      "scoreA": 53,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 47,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 41
+      "scoreA": 33,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 13
     }
   ],
-  "verdict": "Girralong has a lower overall climate risk score (36/100) compared to Giro (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Girralong has a lower overall climate risk score (36/100) compared to Giro (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Giro or Girralong safer from flooding?",
-      "answer": "Giro has a flood risk score of 46/100, while Girralong scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Giro has a flood risk score of 24/100, while Girralong scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Giro scores 15/100 for bushfire risk. Girralong scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Giro scores 51/100 for bushfire risk. Girralong scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Giro or Girralong?",
@@ -76,5 +76,15 @@
       "label": "Girralong Should I Buy?",
       "url": "/suburbs/nsw/girralong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

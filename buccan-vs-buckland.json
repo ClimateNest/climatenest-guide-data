@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 62
+      "scoreA": 41,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 48
+      "scoreA": 46,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 35
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 12
+      "scoreA": 32,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 19
+      "scoreA": 28,
+      "scoreB": 10
     }
   ],
-  "verdict": "Buccan has a lower overall climate risk score (37/100) compared to Buckland (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Buckland has a lower overall climate risk score (26/100) compared to Buccan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Buccan or Buckland safer from flooding?",
-      "answer": "Buccan has a flood risk score of 49/100, while Buckland scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buccan has a flood risk score of 45/100, while Buckland scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buccan scores 24/100 for bushfire risk. Buckland scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buccan scores 41/100 for bushfire risk. Buckland scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buccan or Buckland?",
-      "answer": "Both suburbs have climate considerations. Buccan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Buckland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Buckland Should I Buy?",
       "url": "/suburbs/qld/buckland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

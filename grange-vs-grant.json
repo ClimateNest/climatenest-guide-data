@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 36
+      "scoreA": 47,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 32
+      "scoreA": 62,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 30
+      "scoreA": 49,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 12
+      "scoreA": 50,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 5
+      "scoreA": 29,
+      "scoreB": 11
     }
   ],
-  "verdict": "Grant has a lower overall climate risk score (27/100) compared to Grange (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Grant has a lower overall climate risk score (37/100) compared to Grange (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Grange or Grant safer from flooding?",
-      "answer": "Grange has a flood risk score of 54/100, while Grant scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Grange has a flood risk score of 47/100, while Grant scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Grange scores 41/100 for bushfire risk. Grant scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Grange scores 62/100 for bushfire risk. Grant scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Grange or Grant?",
@@ -76,5 +76,15 @@
       "label": "Grant Should I Buy?",
       "url": "/suburbs/qld/grant/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

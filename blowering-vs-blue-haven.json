@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 57,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 39
+      "scoreA": 29,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 66
+      "scoreA": 66,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 26
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 44,
       "scoreB": 42
     },
     {
+      "name": "Coastal",
+      "scoreA": 12,
+      "scoreB": 34
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 17
     }
   ],
-  "verdict": "Blowering has a lower overall climate risk score (33/100) compared to Blue Haven (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blowering has a lower overall climate risk score (37/100) compared to Blue Haven (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Blowering or Blue Haven safer from flooding?",
-      "answer": "Blowering has a flood risk score of 27/100, while Blue Haven scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blowering has a flood risk score of 57/100, while Blue Haven scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blowering scores 17/100 for bushfire risk. Blue Haven scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blowering scores 29/100 for bushfire risk. Blue Haven scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blowering or Blue Haven?",
@@ -76,5 +76,15 @@
       "label": "Blue Haven Should I Buy?",
       "url": "/suburbs/nsw/blue-haven/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 37
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 54
-    },
-    {
-      "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
-      "scoreA": 35,
+      "scoreA": 50,
       "scoreB": 36
     },
     {
-      "name": "Coastal",
+      "name": "Bushfire",
+      "scoreA": 49,
+      "scoreB": 57
+    },
+    {
+      "name": "Heat",
+      "scoreA": 34,
+      "scoreB": 49
+    },
+    {
+      "name": "Storm",
       "scoreA": 28,
-      "scoreB": 17
+      "scoreB": 42
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 9
+      "scoreA": 10,
+      "scoreB": 10
     }
   ],
-  "verdict": "Consuelo has a lower overall climate risk score (31/100) compared to Conjuboy (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Conjuboy has a lower overall climate risk score (31/100) compared to Consuelo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Conjuboy or Consuelo safer from flooding?",
-      "answer": "Conjuboy has a flood risk score of 55/100, while Consuelo scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Conjuboy has a flood risk score of 50/100, while Consuelo scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Conjuboy scores 46/100 for bushfire risk. Consuelo scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Conjuboy scores 49/100 for bushfire risk. Consuelo scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Conjuboy or Consuelo?",
-      "answer": "Both suburbs have climate considerations. Consuelo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Conjuboy has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Consuelo Should I Buy?",
       "url": "/suburbs/qld/consuelo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

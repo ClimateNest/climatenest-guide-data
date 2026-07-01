@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 56
+      "scoreA": 60,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 33
+      "scoreA": 71,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 46
+      "scoreA": 30,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 59,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 12,
+      "scoreB": 25
     }
   ],
-  "verdict": "Jamberoo has a lower overall climate risk score (34/100) compared to James Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "James Creek has a lower overall climate risk score (36/100) compared to Jamberoo (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jamberoo or James Creek safer from flooding?",
-      "answer": "Jamberoo has a flood risk score of 30/100, while James Creek scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jamberoo has a flood risk score of 60/100, while James Creek scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jamberoo scores 38/100 for bushfire risk. James Creek scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jamberoo scores 24/100 for bushfire risk. James Creek scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jamberoo or James Creek?",
-      "answer": "Both suburbs have climate considerations. Jamberoo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. James Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "James Creek Should I Buy?",
       "url": "/suburbs/nsw/james-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

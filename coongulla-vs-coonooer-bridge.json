@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 34
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 57
+      "scoreA": 69,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 29,
+      "scoreB": 20
     }
   ],
-  "verdict": "Coonooer Bridge has a lower overall climate risk score (29/100) compared to Coongulla (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coonooer Bridge has a lower overall climate risk score (32/100) compared to Coongulla (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Coongulla or Coonooer Bridge safer from flooding?",
-      "answer": "Coongulla has a flood risk score of 35/100, while Coonooer Bridge scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coongulla has a flood risk score of 40/100, while Coonooer Bridge scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coongulla scores 47/100 for bushfire risk. Coonooer Bridge scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coongulla scores 21/100 for bushfire risk. Coonooer Bridge scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coongulla or Coonooer Bridge?",
@@ -76,5 +76,15 @@
       "label": "Coonooer Bridge Should I Buy?",
       "url": "/suburbs/vic/coonooer-bridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

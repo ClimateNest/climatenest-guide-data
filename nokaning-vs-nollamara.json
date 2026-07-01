@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 63
+      "scoreA": 27,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 76
+      "scoreA": 75,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 29
     }
   ],
-  "verdict": "Nokaning has a lower overall climate risk score (33/100) compared to Nollamara (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nokaning has a lower overall climate risk score (36/100) compared to Nollamara (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nokaning or Nollamara safer from flooding?",
-      "answer": "Nokaning has a flood risk score of 25/100, while Nollamara scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nokaning has a flood risk score of 44/100, while Nollamara scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nokaning scores 46/100 for bushfire risk. Nollamara scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nokaning scores 27/100 for bushfire risk. Nollamara scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nokaning or Nollamara?",
@@ -76,5 +76,15 @@
       "label": "Nollamara Should I Buy?",
       "url": "/suburbs/wa/nollamara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

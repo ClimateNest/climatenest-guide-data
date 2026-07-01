@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 41
+      "scoreA": 54,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 25
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 74
+      "scoreA": 66,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 50
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 34
+      "scoreA": 45,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 12
+      "scoreA": 29,
+      "scoreB": 29
     }
   ],
-  "verdict": "Otford has a lower overall climate risk score (39/100) compared to Oswald (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Otford has a lower overall climate risk score (36/100) compared to Oswald (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Oswald or Otford safer from flooding?",
-      "answer": "Oswald has a flood risk score of 42/100, while Otford scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oswald has a flood risk score of 54/100, while Otford scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oswald scores 64/100 for bushfire risk. Otford scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oswald scores 42/100 for bushfire risk. Otford scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oswald or Otford?",
@@ -76,5 +76,15 @@
       "label": "Otford Should I Buy?",
       "url": "/suburbs/nsw/otford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

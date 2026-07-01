@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 73
+      "scoreA": 59,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 24
+      "scoreA": 19,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 26
     }
   ],
-  "verdict": "Bool Lagoon has a lower overall climate risk score (29/100) compared to Booleroo Centre (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bool Lagoon has a lower overall climate risk score (34/100) compared to Booleroo Centre (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bool Lagoon or Booleroo Centre safer from flooding?",
-      "answer": "Bool Lagoon has a flood risk score of 31/100, while Booleroo Centre scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bool Lagoon has a flood risk score of 30/100, while Booleroo Centre scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bool Lagoon scores 17/100 for bushfire risk. Booleroo Centre scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bool Lagoon scores 39/100 for bushfire risk. Booleroo Centre scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bool Lagoon or Booleroo Centre?",
@@ -76,5 +76,15 @@
       "label": "Booleroo Centre Should I Buy?",
       "url": "/suburbs/sa/booleroo-centre/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

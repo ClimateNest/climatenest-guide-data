@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 58
+      "scoreA": 46,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 40
-    },
-    {
-      "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 61
-    },
-    {
-      "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 42
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 38,
       "scoreB": 33
     },
     {
+      "name": "Heat",
+      "scoreA": 62,
+      "scoreB": 65
+    },
+    {
+      "name": "Storm",
+      "scoreA": 23,
+      "scoreB": 48
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 38
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 26,
+      "scoreA": 27,
       "scoreB": 24
     }
   ],
-  "verdict": "East Lynne has a lower overall climate risk score (41/100) compared to East Ryde (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "East Lynne has a lower overall climate risk score (36/100) compared to East Ryde (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Lynne or East Ryde safer from flooding?",
-      "answer": "East Lynne has a flood risk score of 42/100, while East Ryde scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Lynne has a flood risk score of 46/100, while East Ryde scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Lynne scores 47/100 for bushfire risk. East Ryde scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Lynne scores 38/100 for bushfire risk. East Ryde scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Lynne or East Ryde?",
@@ -76,5 +76,15 @@
       "label": "East Ryde Should I Buy?",
       "url": "/suburbs/nsw/east-ryde/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

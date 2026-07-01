@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 22
+      "scoreA": 55,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 51
+      "scoreA": 60,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 64
+      "scoreA": 79,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 43
+      "scoreA": 42,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 13,
-      "scoreB": 15
+      "scoreB": 24
     }
   ],
-  "verdict": "Wubin has a lower overall climate risk score (36/100) compared to Worsley (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wubin has a lower overall climate risk score (32/100) compared to Worsley (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Worsley or Wubin safer from flooding?",
-      "answer": "Worsley has a flood risk score of 43/100, while Wubin scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Worsley has a flood risk score of 55/100, while Wubin scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Worsley scores 46/100 for bushfire risk. Wubin scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Worsley scores 60/100 for bushfire risk. Wubin scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Worsley or Wubin?",
@@ -76,5 +76,15 @@
       "label": "Wubin Should I Buy?",
       "url": "/suburbs/wa/wubin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 47
+      "scoreA": 51,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 20
+      "scoreA": 34,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 62
+      "scoreA": 76,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 50
+      "scoreA": 39,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 26,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 27
     }
   ],
-  "verdict": "Carew has a lower overall climate risk score (36/100) compared to Carcuma (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Carew has a lower overall climate risk score (31/100) compared to Carcuma (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Carcuma or Carew safer from flooding?",
-      "answer": "Carcuma has a flood risk score of 54/100, while Carew scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carcuma has a flood risk score of 51/100, while Carew scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carcuma scores 63/100 for bushfire risk. Carew scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carcuma scores 34/100 for bushfire risk. Carew scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carcuma or Carew?",
@@ -76,5 +76,15 @@
       "label": "Carew Should I Buy?",
       "url": "/suburbs/sa/carew/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

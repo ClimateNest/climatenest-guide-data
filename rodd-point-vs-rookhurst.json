@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 30
+      "scoreA": 40,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 46
+      "scoreA": 41,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 59
+      "scoreA": 57,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 29
+      "scoreA": 41,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 36
+      "scoreA": 57,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 16,
+      "scoreB": 17
     }
   ],
-  "verdict": "Rodd Point has a lower overall climate risk score (37/100) compared to Rookhurst (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rodd Point has a lower overall climate risk score (42/100) compared to Rookhurst (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Rodd Point or Rookhurst safer from flooding?",
-      "answer": "Rodd Point has a flood risk score of 44/100, while Rookhurst scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rodd Point has a flood risk score of 40/100, while Rookhurst scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rodd Point scores 21/100 for bushfire risk. Rookhurst scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rodd Point scores 41/100 for bushfire risk. Rookhurst scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rodd Point or Rookhurst?",
@@ -76,5 +76,15 @@
       "label": "Rookhurst Should I Buy?",
       "url": "/suburbs/nsw/rookhurst/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4555,
+    "projected2030": 6377,
+    "projected2050": 11842
+  },
+  "valueImpact": {
+    "dragPercent": 2.9,
+    "description": "Properties in this area may face a 2.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

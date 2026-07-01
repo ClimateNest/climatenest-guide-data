@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 34
+      "scoreA": 54,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 18
+      "scoreA": 47,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 52
+      "scoreA": 67,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 41
+      "scoreA": 44,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 21
     }
   ],
-  "verdict": "Mountain View has a lower overall climate risk score (29/100) compared to Mount Waverley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mount Waverley has a lower overall climate risk score (39/100) compared to Mountain View (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Waverley or Mountain View safer from flooding?",
-      "answer": "Mount Waverley has a flood risk score of 20/100, while Mountain View scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Waverley has a flood risk score of 54/100, while Mountain View scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Waverley scores 56/100 for bushfire risk. Mountain View scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Waverley scores 47/100 for bushfire risk. Mountain View scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Waverley or Mountain View?",
-      "answer": "Both suburbs have climate considerations. Mountain View has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Waverley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mountain View Should I Buy?",
       "url": "/suburbs/vic/mountain-view/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

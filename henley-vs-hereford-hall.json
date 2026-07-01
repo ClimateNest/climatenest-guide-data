@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 58,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 55
+      "scoreA": 24,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 68,
+      "scoreA": 61,
       "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 34
+      "scoreA": 24,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 12
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 11
     }
   ],
-  "verdict": "Hereford Hall has a lower overall climate risk score (34/100) compared to Henley (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hereford Hall has a lower overall climate risk score (39/100) compared to Henley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Henley or Hereford Hall safer from flooding?",
-      "answer": "Henley has a flood risk score of 45/100, while Hereford Hall scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Henley has a flood risk score of 58/100, while Hereford Hall scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Henley scores 53/100 for bushfire risk. Hereford Hall scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Henley scores 24/100 for bushfire risk. Hereford Hall scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Henley or Hereford Hall?",
@@ -76,5 +76,15 @@
       "label": "Hereford Hall Should I Buy?",
       "url": "/suburbs/nsw/hereford-hall/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

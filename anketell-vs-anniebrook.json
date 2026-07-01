@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 44
+      "scoreA": 60,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 18
+      "scoreA": 56,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 75
+      "scoreA": 78,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 50
+      "scoreA": 32,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 17
+      "scoreA": 29,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 22
     }
   ],
-  "verdict": "Anniebrook has a lower overall climate risk score (39/100) compared to Anketell (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Anniebrook has a lower overall climate risk score (36/100) compared to Anketell (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Anketell or Anniebrook safer from flooding?",
-      "answer": "Anketell has a flood risk score of 41/100, while Anniebrook scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Anketell has a flood risk score of 60/100, while Anniebrook scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Anketell scores 59/100 for bushfire risk. Anniebrook scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Anketell scores 56/100 for bushfire risk. Anniebrook scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Anketell or Anniebrook?",
@@ -76,5 +76,15 @@
       "label": "Anniebrook Should I Buy?",
       "url": "/suburbs/wa/anniebrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

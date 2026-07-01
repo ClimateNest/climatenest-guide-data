@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 53
+      "scoreA": 44,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 61
-    },
-    {
-      "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 63
-    },
-    {
-      "name": "Storm",
-      "scoreA": 20,
+      "scoreA": 41,
       "scoreB": 42
     },
     {
+      "name": "Heat",
+      "scoreA": 69,
+      "scoreB": 73
+    },
+    {
+      "name": "Storm",
+      "scoreA": 24,
+      "scoreB": 31
+    },
+    {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 49
+      "scoreA": 59,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 12,
+      "scoreB": 28
     }
   ],
-  "verdict": "Kirrawee has a lower overall climate risk score (43/100) compared to Kirribilli (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Kirribilli has a lower overall climate risk score (39/100) compared to Kirrawee (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kirrawee or Kirribilli safer from flooding?",
-      "answer": "Kirrawee has a flood risk score of 46/100, while Kirribilli scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kirrawee has a flood risk score of 44/100, while Kirribilli scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kirrawee scores 48/100 for bushfire risk. Kirribilli scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kirrawee scores 41/100 for bushfire risk. Kirribilli scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kirrawee or Kirribilli?",
-      "answer": "Both suburbs have climate considerations. Kirrawee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kirribilli has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kirribilli Should I Buy?",
       "url": "/suburbs/nsw/kirribilli/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

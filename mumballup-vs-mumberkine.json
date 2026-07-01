@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 36,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 54
+      "scoreA": 42,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 63
+      "scoreA": 71,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 25
     }
   ],
-  "verdict": "Mumberkine has a lower overall climate risk score (40/100) compared to Mumballup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mumberkine has a lower overall climate risk score (39/100) compared to Mumballup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mumballup or Mumberkine safer from flooding?",
-      "answer": "Mumballup has a flood risk score of 38/100, while Mumberkine scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mumballup has a flood risk score of 36/100, while Mumberkine scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mumballup scores 30/100 for bushfire risk. Mumberkine scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mumballup scores 42/100 for bushfire risk. Mumberkine scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mumballup or Mumberkine?",
@@ -76,5 +76,15 @@
       "label": "Mumberkine Should I Buy?",
       "url": "/suburbs/wa/mumberkine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 48,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 59
+      "scoreA": 58,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 39,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 29,
+      "scoreA": 45,
       "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 32
+      "scoreA": 13,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
+      "scoreA": 16,
       "scoreB": 19
     }
   ],
-  "verdict": "Prince Of Wales has a lower overall climate risk score (25/100) compared to Promisedland (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Promisedland has a lower overall climate risk score (30/100) compared to Prince Of Wales (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Prince Of Wales or Promisedland safer from flooding?",
-      "answer": "Prince Of Wales has a flood risk score of 27/100, while Promisedland scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Prince Of Wales has a flood risk score of 48/100, while Promisedland scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Prince Of Wales scores 15/100 for bushfire risk. Promisedland scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Prince Of Wales scores 58/100 for bushfire risk. Promisedland scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Prince Of Wales or Promisedland?",
-      "answer": "Both suburbs have climate considerations. Prince Of Wales has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Promisedland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Promisedland Should I Buy?",
       "url": "/suburbs/qld/promisedland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

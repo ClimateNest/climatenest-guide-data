@@ -14,18 +14,18 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 45
+      "scoreA": 47,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 15
+      "scoreA": 59,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 58
+      "scoreA": 60,
+      "scoreB": 77
     },
     {
       "name": "Storm",
@@ -34,25 +34,25 @@
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 53
+      "scoreA": 21,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "Nadgee has a lower overall climate risk score (33/100) compared to Namoi River (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nadgee has a lower overall climate risk score (38/100) compared to Namoi River (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nadgee or Namoi River safer from flooding?",
-      "answer": "Nadgee has a flood risk score of 50/100, while Namoi River scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nadgee has a flood risk score of 47/100, while Namoi River scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nadgee scores 21/100 for bushfire risk. Namoi River scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nadgee scores 59/100 for bushfire risk. Namoi River scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nadgee or Namoi River?",
@@ -76,5 +76,15 @@
       "label": "Namoi River Should I Buy?",
       "url": "/suburbs/nsw/namoi-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4543,
+    "projected2030": 6361,
+    "projected2050": 11813
+  },
+  "valueImpact": {
+    "dragPercent": 2.88,
+    "description": "Properties in this area may face a 2.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

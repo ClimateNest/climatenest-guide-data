@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 36
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 61
-    },
-    {
-      "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 53
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 34
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 48,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 23,
+      "scoreB": 54
+    },
+    {
+      "name": "Heat",
+      "scoreA": 59,
+      "scoreB": 67
+    },
+    {
+      "name": "Storm",
+      "scoreA": 41,
+      "scoreB": 38
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 24,
+      "scoreB": 18
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 30
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Spalford has a lower overall climate risk score (37/100) compared to Sprent (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Spalford has a lower overall climate risk score (36/100) compared to Sprent (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Spalford or Sprent safer from flooding?",
-      "answer": "Spalford has a flood risk score of 42/100, while Sprent scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Spalford has a flood risk score of 48/100, while Sprent scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Spalford scores 37/100 for bushfire risk. Sprent scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Spalford scores 23/100 for bushfire risk. Sprent scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Spalford or Sprent?",
@@ -76,5 +76,15 @@
       "label": "Sprent Should I Buy?",
       "url": "/suburbs/tas/sprent/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

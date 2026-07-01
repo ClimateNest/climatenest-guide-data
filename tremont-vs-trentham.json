@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 58
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 61
-    },
-    {
-      "name": "Heat",
-      "scoreA": 55,
+      "scoreA": 44,
       "scoreB": 52
     },
     {
+      "name": "Heat",
+      "scoreA": 54,
+      "scoreB": 57
+    },
+    {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 49,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 20
     }
   ],
-  "verdict": "Tremont has a lower overall climate risk score (33/100) compared to Trentham (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Trentham has a lower overall climate risk score (37/100) compared to Tremont (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tremont or Trentham safer from flooding?",
-      "answer": "Tremont has a flood risk score of 27/100, while Trentham scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tremont has a flood risk score of 48/100, while Trentham scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tremont scores 23/100 for bushfire risk. Trentham scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tremont scores 44/100 for bushfire risk. Trentham scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tremont or Trentham?",
-      "answer": "Both suburbs have climate considerations. Tremont has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Trentham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Trentham Should I Buy?",
       "url": "/suburbs/vic/trentham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

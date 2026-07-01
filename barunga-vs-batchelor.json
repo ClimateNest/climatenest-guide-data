@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
+      "scoreA": 55,
       "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 48,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 42
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
+      "scoreA": 47,
       "scoreB": 34
     },
     {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 28
+    },
+    {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 10,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 11
+      "scoreA": 10,
+      "scoreB": 8
     }
   ],
-  "verdict": "Batchelor has a lower overall climate risk score (33/100) compared to Barunga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Batchelor has a lower overall climate risk score (29/100) compared to Barunga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Barunga or Batchelor safer from flooding?",
-      "answer": "Barunga has a flood risk score of 58/100, while Batchelor scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barunga has a flood risk score of 55/100, while Batchelor scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barunga scores 45/100 for bushfire risk. Batchelor scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barunga scores 48/100 for bushfire risk. Batchelor scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barunga or Batchelor?",
@@ -76,5 +76,15 @@
       "label": "Batchelor Should I Buy?",
       "url": "/suburbs/nt/batchelor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

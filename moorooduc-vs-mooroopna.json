@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 63
+      "scoreA": 48,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 55
+      "scoreA": 62,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 27
+      "scoreA": 36,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 13
     }
   ],
-  "verdict": "Mooroopna has a lower overall climate risk score (35/100) compared to Moorooduc (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Moorooduc has a lower overall climate risk score (35/100) compared to Mooroopna (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Moorooduc or Mooroopna safer from flooding?",
-      "answer": "Moorooduc has a flood risk score of 39/100, while Mooroopna scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moorooduc has a flood risk score of 23/100, while Mooroopna scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moorooduc scores 59/100 for bushfire risk. Mooroopna scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moorooduc scores 48/100 for bushfire risk. Mooroopna scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moorooduc or Mooroopna?",
-      "answer": "Both suburbs have climate considerations. Mooroopna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Moorooduc has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mooroopna Should I Buy?",
       "url": "/suburbs/vic/mooroopna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

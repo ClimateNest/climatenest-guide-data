@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 33
+      "scoreA": 59,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 31
+      "scoreA": 20,
+      "scoreB": 24
     },
     {
       "name": "Heat",
       "scoreA": 75,
-      "scoreB": 76
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 36
+      "scoreA": 30,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 18
     }
   ],
-  "verdict": "Blairgowrie has a lower overall climate risk score (38/100) compared to Blackwarry (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blairgowrie has a lower overall climate risk score (37/100) compared to Blackwarry (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blackwarry or Blairgowrie safer from flooding?",
-      "answer": "Blackwarry has a flood risk score of 50/100, while Blairgowrie scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackwarry has a flood risk score of 59/100, while Blairgowrie scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackwarry scores 60/100 for bushfire risk. Blairgowrie scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackwarry scores 20/100 for bushfire risk. Blairgowrie scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackwarry or Blairgowrie?",
@@ -76,5 +76,15 @@
       "label": "Blairgowrie Should I Buy?",
       "url": "/suburbs/vic/blairgowrie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

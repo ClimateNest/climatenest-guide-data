@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 55
+      "scoreA": 24,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
       "scoreA": 24,
-      "scoreB": 65
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 70
+      "scoreA": 70,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 27
     }
   ],
-  "verdict": "Little River has a lower overall climate risk score (32/100) compared to Little Topar (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Little River has a lower overall climate risk score (34/100) compared to Little Topar (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Little River or Little Topar safer from flooding?",
-      "answer": "Little River has a flood risk score of 50/100, while Little Topar scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Little River has a flood risk score of 24/100, while Little Topar scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Little River scores 24/100 for bushfire risk. Little Topar scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Little River scores 24/100 for bushfire risk. Little Topar scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Little River or Little Topar?",
@@ -76,5 +76,15 @@
       "label": "Little Topar Should I Buy?",
       "url": "/suburbs/nsw/little-topar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

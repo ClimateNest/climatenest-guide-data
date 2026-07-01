@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 34
+      "scoreA": 50,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 37
+      "scoreA": 21,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 38
+      "scoreA": 40,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 28,
+      "scoreA": 26,
       "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 30,
+      "scoreB": 6
     }
   ],
-  "verdict": "Gwambegwine has a lower overall climate risk score (25/100) compared to Habana (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Habana has a lower overall climate risk score (23/100) compared to Gwambegwine (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gwambegwine or Habana safer from flooding?",
-      "answer": "Gwambegwine has a flood risk score of 24/100, while Habana scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gwambegwine has a flood risk score of 50/100, while Habana scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gwambegwine scores 16/100 for bushfire risk. Habana scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gwambegwine scores 21/100 for bushfire risk. Habana scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gwambegwine or Habana?",
-      "answer": "Both suburbs have climate considerations. Gwambegwine has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Habana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Habana Should I Buy?",
       "url": "/suburbs/qld/habana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3229,
+    "projected2030": 4520,
+    "projected2050": 8395
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 19
+      "scoreA": 35,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 45
+      "scoreA": 28,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 35
+      "scoreA": 18,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 8,
+      "scoreB": 25
     }
   ],
-  "verdict": "Keriri Island has a lower overall climate risk score (28/100) compared to Kerry (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Keriri Island has a lower overall climate risk score (27/100) compared to Kerry (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Keriri Island or Kerry safer from flooding?",
-      "answer": "Keriri Island has a flood risk score of 27/100, while Kerry scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Keriri Island has a flood risk score of 29/100, while Kerry scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Keriri Island scores 44/100 for bushfire risk. Kerry scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Keriri Island scores 35/100 for bushfire risk. Kerry scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Keriri Island or Kerry?",
@@ -76,5 +76,15 @@
       "label": "Kerry Should I Buy?",
       "url": "/suburbs/qld/kerry/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

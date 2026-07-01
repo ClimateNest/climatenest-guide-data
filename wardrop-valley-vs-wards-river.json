@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 40
+      "scoreA": 58,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 53
+      "scoreA": 35,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 35
+      "scoreA": 35,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Wards River has a lower overall climate risk score (34/100) compared to Wardrop Valley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wardrop Valley has a lower overall climate risk score (36/100) compared to Wards River (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wardrop Valley or Wards River safer from flooding?",
-      "answer": "Wardrop Valley has a flood risk score of 50/100, while Wards River scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wardrop Valley has a flood risk score of 58/100, while Wards River scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wardrop Valley scores 41/100 for bushfire risk. Wards River scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wardrop Valley scores 26/100 for bushfire risk. Wards River scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wardrop Valley or Wards River?",
-      "answer": "Both suburbs have climate considerations. Wards River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wardrop Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wards River Should I Buy?",
       "url": "/suburbs/nsw/wards-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

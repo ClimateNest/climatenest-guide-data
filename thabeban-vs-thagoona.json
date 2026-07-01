@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
+      "scoreA": 21,
       "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 47
+      "scoreA": 41,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 46
+      "scoreA": 31,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 48
+      "scoreA": 31,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 31,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
+      "scoreA": 6,
       "scoreB": 28
     }
   ],
-  "verdict": "Thabeban has a lower overall climate risk score (39/100) compared to Thagoona (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Thabeban has a lower overall climate risk score (27/100) compared to Thagoona (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Thabeban or Thagoona safer from flooding?",
-      "answer": "Thabeban has a flood risk score of 25/100, while Thagoona scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Thabeban has a flood risk score of 21/100, while Thagoona scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Thabeban scores 53/100 for bushfire risk. Thagoona scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Thabeban scores 41/100 for bushfire risk. Thagoona scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Thabeban or Thagoona?",
@@ -76,5 +76,15 @@
       "label": "Thagoona Should I Buy?",
       "url": "/suburbs/qld/thagoona/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

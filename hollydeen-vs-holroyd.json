@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 25
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 43,
+      "scoreA": 21,
       "scoreB": 21
     },
     {
+      "name": "Bushfire",
+      "scoreA": 18,
+      "scoreB": 49
+    },
+    {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 65
+      "scoreA": 52,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 41
+      "scoreA": 41,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 51
+      "scoreA": 54,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 18
     }
   ],
-  "verdict": "Hollydeen has a lower overall climate risk score (38/100) compared to Holroyd (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hollydeen has a lower overall climate risk score (34/100) compared to Holroyd (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hollydeen or Holroyd safer from flooding?",
-      "answer": "Hollydeen has a flood risk score of 29/100, while Holroyd scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hollydeen has a flood risk score of 21/100, while Holroyd scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hollydeen scores 43/100 for bushfire risk. Holroyd scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hollydeen scores 18/100 for bushfire risk. Holroyd scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hollydeen or Holroyd?",
@@ -76,5 +76,15 @@
       "label": "Holroyd Should I Buy?",
       "url": "/suburbs/nsw/holroyd/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

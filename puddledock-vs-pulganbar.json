@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 45
+      "scoreA": 58,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 48
+      "scoreA": 28,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 49
+      "scoreA": 59,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 24
+      "scoreA": 37,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 39
+      "scoreA": 56,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 12
     }
   ],
-  "verdict": "Pulganbar has a lower overall climate risk score (37/100) compared to Puddledock (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pulganbar has a lower overall climate risk score (39/100) compared to Puddledock (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Puddledock or Pulganbar safer from flooding?",
-      "answer": "Puddledock has a flood risk score of 47/100, while Pulganbar scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Puddledock has a flood risk score of 58/100, while Pulganbar scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Puddledock scores 20/100 for bushfire risk. Pulganbar scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Puddledock scores 28/100 for bushfire risk. Pulganbar scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Puddledock or Pulganbar?",
@@ -76,5 +76,15 @@
       "label": "Pulganbar Should I Buy?",
       "url": "/suburbs/nsw/pulganbar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

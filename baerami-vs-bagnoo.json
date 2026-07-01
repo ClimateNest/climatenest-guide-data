@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 56
+      "scoreA": 21,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 54
+      "scoreA": 34,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 57
+      "scoreA": 61,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 38
+      "scoreA": 35,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 13,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 10,
+      "scoreB": 28
     }
   ],
-  "verdict": "Baerami has a lower overall climate risk score (38/100) compared to Bagnoo (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Baerami has a lower overall climate risk score (29/100) compared to Bagnoo (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Baerami or Bagnoo safer from flooding?",
-      "answer": "Baerami has a flood risk score of 39/100, while Bagnoo scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Baerami has a flood risk score of 21/100, while Bagnoo scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Baerami scores 47/100 for bushfire risk. Bagnoo scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Baerami scores 34/100 for bushfire risk. Bagnoo scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Baerami or Bagnoo?",
@@ -76,5 +76,15 @@
       "label": "Bagnoo Should I Buy?",
       "url": "/suburbs/nsw/bagnoo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

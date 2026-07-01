@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 40
+      "scoreA": 34,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
       "scoreA": 21,
-      "scoreB": 52
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 71
+      "scoreA": 62,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 24
+      "scoreA": 31,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 15
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 10,
+      "scoreB": 21
     }
   ],
-  "verdict": "Morphetts Flat has a lower overall climate risk score (30/100) compared to Morphettville (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Morphetts Flat has a lower overall climate risk score (31/100) compared to Morphettville (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Morphetts Flat or Morphettville safer from flooding?",
-      "answer": "Morphetts Flat has a flood risk score of 23/100, while Morphettville scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Morphetts Flat has a flood risk score of 34/100, while Morphettville scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Morphetts Flat scores 21/100 for bushfire risk. Morphettville scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Morphetts Flat scores 21/100 for bushfire risk. Morphettville scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Morphetts Flat or Morphettville?",
@@ -76,5 +76,15 @@
       "label": "Morphettville Should I Buy?",
       "url": "/suburbs/sa/morphettville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

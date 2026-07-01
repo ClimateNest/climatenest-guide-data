@@ -14,8 +14,8 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 56
+      "scoreA": 49,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
@@ -24,31 +24,31 @@
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 66
+      "scoreA": 57,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 14,
+      "scoreB": 15
     }
   ],
-  "verdict": "Dinner Plain has a lower overall climate risk score (37/100) compared to Dixons Creek (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dinner Plain has a lower overall climate risk score (35/100) compared to Dixons Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dinner Plain or Dixons Creek safer from flooding?",
-      "answer": "Dinner Plain has a flood risk score of 41/100, while Dixons Creek scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dinner Plain has a flood risk score of 49/100, while Dixons Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
@@ -76,5 +76,15 @@
       "label": "Dixons Creek Should I Buy?",
       "url": "/suburbs/vic/dixons-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

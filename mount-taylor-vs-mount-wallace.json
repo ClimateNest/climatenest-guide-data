@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 55
+      "scoreA": 46,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 60
+      "scoreA": 60,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 22,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 10
+      "scoreA": 25,
+      "scoreB": 23
     }
   ],
-  "verdict": "Mount Taylor has a lower overall climate risk score (28/100) compared to Mount Wallace (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Taylor has a lower overall climate risk score (37/100) compared to Mount Wallace (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Taylor or Mount Wallace safer from flooding?",
-      "answer": "Mount Taylor has a flood risk score of 23/100, while Mount Wallace scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Taylor has a flood risk score of 46/100, while Mount Wallace scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Taylor scores 26/100 for bushfire risk. Mount Wallace scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Taylor scores 46/100 for bushfire risk. Mount Wallace scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Taylor or Mount Wallace?",
@@ -76,5 +76,15 @@
       "label": "Mount Wallace Should I Buy?",
       "url": "/suburbs/vic/mount-wallace/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

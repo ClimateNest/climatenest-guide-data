@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 34
+      "scoreA": 29,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 42,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 41
+      "scoreA": 37,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 37
+      "scoreA": 47,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 6
+      "scoreA": 5,
+      "scoreB": 15
     }
   ],
-  "verdict": "Robin Falls has a lower overall climate risk score (27/100) compared to Robinson River (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Robin Falls has a lower overall climate risk score (31/100) compared to Robinson River (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Robin Falls or Robinson River safer from flooding?",
-      "answer": "Robin Falls has a flood risk score of 27/100, while Robinson River scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Robin Falls has a flood risk score of 29/100, while Robinson River scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Robin Falls scores 48/100 for bushfire risk. Robinson River scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Robin Falls scores 42/100 for bushfire risk. Robinson River scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Robin Falls or Robinson River?",
@@ -76,5 +76,15 @@
       "label": "Robinson River Should I Buy?",
       "url": "/suburbs/nt/robinson-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

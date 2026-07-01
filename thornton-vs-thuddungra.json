@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 35
+      "scoreA": 33,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 34,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 80,
+      "scoreA": 76,
       "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 20,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 13
+      "scoreA": 31,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 23
     }
   ],
-  "verdict": "Thuddungra has a lower overall climate risk score (34/100) compared to Thornton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Thuddungra has a lower overall climate risk score (35/100) compared to Thornton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Thornton or Thuddungra safer from flooding?",
-      "answer": "Thornton has a flood risk score of 22/100, while Thuddungra scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Thornton has a flood risk score of 33/100, while Thuddungra scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Thornton scores 45/100 for bushfire risk. Thuddungra scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Thornton scores 34/100 for bushfire risk. Thuddungra scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Thornton or Thuddungra?",
@@ -76,5 +76,15 @@
       "label": "Thuddungra Should I Buy?",
       "url": "/suburbs/nsw/thuddungra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

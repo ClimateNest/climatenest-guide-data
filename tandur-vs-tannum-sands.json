@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 52
+      "scoreA": 20,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 60,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 36
+      "scoreA": 37,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 38
+      "scoreA": 41,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 14
     }
   ],
-  "verdict": "Tandur has a lower overall climate risk score (36/100) compared to Tannum Sands (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tannum Sands has a lower overall climate risk score (32/100) compared to Tandur (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tandur or Tannum Sands safer from flooding?",
-      "answer": "Tandur has a flood risk score of 59/100, while Tannum Sands scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tandur has a flood risk score of 20/100, while Tannum Sands scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tandur scores 35/100 for bushfire risk. Tannum Sands scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tandur scores 60/100 for bushfire risk. Tannum Sands scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tandur or Tannum Sands?",
-      "answer": "Both suburbs have climate considerations. Tandur has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tannum Sands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tannum Sands Should I Buy?",
       "url": "/suburbs/qld/tannum-sands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

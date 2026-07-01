@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 41,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 35,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 54,
+      "scoreA": 67,
       "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 39
+      "scoreA": 22,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Ucarty West has a lower overall climate risk score (30/100) compared to Uduc (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Uduc has a lower overall climate risk score (36/100) compared to Ucarty West (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ucarty West or Uduc safer from flooding?",
-      "answer": "Ucarty West has a flood risk score of 21/100, while Uduc scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ucarty West has a flood risk score of 41/100, while Uduc scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ucarty West scores 31/100 for bushfire risk. Uduc scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ucarty West scores 35/100 for bushfire risk. Uduc scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ucarty West or Uduc?",
-      "answer": "Both suburbs have climate considerations. Ucarty West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Uduc has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Uduc Should I Buy?",
       "url": "/suburbs/wa/uduc/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 43
+      "scoreA": 23,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 59
+      "scoreA": 52,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 73
+      "scoreA": 49,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 34
+      "scoreA": 45,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 11
     }
   ],
-  "verdict": "Buckendoon has a lower overall climate risk score (37/100) compared to Bucketty (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Buckendoon has a lower overall climate risk score (39/100) compared to Bucketty (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Buckendoon or Bucketty safer from flooding?",
-      "answer": "Buckendoon has a flood risk score of 46/100, while Bucketty scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buckendoon has a flood risk score of 23/100, while Bucketty scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buckendoon scores 35/100 for bushfire risk. Bucketty scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buckendoon scores 52/100 for bushfire risk. Bucketty scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buckendoon or Bucketty?",
@@ -76,5 +76,15 @@
       "label": "Bucketty Should I Buy?",
       "url": "/suburbs/nsw/bucketty/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4475,
+    "projected2030": 6265,
+    "projected2050": 11636
+  },
+  "valueImpact": {
+    "dragPercent": 2.72,
+    "description": "Properties in this area may face a 2.72% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

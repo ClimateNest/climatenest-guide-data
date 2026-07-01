@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 55
+      "scoreA": 42,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 39
+      "scoreA": 60,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 58
+      "scoreA": 53,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 45
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 31,
+      "scoreA": 37,
       "scoreB": 47
     },
     {
+      "name": "Coastal",
+      "scoreA": 59,
+      "scoreB": 54
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 20
     }
   ],
-  "verdict": "St Georges Basin has a lower overall climate risk score (35/100) compared to St Helens Park (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "St Helens Park has a lower overall climate risk score (44/100) compared to St Georges Basin (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is St Georges Basin or St Helens Park safer from flooding?",
-      "answer": "St Georges Basin has a flood risk score of 27/100, while St Helens Park scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Georges Basin has a flood risk score of 42/100, while St Helens Park scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Georges Basin scores 57/100 for bushfire risk. St Helens Park scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Georges Basin scores 60/100 for bushfire risk. St Helens Park scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Georges Basin or St Helens Park?",
-      "answer": "Both suburbs have climate considerations. St Georges Basin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. St Helens Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "St Helens Park Should I Buy?",
       "url": "/suburbs/nsw/st-helens-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

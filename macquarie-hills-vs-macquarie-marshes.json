@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 52
+      "scoreA": 22,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 78
+      "scoreA": 52,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 20
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 40,
+      "scoreA": 48,
       "scoreB": 24
     },
     {
+      "name": "Coastal",
+      "scoreA": 52,
+      "scoreB": 11
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 20
     }
   ],
-  "verdict": "Macquarie Marshes has a lower overall climate risk score (38/100) compared to Macquarie Hills (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Macquarie Marshes has a lower overall climate risk score (29/100) compared to Macquarie Hills (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Macquarie Hills or Macquarie Marshes safer from flooding?",
-      "answer": "Macquarie Hills has a flood risk score of 25/100, while Macquarie Marshes scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Macquarie Hills has a flood risk score of 22/100, while Macquarie Marshes scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Macquarie Hills scores 43/100 for bushfire risk. Macquarie Marshes scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Macquarie Hills scores 48/100 for bushfire risk. Macquarie Marshes scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Macquarie Hills or Macquarie Marshes?",
@@ -76,5 +76,15 @@
       "label": "Macquarie Marshes Should I Buy?",
       "url": "/suburbs/nsw/macquarie-marshes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

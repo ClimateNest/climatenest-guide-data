@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 25,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 59
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 32
+      "scoreA": 38,
+      "scoreB": 37
     },
     {
       "name": "Storm",
       "scoreA": 40,
-      "scoreB": 35
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 9,
+      "scoreB": 7
     }
   ],
-  "verdict": "Mossman has a lower overall climate risk score (31/100) compared to Mossman Gorge (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mossman has a lower overall climate risk score (27/100) compared to Mossman Gorge (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mossman or Mossman Gorge safer from flooding?",
-      "answer": "Mossman has a flood risk score of 21/100, while Mossman Gorge scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mossman has a flood risk score of 25/100, while Mossman Gorge scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mossman scores 55/100 for bushfire risk. Mossman Gorge scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mossman scores 26/100 for bushfire risk. Mossman Gorge scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mossman or Mossman Gorge?",
@@ -76,5 +76,15 @@
       "label": "Mossman Gorge Should I Buy?",
       "url": "/suburbs/qld/mossman-gorge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3195,
+    "projected2030": 4473,
+    "projected2050": 8306
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

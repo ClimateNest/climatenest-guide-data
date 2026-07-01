@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 36,
-      "scoreB": 32
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 72
+      "scoreA": 72,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 40,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 23,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 27,
+      "scoreB": 20
     }
   ],
-  "verdict": "Donald has a lower overall climate risk score (33/100) compared to Don Valley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Don Valley has a lower overall climate risk score (36/100) compared to Donald (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Don Valley or Donald safer from flooding?",
-      "answer": "Don Valley has a flood risk score of 36/100, while Donald scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Don Valley has a flood risk score of 36/100, while Donald scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Don Valley scores 62/100 for bushfire risk. Donald scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Don Valley scores 16/100 for bushfire risk. Donald scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Don Valley or Donald?",
-      "answer": "Both suburbs have climate considerations. Donald has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Don Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Donald Should I Buy?",
       "url": "/suburbs/vic/donald/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

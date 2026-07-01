@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 60
+      "scoreA": 35,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 53
+      "scoreA": 17,
+      "scoreB": 61
     },
     {
       "name": "Heat",
       "scoreA": 48,
-      "scoreB": 70
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 45
+      "scoreA": 38,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 18
+      "scoreA": 51,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 24
     }
   ],
-  "verdict": "Maryland has a lower overall climate risk score (43/100) compared to Maryvale (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Maryland has a lower overall climate risk score (34/100) compared to Maryvale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Maryland or Maryvale safer from flooding?",
-      "answer": "Maryland has a flood risk score of 29/100, while Maryvale scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Maryland has a flood risk score of 35/100, while Maryvale scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Maryland scores 58/100 for bushfire risk. Maryvale scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Maryland scores 17/100 for bushfire risk. Maryvale scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Maryland or Maryvale?",
@@ -76,5 +76,15 @@
       "label": "Maryvale Should I Buy?",
       "url": "/suburbs/nsw/maryvale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 39
+      "scoreA": 46,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 65
+      "scoreA": 30,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 71
+      "scoreA": 52,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 25,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 14
     }
   ],
-  "verdict": "Buddabadah has a lower overall climate risk score (33/100) compared to Budden (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Buddabadah has a lower overall climate risk score (33/100) compared to Budden (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Buddabadah or Budden safer from flooding?",
-      "answer": "Buddabadah has a flood risk score of 27/100, while Budden scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buddabadah has a flood risk score of 46/100, while Budden scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buddabadah scores 50/100 for bushfire risk. Budden scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buddabadah scores 30/100 for bushfire risk. Budden scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buddabadah or Budden?",
@@ -76,5 +76,15 @@
       "label": "Budden Should I Buy?",
       "url": "/suburbs/nsw/budden/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

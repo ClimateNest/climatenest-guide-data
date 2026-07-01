@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 44
+      "scoreA": 52,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 63
+      "scoreA": 23,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 42,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 58
+      "scoreA": 13,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 9
+      "scoreA": 19,
+      "scoreB": 19
     }
   ],
-  "verdict": "Yalboroo has a lower overall climate risk score (29/100) compared to Yandaran (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yalboroo has a lower overall climate risk score (32/100) compared to Yandaran (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yalboroo or Yandaran safer from flooding?",
-      "answer": "Yalboroo has a flood risk score of 25/100, while Yandaran scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yalboroo has a flood risk score of 52/100, while Yandaran scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yalboroo scores 56/100 for bushfire risk. Yandaran scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yalboroo scores 23/100 for bushfire risk. Yandaran scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yalboroo or Yandaran?",
@@ -76,5 +76,15 @@
       "label": "Yandaran Should I Buy?",
       "url": "/suburbs/qld/yandaran/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

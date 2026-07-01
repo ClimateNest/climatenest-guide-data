@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 46
+      "scoreA": 35,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 61
-    },
-    {
-      "name": "Heat",
-      "scoreA": 69,
+      "scoreA": 36,
       "scoreB": 49
     },
     {
+      "name": "Heat",
+      "scoreA": 78,
+      "scoreB": 40
+    },
+    {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 34
+      "scoreA": 30,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 24,
+      "scoreB": 16
     }
   ],
-  "verdict": "Gwindinup has a lower overall climate risk score (29/100) compared to Halls Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Halls Creek has a lower overall climate risk score (36/100) compared to Gwindinup (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gwindinup or Halls Creek safer from flooding?",
-      "answer": "Gwindinup has a flood risk score of 39/100, while Halls Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gwindinup has a flood risk score of 35/100, while Halls Creek scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gwindinup scores 15/100 for bushfire risk. Halls Creek scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gwindinup scores 36/100 for bushfire risk. Halls Creek scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gwindinup or Halls Creek?",
-      "answer": "Both suburbs have climate considerations. Gwindinup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Halls Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Halls Creek Should I Buy?",
       "url": "/suburbs/wa/halls-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

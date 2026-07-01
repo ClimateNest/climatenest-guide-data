@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 51,
-      "scoreB": 23
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 37
+      "scoreA": 60,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 46
+      "scoreA": 65,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 20
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 37
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 24
     }
   ],
-  "verdict": "Torrington has a lower overall climate risk score (32/100) compared to Toronto (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Torrington has a lower overall climate risk score (40/100) compared to Toronto (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Toronto or Torrington safer from flooding?",
-      "answer": "Toronto has a flood risk score of 51/100, while Torrington scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toronto has a flood risk score of 51/100, while Torrington scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toronto scores 64/100 for bushfire risk. Torrington scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toronto scores 60/100 for bushfire risk. Torrington scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toronto or Torrington?",
@@ -76,5 +76,15 @@
       "label": "Torrington Should I Buy?",
       "url": "/suburbs/nsw/torrington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4532,
+    "projected2030": 6345,
+    "projected2050": 11783
+  },
+  "valueImpact": {
+    "dragPercent": 2.85,
+    "description": "Properties in this area may face a 2.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

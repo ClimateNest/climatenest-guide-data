@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 59
+      "scoreA": 20,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 54
+      "scoreA": 18,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 50
+      "scoreA": 51,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 37
+      "scoreA": 38,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 30,
+      "scoreB": 20
     }
   ],
-  "verdict": "Pinny Beach has a lower overall climate risk score (41/100) compared to Piora (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Pinny Beach has a lower overall climate risk score (33/100) compared to Piora (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pinny Beach or Piora safer from flooding?",
-      "answer": "Pinny Beach has a flood risk score of 58/100, while Piora scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pinny Beach has a flood risk score of 20/100, while Piora scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pinny Beach scores 21/100 for bushfire risk. Piora scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pinny Beach scores 18/100 for bushfire risk. Piora scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pinny Beach or Piora?",
@@ -76,5 +76,15 @@
       "label": "Piora Should I Buy?",
       "url": "/suburbs/nsw/piora/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

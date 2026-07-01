@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 43
+      "scoreA": 28,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 64
+      "scoreA": 23,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 69
+      "scoreA": 68,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 42,
+      "scoreA": 23,
       "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 24
     }
   ],
-  "verdict": "Old Plains has a lower overall climate risk score (40/100) compared to Oldbury (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Old Plains has a lower overall climate risk score (30/100) compared to Oldbury (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Old Plains or Oldbury safer from flooding?",
-      "answer": "Old Plains has a flood risk score of 29/100, while Oldbury scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Old Plains has a flood risk score of 28/100, while Oldbury scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Old Plains scores 65/100 for bushfire risk. Oldbury scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Old Plains scores 23/100 for bushfire risk. Oldbury scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Old Plains or Oldbury?",
@@ -76,5 +76,15 @@
       "label": "Oldbury Should I Buy?",
       "url": "/suburbs/wa/oldbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

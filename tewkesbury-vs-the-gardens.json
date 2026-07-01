@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 36
+      "scoreA": 39,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 48
+      "scoreA": 45,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 52
+      "scoreA": 54,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 25
+      "scoreA": 34,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 29,
+      "scoreB": 29
     }
   ],
-  "verdict": "The Gardens has a lower overall climate risk score (34/100) compared to Tewkesbury (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Gardens has a lower overall climate risk score (33/100) compared to Tewkesbury (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tewkesbury or The Gardens safer from flooding?",
-      "answer": "Tewkesbury has a flood risk score of 49/100, while The Gardens scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tewkesbury has a flood risk score of 39/100, while The Gardens scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tewkesbury scores 49/100 for bushfire risk. The Gardens scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tewkesbury scores 45/100 for bushfire risk. The Gardens scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tewkesbury or The Gardens?",
@@ -76,5 +76,15 @@
       "label": "The Gardens Should I Buy?",
       "url": "/suburbs/tas/the-gardens/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 32
+      "scoreA": 47,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 39
+      "scoreA": 33,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 70
+      "scoreA": 58,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 41
+      "scoreA": 28,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 56,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 21
+      "scoreA": 16,
+      "scoreB": 11
     }
   ],
-  "verdict": "Sandbar has a lower overall climate risk score (35/100) compared to Sandgate (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sandbar has a lower overall climate risk score (40/100) compared to Sandgate (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sandbar or Sandgate safer from flooding?",
-      "answer": "Sandbar has a flood risk score of 27/100, while Sandgate scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandbar has a flood risk score of 47/100, while Sandgate scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandbar scores 17/100 for bushfire risk. Sandgate scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandbar scores 33/100 for bushfire risk. Sandgate scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandbar or Sandgate?",
@@ -76,5 +76,15 @@
       "label": "Sandgate Should I Buy?",
       "url": "/suburbs/nsw/sandgate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

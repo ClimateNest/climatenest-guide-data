@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 50
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 56
-    },
-    {
-      "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 51
-    },
-    {
-      "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 35
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 30,
+      "scoreA": 34,
       "scoreB": 22
     },
     {
+      "name": "Bushfire",
+      "scoreA": 56,
+      "scoreB": 43
+    },
+    {
+      "name": "Heat",
+      "scoreA": 74,
+      "scoreB": 54
+    },
+    {
+      "name": "Storm",
+      "scoreA": 31,
+      "scoreB": 44
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 27,
+      "scoreB": 13
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 15,
+      "scoreB": 18
     }
   ],
-  "verdict": "Johanna has a lower overall climate risk score (38/100) compared to Joel Joel (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Johanna has a lower overall climate risk score (32/100) compared to Joel Joel (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Joel Joel or Johanna safer from flooding?",
-      "answer": "Joel Joel has a flood risk score of 35/100, while Johanna scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Joel Joel has a flood risk score of 34/100, while Johanna scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Joel Joel scores 63/100 for bushfire risk. Johanna scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Joel Joel scores 56/100 for bushfire risk. Johanna scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Joel Joel or Johanna?",
@@ -76,5 +76,15 @@
       "label": "Johanna Should I Buy?",
       "url": "/suburbs/vic/johanna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

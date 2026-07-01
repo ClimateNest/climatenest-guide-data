@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 56
+      "scoreA": 22,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 25
+      "scoreA": 60,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 62
+      "scoreA": 78,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 16
     }
   ],
-  "verdict": "Lake Tyers Beach has a lower overall climate risk score (39/100) compared to Lake Rowan (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Tyers Beach has a lower overall climate risk score (37/100) compared to Lake Rowan (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lake Rowan or Lake Tyers Beach safer from flooding?",
-      "answer": "Lake Rowan has a flood risk score of 60/100, while Lake Tyers Beach scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Rowan has a flood risk score of 22/100, while Lake Tyers Beach scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Rowan scores 48/100 for bushfire risk. Lake Tyers Beach scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Rowan scores 60/100 for bushfire risk. Lake Tyers Beach scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Rowan or Lake Tyers Beach?",
@@ -76,5 +76,15 @@
       "label": "Lake Tyers Beach Should I Buy?",
       "url": "/suburbs/vic/lake-tyers-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

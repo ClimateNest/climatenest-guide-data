@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 50
+      "scoreA": 31,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 53
+      "scoreA": 60,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 69,
+      "scoreA": 77,
       "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 30
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 13
     }
   ],
-  "verdict": "Point Pearce has a lower overall climate risk score (40/100) compared to Point Lowly (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Point Pearce has a lower overall climate risk score (33/100) compared to Point Lowly (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Point Lowly or Point Pearce safer from flooding?",
-      "answer": "Point Lowly has a flood risk score of 52/100, while Point Pearce scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Point Lowly has a flood risk score of 31/100, while Point Pearce scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Point Lowly scores 50/100 for bushfire risk. Point Pearce scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Point Lowly scores 60/100 for bushfire risk. Point Pearce scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Point Lowly or Point Pearce?",
@@ -76,5 +76,15 @@
       "label": "Point Pearce Should I Buy?",
       "url": "/suburbs/sa/point-pearce/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

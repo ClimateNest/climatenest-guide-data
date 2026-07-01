@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 57
+      "scoreA": 41,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 16
+      "scoreA": 35,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 74
+      "scoreA": 57,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 41
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
+      "scoreA": 26,
       "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Quantong has a lower overall climate risk score (35/100) compared to Queenscliff (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Quantong has a lower overall climate risk score (37/100) compared to Queenscliff (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Quantong or Queenscliff safer from flooding?",
-      "answer": "Quantong has a flood risk score of 47/100, while Queenscliff scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Quantong has a flood risk score of 41/100, while Queenscliff scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Quantong scores 40/100 for bushfire risk. Queenscliff scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Quantong scores 35/100 for bushfire risk. Queenscliff scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Quantong or Queenscliff?",
@@ -76,5 +76,15 @@
       "label": "Queenscliff Should I Buy?",
       "url": "/suburbs/vic/queenscliff/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

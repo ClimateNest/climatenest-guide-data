@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 29
+      "scoreA": 49,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 54
+      "scoreA": 22,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 59
+      "scoreA": 52,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 28,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 18
     }
   ],
-  "verdict": "Bethany has a lower overall climate risk score (32/100) compared to Beulah Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bethany has a lower overall climate risk score (32/100) compared to Beulah Park (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bethany or Beulah Park safer from flooding?",
-      "answer": "Bethany has a flood risk score of 22/100, while Beulah Park scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bethany has a flood risk score of 49/100, while Beulah Park scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bethany scores 46/100 for bushfire risk. Beulah Park scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bethany scores 22/100 for bushfire risk. Beulah Park scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bethany or Beulah Park?",
@@ -76,5 +76,15 @@
       "label": "Beulah Park Should I Buy?",
       "url": "/suburbs/sa/beulah-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 53
+      "scoreA": 36,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 35,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 34
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 27
+      "scoreA": 32,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 22,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 6
+      "scoreA": 17,
+      "scoreB": 9
     }
   ],
-  "verdict": "Elsey has a lower overall climate risk score (27/100) compared to Elliott (28/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Elsey has a lower overall climate risk score (26/100) compared to Elliott (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Elliott or Elsey safer from flooding?",
-      "answer": "Elliott has a flood risk score of 48/100, while Elsey scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elliott has a flood risk score of 36/100, while Elsey scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elliott scores 20/100 for bushfire risk. Elsey scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elliott scores 35/100 for bushfire risk. Elsey scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elliott or Elsey?",
@@ -76,5 +76,15 @@
       "label": "Elsey Should I Buy?",
       "url": "/suburbs/nt/elsey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3217,
+    "projected2030": 4504,
+    "projected2050": 8365
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

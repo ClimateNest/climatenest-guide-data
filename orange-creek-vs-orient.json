@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 47
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 24
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
+      "scoreA": 30,
       "scoreB": 41
     },
     {
-      "name": "Storm",
+      "name": "Bushfire",
+      "scoreA": 61,
+      "scoreB": 45
+    },
+    {
+      "name": "Heat",
       "scoreA": 43,
-      "scoreB": 46
+      "scoreB": 43
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 6
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "Orient has a lower overall climate risk score (31/100) compared to Orange Creek (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Orient has a lower overall climate risk score (29/100) compared to Orange Creek (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Orange Creek or Orient safer from flooding?",
-      "answer": "Orange Creek has a flood risk score of 32/100, while Orient scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Orange Creek has a flood risk score of 30/100, while Orient scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Orange Creek scores 38/100 for bushfire risk. Orient scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Orange Creek scores 61/100 for bushfire risk. Orient scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Orange Creek or Orient?",
@@ -76,5 +76,15 @@
       "label": "Orient Should I Buy?",
       "url": "/suburbs/qld/orient/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 30
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 46
-    },
-    {
-      "name": "Heat",
-      "scoreA": 71,
+      "scoreA": 24,
       "scoreB": 54
     },
     {
+      "name": "Bushfire",
+      "scoreA": 17,
+      "scoreB": 41
+    },
+    {
+      "name": "Heat",
+      "scoreA": 52,
+      "scoreB": 55
+    },
+    {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Forrest Beach has a lower overall climate risk score (34/100) compared to Forest Hill (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Forest Hill has a lower overall climate risk score (27/100) compared to Forrest Beach (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Forest Hill or Forrest Beach safer from flooding?",
-      "answer": "Forest Hill has a flood risk score of 60/100, while Forrest Beach scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Forest Hill has a flood risk score of 24/100, while Forrest Beach scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Forest Hill scores 56/100 for bushfire risk. Forrest Beach scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Forest Hill scores 17/100 for bushfire risk. Forrest Beach scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Forest Hill or Forrest Beach?",
-      "answer": "Both suburbs have climate considerations. Forrest Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Forest Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Forrest Beach Should I Buy?",
       "url": "/suburbs/wa/forrest-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

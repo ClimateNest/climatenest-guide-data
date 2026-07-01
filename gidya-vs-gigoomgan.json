@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 50,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 48
+      "scoreA": 47,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 41
+      "scoreA": 37,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 48
+      "scoreA": 20,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 30
+      "scoreA": 17,
+      "scoreB": 22
     }
   ],
-  "verdict": "Gidya has a lower overall climate risk score (33/100) compared to Gigoomgan (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gigoomgan has a lower overall climate risk score (34/100) compared to Gidya (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gidya or Gigoomgan safer from flooding?",
-      "answer": "Gidya has a flood risk score of 48/100, while Gigoomgan scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gidya has a flood risk score of 43/100, while Gigoomgan scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gidya scores 45/100 for bushfire risk. Gigoomgan scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gidya scores 50/100 for bushfire risk. Gigoomgan scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gidya or Gigoomgan?",
-      "answer": "Both suburbs have climate considerations. Gidya has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gigoomgan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gigoomgan Should I Buy?",
       "url": "/suburbs/qld/gigoomgan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

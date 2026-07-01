@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 41
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 24,
+      "scoreA": 26,
       "scoreB": 33
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 18
+    },
+    {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 67
+      "scoreA": 60,
+      "scoreB": 72
     },
     {
       "name": "Storm",
       "scoreA": 36,
-      "scoreB": 47
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Tooperang has a lower overall climate risk score (36/100) compared to Toora (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tooperang has a lower overall climate risk score (30/100) compared to Toora (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tooperang or Toora safer from flooding?",
-      "answer": "Tooperang has a flood risk score of 55/100, while Toora scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tooperang has a flood risk score of 26/100, while Toora scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tooperang scores 24/100 for bushfire risk. Toora scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tooperang scores 28/100 for bushfire risk. Toora scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tooperang or Toora?",
@@ -76,5 +76,15 @@
       "label": "Toora Should I Buy?",
       "url": "/suburbs/sa/toora/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3331,
+    "projected2030": 4663,
+    "projected2050": 8660
+  },
+  "valueImpact": {
+    "dragPercent": 0.2,
+    "description": "Properties in this area may face a 0.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

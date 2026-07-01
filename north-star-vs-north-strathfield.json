@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 45,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 58
+      "scoreA": 42,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 57
+      "scoreA": 36,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 39
+      "scoreA": 28,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 52
+      "scoreA": 14,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 13
+      "scoreA": 30,
+      "scoreB": 19
     }
   ],
-  "verdict": "North Star has a lower overall climate risk score (35/100) compared to North Strathfield (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Star has a lower overall climate risk score (33/100) compared to North Strathfield (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Star or North Strathfield safer from flooding?",
-      "answer": "North Star has a flood risk score of 43/100, while North Strathfield scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Star has a flood risk score of 45/100, while North Strathfield scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Star scores 54/100 for bushfire risk. North Strathfield scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Star scores 42/100 for bushfire risk. North Strathfield scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Star or North Strathfield?",
@@ -76,5 +76,15 @@
       "label": "North Strathfield Should I Buy?",
       "url": "/suburbs/nsw/north-strathfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

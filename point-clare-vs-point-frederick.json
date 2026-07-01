@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 24
+      "scoreA": 45,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 28
+      "scoreA": 40,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 71
+      "scoreA": 66,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 34
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 51
+      "scoreA": 57,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 15
     }
   ],
-  "verdict": "Point Frederick has a lower overall climate risk score (37/100) compared to Point Clare (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Point Frederick has a lower overall climate risk score (43/100) compared to Point Clare (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Point Clare or Point Frederick safer from flooding?",
-      "answer": "Point Clare has a flood risk score of 57/100, while Point Frederick scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Point Clare has a flood risk score of 45/100, while Point Frederick scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Point Clare scores 15/100 for bushfire risk. Point Frederick scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Point Clare scores 40/100 for bushfire risk. Point Frederick scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Point Clare or Point Frederick?",
@@ -76,5 +76,15 @@
       "label": "Point Frederick Should I Buy?",
       "url": "/suburbs/nsw/point-frederick/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

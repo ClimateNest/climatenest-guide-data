@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 55
+      "scoreA": 39,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 64
+      "scoreA": 56,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 38
+      "scoreA": 46,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 21
     }
   ],
-  "verdict": "Tullamarine has a lower overall climate risk score (35/100) compared to Tungamah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tullamarine has a lower overall climate risk score (36/100) compared to Tungamah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tullamarine or Tungamah safer from flooding?",
-      "answer": "Tullamarine has a flood risk score of 57/100, while Tungamah scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tullamarine has a flood risk score of 24/100, while Tungamah scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tullamarine scores 38/100 for bushfire risk. Tungamah scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tullamarine scores 39/100 for bushfire risk. Tungamah scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tullamarine or Tungamah?",
@@ -76,5 +76,15 @@
       "label": "Tungamah Should I Buy?",
       "url": "/suburbs/vic/tungamah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 40
+      "scoreA": 21,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 51
-    },
-    {
-      "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 78
-    },
-    {
-      "name": "Storm",
       "scoreA": 27,
-      "scoreB": 21
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
       "scoreB": 16
     },
     {
-      "name": "Cyclone",
-      "scoreA": 19,
+      "name": "Heat",
+      "scoreA": 60,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 26
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 12,
       "scoreB": 23
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 21,
+      "scoreB": 27
     }
   ],
-  "verdict": "Byrneside has a lower overall climate risk score (35/100) compared to Cabbage Tree (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Byrneside has a lower overall climate risk score (30/100) compared to Cabbage Tree (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Byrneside or Cabbage Tree safer from flooding?",
-      "answer": "Byrneside has a flood risk score of 35/100, while Cabbage Tree scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Byrneside has a flood risk score of 21/100, while Cabbage Tree scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Byrneside scores 53/100 for bushfire risk. Cabbage Tree scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Byrneside scores 27/100 for bushfire risk. Cabbage Tree scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Byrneside or Cabbage Tree?",
@@ -76,5 +76,15 @@
       "label": "Cabbage Tree Should I Buy?",
       "url": "/suburbs/vic/cabbage-tree/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

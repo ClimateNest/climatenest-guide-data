@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 35
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 70
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 35
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 49,
+      "scoreA": 22,
       "scoreB": 57
     },
     {
+      "name": "Bushfire",
+      "scoreA": 23,
+      "scoreB": 23
+    },
+    {
+      "name": "Heat",
+      "scoreA": 76,
+      "scoreB": 59
+    },
+    {
+      "name": "Storm",
+      "scoreA": 44,
+      "scoreB": 42
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 43,
+      "scoreB": 40
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 23
     }
   ],
-  "verdict": "Dora Creek has a lower overall climate risk score (39/100) compared to Dorrigo Mountain (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dora Creek has a lower overall climate risk score (37/100) compared to Dorrigo Mountain (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dora Creek or Dorrigo Mountain safer from flooding?",
-      "answer": "Dora Creek has a flood risk score of 36/100, while Dorrigo Mountain scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dora Creek has a flood risk score of 22/100, while Dorrigo Mountain scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dora Creek scores 37/100 for bushfire risk. Dorrigo Mountain scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dora Creek scores 23/100 for bushfire risk. Dorrigo Mountain scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dora Creek or Dorrigo Mountain?",
@@ -76,5 +76,15 @@
       "label": "Dorrigo Mountain Should I Buy?",
       "url": "/suburbs/nsw/dorrigo-mountain/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

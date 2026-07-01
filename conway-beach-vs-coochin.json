@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 43
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 19
+      "scoreA": 48,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 31,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 20,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 54
+      "scoreA": 27,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 12
+      "scoreA": 13,
+      "scoreB": 21
     }
   ],
-  "verdict": "Conway Beach has a lower overall climate risk score (33/100) compared to Coochin (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Conway Beach has a lower overall climate risk score (28/100) compared to Coochin (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Conway Beach or Coochin safer from flooding?",
-      "answer": "Conway Beach has a flood risk score of 52/100, while Coochin scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Conway Beach has a flood risk score of 27/100, while Coochin scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Conway Beach scores 49/100 for bushfire risk. Coochin scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Conway Beach scores 48/100 for bushfire risk. Coochin scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Conway Beach or Coochin?",
@@ -76,5 +76,15 @@
       "label": "Coochin Should I Buy?",
       "url": "/suburbs/qld/coochin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

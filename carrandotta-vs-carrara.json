@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 34
+      "scoreA": 25,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 55
+      "scoreA": 59,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 36
+      "scoreA": 41,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 20
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 41,
       "scoreB": 48
     },
     {
+      "name": "Coastal",
+      "scoreA": 12,
+      "scoreB": 51
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 5,
+      "scoreB": 23
     }
   ],
-  "verdict": "Carrara has a lower overall climate risk score (35/100) compared to Carrandotta (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Carrandotta has a lower overall climate risk score (31/100) compared to Carrara (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Carrandotta or Carrara safer from flooding?",
-      "answer": "Carrandotta has a flood risk score of 57/100, while Carrara scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carrandotta has a flood risk score of 25/100, while Carrara scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carrandotta scores 57/100 for bushfire risk. Carrara scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carrandotta scores 59/100 for bushfire risk. Carrara scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carrandotta or Carrara?",
-      "answer": "Both suburbs have climate considerations. Carrara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Carrandotta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Carrara Should I Buy?",
       "url": "/suburbs/qld/carrara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

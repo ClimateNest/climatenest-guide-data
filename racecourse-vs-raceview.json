@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 57
+      "scoreA": 33,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 38,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 59
+      "scoreA": 26,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
+      "scoreA": 14,
       "scoreB": 20
     }
   ],
-  "verdict": "Racecourse has a lower overall climate risk score (35/100) compared to Raceview (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Racecourse has a lower overall climate risk score (27/100) compared to Raceview (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Racecourse or Raceview safer from flooding?",
-      "answer": "Racecourse has a flood risk score of 37/100, while Raceview scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Racecourse has a flood risk score of 33/100, while Raceview scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Racecourse scores 57/100 for bushfire risk. Raceview scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Racecourse scores 28/100 for bushfire risk. Raceview scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Racecourse or Raceview?",
@@ -76,5 +76,15 @@
       "label": "Raceview Should I Buy?",
       "url": "/suburbs/qld/raceview/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 55
+      "scoreA": 49,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 57
+      "scoreA": 28,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 58
+      "scoreA": 66,
+      "scoreB": 75
     },
     {
       "name": "Storm",
       "scoreA": 37,
-      "scoreB": 45
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 28,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Toolondo has a lower overall climate risk score (34/100) compared to Toolong (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Toolong has a lower overall climate risk score (35/100) compared to Toolondo (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Toolondo or Toolong safer from flooding?",
-      "answer": "Toolondo has a flood risk score of 33/100, while Toolong scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toolondo has a flood risk score of 49/100, while Toolong scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toolondo scores 37/100 for bushfire risk. Toolong scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toolondo scores 28/100 for bushfire risk. Toolong scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toolondo or Toolong?",
-      "answer": "Both suburbs have climate considerations. Toolondo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Toolong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Toolong Should I Buy?",
       "url": "/suburbs/vic/toolong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

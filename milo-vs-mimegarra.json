@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 51
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 53
+      "scoreA": 18,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 60
+      "scoreA": 47,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 45
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 27,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
       "scoreA": 16,
-      "scoreB": 17
+      "scoreB": 15
     }
   ],
-  "verdict": "Milo has a lower overall climate risk score (26/100) compared to Mimegarra (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Milo has a lower overall climate risk score (29/100) compared to Mimegarra (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Milo or Mimegarra safer from flooding?",
-      "answer": "Milo has a flood risk score of 31/100, while Mimegarra scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Milo has a flood risk score of 36/100, while Mimegarra scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Milo scores 20/100 for bushfire risk. Mimegarra scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Milo scores 18/100 for bushfire risk. Mimegarra scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Milo or Mimegarra?",
@@ -76,5 +76,15 @@
       "label": "Mimegarra Should I Buy?",
       "url": "/suburbs/wa/mimegarra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3172,
+    "projected2030": 4441,
+    "projected2050": 8247
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

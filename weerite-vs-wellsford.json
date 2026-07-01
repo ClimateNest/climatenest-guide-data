@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 50
+      "scoreA": 47,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 57
-    },
-    {
-      "name": "Heat",
-      "scoreA": 66,
+      "scoreA": 60,
       "scoreB": 63
     },
     {
+      "name": "Heat",
+      "scoreA": 51,
+      "scoreB": 80
+    },
+    {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 10
+      "scoreA": 22,
+      "scoreB": 28
     }
   ],
-  "verdict": "Weerite has a lower overall climate risk score (40/100) compared to Wellsford (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Weerite has a lower overall climate risk score (41/100) compared to Wellsford (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Weerite or Wellsford safer from flooding?",
-      "answer": "Weerite has a flood risk score of 52/100, while Wellsford scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Weerite has a flood risk score of 47/100, while Wellsford scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Weerite scores 55/100 for bushfire risk. Wellsford scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Weerite scores 60/100 for bushfire risk. Wellsford scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Weerite or Wellsford?",
@@ -76,5 +76,15 @@
       "label": "Wellsford Should I Buy?",
       "url": "/suburbs/vic/wellsford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4509,
+    "projected2030": 6313,
+    "projected2050": 11724
+  },
+  "valueImpact": {
+    "dragPercent": 2.8,
+    "description": "Properties in this area may face a 2.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

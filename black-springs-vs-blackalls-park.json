@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 45
+      "scoreA": 23,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 51,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 64
+      "scoreA": 75,
+      "scoreB": 54
     },
     {
       "name": "Storm",
       "scoreA": 28,
-      "scoreB": 48
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 57
+      "scoreA": 15,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 16
     }
   ],
-  "verdict": "Black Springs has a lower overall climate risk score (32/100) compared to Blackalls Park (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Black Springs has a lower overall climate risk score (36/100) compared to Blackalls Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Black Springs or Blackalls Park safer from flooding?",
-      "answer": "Black Springs has a flood risk score of 36/100, while Blackalls Park scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Black Springs has a flood risk score of 23/100, while Blackalls Park scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Black Springs scores 37/100 for bushfire risk. Blackalls Park scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Black Springs scores 51/100 for bushfire risk. Blackalls Park scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Black Springs or Blackalls Park?",
@@ -76,5 +76,15 @@
       "label": "Blackalls Park Should I Buy?",
       "url": "/suburbs/nsw/blackalls-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

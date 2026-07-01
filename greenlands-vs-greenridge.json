@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 38
+      "scoreA": 28,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 27
+      "scoreA": 53,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 43
+      "scoreA": 72,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 43
+      "scoreA": 36,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 33
+      "scoreA": 52,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 29
+      "scoreA": 11,
+      "scoreB": 20
     }
   ],
-  "verdict": "Greenridge has a lower overall climate risk score (36/100) compared to Greenlands (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Greenridge has a lower overall climate risk score (35/100) compared to Greenlands (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Greenlands or Greenridge safer from flooding?",
-      "answer": "Greenlands has a flood risk score of 38/100, while Greenridge scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greenlands has a flood risk score of 28/100, while Greenridge scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greenlands scores 44/100 for bushfire risk. Greenridge scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greenlands scores 53/100 for bushfire risk. Greenridge scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greenlands or Greenridge?",
@@ -76,5 +76,15 @@
       "label": "Greenridge Should I Buy?",
       "url": "/suburbs/nsw/greenridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

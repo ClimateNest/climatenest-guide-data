@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 42
+      "scoreA": 40,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 49,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 79
+      "scoreA": 54,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 34
+      "scoreA": 37,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Trigg has a lower overall climate risk score (35/100) compared to Trigwell (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Trigwell has a lower overall climate risk score (36/100) compared to Trigg (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Trigg or Trigwell safer from flooding?",
-      "answer": "Trigg has a flood risk score of 28/100, while Trigwell scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Trigg has a flood risk score of 40/100, while Trigwell scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Trigg scores 42/100 for bushfire risk. Trigwell scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Trigg scores 49/100 for bushfire risk. Trigwell scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Trigg or Trigwell?",
-      "answer": "Both suburbs have climate considerations. Trigg has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Trigwell has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Trigwell Should I Buy?",
       "url": "/suburbs/wa/trigwell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 35,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 31
+      "scoreA": 53,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 35,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 11
+      "scoreA": 40,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Cooladdi has a lower overall climate risk score (30/100) compared to Coolabunia (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Coolabunia has a lower overall climate risk score (37/100) compared to Cooladdi (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coolabunia or Cooladdi safer from flooding?",
-      "answer": "Coolabunia has a flood risk score of 20/100, while Cooladdi scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coolabunia has a flood risk score of 35/100, while Cooladdi scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coolabunia scores 51/100 for bushfire risk. Cooladdi scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coolabunia scores 53/100 for bushfire risk. Cooladdi scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coolabunia or Cooladdi?",
-      "answer": "Both suburbs have climate considerations. Cooladdi has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Coolabunia has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cooladdi Should I Buy?",
       "url": "/suburbs/qld/cooladdi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

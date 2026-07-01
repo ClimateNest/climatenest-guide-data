@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 60
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 59
+      "scoreA": 52,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 38
+      "scoreA": 22,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 8,
+      "scoreB": 17
     }
   ],
-  "verdict": "Pelican Creek has a lower overall climate risk score (37/100) compared to Pentland (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pelican Creek has a lower overall climate risk score (29/100) compared to Pentland (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pelican Creek or Pentland safer from flooding?",
-      "answer": "Pelican Creek has a flood risk score of 52/100, while Pentland scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pelican Creek has a flood risk score of 29/100, while Pentland scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pelican Creek scores 34/100 for bushfire risk. Pentland scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pelican Creek scores 52/100 for bushfire risk. Pentland scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pelican Creek or Pentland?",
@@ -76,5 +76,15 @@
       "label": "Pentland Should I Buy?",
       "url": "/suburbs/qld/pentland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

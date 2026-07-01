@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 57
+      "scoreA": 54,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 26
+      "scoreA": 63,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 76
+      "scoreA": 75,
+      "scoreB": 55
     },
     {
       "name": "Storm",
       "scoreA": 20,
-      "scoreB": 28
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Guilderton has a lower overall climate risk score (30/100) compared to Gundaring (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gundaring has a lower overall climate risk score (40/100) compared to Guilderton (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Guilderton or Gundaring safer from flooding?",
-      "answer": "Guilderton has a flood risk score of 21/100, while Gundaring scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Guilderton has a flood risk score of 54/100, while Gundaring scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Guilderton scores 16/100 for bushfire risk. Gundaring scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Guilderton scores 63/100 for bushfire risk. Gundaring scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Guilderton or Gundaring?",
-      "answer": "Both suburbs have climate considerations. Guilderton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gundaring has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gundaring Should I Buy?",
       "url": "/suburbs/wa/gundaring/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

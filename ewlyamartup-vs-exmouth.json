@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 23
+      "scoreA": 51,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 33
+      "scoreA": 59,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 43
+      "scoreA": 71,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 27
+      "scoreA": 31,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 6
     }
   ],
-  "verdict": "Exmouth has a lower overall climate risk score (27/100) compared to Ewlyamartup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Exmouth has a lower overall climate risk score (30/100) compared to Ewlyamartup (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ewlyamartup or Exmouth safer from flooding?",
-      "answer": "Ewlyamartup has a flood risk score of 32/100, while Exmouth scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ewlyamartup has a flood risk score of 51/100, while Exmouth scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ewlyamartup scores 35/100 for bushfire risk. Exmouth scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ewlyamartup scores 59/100 for bushfire risk. Exmouth scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ewlyamartup or Exmouth?",
@@ -76,5 +76,15 @@
       "label": "Exmouth Should I Buy?",
       "url": "/suburbs/wa/exmouth/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

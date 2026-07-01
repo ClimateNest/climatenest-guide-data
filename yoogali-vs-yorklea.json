@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 60
+      "scoreA": 39,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 31
+      "scoreA": 57,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 31
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 21,
+      "scoreA": 24,
       "scoreB": 43
     },
     {
+      "name": "Coastal",
+      "scoreA": 27,
+      "scoreB": 58
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 29
     }
   ],
-  "verdict": "Yoogali has a lower overall climate risk score (30/100) compared to Yorklea (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yoogali has a lower overall climate risk score (34/100) compared to Yorklea (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yoogali or Yorklea safer from flooding?",
-      "answer": "Yoogali has a flood risk score of 35/100, while Yorklea scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yoogali has a flood risk score of 43/100, while Yorklea scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yoogali scores 21/100 for bushfire risk. Yorklea scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yoogali scores 39/100 for bushfire risk. Yorklea scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yoogali or Yorklea?",
@@ -76,5 +76,15 @@
       "label": "Yorklea Should I Buy?",
       "url": "/suburbs/nsw/yorklea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

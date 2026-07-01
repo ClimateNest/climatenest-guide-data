@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
+      "scoreA": 44,
       "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 46
+      "scoreA": 52,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 75
+      "scoreA": 67,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 29
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 15
     }
   ],
-  "verdict": "South Arm has a lower overall climate risk score (39/100) compared to South Bathurst (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "South Bathurst has a lower overall climate risk score (33/100) compared to South Arm (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is South Arm or South Bathurst safer from flooding?",
-      "answer": "South Arm has a flood risk score of 34/100, while South Bathurst scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Arm has a flood risk score of 44/100, while South Bathurst scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Arm scores 28/100 for bushfire risk. South Bathurst scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Arm scores 52/100 for bushfire risk. South Bathurst scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Arm or South Bathurst?",
-      "answer": "Both suburbs have climate considerations. South Arm has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. South Bathurst has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "South Bathurst Should I Buy?",
       "url": "/suburbs/nsw/south-bathurst/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

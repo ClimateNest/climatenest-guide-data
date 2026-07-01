@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 35
+      "scoreA": 55,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 26
+      "scoreA": 60,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 28
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 13
+      "scoreA": 35,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 15,
+      "scoreB": 10
     }
   ],
-  "verdict": "East Innisfail has a lower overall climate risk score (25/100) compared to East Haldon (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Innisfail has a lower overall climate risk score (25/100) compared to East Haldon (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is East Haldon or East Innisfail safer from flooding?",
-      "answer": "East Haldon has a flood risk score of 25/100, while East Innisfail scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Haldon has a flood risk score of 55/100, while East Innisfail scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Haldon scores 45/100 for bushfire risk. East Innisfail scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Haldon scores 60/100 for bushfire risk. East Innisfail scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Haldon or East Innisfail?",
@@ -76,5 +76,15 @@
       "label": "East Innisfail Should I Buy?",
       "url": "/suburbs/qld/east-innisfail/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

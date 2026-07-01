@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 37
+      "scoreA": 30,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 32,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 31
+      "scoreA": 42,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 34
+      "scoreA": 41,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 29
+      "scoreA": 26,
+      "scoreB": 17
     }
   ],
-  "verdict": "Kungala has a lower overall climate risk score (28/100) compared to Kunghur (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kungala has a lower overall climate risk score (34/100) compared to Kunghur (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kungala or Kunghur safer from flooding?",
-      "answer": "Kungala has a flood risk score of 22/100, while Kunghur scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kungala has a flood risk score of 30/100, while Kunghur scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kungala scores 26/100 for bushfire risk. Kunghur scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kungala scores 30/100 for bushfire risk. Kunghur scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kungala or Kunghur?",
@@ -76,5 +76,15 @@
       "label": "Kunghur Should I Buy?",
       "url": "/suburbs/nsw/kunghur/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

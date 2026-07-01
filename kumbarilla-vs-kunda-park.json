@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 58
+      "scoreA": 23,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 38
-    },
-    {
-      "name": "Heat",
-      "scoreA": 40,
+      "scoreA": 52,
       "scoreB": 39
     },
     {
+      "name": "Heat",
+      "scoreA": 35,
+      "scoreB": 48
+    },
+    {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
       "scoreA": 34,
-      "scoreB": 40
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 20
     }
   ],
-  "verdict": "Kunda Park has a lower overall climate risk score (37/100) compared to Kumbarilla (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kumbarilla has a lower overall climate risk score (30/100) compared to Kunda Park (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kumbarilla or Kunda Park safer from flooding?",
-      "answer": "Kumbarilla has a flood risk score of 60/100, while Kunda Park scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kumbarilla has a flood risk score of 23/100, while Kunda Park scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kumbarilla scores 57/100 for bushfire risk. Kunda Park scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kumbarilla scores 52/100 for bushfire risk. Kunda Park scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kumbarilla or Kunda Park?",
-      "answer": "Both suburbs have climate considerations. Kunda Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kumbarilla has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kunda Park Should I Buy?",
       "url": "/suburbs/qld/kunda-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

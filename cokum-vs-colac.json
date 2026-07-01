@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 53
+      "scoreA": 51,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 17
+      "scoreA": 39,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 64
+      "scoreA": 58,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 29,
+      "scoreB": 11
     }
   ],
-  "verdict": "Colac has a lower overall climate risk score (31/100) compared to Cokum (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Colac has a lower overall climate risk score (37/100) compared to Cokum (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cokum or Colac safer from flooding?",
-      "answer": "Cokum has a flood risk score of 21/100, while Colac scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cokum has a flood risk score of 51/100, while Colac scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cokum scores 54/100 for bushfire risk. Colac scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cokum scores 39/100 for bushfire risk. Colac scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cokum or Colac?",
@@ -76,5 +76,15 @@
       "label": "Colac Should I Buy?",
       "url": "/suburbs/vic/colac/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

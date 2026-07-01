@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 39
+      "scoreA": 34,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 18
+      "scoreA": 37,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 53
+      "scoreA": 54,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 40,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 22,
+      "scoreB": 13
     }
   ],
-  "verdict": "Wheatsheaf has a lower overall climate risk score (31/100) compared to Whanregarwen (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wheatsheaf has a lower overall climate risk score (33/100) compared to Whanregarwen (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Whanregarwen or Wheatsheaf safer from flooding?",
-      "answer": "Whanregarwen has a flood risk score of 31/100, while Wheatsheaf scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whanregarwen has a flood risk score of 34/100, while Wheatsheaf scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whanregarwen scores 48/100 for bushfire risk. Wheatsheaf scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whanregarwen scores 37/100 for bushfire risk. Wheatsheaf scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whanregarwen or Wheatsheaf?",
@@ -76,5 +76,15 @@
       "label": "Wheatsheaf Should I Buy?",
       "url": "/suburbs/vic/wheatsheaf/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 43
+      "scoreA": 41,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 28
+      "scoreA": 41,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 44
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 37
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 35,
+      "scoreA": 44,
       "scoreB": 32
     },
     {
+      "name": "Storm",
+      "scoreA": 22,
+      "scoreB": 32
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 36,
+      "scoreB": 58
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 27
+      "scoreA": 15,
+      "scoreB": 17
     }
   ],
-  "verdict": "Highworth has a lower overall climate risk score (35/100) compared to Highland Plains (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Highland Plains has a lower overall climate risk score (33/100) compared to Highworth (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Highland Plains or Highworth safer from flooding?",
-      "answer": "Highland Plains has a flood risk score of 34/100, while Highworth scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Highland Plains has a flood risk score of 41/100, while Highworth scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Highland Plains scores 59/100 for bushfire risk. Highworth scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Highland Plains scores 41/100 for bushfire risk. Highworth scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Highland Plains or Highworth?",
-      "answer": "Both suburbs have climate considerations. Highworth has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Highland Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Highworth Should I Buy?",
       "url": "/suburbs/qld/highworth/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

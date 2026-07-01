@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 59,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 33
-    },
-    {
-      "name": "Heat",
-      "scoreA": 75,
+      "scoreA": 31,
       "scoreB": 64
     },
     {
+      "name": "Heat",
+      "scoreA": 68,
+      "scoreB": 55
+    },
+    {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 41
+      "scoreA": 36,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 21
     }
   ],
-  "verdict": "Encounter Bay has a lower overall climate risk score (30/100) compared to Enfield (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Encounter Bay has a lower overall climate risk score (37/100) compared to Enfield (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Encounter Bay or Enfield safer from flooding?",
-      "answer": "Encounter Bay has a flood risk score of 27/100, while Enfield scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Encounter Bay has a flood risk score of 59/100, while Enfield scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Encounter Bay scores 20/100 for bushfire risk. Enfield scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Encounter Bay scores 31/100 for bushfire risk. Enfield scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Encounter Bay or Enfield?",
@@ -76,5 +76,15 @@
       "label": "Enfield Should I Buy?",
       "url": "/suburbs/sa/enfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

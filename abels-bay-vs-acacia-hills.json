@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 72
+      "scoreA": 57,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 22,
       "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 18,
+      "scoreB": 10
     }
   ],
-  "verdict": "Acacia Hills has a lower overall climate risk score (34/100) compared to Abels Bay (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Abels Bay has a lower overall climate risk score (28/100) compared to Acacia Hills (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Abels Bay or Acacia Hills safer from flooding?",
-      "answer": "Abels Bay has a flood risk score of 51/100, while Acacia Hills scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Abels Bay has a flood risk score of 40/100, while Acacia Hills scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Abels Bay scores 59/100 for bushfire risk. Acacia Hills scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Abels Bay scores 17/100 for bushfire risk. Acacia Hills scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Abels Bay or Acacia Hills?",
-      "answer": "Both suburbs have climate considerations. Acacia Hills has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Abels Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Acacia Hills Should I Buy?",
       "url": "/suburbs/tas/acacia-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3251,
+    "projected2030": 4552,
+    "projected2050": 8453
+  },
+  "valueImpact": {
+    "dragPercent": 0.03,
+    "description": "Properties in this area may face a 0.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

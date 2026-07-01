@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 38
+      "scoreA": 39,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 37,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 67
+      "scoreA": 37,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 24
+      "scoreA": 40,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Kilgin has a lower overall climate risk score (34/100) compared to Killabakh (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kilgin has a lower overall climate risk score (35/100) compared to Killabakh (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kilgin or Killabakh safer from flooding?",
-      "answer": "Kilgin has a flood risk score of 43/100, while Killabakh scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kilgin has a flood risk score of 39/100, while Killabakh scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kilgin scores 15/100 for bushfire risk. Killabakh scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kilgin scores 37/100 for bushfire risk. Killabakh scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kilgin or Killabakh?",
@@ -76,5 +76,15 @@
       "label": "Killabakh Should I Buy?",
       "url": "/suburbs/nsw/killabakh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 52
+      "scoreA": 44,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 24
+      "scoreA": 39,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 61
+      "scoreA": 62,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 10,
+      "scoreB": 21
     }
   ],
-  "verdict": "Ebden has a lower overall climate risk score (37/100) compared to Eastwood (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Eastwood has a lower overall climate risk score (38/100) compared to Ebden (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eastwood or Ebden safer from flooding?",
-      "answer": "Eastwood has a flood risk score of 47/100, while Ebden scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eastwood has a flood risk score of 44/100, while Ebden scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eastwood scores 61/100 for bushfire risk. Ebden scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eastwood scores 39/100 for bushfire risk. Ebden scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eastwood or Ebden?",
-      "answer": "Both suburbs have climate considerations. Ebden has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eastwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ebden Should I Buy?",
       "url": "/suburbs/vic/ebden/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

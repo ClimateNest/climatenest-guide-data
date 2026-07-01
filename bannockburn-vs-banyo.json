@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 43
+      "scoreA": 34,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 54
+      "scoreA": 27,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 46
+      "scoreA": 37,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 48
+      "scoreA": 42,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 52
+      "scoreA": 41,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 29,
+      "scoreB": 27
     }
   ],
-  "verdict": "Bannockburn has a lower overall climate risk score (30/100) compared to Banyo (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bannockburn has a lower overall climate risk score (35/100) compared to Banyo (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bannockburn or Banyo safer from flooding?",
-      "answer": "Bannockburn has a flood risk score of 25/100, while Banyo scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bannockburn has a flood risk score of 34/100, while Banyo scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bannockburn scores 29/100 for bushfire risk. Banyo scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bannockburn scores 27/100 for bushfire risk. Banyo scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bannockburn or Banyo?",
@@ -76,5 +76,15 @@
       "label": "Banyo Should I Buy?",
       "url": "/suburbs/qld/banyo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

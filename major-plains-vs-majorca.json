@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 52
+      "scoreA": 47,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 33
+      "scoreA": 52,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 70
+      "scoreA": 64,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 44
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 25
+      "scoreA": 13,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 19
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Major Plains has a lower overall climate risk score (24/100) compared to Majorca (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Majorca has a lower overall climate risk score (37/100) compared to Major Plains (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Major Plains or Majorca safer from flooding?",
-      "answer": "Major Plains has a flood risk score of 29/100, while Majorca scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Major Plains has a flood risk score of 47/100, while Majorca scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Major Plains scores 17/100 for bushfire risk. Majorca scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Major Plains scores 52/100 for bushfire risk. Majorca scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Major Plains or Majorca?",
-      "answer": "Both suburbs have climate considerations. Major Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Majorca has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Majorca Should I Buy?",
       "url": "/suburbs/vic/majorca/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

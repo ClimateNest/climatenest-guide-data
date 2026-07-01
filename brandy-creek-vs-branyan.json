@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 38
+      "scoreA": 54,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 37
-    },
-    {
-      "name": "Storm",
-      "scoreA": 26,
+      "scoreA": 34,
       "scoreB": 31
     },
     {
+      "name": "Storm",
+      "scoreA": 28,
+      "scoreB": 35
+    },
+    {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 38
+      "scoreA": 13,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 9
     }
   ],
-  "verdict": "Branyan has a lower overall climate risk score (31/100) compared to Brandy Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Brandy Creek has a lower overall climate risk score (29/100) compared to Branyan (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Brandy Creek or Branyan safer from flooding?",
-      "answer": "Brandy Creek has a flood risk score of 57/100, while Branyan scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brandy Creek has a flood risk score of 54/100, while Branyan scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brandy Creek scores 56/100 for bushfire risk. Branyan scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brandy Creek scores 30/100 for bushfire risk. Branyan scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brandy Creek or Branyan?",
-      "answer": "Both suburbs have climate considerations. Branyan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Brandy Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Branyan Should I Buy?",
       "url": "/suburbs/qld/branyan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

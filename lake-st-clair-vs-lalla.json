@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 54,
-      "scoreB": 26
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 57
+      "scoreA": 25,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 55
+      "scoreA": 51,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 34
+      "scoreA": 31,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 17
     }
   ],
-  "verdict": "Lake St Clair and Lalla have similar overall climate risk scores.",
+  "verdict": "Lake St Clair has a lower overall climate risk score (31/100) compared to Lalla (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lake St Clair or Lalla safer from flooding?",
-      "answer": "Lake St Clair has a flood risk score of 54/100, while Lalla scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake St Clair has a flood risk score of 54/100, while Lalla scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake St Clair scores 31/100 for bushfire risk. Lalla scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake St Clair scores 25/100 for bushfire risk. Lalla scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake St Clair or Lalla?",
@@ -76,5 +76,15 @@
       "label": "Lalla Should I Buy?",
       "url": "/suburbs/tas/lalla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

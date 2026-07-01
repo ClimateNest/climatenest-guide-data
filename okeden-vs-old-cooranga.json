@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 35
+      "scoreA": 56,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 48,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 42
+      "scoreA": 49,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 44
+      "scoreA": 21,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 51
+      "scoreA": 57,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 29
     }
   ],
-  "verdict": "Okeden has a lower overall climate risk score (36/100) compared to Old Cooranga (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Old Cooranga has a lower overall climate risk score (41/100) compared to Okeden (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Okeden or Old Cooranga safer from flooding?",
-      "answer": "Okeden has a flood risk score of 25/100, while Old Cooranga scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Okeden has a flood risk score of 56/100, while Old Cooranga scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Okeden scores 37/100 for bushfire risk. Old Cooranga scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Okeden scores 48/100 for bushfire risk. Old Cooranga scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Okeden or Old Cooranga?",
-      "answer": "Both suburbs have climate considerations. Okeden has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Old Cooranga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Old Cooranga Should I Buy?",
       "url": "/suburbs/qld/old-cooranga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

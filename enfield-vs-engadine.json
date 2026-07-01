@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 28
+      "scoreA": 38,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 61
+      "scoreA": 23,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 50
+      "scoreA": 76,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 50
+      "scoreA": 38,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 48,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
       "scoreA": 24,
-      "scoreB": 20
+      "scoreB": 30
     }
   ],
-  "verdict": "Enfield has a lower overall climate risk score (39/100) compared to Engadine (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Enfield has a lower overall climate risk score (41/100) compared to Engadine (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Enfield or Engadine safer from flooding?",
-      "answer": "Enfield has a flood risk score of 40/100, while Engadine scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Enfield has a flood risk score of 38/100, while Engadine scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Enfield scores 30/100 for bushfire risk. Engadine scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Enfield scores 23/100 for bushfire risk. Engadine scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Enfield or Engadine?",
@@ -76,5 +76,15 @@
       "label": "Engadine Should I Buy?",
       "url": "/suburbs/nsw/engadine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4464,
+    "projected2030": 6250,
+    "projected2050": 11606
+  },
+  "valueImpact": {
+    "dragPercent": 2.7,
+    "description": "Properties in this area may face a 2.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

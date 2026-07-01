@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 54
+      "scoreA": 38,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 19
+      "scoreA": 56,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 75
+      "scoreA": 59,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 34
+      "scoreA": 38,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 21,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 24
     }
   ],
-  "verdict": "Pinkawillinie has a lower overall climate risk score (38/100) compared to Pinery (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pinkawillinie has a lower overall climate risk score (36/100) compared to Pinery (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pinery or Pinkawillinie safer from flooding?",
-      "answer": "Pinery has a flood risk score of 50/100, while Pinkawillinie scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pinery has a flood risk score of 38/100, while Pinkawillinie scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pinery scores 64/100 for bushfire risk. Pinkawillinie scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pinery scores 56/100 for bushfire risk. Pinkawillinie scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pinery or Pinkawillinie?",
@@ -76,5 +76,15 @@
       "label": "Pinkawillinie Should I Buy?",
       "url": "/suburbs/sa/pinkawillinie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

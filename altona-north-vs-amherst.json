@@ -14,13 +14,13 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 26
+      "scoreA": 37,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 35
     },
     {
       "name": "Heat",
@@ -29,34 +29,34 @@
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 11,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 28
     }
   ],
-  "verdict": "Amherst has a lower overall climate risk score (33/100) compared to Altona North (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Altona North has a lower overall climate risk score (29/100) compared to Amherst (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Altona North or Amherst safer from flooding?",
-      "answer": "Altona North has a flood risk score of 36/100, while Amherst scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Altona North has a flood risk score of 37/100, while Amherst scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Altona North scores 28/100 for bushfire risk. Amherst scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Altona North scores 15/100 for bushfire risk. Amherst scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Altona North or Amherst?",
-      "answer": "Both suburbs have climate considerations. Amherst has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Altona North has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Amherst Should I Buy?",
       "url": "/suburbs/vic/amherst/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 26
+      "scoreA": 33,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 24
+      "scoreA": 64,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 71,
+      "scoreA": 70,
       "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 26
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 40
+      "scoreA": 15,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
+      "scoreA": 26,
       "scoreB": 26
     }
   ],
-  "verdict": "The Risk has a lower overall climate risk score (30/100) compared to The Ridgeway (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Risk has a lower overall climate risk score (39/100) compared to The Ridgeway (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is The Ridgeway or The Risk safer from flooding?",
-      "answer": "The Ridgeway has a flood risk score of 49/100, while The Risk scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Ridgeway has a flood risk score of 33/100, while The Risk scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Ridgeway scores 62/100 for bushfire risk. The Risk scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Ridgeway scores 64/100 for bushfire risk. The Risk scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Ridgeway or The Risk?",
@@ -76,5 +76,15 @@
       "label": "The Risk Should I Buy?",
       "url": "/suburbs/nsw/the-risk/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
       "scoreA": 18,
-      "scoreB": 54
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 59
+      "scoreA": 71,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 37
+      "scoreA": 41,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
       "scoreA": 14,
-      "scoreB": 19
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 28
+      "scoreA": 13,
+      "scoreB": 25
     }
   ],
-  "verdict": "Bright has a lower overall climate risk score (28/100) compared to Brighton East (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bright has a lower overall climate risk score (31/100) compared to Brighton East (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bright or Brighton East safer from flooding?",
-      "answer": "Bright has a flood risk score of 32/100, while Brighton East scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bright has a flood risk score of 26/100, while Brighton East scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bright scores 18/100 for bushfire risk. Brighton East scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bright scores 18/100 for bushfire risk. Brighton East scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bright or Brighton East?",
@@ -76,5 +76,15 @@
       "label": "Brighton East Should I Buy?",
       "url": "/suburbs/vic/brighton-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

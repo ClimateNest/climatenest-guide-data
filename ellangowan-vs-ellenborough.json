@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 23
+      "scoreA": 41,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 25
+      "scoreA": 65,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 67
+      "scoreA": 50,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 41
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 37,
+      "scoreA": 35,
       "scoreB": 42
     },
     {
+      "name": "Coastal",
+      "scoreA": 42,
+      "scoreB": 39
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 16
     }
   ],
-  "verdict": "Ellangowan has a lower overall climate risk score (35/100) compared to Ellenborough (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Ellenborough has a lower overall climate risk score (40/100) compared to Ellangowan (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ellangowan or Ellenborough safer from flooding?",
-      "answer": "Ellangowan has a flood risk score of 43/100, while Ellenborough scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ellangowan has a flood risk score of 41/100, while Ellenborough scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ellangowan scores 36/100 for bushfire risk. Ellenborough scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ellangowan scores 65/100 for bushfire risk. Ellenborough scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ellangowan or Ellenborough?",
-      "answer": "Both suburbs have climate considerations. Ellangowan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ellenborough has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ellenborough Should I Buy?",
       "url": "/suburbs/nsw/ellenborough/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

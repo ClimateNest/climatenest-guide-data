@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 33
+      "scoreA": 21,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
       "scoreA": 44,
-      "scoreB": 26
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 73
+      "scoreA": 78,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 50
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 13,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 29
     }
   ],
-  "verdict": "Clare has a lower overall climate risk score (36/100) compared to Clandulla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Clandulla has a lower overall climate risk score (37/100) compared to Clare (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Clandulla or Clare safer from flooding?",
-      "answer": "Clandulla has a flood risk score of 52/100, while Clare scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clandulla has a flood risk score of 21/100, while Clare scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clandulla scores 44/100 for bushfire risk. Clare scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clandulla scores 44/100 for bushfire risk. Clare scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clandulla or Clare?",
-      "answer": "Both suburbs have climate considerations. Clare has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Clandulla has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Clare Should I Buy?",
       "url": "/suburbs/nsw/clare/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

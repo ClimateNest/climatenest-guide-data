@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 35
+      "scoreA": 47,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 36,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 67
+      "scoreA": 59,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 44,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 13,
+      "scoreB": 11
     }
   ],
-  "verdict": "Patchewollock has a lower overall climate risk score (32/100) compared to Pastoria East (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Patchewollock has a lower overall climate risk score (30/100) compared to Pastoria East (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pastoria East or Patchewollock safer from flooding?",
-      "answer": "Pastoria East has a flood risk score of 43/100, while Patchewollock scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pastoria East has a flood risk score of 47/100, while Patchewollock scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pastoria East scores 20/100 for bushfire risk. Patchewollock scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pastoria East scores 36/100 for bushfire risk. Patchewollock scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pastoria East or Patchewollock?",
@@ -76,5 +76,15 @@
       "label": "Patchewollock Should I Buy?",
       "url": "/suburbs/vic/patchewollock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

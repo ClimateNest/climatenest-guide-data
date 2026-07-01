@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 37
+      "scoreA": 55,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 15
+      "scoreA": 59,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 68
+      "scoreA": 51,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 42
+      "scoreA": 21,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 10
     }
   ],
-  "verdict": "Erin Vale has a lower overall climate risk score (33/100) compared to Erina Heights (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Erin Vale has a lower overall climate risk score (39/100) compared to Erina Heights (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Erin Vale or Erina Heights safer from flooding?",
-      "answer": "Erin Vale has a flood risk score of 39/100, while Erina Heights scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Erin Vale has a flood risk score of 55/100, while Erina Heights scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Erin Vale scores 42/100 for bushfire risk. Erina Heights scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Erin Vale scores 59/100 for bushfire risk. Erina Heights scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Erin Vale or Erina Heights?",
@@ -76,5 +76,15 @@
       "label": "Erina Heights Should I Buy?",
       "url": "/suburbs/nsw/erina-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

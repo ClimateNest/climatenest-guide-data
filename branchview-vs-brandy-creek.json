@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 58
+      "scoreA": 53,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 50
-    },
-    {
-      "name": "Heat",
-      "scoreA": 49,
+      "scoreA": 20,
       "scoreB": 46
     },
     {
+      "name": "Heat",
+      "scoreA": 47,
+      "scoreB": 43
+    },
+    {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 22
+      "scoreA": 48,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 5
     }
   ],
-  "verdict": "Brandy Creek has a lower overall climate risk score (35/100) compared to Branchview (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Branchview has a lower overall climate risk score (34/100) compared to Brandy Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Branchview or Brandy Creek safer from flooding?",
-      "answer": "Branchview has a flood risk score of 22/100, while Brandy Creek scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Branchview has a flood risk score of 53/100, while Brandy Creek scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Branchview scores 45/100 for bushfire risk. Brandy Creek scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Branchview scores 20/100 for bushfire risk. Brandy Creek scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Branchview or Brandy Creek?",
-      "answer": "Both suburbs have climate considerations. Brandy Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Branchview has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Brandy Creek Should I Buy?",
       "url": "/suburbs/qld/brandy-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

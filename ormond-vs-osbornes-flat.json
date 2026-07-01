@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
+      "scoreA": 24,
+      "scoreB": 26
+    },
+    {
+      "name": "Bushfire",
       "scoreA": 27,
       "scoreB": 41
     },
     {
-      "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 35
-    },
-    {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 63
+      "scoreA": 51,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 21
+      "scoreA": 43,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 29,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 10
     }
   ],
-  "verdict": "Ormond has a lower overall climate risk score (33/100) compared to Osbornes Flat (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ormond has a lower overall climate risk score (33/100) compared to Osbornes Flat (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ormond or Osbornes Flat safer from flooding?",
-      "answer": "Ormond has a flood risk score of 27/100, while Osbornes Flat scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ormond has a flood risk score of 24/100, while Osbornes Flat scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ormond scores 42/100 for bushfire risk. Osbornes Flat scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ormond scores 27/100 for bushfire risk. Osbornes Flat scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ormond or Osbornes Flat?",
@@ -76,5 +76,15 @@
       "label": "Osbornes Flat Should I Buy?",
       "url": "/suburbs/vic/osbornes-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

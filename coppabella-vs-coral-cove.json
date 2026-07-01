@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 25,
-      "scoreB": 25
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 51
+      "scoreA": 55,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 46
+      "scoreA": 22,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 47
+      "scoreA": 14,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 6
+      "scoreA": 14,
+      "scoreB": 16
     }
   ],
-  "verdict": "Coppabella has a lower overall climate risk score (28/100) compared to Coral Cove (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coppabella has a lower overall climate risk score (28/100) compared to Coral Cove (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coppabella or Coral Cove safer from flooding?",
-      "answer": "Coppabella has a flood risk score of 25/100, while Coral Cove scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coppabella has a flood risk score of 25/100, while Coral Cove scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coppabella scores 54/100 for bushfire risk. Coral Cove scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coppabella scores 55/100 for bushfire risk. Coral Cove scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coppabella or Coral Cove?",
@@ -76,5 +76,15 @@
       "label": "Coral Cove Should I Buy?",
       "url": "/suburbs/qld/coral-cove/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

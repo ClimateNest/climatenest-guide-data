@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 47
-    },
-    {
-      "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 20
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 19,
+      "scoreA": 37,
       "scoreB": 24
     },
     {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 43
+    },
+    {
+      "name": "Storm",
+      "scoreA": 39,
+      "scoreB": 33
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 16,
+      "scoreB": 15
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 10
     }
   ],
-  "verdict": "Preston Settlement has a lower overall climate risk score (29/100) compared to Prince Regent River (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Prince Regent River has a lower overall climate risk score (27/100) compared to Preston Settlement (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Preston Settlement or Prince Regent River safer from flooding?",
-      "answer": "Preston Settlement has a flood risk score of 23/100, while Prince Regent River scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Preston Settlement has a flood risk score of 47/100, while Prince Regent River scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Preston Settlement scores 20/100 for bushfire risk. Prince Regent River scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Preston Settlement scores 37/100 for bushfire risk. Prince Regent River scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Preston Settlement or Prince Regent River?",
-      "answer": "Both suburbs have climate considerations. Preston Settlement has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Prince Regent River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Prince Regent River Should I Buy?",
       "url": "/suburbs/wa/prince-regent-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

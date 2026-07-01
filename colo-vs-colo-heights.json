@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 43,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 55
+      "scoreA": 49,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 61
+      "scoreA": 68,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 32
+      "scoreA": 43,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 50,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Colo Heights has a lower overall climate risk score (37/100) compared to Colo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Colo Heights has a lower overall climate risk score (44/100) compared to Colo (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Colo or Colo Heights safer from flooding?",
-      "answer": "Colo has a flood risk score of 25/100, while Colo Heights scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Colo has a flood risk score of 43/100, while Colo Heights scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Colo scores 39/100 for bushfire risk. Colo Heights scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Colo scores 49/100 for bushfire risk. Colo Heights scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Colo or Colo Heights?",
@@ -76,5 +76,15 @@
       "label": "Colo Heights Should I Buy?",
       "url": "/suburbs/nsw/colo-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

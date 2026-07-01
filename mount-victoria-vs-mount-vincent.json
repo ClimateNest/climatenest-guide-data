@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 57,
+      "scoreA": 34,
       "scoreB": 24
     },
     {
+      "name": "Bushfire",
+      "scoreA": 56,
+      "scoreB": 29
+    },
+    {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 60
+      "scoreA": 70,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 34
+      "scoreA": 34,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 40
+      "scoreA": 23,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 12
+      "scoreA": 29,
+      "scoreB": 11
     }
   ],
-  "verdict": "Mount Victoria has a lower overall climate risk score (32/100) compared to Mount Vincent (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Vincent has a lower overall climate risk score (32/100) compared to Mount Victoria (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Victoria or Mount Vincent safer from flooding?",
-      "answer": "Mount Victoria has a flood risk score of 24/100, while Mount Vincent scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Victoria has a flood risk score of 34/100, while Mount Vincent scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Victoria scores 57/100 for bushfire risk. Mount Vincent scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Victoria scores 56/100 for bushfire risk. Mount Vincent scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Victoria or Mount Vincent?",
-      "answer": "Both suburbs have climate considerations. Mount Victoria has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Vincent has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Vincent Should I Buy?",
       "url": "/suburbs/nsw/mount-vincent/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

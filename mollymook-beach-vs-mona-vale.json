@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 43
+      "scoreA": 43,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 27
     },
     {
       "name": "Heat",
       "scoreA": 61,
-      "scoreB": 61
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 37
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 23,
+      "scoreA": 42,
       "scoreB": 36
     },
     {
+      "name": "Coastal",
+      "scoreA": 13,
+      "scoreB": 44
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 19
     }
   ],
-  "verdict": "Mollymook Beach has a lower overall climate risk score (38/100) compared to Mona Vale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mona Vale has a lower overall climate risk score (37/100) compared to Mollymook Beach (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mollymook Beach or Mona Vale safer from flooding?",
-      "answer": "Mollymook Beach has a flood risk score of 49/100, while Mona Vale scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mollymook Beach has a flood risk score of 43/100, while Mona Vale scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mollymook Beach scores 53/100 for bushfire risk. Mona Vale scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mollymook Beach scores 55/100 for bushfire risk. Mona Vale scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mollymook Beach or Mona Vale?",
-      "answer": "Both suburbs have climate considerations. Mollymook Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mona Vale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mona Vale Should I Buy?",
       "url": "/suburbs/nsw/mona-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

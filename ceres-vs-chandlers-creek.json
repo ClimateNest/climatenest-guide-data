@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 33
+      "scoreA": 58,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 79
+      "scoreA": 68,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 40
+      "scoreA": 44,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 15
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 30,
+      "scoreB": 27
     }
   ],
-  "verdict": "Ceres has a lower overall climate risk score (30/100) compared to Chandlers Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Chandlers Creek has a lower overall climate risk score (30/100) compared to Ceres (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ceres or Chandlers Creek safer from flooding?",
-      "answer": "Ceres has a flood risk score of 21/100, while Chandlers Creek scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ceres has a flood risk score of 58/100, while Chandlers Creek scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ceres scores 43/100 for bushfire risk. Chandlers Creek scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ceres scores 50/100 for bushfire risk. Chandlers Creek scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ceres or Chandlers Creek?",
-      "answer": "Both suburbs have climate considerations. Ceres has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Chandlers Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Chandlers Creek Should I Buy?",
       "url": "/suburbs/vic/chandlers-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

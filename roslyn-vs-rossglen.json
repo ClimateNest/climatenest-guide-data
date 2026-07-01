@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 21
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 18,
+      "scoreA": 31,
       "scoreB": 31
     },
     {
+      "name": "Bushfire",
+      "scoreA": 65,
+      "scoreB": 60
+    },
+    {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 53
+      "scoreA": 66,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 42
+      "scoreA": 16,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 20
     }
   ],
-  "verdict": "Roslyn has a lower overall climate risk score (35/100) compared to Rossglen (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rossglen has a lower overall climate risk score (41/100) compared to Roslyn (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Roslyn or Rossglen safer from flooding?",
-      "answer": "Roslyn has a flood risk score of 56/100, while Rossglen scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Roslyn has a flood risk score of 31/100, while Rossglen scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Roslyn scores 18/100 for bushfire risk. Rossglen scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Roslyn scores 65/100 for bushfire risk. Rossglen scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Roslyn or Rossglen?",
-      "answer": "Both suburbs have climate considerations. Roslyn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rossglen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rossglen Should I Buy?",
       "url": "/suburbs/nsw/rossglen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

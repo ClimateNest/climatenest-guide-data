@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 27
+      "scoreA": 39,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 61
+      "scoreA": 45,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 57
+      "scoreA": 61,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 36
+      "scoreA": 49,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 12,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 14
+      "scoreA": 12,
+      "scoreB": 15
     }
   ],
-  "verdict": "Narrung has a lower overall climate risk score (35/100) compared to Naracoorte (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Narrung has a lower overall climate risk score (36/100) compared to Naracoorte (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Naracoorte or Narrung safer from flooding?",
-      "answer": "Naracoorte has a flood risk score of 43/100, while Narrung scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Naracoorte has a flood risk score of 39/100, while Narrung scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Naracoorte scores 43/100 for bushfire risk. Narrung scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Naracoorte scores 45/100 for bushfire risk. Narrung scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Naracoorte or Narrung?",
@@ -76,5 +76,15 @@
       "label": "Narrung Should I Buy?",
       "url": "/suburbs/sa/narrung/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

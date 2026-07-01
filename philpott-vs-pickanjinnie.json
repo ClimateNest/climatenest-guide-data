@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 54
+      "scoreA": 36,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 45
-    },
-    {
-      "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 50
-    },
-    {
-      "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 28
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 48,
+      "scoreA": 38,
       "scoreB": 24
     },
     {
+      "name": "Heat",
+      "scoreA": 36,
+      "scoreB": 32
+    },
+    {
+      "name": "Storm",
+      "scoreA": 29,
+      "scoreB": 41
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 51,
+      "scoreB": 25
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 18,
+      "scoreB": 20
     }
   ],
-  "verdict": "Pickanjinnie has a lower overall climate risk score (39/100) compared to Philpott (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pickanjinnie has a lower overall climate risk score (32/100) compared to Philpott (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Philpott or Pickanjinnie safer from flooding?",
-      "answer": "Philpott has a flood risk score of 57/100, while Pickanjinnie scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Philpott has a flood risk score of 36/100, while Pickanjinnie scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Philpott scores 35/100 for bushfire risk. Pickanjinnie scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Philpott scores 38/100 for bushfire risk. Pickanjinnie scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Philpott or Pickanjinnie?",
@@ -76,5 +76,15 @@
       "label": "Pickanjinnie Should I Buy?",
       "url": "/suburbs/qld/pickanjinnie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

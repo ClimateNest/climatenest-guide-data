@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 58
+      "scoreA": 38,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 64
+      "scoreA": 48,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 66
+      "scoreA": 52,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 43
+      "scoreA": 31,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 41
+      "scoreA": 53,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 27
     }
   ],
-  "verdict": "Glen William has a lower overall climate risk score (38/100) compared to Glenbawn (50/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Glen William has a lower overall climate risk score (40/100) compared to Glenbawn (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Glen William or Glenbawn safer from flooding?",
-      "answer": "Glen William has a flood risk score of 28/100, while Glenbawn scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glen William has a flood risk score of 38/100, while Glenbawn scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glen William scores 28/100 for bushfire risk. Glenbawn scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glen William scores 48/100 for bushfire risk. Glenbawn scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glen William or Glenbawn?",
@@ -76,5 +76,15 @@
       "label": "Glenbawn Should I Buy?",
       "url": "/suburbs/nsw/glenbawn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

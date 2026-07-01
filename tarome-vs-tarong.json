@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 35
+      "scoreA": 44,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 27
+      "scoreA": 44,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 41
+      "scoreA": 36,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 36
+      "scoreA": 38,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 46
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 10
     }
   ],
-  "verdict": "Tarome has a lower overall climate risk score (30/100) compared to Tarong (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tarong has a lower overall climate risk score (34/100) compared to Tarome (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tarome or Tarong safer from flooding?",
-      "answer": "Tarome has a flood risk score of 53/100, while Tarong scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarome has a flood risk score of 44/100, while Tarong scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarome scores 17/100 for bushfire risk. Tarong scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarome scores 44/100 for bushfire risk. Tarong scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarome or Tarong?",
-      "answer": "Both suburbs have climate considerations. Tarome has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tarong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tarong Should I Buy?",
       "url": "/suburbs/qld/tarong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

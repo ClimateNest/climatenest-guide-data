@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 55
+      "scoreA": 54,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 39
+      "scoreA": 24,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 50,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 21
     }
   ],
-  "verdict": "Pimpimbudgee has a lower overall climate risk score (34/100) compared to Pinbarren (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pimpimbudgee has a lower overall climate risk score (37/100) compared to Pinbarren (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pimpimbudgee or Pinbarren safer from flooding?",
-      "answer": "Pimpimbudgee has a flood risk score of 23/100, while Pinbarren scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pimpimbudgee has a flood risk score of 54/100, while Pinbarren scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pimpimbudgee scores 48/100 for bushfire risk. Pinbarren scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pimpimbudgee scores 40/100 for bushfire risk. Pinbarren scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pimpimbudgee or Pinbarren?",
@@ -76,5 +76,15 @@
       "label": "Pinbarren Should I Buy?",
       "url": "/suburbs/qld/pinbarren/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

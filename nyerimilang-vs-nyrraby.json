@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 50
+      "scoreA": 33,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 22
+      "scoreA": 41,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 53
+      "scoreA": 57,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 10
     }
   ],
-  "verdict": "Nyerimilang has a lower overall climate risk score (33/100) compared to Nyrraby (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nyerimilang has a lower overall climate risk score (35/100) compared to Nyrraby (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nyerimilang or Nyrraby safer from flooding?",
-      "answer": "Nyerimilang has a flood risk score of 46/100, while Nyrraby scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nyerimilang has a flood risk score of 33/100, while Nyrraby scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nyerimilang scores 24/100 for bushfire risk. Nyrraby scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nyerimilang scores 41/100 for bushfire risk. Nyrraby scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nyerimilang or Nyrraby?",
@@ -76,5 +76,15 @@
       "label": "Nyrraby Should I Buy?",
       "url": "/suburbs/vic/nyrraby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

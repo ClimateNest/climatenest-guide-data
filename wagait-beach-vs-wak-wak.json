@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 38
+      "scoreA": 53,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 55
+      "scoreA": 58,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 46
+      "scoreA": 46,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 30
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 29,
       "scoreB": 26
     },
     {
+      "name": "Coastal",
+      "scoreA": 14,
+      "scoreB": 20
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 10,
+      "scoreA": 16,
       "scoreB": 9
     }
   ],
-  "verdict": "Wagait Beach has a lower overall climate risk score (25/100) compared to Wak Wak (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Wak Wak has a lower overall climate risk score (26/100) compared to Wagait Beach (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wagait Beach or Wak Wak safer from flooding?",
-      "answer": "Wagait Beach has a flood risk score of 24/100, while Wak Wak scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wagait Beach has a flood risk score of 53/100, while Wak Wak scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wagait Beach scores 32/100 for bushfire risk. Wak Wak scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wagait Beach scores 58/100 for bushfire risk. Wak Wak scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wagait Beach or Wak Wak?",
-      "answer": "Both suburbs have climate considerations. Wagait Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wak Wak has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wak Wak Should I Buy?",
       "url": "/suburbs/nt/wak-wak/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

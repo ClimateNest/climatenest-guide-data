@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 54,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 49
+      "scoreA": 50,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 47
+      "scoreA": 36,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 22
+      "scoreA": 31,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 19
+      "scoreA": 25,
+      "scoreB": 14
     }
   ],
-  "verdict": "Dauan Island has a lower overall climate risk score (32/100) compared to Darra (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dauan Island has a lower overall climate risk score (36/100) compared to Darra (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Darra or Dauan Island safer from flooding?",
-      "answer": "Darra has a flood risk score of 26/100, while Dauan Island scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Darra has a flood risk score of 54/100, while Dauan Island scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Darra scores 32/100 for bushfire risk. Dauan Island scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Darra scores 50/100 for bushfire risk. Dauan Island scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Darra or Dauan Island?",
@@ -76,5 +76,15 @@
       "label": "Dauan Island Should I Buy?",
       "url": "/suburbs/qld/dauan-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

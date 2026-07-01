@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 51
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 31
+      "scoreA": 61,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 43
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 16,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 20
     }
   ],
-  "verdict": "Carbla has a lower overall climate risk score (35/100) compared to Carabooda (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Carbla has a lower overall climate risk score (29/100) compared to Carabooda (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Carabooda or Carbla safer from flooding?",
-      "answer": "Carabooda has a flood risk score of 21/100, while Carbla scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carabooda has a flood risk score of 20/100, while Carbla scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carabooda scores 38/100 for bushfire risk. Carbla scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carabooda scores 61/100 for bushfire risk. Carbla scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carabooda or Carbla?",
@@ -76,5 +76,15 @@
       "label": "Carbla Should I Buy?",
       "url": "/suburbs/wa/carbla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3353,
+    "projected2030": 4695,
+    "projected2050": 8719
+  },
+  "valueImpact": {
+    "dragPercent": 0.25,
+    "description": "Properties in this area may face a 0.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

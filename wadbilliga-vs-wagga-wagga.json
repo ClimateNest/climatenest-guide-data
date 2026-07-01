@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 29
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 25
+      "scoreA": 41,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 59
+      "scoreA": 67,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 49
+      "scoreA": 24,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 20,
+      "scoreB": 19
     }
   ],
-  "verdict": "Wadbilliga has a lower overall climate risk score (34/100) compared to Wagga Wagga (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wadbilliga has a lower overall climate risk score (35/100) compared to Wagga Wagga (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wadbilliga or Wagga Wagga safer from flooding?",
-      "answer": "Wadbilliga has a flood risk score of 22/100, while Wagga Wagga scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wadbilliga has a flood risk score of 26/100, while Wagga Wagga scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wadbilliga scores 39/100 for bushfire risk. Wagga Wagga scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wadbilliga scores 41/100 for bushfire risk. Wagga Wagga scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wadbilliga or Wagga Wagga?",
@@ -76,5 +76,15 @@
       "label": "Wagga Wagga Should I Buy?",
       "url": "/suburbs/nsw/wagga-wagga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

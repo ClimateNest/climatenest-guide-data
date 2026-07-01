@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 44
+      "scoreA": 28,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 20
+      "scoreA": 48,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 70
+      "scoreA": 61,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 45
+      "scoreA": 20,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
+      "scoreA": 30,
       "scoreB": 11
     }
   ],
-  "verdict": "Brimbin has a lower overall climate risk score (37/100) compared to Brinerville (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Brimbin has a lower overall climate risk score (40/100) compared to Brinerville (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Brimbin or Brinerville safer from flooding?",
-      "answer": "Brimbin has a flood risk score of 27/100, while Brinerville scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brimbin has a flood risk score of 28/100, while Brinerville scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brimbin scores 43/100 for bushfire risk. Brinerville scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brimbin scores 48/100 for bushfire risk. Brinerville scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brimbin or Brinerville?",
@@ -76,5 +76,15 @@
       "label": "Brinerville Should I Buy?",
       "url": "/suburbs/nsw/brinerville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

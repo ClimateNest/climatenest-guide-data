@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 60
+      "scoreA": 35,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 55
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
+      "scoreA": 15,
       "scoreB": 30
     },
     {
+      "name": "Heat",
+      "scoreA": 35,
+      "scoreB": 39
+    },
+    {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 37
+      "scoreA": 46,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 54
+      "scoreA": 24,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 24
     }
   ],
-  "verdict": "Coomrith has a lower overall climate risk score (33/100) compared to Coonambula (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coomrith has a lower overall climate risk score (28/100) compared to Coonambula (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coomrith or Coonambula safer from flooding?",
-      "answer": "Coomrith has a flood risk score of 36/100, while Coonambula scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coomrith has a flood risk score of 35/100, while Coonambula scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coomrith scores 57/100 for bushfire risk. Coonambula scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coomrith scores 15/100 for bushfire risk. Coonambula scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coomrith or Coonambula?",
@@ -76,5 +76,15 @@
       "label": "Coonambula Should I Buy?",
       "url": "/suburbs/qld/coonambula/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

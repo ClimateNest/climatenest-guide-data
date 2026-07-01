@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 52
+      "scoreA": 49,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 69
+      "scoreA": 75,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 26
+      "scoreA": 49,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 29,
+      "scoreB": 16
     }
   ],
-  "verdict": "Billiatt has a lower overall climate risk score (33/100) compared to Binnum (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Binnum has a lower overall climate risk score (30/100) compared to Billiatt (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Billiatt or Binnum safer from flooding?",
-      "answer": "Billiatt has a flood risk score of 24/100, while Binnum scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Billiatt has a flood risk score of 49/100, while Binnum scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Billiatt scores 20/100 for bushfire risk. Binnum scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Billiatt scores 40/100 for bushfire risk. Binnum scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Billiatt or Binnum?",
-      "answer": "Both suburbs have climate considerations. Billiatt has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Binnum has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Binnum Should I Buy?",
       "url": "/suburbs/sa/binnum/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 35
+      "scoreA": 50,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 51,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 57
+      "scoreA": 68,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 32,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 15
     }
   ],
-  "verdict": "Gulgong has a lower overall climate risk score (33/100) compared to Gulargambone (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gulgong has a lower overall climate risk score (36/100) compared to Gulargambone (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gulargambone or Gulgong safer from flooding?",
-      "answer": "Gulargambone has a flood risk score of 35/100, while Gulgong scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gulargambone has a flood risk score of 50/100, while Gulgong scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gulargambone scores 21/100 for bushfire risk. Gulgong scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gulargambone scores 51/100 for bushfire risk. Gulgong scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gulargambone or Gulgong?",
@@ -76,5 +76,15 @@
       "label": "Gulgong Should I Buy?",
       "url": "/suburbs/nsw/gulgong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

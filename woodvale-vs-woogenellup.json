@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 22
+      "scoreA": 56,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 52
+      "scoreA": 58,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 58
+      "scoreA": 74,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 14,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 30,
+      "scoreB": 19
     }
   ],
-  "verdict": "Woogenellup has a lower overall climate risk score (33/100) compared to Woodvale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woogenellup has a lower overall climate risk score (42/100) compared to Woodvale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Woodvale or Woogenellup safer from flooding?",
-      "answer": "Woodvale has a flood risk score of 28/100, while Woogenellup scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodvale has a flood risk score of 56/100, while Woogenellup scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodvale scores 57/100 for bushfire risk. Woogenellup scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodvale scores 58/100 for bushfire risk. Woogenellup scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodvale or Woogenellup?",
@@ -76,5 +76,15 @@
       "label": "Woogenellup Should I Buy?",
       "url": "/suburbs/wa/woogenellup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

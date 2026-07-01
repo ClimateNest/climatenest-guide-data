@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 36
+      "scoreA": 56,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 42
+      "scoreA": 27,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 55
+      "scoreA": 51,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 45
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
       "scoreA": 20,
-      "scoreB": 29
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 23
     }
   ],
-  "verdict": "Tullakool has a lower overall climate risk score (33/100) compared to Tullarwalla (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tullakool has a lower overall climate risk score (35/100) compared to Tullarwalla (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tullakool or Tullarwalla safer from flooding?",
-      "answer": "Tullakool has a flood risk score of 44/100, while Tullarwalla scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tullakool has a flood risk score of 56/100, while Tullarwalla scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tullakool scores 23/100 for bushfire risk. Tullarwalla scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tullakool scores 27/100 for bushfire risk. Tullarwalla scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tullakool or Tullarwalla?",
@@ -76,5 +76,15 @@
       "label": "Tullarwalla Should I Buy?",
       "url": "/suburbs/nsw/tullarwalla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

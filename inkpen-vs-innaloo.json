@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 20
+      "scoreA": 45,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 62
+      "scoreA": 73,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 24
+      "scoreA": 23,
+      "scoreB": 27
     }
   ],
-  "verdict": "Innaloo has a lower overall climate risk score (32/100) compared to Inkpen (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Innaloo has a lower overall climate risk score (35/100) compared to Inkpen (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Inkpen or Innaloo safer from flooding?",
-      "answer": "Inkpen has a flood risk score of 28/100, while Innaloo scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Inkpen has a flood risk score of 38/100, while Innaloo scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Inkpen scores 54/100 for bushfire risk. Innaloo scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Inkpen scores 45/100 for bushfire risk. Innaloo scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Inkpen or Innaloo?",
@@ -76,5 +76,15 @@
       "label": "Innaloo Should I Buy?",
       "url": "/suburbs/wa/innaloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

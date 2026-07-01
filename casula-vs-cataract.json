@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 39
+      "scoreA": 37,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 49
+      "scoreA": 34,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 58
+      "scoreA": 79,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 35,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
+      "scoreA": 31,
       "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 18
     }
   ],
-  "verdict": "Casula has a lower overall climate risk score (37/100) compared to Cataract (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Casula has a lower overall climate risk score (40/100) compared to Cataract (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Casula or Cataract safer from flooding?",
-      "answer": "Casula has a flood risk score of 41/100, while Cataract scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Casula has a flood risk score of 37/100, while Cataract scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Casula scores 33/100 for bushfire risk. Cataract scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Casula scores 34/100 for bushfire risk. Cataract scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Casula or Cataract?",
@@ -76,5 +76,15 @@
       "label": "Cataract Should I Buy?",
       "url": "/suburbs/nsw/cataract/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

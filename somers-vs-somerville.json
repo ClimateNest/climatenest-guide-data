@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 49,
+      "scoreA": 31,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 34,
+      "scoreB": 26
+    },
+    {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 68
+      "scoreA": 76,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 14
     }
   ],
-  "verdict": "Somerville has a lower overall climate risk score (36/100) compared to Somers (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Somerville has a lower overall climate risk score (34/100) compared to Somers (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Somers or Somerville safer from flooding?",
-      "answer": "Somers has a flood risk score of 59/100, while Somerville scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Somers has a flood risk score of 31/100, while Somerville scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Somers scores 49/100 for bushfire risk. Somerville scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Somers scores 34/100 for bushfire risk. Somerville scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Somers or Somerville?",
@@ -76,5 +76,15 @@
       "label": "Somerville Should I Buy?",
       "url": "/suburbs/vic/somerville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

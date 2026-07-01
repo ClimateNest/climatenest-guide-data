@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 28
+      "scoreA": 55,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 53
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 78
+      "scoreA": 67,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 48
+      "scoreA": 23,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 23
+      "scoreA": 27,
+      "scoreB": 16
     }
   ],
-  "verdict": "Wongarra has a lower overall climate risk score (38/100) compared to Wonnangatta (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wongarra has a lower overall climate risk score (38/100) compared to Wonnangatta (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wongarra or Wonnangatta safer from flooding?",
-      "answer": "Wongarra has a flood risk score of 36/100, while Wonnangatta scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wongarra has a flood risk score of 55/100, while Wonnangatta scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wongarra scores 54/100 for bushfire risk. Wonnangatta scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wongarra scores 43/100 for bushfire risk. Wonnangatta scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wongarra or Wonnangatta?",
@@ -76,5 +76,15 @@
       "label": "Wonnangatta Should I Buy?",
       "url": "/suburbs/vic/wonnangatta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

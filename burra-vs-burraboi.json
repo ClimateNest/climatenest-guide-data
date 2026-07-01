@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 33
+      "scoreA": 57,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 44
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 56
+      "scoreA": 76,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 36,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 25,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Burraboi has a lower overall climate risk score (35/100) compared to Burra (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Burraboi has a lower overall climate risk score (36/100) compared to Burra (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Burra or Burraboi safer from flooding?",
-      "answer": "Burra has a flood risk score of 50/100, while Burraboi scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burra has a flood risk score of 57/100, while Burraboi scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burra scores 41/100 for bushfire risk. Burraboi scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burra scores 44/100 for bushfire risk. Burraboi scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burra or Burraboi?",
@@ -76,5 +76,15 @@
       "label": "Burraboi Should I Buy?",
       "url": "/suburbs/nsw/burraboi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

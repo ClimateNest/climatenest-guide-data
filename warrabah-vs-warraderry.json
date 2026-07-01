@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 35
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 71
+      "scoreA": 70,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
+      "scoreA": 31,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 24
     }
   ],
-  "verdict": "Warraderry has a lower overall climate risk score (34/100) compared to Warrabah (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warraderry has a lower overall climate risk score (35/100) compared to Warrabah (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warrabah or Warraderry safer from flooding?",
-      "answer": "Warrabah has a flood risk score of 23/100, while Warraderry scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warrabah has a flood risk score of 35/100, while Warraderry scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warrabah scores 53/100 for bushfire risk. Warraderry scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warrabah scores 25/100 for bushfire risk. Warraderry scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warrabah or Warraderry?",
@@ -76,5 +76,15 @@
       "label": "Warraderry Should I Buy?",
       "url": "/suburbs/nsw/warraderry/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

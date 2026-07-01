@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 17
+      "scoreA": 19,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 79
+      "scoreA": 50,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 45,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 45
+      "scoreA": 10,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 11
     }
   ],
-  "verdict": "Cadia has a lower overall climate risk score (35/100) compared to Cairncross (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cadia has a lower overall climate risk score (31/100) compared to Cairncross (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cadia or Cairncross safer from flooding?",
-      "answer": "Cadia has a flood risk score of 51/100, while Cairncross scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cadia has a flood risk score of 48/100, while Cairncross scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cadia scores 36/100 for bushfire risk. Cairncross scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cadia scores 19/100 for bushfire risk. Cairncross scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cadia or Cairncross?",
@@ -76,5 +76,15 @@
       "label": "Cairncross Should I Buy?",
       "url": "/suburbs/nsw/cairncross/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

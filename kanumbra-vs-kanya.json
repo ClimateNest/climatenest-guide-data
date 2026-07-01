@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 42
+      "scoreA": 20,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 46
+      "scoreA": 41,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 69
+      "scoreA": 64,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 46
+      "scoreA": 39,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
       "scoreA": 16,
-      "scoreB": 28
+      "scoreB": 13
     }
   ],
-  "verdict": "Kanumbra has a lower overall climate risk score (34/100) compared to Kanya (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kanumbra has a lower overall climate risk score (34/100) compared to Kanya (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kanumbra or Kanya safer from flooding?",
-      "answer": "Kanumbra has a flood risk score of 59/100, while Kanya scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kanumbra has a flood risk score of 20/100, while Kanya scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kanumbra scores 33/100 for bushfire risk. Kanya scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kanumbra scores 41/100 for bushfire risk. Kanya scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kanumbra or Kanya?",
@@ -76,5 +76,15 @@
       "label": "Kanya Should I Buy?",
       "url": "/suburbs/vic/kanya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

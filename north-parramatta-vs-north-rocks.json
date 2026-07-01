@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 42
+      "scoreA": 49,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 23,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 53
+      "scoreA": 61,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
       "scoreA": 54,
-      "scoreB": 38
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 10
+      "scoreA": 29,
+      "scoreB": 22
     }
   ],
-  "verdict": "North Rocks has a lower overall climate risk score (35/100) compared to North Parramatta (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Rocks has a lower overall climate risk score (38/100) compared to North Parramatta (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Parramatta or North Rocks safer from flooding?",
-      "answer": "North Parramatta has a flood risk score of 56/100, while North Rocks scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Parramatta has a flood risk score of 49/100, while North Rocks scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Parramatta scores 24/100 for bushfire risk. North Rocks scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Parramatta scores 23/100 for bushfire risk. North Rocks scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Parramatta or North Rocks?",
@@ -76,5 +76,15 @@
       "label": "North Rocks Should I Buy?",
       "url": "/suburbs/nsw/north-rocks/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

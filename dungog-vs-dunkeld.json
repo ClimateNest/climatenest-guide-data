@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 50
+      "scoreA": 58,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 45
+      "scoreA": 49,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 52
+      "scoreA": 72,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 27,
+      "scoreA": 48,
       "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 28
+      "scoreA": 34,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Dungog has a lower overall climate risk score (40/100) compared to Dunkeld (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dunkeld has a lower overall climate risk score (43/100) compared to Dungog (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dungog or Dunkeld safer from flooding?",
-      "answer": "Dungog has a flood risk score of 46/100, while Dunkeld scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dungog has a flood risk score of 58/100, while Dunkeld scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dungog scores 17/100 for bushfire risk. Dunkeld scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dungog scores 49/100 for bushfire risk. Dunkeld scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dungog or Dunkeld?",
-      "answer": "Both suburbs have climate considerations. Dungog has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dunkeld has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dunkeld Should I Buy?",
       "url": "/suburbs/nsw/dunkeld/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4396,
+    "projected2030": 6154,
+    "projected2050": 11430
+  },
+  "valueImpact": {
+    "dragPercent": 2.55,
+    "description": "Properties in this area may face a 2.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

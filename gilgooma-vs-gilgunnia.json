@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 33
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 37,
+      "scoreA": 47,
       "scoreB": 59
     },
     {
+      "name": "Bushfire",
+      "scoreA": 43,
+      "scoreB": 42
+    },
+    {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 69
+      "scoreA": 69,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 37,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Gilgooma has a lower overall climate risk score (35/100) compared to Gilgunnia (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gilgunnia has a lower overall climate risk score (35/100) compared to Gilgooma (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gilgooma or Gilgunnia safer from flooding?",
-      "answer": "Gilgooma has a flood risk score of 50/100, while Gilgunnia scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gilgooma has a flood risk score of 47/100, while Gilgunnia scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gilgooma scores 37/100 for bushfire risk. Gilgunnia scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gilgooma scores 43/100 for bushfire risk. Gilgunnia scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gilgooma or Gilgunnia?",
-      "answer": "Both suburbs have climate considerations. Gilgooma has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gilgunnia has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gilgunnia Should I Buy?",
       "url": "/suburbs/nsw/gilgunnia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

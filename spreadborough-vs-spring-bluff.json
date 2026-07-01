@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 48
+      "scoreA": 42,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 48,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 40
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 11,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 14,
+      "scoreB": 15
     }
   ],
-  "verdict": "Spreadborough has a lower overall climate risk score (32/100) compared to Spring Bluff (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Spreadborough has a lower overall climate risk score (30/100) compared to Spring Bluff (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Spreadborough or Spring Bluff safer from flooding?",
-      "answer": "Spreadborough has a flood risk score of 49/100, while Spring Bluff scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Spreadborough has a flood risk score of 42/100, while Spring Bluff scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Spreadborough scores 20/100 for bushfire risk. Spring Bluff scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Spreadborough scores 48/100 for bushfire risk. Spring Bluff scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Spreadborough or Spring Bluff?",
@@ -76,5 +76,15 @@
       "label": "Spring Bluff Should I Buy?",
       "url": "/suburbs/qld/spring-bluff/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

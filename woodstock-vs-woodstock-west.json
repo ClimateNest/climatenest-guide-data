@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 20
+      "scoreA": 34,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 23
+      "scoreA": 58,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 62
+      "scoreA": 63,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 14,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 17
     }
   ],
-  "verdict": "Woodstock West has a lower overall climate risk score (28/100) compared to Woodstock (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Woodstock has a lower overall climate risk score (37/100) compared to Woodstock West (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woodstock or Woodstock West safer from flooding?",
-      "answer": "Woodstock has a flood risk score of 25/100, while Woodstock West scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodstock has a flood risk score of 34/100, while Woodstock West scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodstock scores 53/100 for bushfire risk. Woodstock West scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodstock scores 58/100 for bushfire risk. Woodstock West scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodstock or Woodstock West?",
-      "answer": "Both suburbs have climate considerations. Woodstock West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Woodstock has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Woodstock West Should I Buy?",
       "url": "/suburbs/vic/woodstock-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

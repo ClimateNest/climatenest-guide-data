@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 53
+      "scoreA": 22,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 44
-    },
-    {
-      "name": "Heat",
-      "scoreA": 78,
+      "scoreA": 43,
       "scoreB": 57
     },
     {
+      "name": "Heat",
+      "scoreA": 60,
+      "scoreB": 79
+    },
+    {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 33
+      "scoreA": 50,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 13,
+      "scoreB": 23
     }
   ],
-  "verdict": "Bungal has a lower overall climate risk score (36/100) compared to Bung Bong (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bung Bong has a lower overall climate risk score (35/100) compared to Bungal (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bung Bong or Bungal safer from flooding?",
-      "answer": "Bung Bong has a flood risk score of 30/100, while Bungal scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bung Bong has a flood risk score of 22/100, while Bungal scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bung Bong scores 22/100 for bushfire risk. Bungal scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bung Bong scores 43/100 for bushfire risk. Bungal scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bung Bong or Bungal?",
-      "answer": "Both suburbs have climate considerations. Bungal has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bung Bong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bungal Should I Buy?",
       "url": "/suburbs/vic/bungal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 33,
-      "scoreB": 30
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 40
+      "scoreA": 24,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 57
+      "scoreA": 50,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 37,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 31
+      "scoreA": 44,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 13,
+      "scoreB": 22
     }
   ],
-  "verdict": "Talarm has a lower overall climate risk score (35/100) compared to Tahmoor (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Talarm has a lower overall climate risk score (32/100) compared to Tahmoor (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tahmoor or Talarm safer from flooding?",
-      "answer": "Tahmoor has a flood risk score of 33/100, while Talarm scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tahmoor has a flood risk score of 33/100, while Talarm scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tahmoor scores 60/100 for bushfire risk. Talarm scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tahmoor scores 24/100 for bushfire risk. Talarm scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tahmoor or Talarm?",
@@ -76,5 +76,15 @@
       "label": "Talarm Should I Buy?",
       "url": "/suburbs/nsw/talarm/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 42
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 68
+      "scoreA": 71,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 37
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 19
+      "scoreA": 28,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 26
     }
   ],
-  "verdict": "Bambra has a lower overall climate risk score (37/100) compared to Bamawm (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bambra has a lower overall climate risk score (41/100) compared to Bamawm (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bamawm or Bambra safer from flooding?",
-      "answer": "Bamawm has a flood risk score of 31/100, while Bambra scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bamawm has a flood risk score of 48/100, while Bambra scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bamawm scores 45/100 for bushfire risk. Bambra scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bamawm scores 49/100 for bushfire risk. Bambra scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bamawm or Bambra?",
@@ -76,5 +76,15 @@
       "label": "Bambra Should I Buy?",
       "url": "/suburbs/vic/bambra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

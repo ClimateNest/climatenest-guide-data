@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 56
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 46,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 54
+      "scoreA": 52,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 32
+      "scoreA": 33,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
       "scoreA": 27,
-      "scoreB": 17
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 17
     }
   ],
-  "verdict": "Rosa Brook has a lower overall climate risk score (33/100) compared to Roelands (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Roelands has a lower overall climate risk score (35/100) compared to Rosa Brook (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Roelands or Rosa Brook safer from flooding?",
-      "answer": "Roelands has a flood risk score of 28/100, while Rosa Brook scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Roelands has a flood risk score of 26/100, while Rosa Brook scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Roelands scores 26/100 for bushfire risk. Rosa Brook scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Roelands scores 46/100 for bushfire risk. Rosa Brook scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Roelands or Rosa Brook?",
-      "answer": "Both suburbs have climate considerations. Rosa Brook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Roelands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rosa Brook Should I Buy?",
       "url": "/suburbs/wa/rosa-brook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

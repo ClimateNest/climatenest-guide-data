@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 29
+      "scoreA": 39,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 54
+      "scoreA": 61,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 35,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 26
     }
   ],
-  "verdict": "Waterloo has a lower overall climate risk score (32/100) compared to Watermans Bay (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Waterloo has a lower overall climate risk score (37/100) compared to Watermans Bay (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Waterloo or Watermans Bay safer from flooding?",
-      "answer": "Waterloo has a flood risk score of 46/100, while Watermans Bay scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waterloo has a flood risk score of 39/100, while Watermans Bay scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waterloo scores 26/100 for bushfire risk. Watermans Bay scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waterloo scores 46/100 for bushfire risk. Watermans Bay scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waterloo or Watermans Bay?",
@@ -76,5 +76,15 @@
       "label": "Watermans Bay Should I Buy?",
       "url": "/suburbs/wa/watermans-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4305,
+    "projected2030": 6027,
+    "projected2050": 11194
+  },
+  "valueImpact": {
+    "dragPercent": 2.35,
+    "description": "Properties in this area may face a 2.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 40
+      "scoreA": 37,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 59
+      "scoreA": 55,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 42
+      "scoreA": 31,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 54,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 29
     }
   ],
-  "verdict": "Mount Darry has a lower overall climate risk score (36/100) compared to Mount Debateable (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Darry has a lower overall climate risk score (38/100) compared to Mount Debateable (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Darry or Mount Debateable safer from flooding?",
-      "answer": "Mount Darry has a flood risk score of 39/100, while Mount Debateable scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Darry has a flood risk score of 37/100, while Mount Debateable scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Darry scores 24/100 for bushfire risk. Mount Debateable scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Darry scores 55/100 for bushfire risk. Mount Debateable scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Darry or Mount Debateable?",
@@ -76,5 +76,15 @@
       "label": "Mount Debateable Should I Buy?",
       "url": "/suburbs/qld/mount-debateable/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

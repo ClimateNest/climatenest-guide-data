@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 57
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 62
+      "scoreA": 61,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 80
+      "scoreA": 73,
+      "scoreB": 53
     },
     {
       "name": "Storm",
       "scoreA": 44,
-      "scoreB": 40
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 29,
+      "scoreB": 15
     }
   ],
-  "verdict": "Methul has a lower overall climate risk score (36/100) compared to Miamley (50/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Miamley has a lower overall climate risk score (31/100) compared to Methul (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Methul or Miamley safer from flooding?",
-      "answer": "Methul has a flood risk score of 26/100, while Miamley scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Methul has a flood risk score of 36/100, while Miamley scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Methul scores 36/100 for bushfire risk. Miamley scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Methul scores 61/100 for bushfire risk. Miamley scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Methul or Miamley?",
-      "answer": "Both suburbs have climate considerations. Methul has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Miamley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Miamley Should I Buy?",
       "url": "/suburbs/nsw/miamley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

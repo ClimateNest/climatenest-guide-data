@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 25
+      "scoreA": 55,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 55
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
+      "scoreA": 60,
       "scoreB": 64
     },
     {
+      "name": "Heat",
+      "scoreA": 74,
+      "scoreB": 71
+    },
+    {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 26
+      "scoreA": 33,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 23,
+      "scoreB": 15
     }
   ],
-  "verdict": "Middle River has a lower overall climate risk score (36/100) compared to Middle Beach (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Middle River has a lower overall climate risk score (38/100) compared to Middle Beach (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Middle Beach or Middle River safer from flooding?",
-      "answer": "Middle Beach has a flood risk score of 49/100, while Middle River scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Middle Beach has a flood risk score of 55/100, while Middle River scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Middle Beach scores 59/100 for bushfire risk. Middle River scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Middle Beach scores 60/100 for bushfire risk. Middle River scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Middle Beach or Middle River?",
@@ -76,5 +76,15 @@
       "label": "Middle River Should I Buy?",
       "url": "/suburbs/sa/middle-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 22,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 38
+      "scoreA": 30,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 67
+      "scoreA": 59,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 50
+      "scoreA": 20,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 11
     }
   ],
-  "verdict": "Marchmont has a lower overall climate risk score (40/100) compared to Mardi (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marchmont has a lower overall climate risk score (29/100) compared to Mardi (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Marchmont or Mardi safer from flooding?",
-      "answer": "Marchmont has a flood risk score of 48/100, while Mardi scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marchmont has a flood risk score of 22/100, while Mardi scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marchmont scores 36/100 for bushfire risk. Mardi scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marchmont scores 30/100 for bushfire risk. Mardi scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marchmont or Mardi?",
@@ -76,5 +76,15 @@
       "label": "Mardi Should I Buy?",
       "url": "/suburbs/nsw/mardi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 29
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 21
-    },
-    {
-      "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 52
-    },
-    {
-      "name": "Storm",
-      "scoreA": 46,
+      "scoreA": 38,
       "scoreB": 32
     },
     {
+      "name": "Bushfire",
+      "scoreA": 17,
+      "scoreB": 39
+    },
+    {
+      "name": "Heat",
+      "scoreA": 73,
+      "scoreB": 65
+    },
+    {
+      "name": "Storm",
+      "scoreA": 20,
+      "scoreB": 22
+    },
+    {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 23,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 17
     }
   ],
-  "verdict": "Wattle Hill has a lower overall climate risk score (31/100) compared to Wattle Flat (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wattle Hill has a lower overall climate risk score (31/100) compared to Wattle Flat (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wattle Flat or Wattle Hill safer from flooding?",
-      "answer": "Wattle Flat has a flood risk score of 41/100, while Wattle Hill scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wattle Flat has a flood risk score of 38/100, while Wattle Hill scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wattle Flat scores 56/100 for bushfire risk. Wattle Hill scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wattle Flat scores 17/100 for bushfire risk. Wattle Hill scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wattle Flat or Wattle Hill?",
@@ -76,5 +76,15 @@
       "label": "Wattle Hill Should I Buy?",
       "url": "/suburbs/vic/wattle-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 43,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 61
+      "scoreA": 37,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 77
+      "scoreA": 37,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 35
+      "scoreA": 60,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 20
     }
   ],
-  "verdict": "Ulmarra has a lower overall climate risk score (34/100) compared to Ulong (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Ulmarra has a lower overall climate risk score (41/100) compared to Ulong (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Ulmarra or Ulong safer from flooding?",
-      "answer": "Ulmarra has a flood risk score of 22/100, while Ulong scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ulmarra has a flood risk score of 43/100, while Ulong scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ulmarra scores 62/100 for bushfire risk. Ulong scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ulmarra scores 37/100 for bushfire risk. Ulong scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ulmarra or Ulong?",
@@ -76,5 +76,15 @@
       "label": "Ulong Should I Buy?",
       "url": "/suburbs/nsw/ulong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

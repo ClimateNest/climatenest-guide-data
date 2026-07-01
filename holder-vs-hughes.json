@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 59
+      "scoreA": 29,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 41
+      "scoreA": 34,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 62
+      "scoreA": 68,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 11,
+      "scoreB": 11
     }
   ],
-  "verdict": "Holder has a lower overall climate risk score (37/100) compared to Hughes (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Holder has a lower overall climate risk score (32/100) compared to Hughes (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Holder or Hughes safer from flooding?",
-      "answer": "Holder has a flood risk score of 33/100, while Hughes scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Holder has a flood risk score of 29/100, while Hughes scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Holder scores 63/100 for bushfire risk. Hughes scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Holder scores 34/100 for bushfire risk. Hughes scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Holder or Hughes?",
@@ -76,5 +76,15 @@
       "label": "Hughes Should I Buy?",
       "url": "/suburbs/act/hughes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

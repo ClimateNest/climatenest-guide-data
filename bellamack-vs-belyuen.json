@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 30
+      "scoreA": 60,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 44
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 26
+      "scoreA": 31,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 10
+      "scoreA": 7,
+      "scoreB": 8
     }
   ],
-  "verdict": "Belyuen has a lower overall climate risk score (25/100) compared to Bellamack (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Belyuen has a lower overall climate risk score (32/100) compared to Bellamack (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bellamack or Belyuen safer from flooding?",
-      "answer": "Bellamack has a flood risk score of 50/100, while Belyuen scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellamack has a flood risk score of 60/100, while Belyuen scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellamack scores 29/100 for bushfire risk. Belyuen scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellamack scores 50/100 for bushfire risk. Belyuen scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellamack or Belyuen?",
@@ -76,5 +76,15 @@
       "label": "Belyuen Should I Buy?",
       "url": "/suburbs/nt/belyuen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 55
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 59
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 58
+      "scoreA": 31,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 24
+      "scoreA": 19,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 15
     }
   ],
-  "verdict": "Whim Creek has a lower overall climate risk score (36/100) compared to White Gum Valley (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Whim Creek has a lower overall climate risk score (24/100) compared to White Gum Valley (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Whim Creek or White Gum Valley safer from flooding?",
-      "answer": "Whim Creek has a flood risk score of 43/100, while White Gum Valley scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whim Creek has a flood risk score of 26/100, while White Gum Valley scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whim Creek scores 47/100 for bushfire risk. White Gum Valley scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whim Creek scores 26/100 for bushfire risk. White Gum Valley scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whim Creek or White Gum Valley?",
@@ -76,5 +76,15 @@
       "label": "White Gum Valley Should I Buy?",
       "url": "/suburbs/wa/white-gum-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3161,
+    "projected2030": 4425,
+    "projected2050": 8218
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 28,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 27
+      "scoreA": 15,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 44
+      "scoreA": 73,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 31
+      "scoreA": 28,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 38
+      "scoreA": 53,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 25
+      "scoreA": 14,
+      "scoreB": 24
     }
   ],
-  "verdict": "Copeton has a lower overall climate risk score (35/100) compared to Copeland (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Copeland has a lower overall climate risk score (35/100) compared to Copeton (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Copeland or Copeton safer from flooding?",
-      "answer": "Copeland has a flood risk score of 51/100, while Copeton scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Copeland has a flood risk score of 28/100, while Copeton scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Copeland scores 46/100 for bushfire risk. Copeton scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Copeland scores 15/100 for bushfire risk. Copeton scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Copeland or Copeton?",
-      "answer": "Both suburbs have climate considerations. Copeton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Copeland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Copeton Should I Buy?",
       "url": "/suburbs/nsw/copeton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

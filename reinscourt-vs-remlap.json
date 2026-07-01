@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 38
+      "scoreA": 53,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 53
+      "scoreA": 45,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 54
+      "scoreA": 65,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 45,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
       "scoreA": 12,
-      "scoreB": 13
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 20
     }
   ],
-  "verdict": "Reinscourt has a lower overall climate risk score (32/100) compared to Remlap (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Reinscourt has a lower overall climate risk score (39/100) compared to Remlap (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Reinscourt or Remlap safer from flooding?",
-      "answer": "Reinscourt has a flood risk score of 57/100, while Remlap scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Reinscourt has a flood risk score of 53/100, while Remlap scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Reinscourt scores 26/100 for bushfire risk. Remlap scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Reinscourt scores 45/100 for bushfire risk. Remlap scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Reinscourt or Remlap?",
@@ -76,5 +76,15 @@
       "label": "Remlap Should I Buy?",
       "url": "/suburbs/wa/remlap/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

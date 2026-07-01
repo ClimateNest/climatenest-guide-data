@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
+      "scoreA": 56,
       "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 61
+      "scoreA": 60,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 58
+      "scoreA": 62,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 48,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 52
+      "scoreA": 39,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
       "scoreA": 20,
-      "scoreB": 22
+      "scoreB": 16
     }
   ],
-  "verdict": "Ropes Crossing has a lower overall climate risk score (38/100) compared to Rose Bay (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rose Bay has a lower overall climate risk score (40/100) compared to Ropes Crossing (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ropes Crossing or Rose Bay safer from flooding?",
-      "answer": "Ropes Crossing has a flood risk score of 31/100, while Rose Bay scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ropes Crossing has a flood risk score of 56/100, while Rose Bay scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ropes Crossing scores 54/100 for bushfire risk. Rose Bay scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ropes Crossing scores 60/100 for bushfire risk. Rose Bay scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ropes Crossing or Rose Bay?",
-      "answer": "Both suburbs have climate considerations. Ropes Crossing has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rose Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rose Bay Should I Buy?",
       "url": "/suburbs/nsw/rose-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4430,
+    "projected2030": 6202,
+    "projected2050": 11518
+  },
+  "valueImpact": {
+    "dragPercent": 2.63,
+    "description": "Properties in this area may face a 2.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

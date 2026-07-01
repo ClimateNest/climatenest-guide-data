@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 23
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 44
+      "scoreA": 45,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 76
+      "scoreA": 75,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 34,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 11
     }
   ],
-  "verdict": "Elliminyt has a lower overall climate risk score (33/100) compared to Ellaswood (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Elliminyt has a lower overall climate risk score (33/100) compared to Ellaswood (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ellaswood or Elliminyt safer from flooding?",
-      "answer": "Ellaswood has a flood risk score of 32/100, while Elliminyt scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ellaswood has a flood risk score of 44/100, while Elliminyt scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ellaswood scores 46/100 for bushfire risk. Elliminyt scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ellaswood scores 45/100 for bushfire risk. Elliminyt scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ellaswood or Elliminyt?",
@@ -76,5 +76,15 @@
       "label": "Elliminyt Should I Buy?",
       "url": "/suburbs/vic/elliminyt/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 60
+      "scoreA": 21,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 53
+      "scoreA": 62,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 62
+      "scoreA": 68,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 38
+      "scoreA": 40,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 19
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Highlands has a lower overall climate risk score (34/100) compared to Highton (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Highton has a lower overall climate risk score (36/100) compared to Highlands (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Highlands or Highton safer from flooding?",
-      "answer": "Highlands has a flood risk score of 29/100, while Highton scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Highlands has a flood risk score of 21/100, while Highton scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Highlands scores 29/100 for bushfire risk. Highton scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Highlands scores 62/100 for bushfire risk. Highton scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Highlands or Highton?",
-      "answer": "Both suburbs have climate considerations. Highlands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Highton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Highton Should I Buy?",
       "url": "/suburbs/vic/highton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

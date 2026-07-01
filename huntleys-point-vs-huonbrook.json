@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 57
+      "scoreA": 44,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 33
+      "scoreA": 59,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 44
+      "scoreA": 24,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 42
+      "scoreA": 37,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 10,
+      "scoreB": 20
     }
   ],
-  "verdict": "Huonbrook has a lower overall climate risk score (36/100) compared to Huntleys Point (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Huonbrook has a lower overall climate risk score (32/100) compared to Huntleys Point (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Huntleys Point or Huonbrook safer from flooding?",
-      "answer": "Huntleys Point has a flood risk score of 41/100, while Huonbrook scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Huntleys Point has a flood risk score of 42/100, while Huonbrook scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Huntleys Point scores 50/100 for bushfire risk. Huonbrook scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Huntleys Point scores 44/100 for bushfire risk. Huonbrook scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Huntleys Point or Huonbrook?",
@@ -76,5 +76,15 @@
       "label": "Huonbrook Should I Buy?",
       "url": "/suburbs/nsw/huonbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

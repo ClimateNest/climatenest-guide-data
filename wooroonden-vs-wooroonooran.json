@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 34
+      "scoreA": 33,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
+      "scoreA": 42,
       "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 36
+      "scoreA": 46,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 20
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 11
+      "scoreA": 59,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 9
     }
   ],
-  "verdict": "Wooroonooran has a lower overall climate risk score (29/100) compared to Wooroonden (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wooroonooran has a lower overall climate risk score (30/100) compared to Wooroonden (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wooroonden or Wooroonooran safer from flooding?",
-      "answer": "Wooroonden has a flood risk score of 21/100, while Wooroonooran scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wooroonden has a flood risk score of 33/100, while Wooroonooran scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wooroonden scores 20/100 for bushfire risk. Wooroonooran scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wooroonden scores 42/100 for bushfire risk. Wooroonooran scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wooroonden or Wooroonooran?",
@@ -76,5 +76,15 @@
       "label": "Wooroonooran Should I Buy?",
       "url": "/suburbs/qld/wooroonooran/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

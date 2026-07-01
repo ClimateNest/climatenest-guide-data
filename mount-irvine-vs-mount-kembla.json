@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 23
-    },
-    {
-      "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 70
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
+      "scoreA": 48,
       "scoreB": 21
     },
     {
+      "name": "Bushfire",
+      "scoreA": 26,
+      "scoreB": 48
+    },
+    {
+      "name": "Heat",
+      "scoreA": 54,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 35
+    },
+    {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 58
+      "scoreA": 16,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
       "scoreA": 20,
-      "scoreB": 28
+      "scoreB": 22
     }
   ],
-  "verdict": "Mount Irvine has a lower overall climate risk score (37/100) compared to Mount Kembla (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Irvine has a lower overall climate risk score (36/100) compared to Mount Kembla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Irvine or Mount Kembla safer from flooding?",
-      "answer": "Mount Irvine has a flood risk score of 30/100, while Mount Kembla scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Irvine has a flood risk score of 48/100, while Mount Kembla scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Irvine scores 50/100 for bushfire risk. Mount Kembla scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Irvine scores 26/100 for bushfire risk. Mount Kembla scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Irvine or Mount Kembla?",
@@ -76,5 +76,15 @@
       "label": "Mount Kembla Should I Buy?",
       "url": "/suburbs/nsw/mount-kembla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

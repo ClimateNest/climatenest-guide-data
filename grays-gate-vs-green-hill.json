@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 45
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 61
+      "scoreA": 34,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 31
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 10
+      "scoreA": 58,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 6
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Green Hill has a lower overall climate risk score (33/100) compared to Grays Gate (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Green Hill has a lower overall climate risk score (38/100) compared to Grays Gate (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Grays Gate or Green Hill safer from flooding?",
-      "answer": "Grays Gate has a flood risk score of 36/100, while Green Hill scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Grays Gate has a flood risk score of 27/100, while Green Hill scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Grays Gate scores 62/100 for bushfire risk. Green Hill scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Grays Gate scores 34/100 for bushfire risk. Green Hill scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Grays Gate or Green Hill?",
@@ -76,5 +76,15 @@
       "label": "Green Hill Should I Buy?",
       "url": "/suburbs/qld/green-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

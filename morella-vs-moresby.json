@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 34
+      "scoreA": 24,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 49
+      "scoreA": 61,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 31,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 45,
+      "scoreA": 40,
       "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 10
+      "scoreA": 24,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
       "scoreA": 18,
-      "scoreB": 18
+      "scoreB": 10
     }
   ],
-  "verdict": "Moresby has a lower overall climate risk score (31/100) compared to Morella (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moresby has a lower overall climate risk score (33/100) compared to Morella (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Morella or Moresby safer from flooding?",
-      "answer": "Morella has a flood risk score of 43/100, while Moresby scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Morella has a flood risk score of 24/100, while Moresby scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Morella scores 50/100 for bushfire risk. Moresby scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Morella scores 61/100 for bushfire risk. Moresby scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Morella or Moresby?",
@@ -76,5 +76,15 @@
       "label": "Moresby Should I Buy?",
       "url": "/suburbs/qld/moresby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

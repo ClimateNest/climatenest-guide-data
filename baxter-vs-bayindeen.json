@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 40
+      "scoreA": 49,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 62
+      "scoreA": 16,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 78
+      "scoreA": 59,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 34
+      "scoreA": 40,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 14
     }
   ],
-  "verdict": "Baxter has a lower overall climate risk score (36/100) compared to Bayindeen (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bayindeen has a lower overall climate risk score (31/100) compared to Baxter (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Baxter or Bayindeen safer from flooding?",
-      "answer": "Baxter has a flood risk score of 30/100, while Bayindeen scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Baxter has a flood risk score of 49/100, while Bayindeen scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Baxter scores 47/100 for bushfire risk. Bayindeen scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Baxter scores 16/100 for bushfire risk. Bayindeen scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Baxter or Bayindeen?",
-      "answer": "Both suburbs have climate considerations. Baxter has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bayindeen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bayindeen Should I Buy?",
       "url": "/suburbs/vic/bayindeen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3353,
+    "projected2030": 4695,
+    "projected2050": 8719
+  },
+  "valueImpact": {
+    "dragPercent": 0.25,
+    "description": "Properties in this area may face a 0.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

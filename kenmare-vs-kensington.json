@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 41
+      "scoreA": 29,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 24
+      "scoreA": 59,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 54
+      "scoreA": 61,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 24
+      "scoreA": 19,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 26
     }
   ],
-  "verdict": "Kensington has a lower overall climate risk score (32/100) compared to Kenmare (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kensington has a lower overall climate risk score (37/100) compared to Kenmare (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kenmare or Kensington safer from flooding?",
-      "answer": "Kenmare has a flood risk score of 35/100, while Kensington scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kenmare has a flood risk score of 29/100, while Kensington scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kenmare scores 33/100 for bushfire risk. Kensington scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kenmare scores 59/100 for bushfire risk. Kensington scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kenmare or Kensington?",
@@ -76,5 +76,15 @@
       "label": "Kensington Should I Buy?",
       "url": "/suburbs/wa/kensington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

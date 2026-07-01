@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 60
+      "scoreA": 58,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 21
+      "scoreA": 35,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 77,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 19
+      "scoreA": 10,
+      "scoreB": 23
     }
   ],
-  "verdict": "Meadow Heights has a lower overall climate risk score (36/100) compared to Mead (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mead has a lower overall climate risk score (40/100) compared to Meadow Heights (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mead or Meadow Heights safer from flooding?",
-      "answer": "Mead has a flood risk score of 59/100, while Meadow Heights scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mead has a flood risk score of 58/100, while Meadow Heights scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mead scores 40/100 for bushfire risk. Meadow Heights scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mead scores 35/100 for bushfire risk. Meadow Heights scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mead or Meadow Heights?",
-      "answer": "Both suburbs have climate considerations. Meadow Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mead has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Meadow Heights Should I Buy?",
       "url": "/suburbs/vic/meadow-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

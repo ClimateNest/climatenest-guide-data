@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 56
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 59
-    },
-    {
-      "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 69
-    },
-    {
-      "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 24
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 11,
+      "scoreA": 58,
       "scoreB": 26
     },
     {
+      "name": "Bushfire",
+      "scoreA": 47,
+      "scoreB": 58
+    },
+    {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 57
+    },
+    {
+      "name": "Storm",
+      "scoreA": 50,
+      "scoreB": 42
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 15,
+      "scoreB": 20
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 18
     }
   ],
-  "verdict": "Wyalong has a lower overall climate risk score (31/100) compared to Wyanbene (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Wyanbene has a lower overall climate risk score (37/100) compared to Wyalong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wyalong or Wyanbene safer from flooding?",
-      "answer": "Wyalong has a flood risk score of 35/100, while Wyanbene scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wyalong has a flood risk score of 58/100, while Wyanbene scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wyalong scores 33/100 for bushfire risk. Wyanbene scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wyalong scores 47/100 for bushfire risk. Wyanbene scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wyalong or Wyanbene?",
-      "answer": "Both suburbs have climate considerations. Wyalong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wyanbene has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wyanbene Should I Buy?",
       "url": "/suburbs/nsw/wyanbene/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

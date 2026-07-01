@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 52
+      "scoreA": 58,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 59
+      "scoreA": 31,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 47
+      "scoreA": 79,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 28
+      "scoreA": 34,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 60,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 18
     }
   ],
-  "verdict": "Diamond Head has a lower overall climate risk score (40/100) compared to Diehard (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Diehard has a lower overall climate risk score (45/100) compared to Diamond Head (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Diamond Head or Diehard safer from flooding?",
-      "answer": "Diamond Head has a flood risk score of 35/100, while Diehard scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Diamond Head has a flood risk score of 58/100, while Diehard scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Diamond Head scores 29/100 for bushfire risk. Diehard scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Diamond Head scores 31/100 for bushfire risk. Diehard scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Diamond Head or Diehard?",
-      "answer": "Both suburbs have climate considerations. Diamond Head has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Diehard has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Diehard Should I Buy?",
       "url": "/suburbs/nsw/diehard/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

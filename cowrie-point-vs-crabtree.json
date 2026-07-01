@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 45
+      "scoreA": 33,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 24
+      "scoreA": 46,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 66
+      "scoreA": 68,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 28
+      "scoreA": 32,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 29,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 29
+      "scoreA": 29,
+      "scoreB": 26
     }
   ],
-  "verdict": "Crabtree has a lower overall climate risk score (34/100) compared to Cowrie Point (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Crabtree has a lower overall climate risk score (35/100) compared to Cowrie Point (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cowrie Point or Crabtree safer from flooding?",
-      "answer": "Cowrie Point has a flood risk score of 43/100, while Crabtree scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cowrie Point has a flood risk score of 33/100, while Crabtree scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cowrie Point scores 33/100 for bushfire risk. Crabtree scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cowrie Point scores 46/100 for bushfire risk. Crabtree scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cowrie Point or Crabtree?",
@@ -76,5 +76,15 @@
       "label": "Crabtree Should I Buy?",
       "url": "/suburbs/tas/crabtree/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

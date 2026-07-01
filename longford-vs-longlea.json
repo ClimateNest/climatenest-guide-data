@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 36
+      "scoreA": 62,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 77
+      "scoreA": 75,
+      "scoreB": 51
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 49
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 26
+      "scoreA": 11,
+      "scoreB": 20
     }
   ],
-  "verdict": "Longford has a lower overall climate risk score (41/100) compared to Longlea (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Longlea has a lower overall climate risk score (30/100) compared to Longford (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Longford or Longlea safer from flooding?",
-      "answer": "Longford has a flood risk score of 35/100, while Longlea scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Longford has a flood risk score of 47/100, while Longlea scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Longford scores 31/100 for bushfire risk. Longlea scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Longford scores 62/100 for bushfire risk. Longlea scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Longford or Longlea?",
-      "answer": "Both suburbs have climate considerations. Longford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Longlea has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Longlea Should I Buy?",
       "url": "/suburbs/vic/longlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

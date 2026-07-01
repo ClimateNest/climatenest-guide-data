@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 56
+      "scoreA": 22,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 59
+      "scoreA": 57,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 42
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 31
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 49,
+      "scoreA": 44,
       "scoreB": 48
     },
     {
+      "name": "Storm",
+      "scoreA": 21,
+      "scoreB": 39
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 35,
+      "scoreB": 42
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 15,
+      "scoreB": 27
     }
   ],
-  "verdict": "Beenaam Valley has a lower overall climate risk score (39/100) compared to Beenleigh (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beenaam Valley has a lower overall climate risk score (32/100) compared to Beenleigh (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Beenaam Valley or Beenleigh safer from flooding?",
-      "answer": "Beenaam Valley has a flood risk score of 47/100, while Beenleigh scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beenaam Valley has a flood risk score of 22/100, while Beenleigh scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beenaam Valley scores 20/100 for bushfire risk. Beenleigh scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beenaam Valley scores 57/100 for bushfire risk. Beenleigh scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beenaam Valley or Beenleigh?",
@@ -76,5 +76,15 @@
       "label": "Beenleigh Should I Buy?",
       "url": "/suburbs/qld/beenleigh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

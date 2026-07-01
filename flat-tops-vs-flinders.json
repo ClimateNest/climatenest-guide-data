@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 34
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 22
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 56
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 21
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 41,
+      "scoreA": 31,
       "scoreB": 45
     },
     {
+      "name": "Bushfire",
+      "scoreA": 31,
+      "scoreB": 39
+    },
+    {
+      "name": "Heat",
+      "scoreA": 63,
+      "scoreB": 71
+    },
+    {
+      "name": "Storm",
+      "scoreA": 39,
+      "scoreB": 41
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 33,
+      "scoreB": 43
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 16
     }
   ],
-  "verdict": "Flinders has a lower overall climate risk score (32/100) compared to Flat Tops (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Flat Tops has a lower overall climate risk score (35/100) compared to Flinders (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Flat Tops or Flinders safer from flooding?",
-      "answer": "Flat Tops has a flood risk score of 27/100, while Flinders scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Flat Tops has a flood risk score of 31/100, while Flinders scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Flat Tops scores 47/100 for bushfire risk. Flinders scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Flat Tops scores 31/100 for bushfire risk. Flinders scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Flat Tops or Flinders?",
-      "answer": "Both suburbs have climate considerations. Flinders has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Flat Tops has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Flinders Should I Buy?",
       "url": "/suburbs/nsw/flinders/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

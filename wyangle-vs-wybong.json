@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 43
+      "scoreA": 35,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 52
+      "scoreA": 34,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 70
+      "scoreA": 75,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 46
+      "scoreA": 25,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 60
+      "scoreA": 23,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 30
     }
   ],
-  "verdict": "Wyangle has a lower overall climate risk score (34/100) compared to Wybong (50/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wyangle has a lower overall climate risk score (36/100) compared to Wybong (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wyangle or Wybong safer from flooding?",
-      "answer": "Wyangle has a flood risk score of 25/100, while Wybong scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wyangle has a flood risk score of 35/100, while Wybong scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wyangle scores 51/100 for bushfire risk. Wybong scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wyangle scores 34/100 for bushfire risk. Wybong scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wyangle or Wybong?",
@@ -76,5 +76,15 @@
       "label": "Wybong Should I Buy?",
       "url": "/suburbs/nsw/wybong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

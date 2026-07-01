@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 51,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 23
+      "scoreA": 37,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 22
+      "scoreA": 42,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 42
+      "scoreA": 17,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 22
+      "scoreA": 15,
+      "scoreB": 21
     }
   ],
-  "verdict": "Mutarnee has a lower overall climate risk score (29/100) compared to Mutdapilly (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mutarnee has a lower overall climate risk score (34/100) compared to Mutdapilly (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mutarnee or Mutdapilly safer from flooding?",
-      "answer": "Mutarnee has a flood risk score of 42/100, while Mutdapilly scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mutarnee has a flood risk score of 51/100, while Mutdapilly scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mutarnee scores 21/100 for bushfire risk. Mutdapilly scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mutarnee scores 37/100 for bushfire risk. Mutdapilly scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mutarnee or Mutdapilly?",
@@ -76,5 +76,15 @@
       "label": "Mutdapilly Should I Buy?",
       "url": "/suburbs/qld/mutdapilly/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

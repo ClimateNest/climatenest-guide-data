@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 48
+      "scoreA": 26,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 54
+      "scoreA": 65,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 35
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 51,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 17
+      "scoreA": 20,
+      "scoreB": 8
     }
   ],
-  "verdict": "Crediton has a lower overall climate risk score (34/100) compared to Cranley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Crediton has a lower overall climate risk score (32/100) compared to Cranley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cranley or Crediton safer from flooding?",
-      "answer": "Cranley has a flood risk score of 50/100, while Crediton scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cranley has a flood risk score of 26/100, while Crediton scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cranley scores 46/100 for bushfire risk. Crediton scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cranley scores 65/100 for bushfire risk. Crediton scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cranley or Crediton?",
@@ -76,5 +76,15 @@
       "label": "Crediton Should I Buy?",
       "url": "/suburbs/qld/crediton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

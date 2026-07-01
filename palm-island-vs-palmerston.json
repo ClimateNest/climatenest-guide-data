@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 36
+      "scoreA": 21,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 55
+      "scoreA": 53,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 38,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "Palm Island has a lower overall climate risk score (33/100) compared to Palmerston (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Palm Island has a lower overall climate risk score (31/100) compared to Palmerston (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Palm Island or Palmerston safer from flooding?",
-      "answer": "Palm Island has a flood risk score of 22/100, while Palmerston scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palm Island has a flood risk score of 21/100, while Palmerston scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palm Island scores 62/100 for bushfire risk. Palmerston scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palm Island scores 53/100 for bushfire risk. Palmerston scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palm Island or Palmerston?",
@@ -76,5 +76,15 @@
       "label": "Palmerston Should I Buy?",
       "url": "/suburbs/qld/palmerston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

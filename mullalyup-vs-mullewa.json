@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 34
+      "scoreA": 40,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 60
-    },
-    {
-      "name": "Heat",
-      "scoreA": 53,
+      "scoreA": 20,
       "scoreB": 36
     },
     {
+      "name": "Heat",
+      "scoreA": 59,
+      "scoreB": 38
+    },
+    {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 30
+      "scoreA": 39,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 22
     }
   ],
-  "verdict": "Mullalyup has a lower overall climate risk score (33/100) compared to Mullewa (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mullewa has a lower overall climate risk score (29/100) compared to Mullalyup (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mullalyup or Mullewa safer from flooding?",
-      "answer": "Mullalyup has a flood risk score of 32/100, while Mullewa scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mullalyup has a flood risk score of 40/100, while Mullewa scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mullalyup scores 41/100 for bushfire risk. Mullewa scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mullalyup scores 20/100 for bushfire risk. Mullewa scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mullalyup or Mullewa?",
-      "answer": "Both suburbs have climate considerations. Mullalyup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mullewa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mullewa Should I Buy?",
       "url": "/suburbs/wa/mullewa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3467,
+    "projected2030": 4853,
+    "projected2050": 9013
+  },
+  "valueImpact": {
+    "dragPercent": 0.5,
+    "description": "Properties in this area may face a 0.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

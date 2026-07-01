@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 27
+      "scoreA": 57,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 64
+      "scoreA": 58,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 52
+      "scoreA": 56,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 37
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 47
+      "scoreA": 57,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 28
+      "scoreA": 28,
+      "scoreB": 14
     }
   ],
-  "verdict": "Hampden Hall has a lower overall climate risk score (43/100) compared to Hammondville (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hampden Hall has a lower overall climate risk score (42/100) compared to Hammondville (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hammondville or Hampden Hall safer from flooding?",
-      "answer": "Hammondville has a flood risk score of 37/100, while Hampden Hall scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hammondville has a flood risk score of 57/100, while Hampden Hall scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hammondville scores 64/100 for bushfire risk. Hampden Hall scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hammondville scores 58/100 for bushfire risk. Hampden Hall scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hammondville or Hampden Hall?",
@@ -76,5 +76,15 @@
       "label": "Hampden Hall Should I Buy?",
       "url": "/suburbs/nsw/hampden-hall/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4532,
+    "projected2030": 6345,
+    "projected2050": 11783
+  },
+  "valueImpact": {
+    "dragPercent": 2.85,
+    "description": "Properties in this area may face a 2.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

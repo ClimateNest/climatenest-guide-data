@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 55,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 38,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 63
+      "scoreA": 60,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 23
+      "scoreA": 12,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 12
     }
   ],
-  "verdict": "Verdun has a lower overall climate risk score (29/100) compared to Verran (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Verran has a lower overall climate risk score (34/100) compared to Verdun (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Verdun or Verran safer from flooding?",
-      "answer": "Verdun has a flood risk score of 37/100, while Verran scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Verdun has a flood risk score of 55/100, while Verran scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Verdun scores 17/100 for bushfire risk. Verran scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Verdun scores 38/100 for bushfire risk. Verran scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Verdun or Verran?",
-      "answer": "Both suburbs have climate considerations. Verdun has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Verran has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Verran Should I Buy?",
       "url": "/suburbs/sa/verran/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

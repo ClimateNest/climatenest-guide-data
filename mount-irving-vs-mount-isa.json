@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 60
+      "scoreA": 26,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 30
+      "scoreA": 36,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 43
+      "scoreA": 41,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 49
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 29
+      "scoreA": 41,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 10
+      "scoreA": 18,
+      "scoreB": 20
     }
   ],
-  "verdict": "Mount Irving has a lower overall climate risk score (36/100) compared to Mount Isa (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Irving has a lower overall climate risk score (31/100) compared to Mount Isa (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Irving or Mount Isa safer from flooding?",
-      "answer": "Mount Irving has a flood risk score of 25/100, while Mount Isa scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Irving has a flood risk score of 26/100, while Mount Isa scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Irving scores 55/100 for bushfire risk. Mount Isa scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Irving scores 36/100 for bushfire risk. Mount Isa scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Irving or Mount Isa?",
@@ -76,5 +76,15 @@
       "label": "Mount Isa Should I Buy?",
       "url": "/suburbs/qld/mount-isa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

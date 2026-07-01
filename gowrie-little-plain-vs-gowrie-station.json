@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 24
+      "scoreA": 49,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 25
+      "scoreA": 63,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 45
+      "scoreA": 39,
+      "scoreB": 46
     },
     {
       "name": "Storm",
       "scoreA": 46,
-      "scoreB": 45
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 15
+      "scoreA": 35,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
-  "verdict": "Gowrie Station has a lower overall climate risk score (30/100) compared to Gowrie Little Plain (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gowrie Station has a lower overall climate risk score (37/100) compared to Gowrie Little Plain (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gowrie Little Plain or Gowrie Station safer from flooding?",
-      "answer": "Gowrie Little Plain has a flood risk score of 42/100, while Gowrie Station scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gowrie Little Plain has a flood risk score of 49/100, while Gowrie Station scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gowrie Little Plain scores 47/100 for bushfire risk. Gowrie Station scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gowrie Little Plain scores 63/100 for bushfire risk. Gowrie Station scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gowrie Little Plain or Gowrie Station?",
@@ -76,5 +76,15 @@
       "label": "Gowrie Station Should I Buy?",
       "url": "/suburbs/qld/gowrie-station/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

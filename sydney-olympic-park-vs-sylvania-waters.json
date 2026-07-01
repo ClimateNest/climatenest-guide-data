@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 40
+      "scoreA": 30,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 72
+      "scoreA": 71,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 59
+      "scoreA": 50,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
+      "scoreA": 22,
       "scoreB": 21
     }
   ],
-  "verdict": "Sylvania Waters has a lower overall climate risk score (40/100) compared to Sydney Olympic Park (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sylvania Waters has a lower overall climate risk score (38/100) compared to Sydney Olympic Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sydney Olympic Park or Sylvania Waters safer from flooding?",
-      "answer": "Sydney Olympic Park has a flood risk score of 47/100, while Sylvania Waters scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sydney Olympic Park has a flood risk score of 30/100, while Sylvania Waters scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sydney Olympic Park scores 31/100 for bushfire risk. Sylvania Waters scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sydney Olympic Park scores 23/100 for bushfire risk. Sylvania Waters scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sydney Olympic Park or Sylvania Waters?",
@@ -76,5 +76,15 @@
       "label": "Sylvania Waters Should I Buy?",
       "url": "/suburbs/nsw/sylvania-waters/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

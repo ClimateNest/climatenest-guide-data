@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 50
+      "scoreA": 40,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
       "scoreA": 55,
-      "scoreB": 60
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 54
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 45
+      "scoreA": 38,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 50
+      "scoreA": 11,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 13
     }
   ],
-  "verdict": "Wandook has a lower overall climate risk score (41/100) compared to Wang Wauk (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Wandook has a lower overall climate risk score (35/100) compared to Wang Wauk (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wandook or Wang Wauk safer from flooding?",
-      "answer": "Wandook has a flood risk score of 54/100, while Wang Wauk scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wandook has a flood risk score of 40/100, while Wang Wauk scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wandook scores 55/100 for bushfire risk. Wang Wauk scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wandook scores 55/100 for bushfire risk. Wang Wauk scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wandook or Wang Wauk?",
@@ -76,5 +76,15 @@
       "label": "Wang Wauk Should I Buy?",
       "url": "/suburbs/nsw/wang-wauk/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

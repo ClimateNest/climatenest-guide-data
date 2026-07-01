@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 44
+      "scoreA": 56,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 41
+      "scoreA": 45,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 66
+      "scoreA": 51,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 17
     }
   ],
-  "verdict": "Soldiers Hill has a lower overall climate risk score (35/100) compared to Snake Valley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Soldiers Hill has a lower overall climate risk score (36/100) compared to Snake Valley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Snake Valley or Soldiers Hill safer from flooding?",
-      "answer": "Snake Valley has a flood risk score of 45/100, while Soldiers Hill scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Snake Valley has a flood risk score of 56/100, while Soldiers Hill scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Snake Valley scores 54/100 for bushfire risk. Soldiers Hill scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Snake Valley scores 45/100 for bushfire risk. Soldiers Hill scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Snake Valley or Soldiers Hill?",
@@ -76,5 +76,15 @@
       "label": "Soldiers Hill Should I Buy?",
       "url": "/suburbs/vic/soldiers-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

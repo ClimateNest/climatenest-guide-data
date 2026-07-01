@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 58,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 41
+      "scoreA": 15,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 71
+      "scoreA": 72,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 42
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 10
     }
   ],
-  "verdict": "Fernances has a lower overall climate risk score (37/100) compared to Fernbank Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Fernances and Fernbank Creek have similar overall climate risk scores.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Fernances or Fernbank Creek safer from flooding?",
-      "answer": "Fernances has a flood risk score of 31/100, while Fernbank Creek scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fernances has a flood risk score of 58/100, while Fernbank Creek scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fernances scores 53/100 for bushfire risk. Fernbank Creek scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fernances scores 15/100 for bushfire risk. Fernbank Creek scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fernances or Fernbank Creek?",
@@ -76,5 +76,15 @@
       "label": "Fernbank Creek Should I Buy?",
       "url": "/suburbs/nsw/fernbank-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

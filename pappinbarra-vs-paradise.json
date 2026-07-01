@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 44
+      "scoreA": 30,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 50
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 49
+      "scoreA": 59,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 22
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 35
+      "scoreA": 51,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Pappinbarra has a lower overall climate risk score (34/100) compared to Paradise (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Paradise has a lower overall climate risk score (29/100) compared to Pappinbarra (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pappinbarra or Paradise safer from flooding?",
-      "answer": "Pappinbarra has a flood risk score of 45/100, while Paradise scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pappinbarra has a flood risk score of 30/100, while Paradise scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pappinbarra scores 28/100 for bushfire risk. Paradise scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pappinbarra scores 50/100 for bushfire risk. Paradise scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pappinbarra or Paradise?",
-      "answer": "Both suburbs have climate considerations. Pappinbarra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Paradise has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Paradise Should I Buy?",
       "url": "/suburbs/nsw/paradise/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 50
-    },
-    {
-      "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 63
-    },
-    {
-      "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 50
-    },
-    {
-      "name": "Coastal",
       "scoreA": 21,
       "scoreB": 23
     },
     {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 64
+    },
+    {
+      "name": "Storm",
+      "scoreA": 29,
+      "scoreB": 33
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 14
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 29
+      "scoreA": 27,
+      "scoreB": 13
     }
   ],
-  "verdict": "Solomontown has a lower overall climate risk score (34/100) compared to South Brighton (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Solomontown has a lower overall climate risk score (32/100) compared to South Brighton (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Solomontown or South Brighton safer from flooding?",
-      "answer": "Solomontown has a flood risk score of 21/100, while South Brighton scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Solomontown has a flood risk score of 44/100, while South Brighton scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Solomontown scores 46/100 for bushfire risk. South Brighton scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Solomontown scores 21/100 for bushfire risk. South Brighton scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Solomontown or South Brighton?",
@@ -76,5 +76,15 @@
       "label": "South Brighton Should I Buy?",
       "url": "/suburbs/sa/south-brighton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

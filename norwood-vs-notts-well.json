@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 22
+      "scoreA": 42,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 41
+      "scoreA": 62,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 58
+      "scoreA": 76,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 10,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 17
     }
   ],
-  "verdict": "Notts Well has a lower overall climate risk score (34/100) compared to Norwood (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Notts Well has a lower overall climate risk score (36/100) compared to Norwood (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Norwood or Notts Well safer from flooding?",
-      "answer": "Norwood has a flood risk score of 50/100, while Notts Well scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Norwood has a flood risk score of 42/100, while Notts Well scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Norwood scores 56/100 for bushfire risk. Notts Well scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Norwood scores 62/100 for bushfire risk. Notts Well scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Norwood or Notts Well?",
@@ -76,5 +76,15 @@
       "label": "Notts Well Should I Buy?",
       "url": "/suburbs/sa/notts-well/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

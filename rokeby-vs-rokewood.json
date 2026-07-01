@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 45
+      "scoreA": 59,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 19
+      "scoreA": 49,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 78
+      "scoreA": 78,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 30
+      "scoreA": 44,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 14
+      "scoreA": 15,
+      "scoreB": 17
     }
   ],
-  "verdict": "Rokewood has a lower overall climate risk score (34/100) compared to Rokeby (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rokewood has a lower overall climate risk score (43/100) compared to Rokeby (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rokeby or Rokewood safer from flooding?",
-      "answer": "Rokeby has a flood risk score of 40/100, while Rokewood scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rokeby has a flood risk score of 59/100, while Rokewood scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rokeby scores 51/100 for bushfire risk. Rokewood scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rokeby scores 49/100 for bushfire risk. Rokewood scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rokeby or Rokewood?",
@@ -76,5 +76,15 @@
       "label": "Rokewood Should I Buy?",
       "url": "/suburbs/vic/rokewood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

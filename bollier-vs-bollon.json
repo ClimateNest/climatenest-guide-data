@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 34
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 52,
+      "scoreA": 25,
       "scoreB": 50
     },
     {
+      "name": "Bushfire",
+      "scoreA": 18,
+      "scoreB": 25
+    },
+    {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 44
+      "scoreA": 49,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 49
+      "scoreA": 30,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
+      "scoreA": 43,
       "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 15
     }
   ],
-  "verdict": "Bollon has a lower overall climate risk score (33/100) compared to Bollier (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bollon has a lower overall climate risk score (27/100) compared to Bollier (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bollier or Bollon safer from flooding?",
-      "answer": "Bollier has a flood risk score of 57/100, while Bollon scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bollier has a flood risk score of 25/100, while Bollon scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bollier scores 52/100 for bushfire risk. Bollon scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bollier scores 18/100 for bushfire risk. Bollon scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bollier or Bollon?",
@@ -76,5 +76,15 @@
       "label": "Bollon Should I Buy?",
       "url": "/suburbs/qld/bollon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3285,
+    "projected2030": 4599,
+    "projected2050": 8542
+  },
+  "valueImpact": {
+    "dragPercent": 0.1,
+    "description": "Properties in this area may face a 0.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

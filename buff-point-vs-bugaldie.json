@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 21
+      "scoreA": 41,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 60
+      "scoreA": 29,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 51
+      "scoreA": 79,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 24,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 22
+      "scoreA": 36,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Bugaldie has a lower overall climate risk score (38/100) compared to Buff Point (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bugaldie has a lower overall climate risk score (34/100) compared to Buff Point (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Buff Point or Bugaldie safer from flooding?",
-      "answer": "Buff Point has a flood risk score of 60/100, while Bugaldie scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buff Point has a flood risk score of 41/100, while Bugaldie scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buff Point scores 54/100 for bushfire risk. Bugaldie scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buff Point scores 29/100 for bushfire risk. Bugaldie scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buff Point or Bugaldie?",
@@ -76,5 +76,15 @@
       "label": "Bugaldie Should I Buy?",
       "url": "/suburbs/nsw/bugaldie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

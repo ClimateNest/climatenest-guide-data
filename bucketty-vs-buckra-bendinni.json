@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 64
+      "scoreA": 55,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 75
+      "scoreA": 60,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 27
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 37,
+      "scoreA": 49,
       "scoreB": 44
     },
     {
+      "name": "Coastal",
+      "scoreA": 46,
+      "scoreB": 33
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 22
     }
   ],
-  "verdict": "Bucketty has a lower overall climate risk score (41/100) compared to Buckra Bendinni (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Buckra Bendinni has a lower overall climate risk score (45/100) compared to Bucketty (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bucketty or Buckra Bendinni safer from flooding?",
-      "answer": "Bucketty has a flood risk score of 32/100, while Buckra Bendinni scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bucketty has a flood risk score of 43/100, while Buckra Bendinni scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bucketty scores 48/100 for bushfire risk. Buckra Bendinni scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bucketty scores 55/100 for bushfire risk. Buckra Bendinni scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bucketty or Buckra Bendinni?",
-      "answer": "Both suburbs have climate considerations. Bucketty has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Buckra Bendinni has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Buckra Bendinni Should I Buy?",
       "url": "/suburbs/nsw/buckra-bendinni/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4339,
+    "projected2030": 6075,
+    "projected2050": 11282
+  },
+  "valueImpact": {
+    "dragPercent": 2.42,
+    "description": "Properties in this area may face a 2.42% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

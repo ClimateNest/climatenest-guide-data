@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 31
+      "scoreA": 45,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 59
+      "scoreA": 18,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 66
+      "scoreA": 68,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 21
+      "scoreA": 14,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
-  "verdict": "Shelford has a lower overall climate risk score (31/100) compared to Shelley (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shelford has a lower overall climate risk score (35/100) compared to Shelley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Shelford or Shelley safer from flooding?",
-      "answer": "Shelford has a flood risk score of 24/100, while Shelley scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shelford has a flood risk score of 45/100, while Shelley scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shelford scores 35/100 for bushfire risk. Shelley scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shelford scores 18/100 for bushfire risk. Shelley scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shelford or Shelley?",
@@ -76,5 +76,15 @@
       "label": "Shelley Should I Buy?",
       "url": "/suburbs/vic/shelley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

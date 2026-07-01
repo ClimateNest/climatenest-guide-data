@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 42
+      "scoreA": 49,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 64
+      "scoreA": 38,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 56
+      "scoreA": 59,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 21
+      "scoreA": 45,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 25,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 16
+      "scoreA": 22,
+      "scoreB": 13
     }
   ],
-  "verdict": "Woodsdale has a lower overall climate risk score (35/100) compared to Woodstock (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woodsdale has a lower overall climate risk score (40/100) compared to Woodstock (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woodsdale or Woodstock safer from flooding?",
-      "answer": "Woodsdale has a flood risk score of 44/100, while Woodstock scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodsdale has a flood risk score of 49/100, while Woodstock scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodsdale scores 40/100 for bushfire risk. Woodstock scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodsdale scores 38/100 for bushfire risk. Woodstock scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodsdale or Woodstock?",
@@ -76,5 +76,15 @@
       "label": "Woodstock Should I Buy?",
       "url": "/suburbs/tas/woodstock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

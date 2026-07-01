@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 53
+      "scoreA": 21,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 63
+      "scoreA": 42,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 58
+      "scoreA": 62,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 43
+      "scoreA": 30,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 30
+      "scoreA": 44,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 30
     }
   ],
-  "verdict": "Abington has a lower overall climate risk score (45/100) compared to Abermain (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Abermain has a lower overall climate risk score (36/100) compared to Abington (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Abermain or Abington safer from flooding?",
-      "answer": "Abermain has a flood risk score of 43/100, while Abington scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Abermain has a flood risk score of 21/100, while Abington scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Abermain scores 64/100 for bushfire risk. Abington scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Abermain scores 42/100 for bushfire risk. Abington scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Abermain or Abington?",
-      "answer": "Both suburbs have climate considerations. Abington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Abermain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Abington Should I Buy?",
       "url": "/suburbs/nsw/abington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

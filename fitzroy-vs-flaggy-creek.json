@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 42
+      "scoreA": 36,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 24
+      "scoreA": 61,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 57
+      "scoreA": 79,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 45
+      "scoreA": 28,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 11,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 16
+      "scoreA": 18,
+      "scoreB": 15
     }
   ],
-  "verdict": "Flaggy Creek has a lower overall climate risk score (35/100) compared to Fitzroy (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Fitzroy has a lower overall climate risk score (39/100) compared to Flaggy Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fitzroy or Flaggy Creek safer from flooding?",
-      "answer": "Fitzroy has a flood risk score of 51/100, while Flaggy Creek scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fitzroy has a flood risk score of 36/100, while Flaggy Creek scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fitzroy scores 65/100 for bushfire risk. Flaggy Creek scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fitzroy scores 61/100 for bushfire risk. Flaggy Creek scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fitzroy or Flaggy Creek?",
-      "answer": "Both suburbs have climate considerations. Flaggy Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Fitzroy has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Flaggy Creek Should I Buy?",
       "url": "/suburbs/vic/flaggy-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

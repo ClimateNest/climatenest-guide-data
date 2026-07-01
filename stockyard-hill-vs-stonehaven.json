@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 43
+      "scoreA": 44,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 33
+      "scoreA": 26,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 69
+      "scoreA": 61,
+      "scoreB": 64
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 27
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 27
     }
   ],
-  "verdict": "Stonehaven has a lower overall climate risk score (34/100) compared to Stockyard Hill (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Stockyard Hill has a lower overall climate risk score (37/100) compared to Stonehaven (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stockyard Hill or Stonehaven safer from flooding?",
-      "answer": "Stockyard Hill has a flood risk score of 45/100, while Stonehaven scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stockyard Hill has a flood risk score of 44/100, while Stonehaven scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stockyard Hill scores 40/100 for bushfire risk. Stonehaven scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stockyard Hill scores 26/100 for bushfire risk. Stonehaven scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stockyard Hill or Stonehaven?",
-      "answer": "Both suburbs have climate considerations. Stonehaven has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Stockyard Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Stonehaven Should I Buy?",
       "url": "/suburbs/vic/stonehaven/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

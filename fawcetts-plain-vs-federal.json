@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
+      "scoreA": 26,
       "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 16
+      "scoreA": 44,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 44
+      "scoreA": 41,
+      "scoreB": 42
     },
     {
       "name": "Storm",
       "scoreA": 47,
-      "scoreB": 28
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 27
     }
   ],
-  "verdict": "Federal has a lower overall climate risk score (30/100) compared to Fawcetts Plain (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Fawcetts Plain has a lower overall climate risk score (38/100) compared to Federal (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fawcetts Plain or Federal safer from flooding?",
-      "answer": "Fawcetts Plain has a flood risk score of 49/100, while Federal scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fawcetts Plain has a flood risk score of 26/100, while Federal scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fawcetts Plain scores 37/100 for bushfire risk. Federal scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fawcetts Plain scores 44/100 for bushfire risk. Federal scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fawcetts Plain or Federal?",
-      "answer": "Both suburbs have climate considerations. Federal has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Fawcetts Plain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Federal Should I Buy?",
       "url": "/suburbs/nsw/federal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

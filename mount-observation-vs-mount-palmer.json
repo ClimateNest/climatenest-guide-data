@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 21
+      "scoreA": 60,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 36
+      "scoreA": 59,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 53
+      "scoreA": 77,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 31
+      "scoreA": 32,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
       "scoreA": 18,
-      "scoreB": 25
+      "scoreB": 27
     }
   ],
-  "verdict": "Mount Palmer has a lower overall climate risk score (33/100) compared to Mount Observation (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Palmer has a lower overall climate risk score (38/100) compared to Mount Observation (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Observation or Mount Palmer safer from flooding?",
-      "answer": "Mount Observation has a flood risk score of 48/100, while Mount Palmer scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Observation has a flood risk score of 60/100, while Mount Palmer scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Observation scores 45/100 for bushfire risk. Mount Palmer scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Observation scores 59/100 for bushfire risk. Mount Palmer scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Observation or Mount Palmer?",
@@ -76,5 +76,15 @@
       "label": "Mount Palmer Should I Buy?",
       "url": "/suburbs/wa/mount-palmer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

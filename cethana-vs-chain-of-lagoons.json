@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 41
+      "scoreA": 53,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 62
+      "scoreA": 63,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 69
+      "scoreA": 56,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 32,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 14,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 14,
+      "scoreB": 11
     }
   ],
-  "verdict": "Cethana has a lower overall climate risk score (35/100) compared to Chain Of Lagoons (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Chain Of Lagoons has a lower overall climate risk score (35/100) compared to Cethana (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cethana or Chain Of Lagoons safer from flooding?",
-      "answer": "Cethana has a flood risk score of 49/100, while Chain Of Lagoons scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cethana has a flood risk score of 53/100, while Chain Of Lagoons scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cethana scores 31/100 for bushfire risk. Chain Of Lagoons scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cethana scores 63/100 for bushfire risk. Chain Of Lagoons scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cethana or Chain Of Lagoons?",
-      "answer": "Both suburbs have climate considerations. Cethana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Chain Of Lagoons has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Chain Of Lagoons Should I Buy?",
       "url": "/suburbs/tas/chain-of-lagoons/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 22
+      "scoreA": 44,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 47
+      "scoreA": 25,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 61
+      "scoreA": 56,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 13
     }
   ],
-  "verdict": "Glengower has a lower overall climate risk score (37/100) compared to Glengarry North (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glengower has a lower overall climate risk score (29/100) compared to Glengarry North (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glengarry North or Glengower safer from flooding?",
-      "answer": "Glengarry North has a flood risk score of 54/100, while Glengower scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glengarry North has a flood risk score of 44/100, while Glengower scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glengarry North scores 49/100 for bushfire risk. Glengower scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glengarry North scores 25/100 for bushfire risk. Glengower scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glengarry North or Glengower?",
@@ -76,5 +76,15 @@
       "label": "Glengower Should I Buy?",
       "url": "/suburbs/vic/glengower/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

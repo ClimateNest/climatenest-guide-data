@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
+      "scoreA": 18,
       "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 53
+      "scoreA": 37,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 28,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 5,
-      "scoreB": 19
+      "scoreA": 7,
+      "scoreB": 21
     }
   ],
-  "verdict": "Mount Anketell has a lower overall climate risk score (29/100) compared to Mount Barker (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Anketell has a lower overall climate risk score (28/100) compared to Mount Barker (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Anketell or Mount Barker safer from flooding?",
-      "answer": "Mount Anketell has a flood risk score of 45/100, while Mount Barker scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Anketell has a flood risk score of 42/100, while Mount Barker scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Anketell scores 23/100 for bushfire risk. Mount Barker scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Anketell scores 18/100 for bushfire risk. Mount Barker scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Anketell or Mount Barker?",
@@ -76,5 +76,15 @@
       "label": "Mount Barker Should I Buy?",
       "url": "/suburbs/wa/mount-barker/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

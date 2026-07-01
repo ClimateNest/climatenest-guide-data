@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 36,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 35
+      "scoreA": 36,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 30
+      "scoreA": 53,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 28,
+      "scoreB": 13
     }
   ],
-  "verdict": "Klori has a lower overall climate risk score (32/100) compared to Knockrow (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Knockrow has a lower overall climate risk score (35/100) compared to Klori (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Klori or Knockrow safer from flooding?",
-      "answer": "Klori has a flood risk score of 28/100, while Knockrow scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Klori has a flood risk score of 36/100, while Knockrow scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Klori scores 18/100 for bushfire risk. Knockrow scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Klori scores 36/100 for bushfire risk. Knockrow scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Klori or Knockrow?",
-      "answer": "Both suburbs have climate considerations. Klori has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Knockrow has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Knockrow Should I Buy?",
       "url": "/suburbs/nsw/knockrow/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 43
+      "scoreA": 53,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 37
+      "scoreA": 41,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 79
+      "scoreA": 33,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 40
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
+      "scoreA": 33,
       "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Winegrove has a lower overall climate risk score (33/100) compared to Wingello (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Winegrove has a lower overall climate risk score (38/100) compared to Wingello (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Winegrove or Wingello safer from flooding?",
-      "answer": "Winegrove has a flood risk score of 37/100, while Wingello scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Winegrove has a flood risk score of 53/100, while Wingello scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Winegrove scores 21/100 for bushfire risk. Wingello scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Winegrove scores 41/100 for bushfire risk. Wingello scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Winegrove or Wingello?",
@@ -76,5 +76,15 @@
       "label": "Wingello Should I Buy?",
       "url": "/suburbs/nsw/wingello/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

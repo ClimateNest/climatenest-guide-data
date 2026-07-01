@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 20
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 45,
+      "scoreA": 43,
       "scoreB": 42
     },
     {
+      "name": "Bushfire",
+      "scoreA": 59,
+      "scoreB": 55
+    },
+    {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 64
+      "scoreA": 45,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 43
+      "scoreA": 32,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 12
+      "scoreA": 46,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 17
     }
   ],
-  "verdict": "The Ridgeway has a lower overall climate risk score (35/100) compared to The Pocket (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Ridgeway has a lower overall climate risk score (39/100) compared to The Pocket (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is The Pocket or The Ridgeway safer from flooding?",
-      "answer": "The Pocket has a flood risk score of 20/100, while The Ridgeway scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Pocket has a flood risk score of 43/100, while The Ridgeway scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Pocket scores 45/100 for bushfire risk. The Ridgeway scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Pocket scores 59/100 for bushfire risk. The Ridgeway scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Pocket or The Ridgeway?",
@@ -76,5 +76,15 @@
       "label": "The Ridgeway Should I Buy?",
       "url": "/suburbs/nsw/the-ridgeway/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

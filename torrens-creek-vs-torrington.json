@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 54
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 36
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 40
-    },
-    {
-      "name": "Storm",
-      "scoreA": 34,
+      "scoreA": 22,
       "scoreB": 33
     },
     {
+      "name": "Bushfire",
+      "scoreA": 31,
+      "scoreB": 53
+    },
+    {
+      "name": "Heat",
+      "scoreA": 32,
+      "scoreB": 30
+    },
+    {
+      "name": "Storm",
+      "scoreA": 23,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 35
+      "scoreA": 15,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 14
     }
   ],
-  "verdict": "Torrens Creek has a lower overall climate risk score (31/100) compared to Torrington (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Torrens Creek has a lower overall climate risk score (24/100) compared to Torrington (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Torrens Creek or Torrington safer from flooding?",
-      "answer": "Torrens Creek has a flood risk score of 42/100, while Torrington scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Torrens Creek has a flood risk score of 22/100, while Torrington scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Torrens Creek scores 51/100 for bushfire risk. Torrington scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Torrens Creek scores 31/100 for bushfire risk. Torrington scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Torrens Creek or Torrington?",
@@ -76,5 +76,15 @@
       "label": "Torrington Should I Buy?",
       "url": "/suburbs/qld/torrington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

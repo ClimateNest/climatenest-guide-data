@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 48
+      "scoreA": 52,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 41,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 36,
+      "scoreA": 50,
       "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 35
+      "scoreA": 45,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 11
+      "scoreA": 7,
+      "scoreB": 10
     }
   ],
-  "verdict": "Gumlu has a lower overall climate risk score (32/100) compared to Gundiah (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gundiah has a lower overall climate risk score (29/100) compared to Gumlu (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gumlu or Gundiah safer from flooding?",
-      "answer": "Gumlu has a flood risk score of 58/100, while Gundiah scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gumlu has a flood risk score of 52/100, while Gundiah scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gumlu scores 38/100 for bushfire risk. Gundiah scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gumlu scores 41/100 for bushfire risk. Gundiah scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gumlu or Gundiah?",
-      "answer": "Both suburbs have climate considerations. Gumlu has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gundiah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gundiah Should I Buy?",
       "url": "/suburbs/qld/gundiah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

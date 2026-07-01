@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 72
+      "scoreA": 52,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 36
+      "scoreA": 11,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 19,
+      "scoreB": 29
     }
   ],
-  "verdict": "Cassilis has a lower overall climate risk score (32/100) compared to Castle Cove (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cassilis has a lower overall climate risk score (26/100) compared to Castle Cove (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cassilis or Castle Cove safer from flooding?",
-      "answer": "Cassilis has a flood risk score of 40/100, while Castle Cove scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cassilis has a flood risk score of 22/100, while Castle Cove scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cassilis scores 23/100 for bushfire risk. Castle Cove scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cassilis scores 26/100 for bushfire risk. Castle Cove scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cassilis or Castle Cove?",
@@ -76,5 +76,15 @@
       "label": "Castle Cove Should I Buy?",
       "url": "/suburbs/nsw/castle-cove/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

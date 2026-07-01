@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 20
+      "scoreA": 53,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 42
-    },
-    {
-      "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 36
-    },
-    {
-      "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 22
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 21,
+      "scoreA": 53,
       "scoreB": 58
     },
     {
+      "name": "Heat",
+      "scoreA": 37,
+      "scoreB": 43
+    },
+    {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 49
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 22,
+      "scoreB": 45
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 18
     }
   ],
-  "verdict": "Manunda has a lower overall climate risk score (31/100) compared to Mapleton (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Manunda has a lower overall climate risk score (37/100) compared to Mapleton (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Manunda or Mapleton safer from flooding?",
-      "answer": "Manunda has a flood risk score of 36/100, while Mapleton scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Manunda has a flood risk score of 53/100, while Mapleton scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Manunda scores 34/100 for bushfire risk. Mapleton scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Manunda scores 53/100 for bushfire risk. Mapleton scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Manunda or Mapleton?",
@@ -76,5 +76,15 @@
       "label": "Mapleton Should I Buy?",
       "url": "/suburbs/qld/mapleton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

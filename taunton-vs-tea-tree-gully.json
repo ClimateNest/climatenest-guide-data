@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 50
+      "scoreA": 23,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
       "scoreA": 64,
-      "scoreB": 35
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 67,
+      "scoreA": 78,
       "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 22
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 11
+      "scoreA": 20,
+      "scoreB": 24
     }
   ],
-  "verdict": "Tea Tree Gully has a lower overall climate risk score (32/100) compared to Taunton (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tea Tree Gully has a lower overall climate risk score (33/100) compared to Taunton (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Taunton or Tea Tree Gully safer from flooding?",
-      "answer": "Taunton has a flood risk score of 51/100, while Tea Tree Gully scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Taunton has a flood risk score of 23/100, while Tea Tree Gully scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Taunton scores 64/100 for bushfire risk. Tea Tree Gully scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Taunton scores 64/100 for bushfire risk. Tea Tree Gully scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Taunton or Tea Tree Gully?",
@@ -76,5 +76,15 @@
       "label": "Tea Tree Gully Should I Buy?",
       "url": "/suburbs/sa/tea-tree-gully/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

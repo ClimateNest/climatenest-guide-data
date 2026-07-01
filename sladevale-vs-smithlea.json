@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 43,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 36
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 45
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 48,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "Smithlea has a lower overall climate risk score (37/100) compared to Sladevale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Smithlea has a lower overall climate risk score (36/100) compared to Sladevale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sladevale or Smithlea safer from flooding?",
-      "answer": "Sladevale has a flood risk score of 37/100, while Smithlea scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sladevale has a flood risk score of 43/100, while Smithlea scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sladevale scores 45/100 for bushfire risk. Smithlea scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sladevale scores 37/100 for bushfire risk. Smithlea scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sladevale or Smithlea?",
@@ -76,5 +76,15 @@
       "label": "Smithlea Should I Buy?",
       "url": "/suburbs/qld/smithlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

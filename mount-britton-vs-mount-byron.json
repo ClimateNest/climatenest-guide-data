@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 47
+      "scoreA": 41,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 44
+      "scoreA": 21,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 44,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 51
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 30
+      "scoreA": 20,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mount Britton has a lower overall climate risk score (31/100) compared to Mount Byron (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Byron has a lower overall climate risk score (28/100) compared to Mount Britton (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Britton or Mount Byron safer from flooding?",
-      "answer": "Mount Britton has a flood risk score of 38/100, while Mount Byron scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Britton has a flood risk score of 41/100, while Mount Byron scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Britton scores 55/100 for bushfire risk. Mount Byron scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Britton scores 21/100 for bushfire risk. Mount Byron scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Britton or Mount Byron?",
-      "answer": "Both suburbs have climate considerations. Mount Britton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Byron has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Byron Should I Buy?",
       "url": "/suburbs/qld/mount-byron/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3308,
+    "projected2030": 4631,
+    "projected2050": 8601
+  },
+  "valueImpact": {
+    "dragPercent": 0.15,
+    "description": "Properties in this area may face a 0.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

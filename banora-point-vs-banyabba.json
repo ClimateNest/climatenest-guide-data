@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 56
+      "scoreA": 35,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 42
+      "scoreA": 17,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 31,
+      "scoreB": 32
     },
     {
       "name": "Storm",
       "scoreA": 41,
-      "scoreB": 46
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 52
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 25
     }
   ],
-  "verdict": "Banora Point has a lower overall climate risk score (40/100) compared to Banyabba (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Banora Point has a lower overall climate risk score (30/100) compared to Banyabba (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Banora Point or Banyabba safer from flooding?",
-      "answer": "Banora Point has a flood risk score of 49/100, while Banyabba scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Banora Point has a flood risk score of 35/100, while Banyabba scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Banora Point scores 59/100 for bushfire risk. Banyabba scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Banora Point scores 17/100 for bushfire risk. Banyabba scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Banora Point or Banyabba?",
@@ -76,5 +76,15 @@
       "label": "Banyabba Should I Buy?",
       "url": "/suburbs/nsw/banyabba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

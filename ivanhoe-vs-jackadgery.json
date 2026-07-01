@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 59,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 31
+      "scoreA": 59,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 48,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 45
+      "scoreA": 11,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Jackadgery has a lower overall climate risk score (33/100) compared to Ivanhoe (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jackadgery has a lower overall climate risk score (35/100) compared to Ivanhoe (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ivanhoe or Jackadgery safer from flooding?",
-      "answer": "Ivanhoe has a flood risk score of 42/100, while Jackadgery scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ivanhoe has a flood risk score of 44/100, while Jackadgery scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ivanhoe scores 26/100 for bushfire risk. Jackadgery scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ivanhoe scores 59/100 for bushfire risk. Jackadgery scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ivanhoe or Jackadgery?",
@@ -76,5 +76,15 @@
       "label": "Jackadgery Should I Buy?",
       "url": "/suburbs/nsw/jackadgery/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

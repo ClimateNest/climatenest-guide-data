@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 41
+      "scoreA": 38,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 24
+      "scoreA": 43,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 61
+      "scoreA": 75,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 28
+      "scoreA": 11,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 22
     }
   ],
-  "verdict": "Pimbaacla has a lower overall climate risk score (37/100) compared to Pike River (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pimbaacla has a lower overall climate risk score (35/100) compared to Pike River (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pike River or Pimbaacla safer from flooding?",
-      "answer": "Pike River has a flood risk score of 42/100, while Pimbaacla scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pike River has a flood risk score of 38/100, while Pimbaacla scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pike River scores 54/100 for bushfire risk. Pimbaacla scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pike River scores 43/100 for bushfire risk. Pimbaacla scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pike River or Pimbaacla?",
@@ -76,5 +76,15 @@
       "label": "Pimbaacla Should I Buy?",
       "url": "/suburbs/sa/pimbaacla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

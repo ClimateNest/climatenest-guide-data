@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
+      "scoreA": 59,
       "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 60,
+      "scoreA": 72,
       "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 30
+      "scoreA": 18,
+      "scoreB": 13
     }
   ],
-  "verdict": "Tetoora Road has a lower overall climate risk score (31/100) compared to Thalia (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Thalia has a lower overall climate risk score (28/100) compared to Tetoora Road (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tetoora Road or Thalia safer from flooding?",
-      "answer": "Tetoora Road has a flood risk score of 22/100, while Thalia scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tetoora Road has a flood risk score of 59/100, while Thalia scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tetoora Road scores 35/100 for bushfire risk. Thalia scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tetoora Road scores 47/100 for bushfire risk. Thalia scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tetoora Road or Thalia?",
-      "answer": "Both suburbs have climate considerations. Tetoora Road has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Thalia has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Thalia Should I Buy?",
       "url": "/suburbs/vic/thalia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

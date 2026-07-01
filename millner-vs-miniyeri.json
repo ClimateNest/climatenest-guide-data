@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 41
+      "scoreA": 26,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 50
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 41
+      "scoreA": 46,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 36
+      "scoreA": 24,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 12,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 12
+      "scoreA": 7,
+      "scoreB": 19
     }
   ],
-  "verdict": "Millner has a lower overall climate risk score (29/100) compared to Miniyeri (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Millner has a lower overall climate risk score (24/100) compared to Miniyeri (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Millner or Miniyeri safer from flooding?",
-      "answer": "Millner has a flood risk score of 33/100, while Miniyeri scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Millner has a flood risk score of 26/100, while Miniyeri scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Millner scores 61/100 for bushfire risk. Miniyeri scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Millner scores 29/100 for bushfire risk. Miniyeri scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Millner or Miniyeri?",
@@ -76,5 +76,15 @@
       "label": "Miniyeri Should I Buy?",
       "url": "/suburbs/nt/miniyeri/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3308,
+    "projected2030": 4631,
+    "projected2050": 8601
+  },
+  "valueImpact": {
+    "dragPercent": 0.15,
+    "description": "Properties in this area may face a 0.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

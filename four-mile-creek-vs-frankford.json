@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 55,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 33
+      "scoreA": 61,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 70
+      "scoreA": 63,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 42
+      "scoreA": 40,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 10
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 15
     }
   ],
-  "verdict": "Frankford has a lower overall climate risk score (36/100) compared to Four Mile Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Frankford has a lower overall climate risk score (34/100) compared to Four Mile Creek (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Four Mile Creek or Frankford safer from flooding?",
-      "answer": "Four Mile Creek has a flood risk score of 44/100, while Frankford scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Four Mile Creek has a flood risk score of 55/100, while Frankford scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Four Mile Creek scores 44/100 for bushfire risk. Frankford scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Four Mile Creek scores 61/100 for bushfire risk. Frankford scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Four Mile Creek or Frankford?",
@@ -76,5 +76,15 @@
       "label": "Frankford Should I Buy?",
       "url": "/suburbs/tas/frankford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 25
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 46,
+      "scoreA": 27,
       "scoreB": 20
     },
     {
+      "name": "Bushfire",
+      "scoreA": 21,
+      "scoreB": 17
+    },
+    {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 69
+      "scoreA": 57,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 48
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 27
+      "scoreA": 28,
+      "scoreB": 22
     }
   ],
-  "verdict": "Northangera has a lower overall climate risk score (36/100) compared to North Yeoval (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Northangera has a lower overall climate risk score (27/100) compared to North Yeoval (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Yeoval or Northangera safer from flooding?",
-      "answer": "North Yeoval has a flood risk score of 51/100, while Northangera scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Yeoval has a flood risk score of 27/100, while Northangera scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Yeoval scores 46/100 for bushfire risk. Northangera scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Yeoval scores 21/100 for bushfire risk. Northangera scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Yeoval or Northangera?",
@@ -76,5 +76,15 @@
       "label": "Northangera Should I Buy?",
       "url": "/suburbs/nsw/northangera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3206,
+    "projected2030": 4488,
+    "projected2050": 8336
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

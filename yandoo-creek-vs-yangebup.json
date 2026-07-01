@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 17
+      "scoreA": 34,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 61
+      "scoreA": 44,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 24,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 10
+      "scoreA": 12,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Yandoo Creek has a lower overall climate risk score (33/100) compared to Yangebup (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yandoo Creek has a lower overall climate risk score (27/100) compared to Yangebup (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yandoo Creek or Yangebup safer from flooding?",
-      "answer": "Yandoo Creek has a flood risk score of 40/100, while Yangebup scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yandoo Creek has a flood risk score of 35/100, while Yangebup scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yandoo Creek scores 44/100 for bushfire risk. Yangebup scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yandoo Creek scores 34/100 for bushfire risk. Yangebup scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yandoo Creek or Yangebup?",
@@ -76,5 +76,15 @@
       "label": "Yangebup Should I Buy?",
       "url": "/suburbs/wa/yangebup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

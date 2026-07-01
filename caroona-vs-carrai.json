@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 40
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 50
+      "scoreA": 31,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 69
+      "scoreA": 61,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 23
+      "scoreA": 24,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 45
+      "scoreA": 26,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 22
     }
   ],
-  "verdict": "Caroona has a lower overall climate risk score (36/100) compared to Carrai (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Caroona has a lower overall climate risk score (33/100) compared to Carrai (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Caroona or Carrai safer from flooding?",
-      "answer": "Caroona has a flood risk score of 38/100, while Carrai scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Caroona has a flood risk score of 43/100, while Carrai scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Caroona scores 46/100 for bushfire risk. Carrai scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Caroona scores 31/100 for bushfire risk. Carrai scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Caroona or Carrai?",
@@ -76,5 +76,15 @@
       "label": "Carrai Should I Buy?",
       "url": "/suburbs/nsw/carrai/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
+      "scoreA": 45,
       "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 27
+      "scoreA": 41,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 76
+      "scoreA": 77,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 45
+      "scoreA": 25,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 12
     }
   ],
-  "verdict": "Flintstone has a lower overall climate risk score (35/100) compared to Fitzgerald (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Flintstone has a lower overall climate risk score (30/100) compared to Fitzgerald (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Fitzgerald or Flintstone safer from flooding?",
-      "answer": "Fitzgerald has a flood risk score of 27/100, while Flintstone scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fitzgerald has a flood risk score of 45/100, while Flintstone scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fitzgerald scores 58/100 for bushfire risk. Flintstone scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fitzgerald scores 41/100 for bushfire risk. Flintstone scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fitzgerald or Flintstone?",
@@ -76,5 +76,15 @@
       "label": "Flintstone Should I Buy?",
       "url": "/suburbs/tas/flintstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

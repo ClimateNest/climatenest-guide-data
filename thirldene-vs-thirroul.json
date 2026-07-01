@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 50
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 42,
+      "scoreA": 57,
       "scoreB": 57
     },
     {
+      "name": "Bushfire",
+      "scoreA": 58,
+      "scoreB": 45
+    },
+    {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 75
+      "scoreA": 69,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 39,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 49
+      "scoreA": 39,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 29
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Thirldene has a lower overall climate risk score (45/100) compared to Thirroul (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Thirroul has a lower overall climate risk score (45/100) compared to Thirldene (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Thirldene or Thirroul safer from flooding?",
-      "answer": "Thirldene has a flood risk score of 40/100, while Thirroul scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Thirldene has a flood risk score of 57/100, while Thirroul scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Thirldene scores 42/100 for bushfire risk. Thirroul scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Thirldene scores 58/100 for bushfire risk. Thirroul scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Thirldene or Thirroul?",
-      "answer": "Both suburbs have climate considerations. Thirldene has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Thirroul has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Thirroul Should I Buy?",
       "url": "/suburbs/nsw/thirroul/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

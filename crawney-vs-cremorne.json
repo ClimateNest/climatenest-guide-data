@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 47
+      "scoreA": 59,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 58
+      "scoreA": 31,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 76
+      "scoreA": 50,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 30
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 39
+      "scoreA": 55,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 29
     }
   ],
-  "verdict": "Crawney has a lower overall climate risk score (43/100) compared to Cremorne (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Crawney has a lower overall climate risk score (38/100) compared to Cremorne (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Crawney or Cremorne safer from flooding?",
-      "answer": "Crawney has a flood risk score of 58/100, while Cremorne scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Crawney has a flood risk score of 59/100, while Cremorne scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Crawney scores 60/100 for bushfire risk. Cremorne scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Crawney scores 31/100 for bushfire risk. Cremorne scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Crawney or Cremorne?",
@@ -76,5 +76,15 @@
       "label": "Cremorne Should I Buy?",
       "url": "/suburbs/nsw/cremorne/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

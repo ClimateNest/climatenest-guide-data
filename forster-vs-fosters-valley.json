@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 30
+      "scoreA": 53,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 40
+      "scoreA": 27,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 75
+      "scoreA": 80,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 42
+      "scoreA": 32,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 17
+      "scoreA": 44,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 29
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "Fosters Valley has a lower overall climate risk score (39/100) compared to Forster (53/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fosters Valley has a lower overall climate risk score (38/100) compared to Forster (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Forster or Fosters Valley safer from flooding?",
-      "answer": "Forster has a flood risk score of 51/100, while Fosters Valley scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Forster has a flood risk score of 53/100, while Fosters Valley scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Forster scores 62/100 for bushfire risk. Fosters Valley scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Forster scores 27/100 for bushfire risk. Fosters Valley scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Forster or Fosters Valley?",
@@ -76,5 +76,15 @@
       "label": "Fosters Valley Should I Buy?",
       "url": "/suburbs/nsw/fosters-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

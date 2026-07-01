@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 54
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 18,
+      "scoreA": 25,
       "scoreB": 52
     },
     {
+      "name": "Bushfire",
+      "scoreA": 30,
+      "scoreB": 50
+    },
+    {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 76
+      "scoreA": 58,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 24
+      "scoreA": 47,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 36
+      "scoreA": 55,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 23
     }
   ],
-  "verdict": "Port Botany has a lower overall climate risk score (36/100) compared to Port Hacking (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Port Botany has a lower overall climate risk score (39/100) compared to Port Hacking (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Port Botany or Port Hacking safer from flooding?",
-      "answer": "Port Botany has a flood risk score of 21/100, while Port Hacking scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Port Botany has a flood risk score of 25/100, while Port Hacking scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Port Botany scores 18/100 for bushfire risk. Port Hacking scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Port Botany scores 30/100 for bushfire risk. Port Hacking scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Port Botany or Port Hacking?",
@@ -76,5 +76,15 @@
       "label": "Port Hacking Should I Buy?",
       "url": "/suburbs/nsw/port-hacking/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

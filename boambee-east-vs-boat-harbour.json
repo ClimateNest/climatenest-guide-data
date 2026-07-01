@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 57
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 58
-    },
-    {
-      "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 37
-    },
-    {
-      "name": "Storm",
-      "scoreA": 32,
+      "scoreA": 28,
       "scoreB": 26
     },
     {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 48
+    },
+    {
+      "name": "Storm",
+      "scoreA": 25,
+      "scoreB": 23
+    },
+    {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 56
+      "scoreA": 41,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 19
     }
   ],
-  "verdict": "Boambee East has a lower overall climate risk score (35/100) compared to Boat Harbour (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Boat Harbour has a lower overall climate risk score (33/100) compared to Boambee East (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boambee East or Boat Harbour safer from flooding?",
-      "answer": "Boambee East has a flood risk score of 47/100, while Boat Harbour scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boambee East has a flood risk score of 24/100, while Boat Harbour scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boambee East scores 20/100 for bushfire risk. Boat Harbour scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boambee East scores 28/100 for bushfire risk. Boat Harbour scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boambee East or Boat Harbour?",
-      "answer": "Both suburbs have climate considerations. Boambee East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boat Harbour has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boat Harbour Should I Buy?",
       "url": "/suburbs/nsw/boat-harbour/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

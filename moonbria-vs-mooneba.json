@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 34
+      "scoreA": 39,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 55
+      "scoreA": 41,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 51
+      "scoreA": 70,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 27
+      "scoreA": 41,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 53
+      "scoreA": 14,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 24
     }
   ],
-  "verdict": "Moonbria has a lower overall climate risk score (39/100) compared to Mooneba (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moonbria has a lower overall climate risk score (39/100) compared to Mooneba (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Moonbria or Mooneba safer from flooding?",
-      "answer": "Moonbria has a flood risk score of 32/100, while Mooneba scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moonbria has a flood risk score of 39/100, while Mooneba scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moonbria scores 51/100 for bushfire risk. Mooneba scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moonbria scores 41/100 for bushfire risk. Mooneba scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moonbria or Mooneba?",
@@ -76,5 +76,15 @@
       "label": "Mooneba Should I Buy?",
       "url": "/suburbs/nsw/mooneba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

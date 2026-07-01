@@ -14,28 +14,28 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 45,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 50
+      "scoreA": 39,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 69
+      "scoreA": 52,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
@@ -43,16 +43,16 @@
       "scoreB": 14
     }
   ],
-  "verdict": "Rowville has a lower overall climate risk score (33/100) compared to Rubicon (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rowville has a lower overall climate risk score (31/100) compared to Rubicon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rowville or Rubicon safer from flooding?",
-      "answer": "Rowville has a flood risk score of 35/100, while Rubicon scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rowville has a flood risk score of 45/100, while Rubicon scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rowville scores 51/100 for bushfire risk. Rubicon scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rowville scores 39/100 for bushfire risk. Rubicon scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rowville or Rubicon?",
@@ -76,5 +76,15 @@
       "label": "Rubicon Should I Buy?",
       "url": "/suburbs/vic/rubicon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 38,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 49,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 34
+      "scoreA": 25,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 23
+      "scoreA": 46,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 7
     }
   ],
-  "verdict": "Condon has a lower overall climate risk score (32/100) compared to Condamine Plains (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Condon has a lower overall climate risk score (27/100) compared to Condamine Plains (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Condamine Plains or Condon safer from flooding?",
-      "answer": "Condamine Plains has a flood risk score of 56/100, while Condon scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Condamine Plains has a flood risk score of 38/100, while Condon scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Condamine Plains scores 28/100 for bushfire risk. Condon scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Condamine Plains scores 29/100 for bushfire risk. Condon scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Condamine Plains or Condon?",
@@ -76,5 +76,15 @@
       "label": "Condon Should I Buy?",
       "url": "/suburbs/qld/condon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

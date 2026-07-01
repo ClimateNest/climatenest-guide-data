@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 34
+      "scoreA": 41,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 59
+      "scoreA": 55,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 30
+      "scoreA": 21,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 26,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 10
     }
   ],
-  "verdict": "Bushfield has a lower overall climate risk score (29/100) compared to Burwood East (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Burwood East has a lower overall climate risk score (33/100) compared to Bushfield (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burwood East or Bushfield safer from flooding?",
-      "answer": "Burwood East has a flood risk score of 39/100, while Bushfield scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burwood East has a flood risk score of 30/100, while Bushfield scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burwood East scores 17/100 for bushfire risk. Bushfield scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burwood East scores 41/100 for bushfire risk. Bushfield scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burwood East or Bushfield?",
-      "answer": "Both suburbs have climate considerations. Bushfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Burwood East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bushfield Should I Buy?",
       "url": "/suburbs/vic/bushfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

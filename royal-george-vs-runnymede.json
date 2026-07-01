@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 31
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 16
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 54
+      "scoreA": 53,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
       "scoreA": 24,
-      "scoreB": 24
+      "scoreB": 13
     }
   ],
-  "verdict": "Runnymede has a lower overall climate risk score (32/100) compared to Royal George (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Royal George has a lower overall climate risk score (33/100) compared to Runnymede (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Royal George or Runnymede safer from flooding?",
-      "answer": "Royal George has a flood risk score of 45/100, while Runnymede scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Royal George has a flood risk score of 30/100, while Runnymede scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Royal George scores 38/100 for bushfire risk. Runnymede scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Royal George scores 35/100 for bushfire risk. Runnymede scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Royal George or Runnymede?",
-      "answer": "Both suburbs have climate considerations. Runnymede has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Royal George has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Runnymede Should I Buy?",
       "url": "/suburbs/tas/runnymede/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

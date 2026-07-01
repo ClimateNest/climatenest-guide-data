@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 39
+      "scoreA": 55,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 15,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 60
+      "scoreA": 72,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 24,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 37
+      "scoreA": 56,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 25
     }
   ],
-  "verdict": "Chichester has a lower overall climate risk score (38/100) compared to Cherrybrook (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cherrybrook and Chichester have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cherrybrook or Chichester safer from flooding?",
-      "answer": "Cherrybrook has a flood risk score of 53/100, while Chichester scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cherrybrook has a flood risk score of 55/100, while Chichester scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cherrybrook scores 43/100 for bushfire risk. Chichester scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cherrybrook scores 15/100 for bushfire risk. Chichester scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cherrybrook or Chichester?",
-      "answer": "Both suburbs have climate considerations. Chichester has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cherrybrook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Chichester Should I Buy?",
       "url": "/suburbs/nsw/chichester/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

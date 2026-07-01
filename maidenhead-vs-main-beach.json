@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 23,
-      "scoreB": 27
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 35
+      "scoreA": 57,
+      "scoreB": 40
     },
     {
       "name": "Heat",
       "scoreA": 48,
-      "scoreB": 41
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 27,
       "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 49
+      "scoreA": 36,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 28
     }
   ],
-  "verdict": "Maidenhead has a lower overall climate risk score (33/100) compared to Main Beach (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Maidenhead has a lower overall climate risk score (35/100) compared to Main Beach (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Maidenhead or Main Beach safer from flooding?",
-      "answer": "Maidenhead has a flood risk score of 23/100, while Main Beach scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Maidenhead has a flood risk score of 23/100, while Main Beach scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Maidenhead scores 21/100 for bushfire risk. Main Beach scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Maidenhead scores 57/100 for bushfire risk. Main Beach scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Maidenhead or Main Beach?",
@@ -76,5 +76,15 @@
       "label": "Main Beach Should I Buy?",
       "url": "/suburbs/qld/main-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

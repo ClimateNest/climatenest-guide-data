@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 41
+      "scoreA": 55,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 64
+      "scoreA": 18,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 41
+      "scoreA": 67,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 38
+      "scoreA": 21,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 8
+      "scoreA": 29,
+      "scoreB": 18
     }
   ],
-  "verdict": "Rocky Gully has a lower overall climate risk score (29/100) compared to Roebuck (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Roebuck has a lower overall climate risk score (27/100) compared to Rocky Gully (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rocky Gully or Roebuck safer from flooding?",
-      "answer": "Rocky Gully has a flood risk score of 32/100, while Roebuck scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rocky Gully has a flood risk score of 55/100, while Roebuck scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rocky Gully scores 36/100 for bushfire risk. Roebuck scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rocky Gully scores 18/100 for bushfire risk. Roebuck scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rocky Gully or Roebuck?",
-      "answer": "Both suburbs have climate considerations. Rocky Gully has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Roebuck has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Roebuck Should I Buy?",
       "url": "/suburbs/wa/roebuck/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

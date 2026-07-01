@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 52,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 29
+      "scoreA": 43,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 73
+      "scoreA": 41,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 43,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 24
     }
   ],
-  "verdict": "Reserve Creek has a lower overall climate risk score (34/100) compared to Revesby (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Revesby has a lower overall climate risk score (38/100) compared to Reserve Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Reserve Creek or Revesby safer from flooding?",
-      "answer": "Reserve Creek has a flood risk score of 34/100, while Revesby scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Reserve Creek has a flood risk score of 52/100, while Revesby scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Reserve Creek scores 46/100 for bushfire risk. Revesby scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Reserve Creek scores 43/100 for bushfire risk. Revesby scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Reserve Creek or Revesby?",
-      "answer": "Both suburbs have climate considerations. Reserve Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Revesby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Revesby Should I Buy?",
       "url": "/suburbs/nsw/revesby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

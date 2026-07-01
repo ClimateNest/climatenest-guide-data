@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 44
+      "scoreA": 50,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 52
+      "scoreA": 67,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 13,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 17
     }
   ],
-  "verdict": "Wedge Island has a lower overall climate risk score (34/100) compared to Wayville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wayville has a lower overall climate risk score (35/100) compared to Wedge Island (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wayville or Wedge Island safer from flooding?",
-      "answer": "Wayville has a flood risk score of 59/100, while Wedge Island scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wayville has a flood risk score of 50/100, while Wedge Island scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wayville scores 34/100 for bushfire risk. Wedge Island scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wayville scores 39/100 for bushfire risk. Wedge Island scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wayville or Wedge Island?",
-      "answer": "Both suburbs have climate considerations. Wedge Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wayville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wedge Island Should I Buy?",
       "url": "/suburbs/sa/wedge-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 49
+      "scoreA": 50,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 41
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 32
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 14
     }
   ],
-  "verdict": "Gunyarra has a lower overall climate risk score (30/100) compared to Gunpowder (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gunyarra has a lower overall climate risk score (26/100) compared to Gunpowder (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gunpowder or Gunyarra safer from flooding?",
-      "answer": "Gunpowder has a flood risk score of 42/100, while Gunyarra scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gunpowder has a flood risk score of 50/100, while Gunyarra scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gunpowder scores 41/100 for bushfire risk. Gunyarra scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gunpowder scores 24/100 for bushfire risk. Gunyarra scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gunpowder or Gunyarra?",
@@ -76,5 +76,15 @@
       "label": "Gunyarra Should I Buy?",
       "url": "/suburbs/qld/gunyarra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

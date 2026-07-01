@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
+      "scoreA": 64,
       "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 58
+      "scoreA": 66,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 29
+      "scoreA": 49,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 11
     }
   ],
-  "verdict": "Princes Hill has a lower overall climate risk score (38/100) compared to Preston (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Princes Hill has a lower overall climate risk score (36/100) compared to Preston (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Preston or Princes Hill safer from flooding?",
-      "answer": "Preston has a flood risk score of 54/100, while Princes Hill scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Preston has a flood risk score of 40/100, while Princes Hill scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Preston scores 40/100 for bushfire risk. Princes Hill scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Preston scores 64/100 for bushfire risk. Princes Hill scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Preston or Princes Hill?",
@@ -76,5 +76,15 @@
       "label": "Princes Hill Should I Buy?",
       "url": "/suburbs/vic/princes-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

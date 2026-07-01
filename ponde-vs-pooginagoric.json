@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 27
+      "scoreA": 50,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 50
+      "scoreA": 70,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 30,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 11
+      "scoreA": 28,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
       "scoreA": 22,
-      "scoreB": 25
+      "scoreB": 12
     }
   ],
-  "verdict": "Pooginagoric has a lower overall climate risk score (27/100) compared to Ponde (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pooginagoric has a lower overall climate risk score (33/100) compared to Ponde (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ponde or Pooginagoric safer from flooding?",
-      "answer": "Ponde has a flood risk score of 51/100, while Pooginagoric scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ponde has a flood risk score of 50/100, while Pooginagoric scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ponde scores 50/100 for bushfire risk. Pooginagoric scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ponde scores 26/100 for bushfire risk. Pooginagoric scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ponde or Pooginagoric?",
@@ -76,5 +76,15 @@
       "label": "Pooginagoric Should I Buy?",
       "url": "/suburbs/sa/pooginagoric/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

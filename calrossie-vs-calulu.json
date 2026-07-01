@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 44
+      "scoreA": 63,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 59
+      "scoreA": 50,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 10
+      "scoreA": 17,
+      "scoreB": 25
     }
   ],
-  "verdict": "Calulu has a lower overall climate risk score (30/100) compared to Calrossie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Calulu has a lower overall climate risk score (34/100) compared to Calrossie (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Calrossie or Calulu safer from flooding?",
-      "answer": "Calrossie has a flood risk score of 42/100, while Calulu scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Calrossie has a flood risk score of 26/100, while Calulu scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Calrossie scores 57/100 for bushfire risk. Calulu scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Calrossie scores 63/100 for bushfire risk. Calulu scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Calrossie or Calulu?",
@@ -76,5 +76,15 @@
       "label": "Calulu Should I Buy?",
       "url": "/suburbs/vic/calulu/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

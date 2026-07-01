@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 47
+      "scoreA": 34,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 30
+      "scoreA": 56,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 54
+      "scoreA": 29,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 29,
+      "scoreB": 10
     }
   ],
-  "verdict": "Pine Valley has a lower overall climate risk score (33/100) compared to Pinkett (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pine Valley has a lower overall climate risk score (38/100) compared to Pinkett (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pine Valley or Pinkett safer from flooding?",
-      "answer": "Pine Valley has a flood risk score of 42/100, while Pinkett scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pine Valley has a flood risk score of 34/100, while Pinkett scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pine Valley scores 29/100 for bushfire risk. Pinkett scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pine Valley scores 42/100 for bushfire risk. Pinkett scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pine Valley or Pinkett?",
@@ -76,5 +76,15 @@
       "label": "Pinkett Should I Buy?",
       "url": "/suburbs/nsw/pinkett/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

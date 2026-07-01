@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 51
+      "scoreA": 32,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 40
+      "scoreA": 35,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 56
+      "scoreA": 58,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 39
+      "scoreA": 36,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 40,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 23
     }
   ],
-  "verdict": "Packsaddle has a lower overall climate risk score (37/100) compared to Oyster Bay (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Packsaddle has a lower overall climate risk score (37/100) compared to Oyster Bay (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Oyster Bay or Packsaddle safer from flooding?",
-      "answer": "Oyster Bay has a flood risk score of 46/100, while Packsaddle scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oyster Bay has a flood risk score of 32/100, while Packsaddle scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oyster Bay scores 61/100 for bushfire risk. Packsaddle scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oyster Bay scores 35/100 for bushfire risk. Packsaddle scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oyster Bay or Packsaddle?",
@@ -76,5 +76,15 @@
       "label": "Packsaddle Should I Buy?",
       "url": "/suburbs/nsw/packsaddle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

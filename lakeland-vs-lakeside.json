@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 18
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 33
+      "scoreA": 47,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 41
+      "scoreA": 38,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 46
+      "scoreA": 23,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 9,
+      "scoreB": 20
     }
   ],
-  "verdict": "Lakeland has a lower overall climate risk score (26/100) compared to Lakeside (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lakeland has a lower overall climate risk score (32/100) compared to Lakeside (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lakeland or Lakeside safer from flooding?",
-      "answer": "Lakeland has a flood risk score of 33/100, while Lakeside scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lakeland has a flood risk score of 23/100, while Lakeside scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lakeland scores 45/100 for bushfire risk. Lakeside scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lakeland scores 50/100 for bushfire risk. Lakeside scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lakeland or Lakeside?",
@@ -76,5 +76,15 @@
       "label": "Lakeside Should I Buy?",
       "url": "/suburbs/qld/lakeside/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

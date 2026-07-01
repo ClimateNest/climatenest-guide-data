@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
+      "scoreA": 24,
       "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 58
+      "scoreA": 34,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 41
+      "scoreA": 37,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 43
+      "scoreA": 44,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 25
+      "scoreA": 44,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 10
+      "scoreA": 24,
+      "scoreB": 12
     }
   ],
-  "verdict": "Silkstone has a lower overall climate risk score (32/100) compared to Silky Oak (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Silky Oak has a lower overall climate risk score (32/100) compared to Silkstone (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Silkstone or Silky Oak safer from flooding?",
-      "answer": "Silkstone has a flood risk score of 45/100, while Silky Oak scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Silkstone has a flood risk score of 24/100, while Silky Oak scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Silkstone scores 21/100 for bushfire risk. Silky Oak scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Silkstone scores 34/100 for bushfire risk. Silky Oak scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Silkstone or Silky Oak?",
-      "answer": "Both suburbs have climate considerations. Silkstone has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Silky Oak has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Silky Oak Should I Buy?",
       "url": "/suburbs/qld/silky-oak/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

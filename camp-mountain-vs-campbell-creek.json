@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 38,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 50
+      "scoreA": 49,
+      "scoreB": 37
     },
     {
       "name": "Storm",
       "scoreA": 20,
-      "scoreB": 31
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 32,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 24
     }
   ],
-  "verdict": "Camp Mountain has a lower overall climate risk score (25/100) compared to Campbell Creek (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Camp Mountain has a lower overall climate risk score (30/100) compared to Campbell Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Camp Mountain or Campbell Creek safer from flooding?",
-      "answer": "Camp Mountain has a flood risk score of 25/100, while Campbell Creek scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Camp Mountain has a flood risk score of 26/100, while Campbell Creek scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Camp Mountain scores 26/100 for bushfire risk. Campbell Creek scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Camp Mountain scores 38/100 for bushfire risk. Campbell Creek scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Camp Mountain or Campbell Creek?",
@@ -76,5 +76,15 @@
       "label": "Campbell Creek Should I Buy?",
       "url": "/suburbs/qld/campbell-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

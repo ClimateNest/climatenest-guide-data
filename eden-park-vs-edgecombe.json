@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
       "scoreA": 54,
-      "scoreB": 53
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 58
+      "scoreA": 75,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 18,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 17
     }
   ],
-  "verdict": "Edgecombe has a lower overall climate risk score (39/100) compared to Eden Park (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Edgecombe has a lower overall climate risk score (30/100) compared to Eden Park (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eden Park or Edgecombe safer from flooding?",
-      "answer": "Eden Park has a flood risk score of 57/100, while Edgecombe scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eden Park has a flood risk score of 40/100, while Edgecombe scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eden Park scores 54/100 for bushfire risk. Edgecombe scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eden Park scores 54/100 for bushfire risk. Edgecombe scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eden Park or Edgecombe?",
@@ -76,5 +76,15 @@
       "label": "Edgecombe Should I Buy?",
       "url": "/suburbs/vic/edgecombe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

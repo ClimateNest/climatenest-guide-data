@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 50
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 52
-    },
-    {
-      "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 44
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 33
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 52,
+      "scoreA": 35,
       "scoreB": 29
     },
     {
+      "name": "Bushfire",
+      "scoreA": 25,
+      "scoreB": 50
+    },
+    {
+      "name": "Heat",
+      "scoreA": 43,
+      "scoreB": 36
+    },
+    {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 37
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 33,
+      "scoreB": 15
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 9
+      "scoreA": 14,
+      "scoreB": 19
     }
   ],
-  "verdict": "Sexton has a lower overall climate risk score (36/100) compared to Shannonvale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Shannonvale has a lower overall climate risk score (31/100) compared to Sexton (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sexton or Shannonvale safer from flooding?",
-      "answer": "Sexton has a flood risk score of 38/100, while Shannonvale scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sexton has a flood risk score of 35/100, while Shannonvale scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sexton scores 39/100 for bushfire risk. Shannonvale scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sexton scores 25/100 for bushfire risk. Shannonvale scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sexton or Shannonvale?",
-      "answer": "Both suburbs have climate considerations. Sexton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Shannonvale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Shannonvale Should I Buy?",
       "url": "/suburbs/qld/shannonvale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

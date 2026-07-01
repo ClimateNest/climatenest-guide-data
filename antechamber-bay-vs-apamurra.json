@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 25
+      "scoreA": 35,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 61
+      "scoreA": 36,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 77,
+      "scoreA": 57,
       "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 22
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 28
+      "scoreA": 24,
+      "scoreB": 29
     }
   ],
-  "verdict": "Apamurra has a lower overall climate risk score (35/100) compared to Antechamber Bay (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Apamurra has a lower overall climate risk score (34/100) compared to Antechamber Bay (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Antechamber Bay or Apamurra safer from flooding?",
-      "answer": "Antechamber Bay has a flood risk score of 51/100, while Apamurra scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Antechamber Bay has a flood risk score of 35/100, while Apamurra scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Antechamber Bay scores 52/100 for bushfire risk. Apamurra scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Antechamber Bay scores 36/100 for bushfire risk. Apamurra scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Antechamber Bay or Apamurra?",
@@ -76,5 +76,15 @@
       "label": "Apamurra Should I Buy?",
       "url": "/suburbs/sa/apamurra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

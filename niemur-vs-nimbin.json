@@ -14,8 +14,8 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 54
+      "scoreA": 29,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
@@ -24,31 +24,31 @@
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 40
+      "scoreA": 53,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 40
+      "scoreA": 26,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Niemur has a lower overall climate risk score (39/100) compared to Nimbin (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Niemur has a lower overall climate risk score (36/100) compared to Nimbin (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Niemur or Nimbin safer from flooding?",
-      "answer": "Niemur has a flood risk score of 25/100, while Nimbin scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Niemur has a flood risk score of 29/100, while Nimbin scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
@@ -76,5 +76,15 @@
       "label": "Nimbin Should I Buy?",
       "url": "/suburbs/nsw/nimbin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

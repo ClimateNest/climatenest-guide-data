@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 50
+      "scoreA": 42,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 46
+      "scoreA": 47,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 79
+      "scoreA": 63,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 50,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
       "scoreA": 29,
-      "scoreB": 22
+      "scoreB": 21
     }
   ],
-  "verdict": "The Pines has a lower overall climate risk score (37/100) compared to The Range (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "The Pines has a lower overall climate risk score (41/100) compared to The Range (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is The Pines or The Range safer from flooding?",
-      "answer": "The Pines has a flood risk score of 60/100, while The Range scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Pines has a flood risk score of 42/100, while The Range scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Pines scores 21/100 for bushfire risk. The Range scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Pines scores 47/100 for bushfire risk. The Range scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Pines or The Range?",
@@ -76,5 +76,15 @@
       "label": "The Range Should I Buy?",
       "url": "/suburbs/sa/the-range/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

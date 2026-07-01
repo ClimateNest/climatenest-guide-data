@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 56
+      "scoreA": 42,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 42
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 67
+      "scoreA": 58,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 34
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 17
     }
   ],
-  "verdict": "Yundool has a lower overall climate risk score (36/100) compared to Yuulong (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yundool has a lower overall climate risk score (33/100) compared to Yuulong (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yundool or Yuulong safer from flooding?",
-      "answer": "Yundool has a flood risk score of 43/100, while Yuulong scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yundool has a flood risk score of 42/100, while Yuulong scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yundool scores 22/100 for bushfire risk. Yuulong scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yundool scores 18/100 for bushfire risk. Yuulong scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yundool or Yuulong?",
@@ -76,5 +76,15 @@
       "label": "Yuulong Should I Buy?",
       "url": "/suburbs/vic/yuulong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

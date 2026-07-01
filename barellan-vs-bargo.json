@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 21
+      "scoreA": 40,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 58
+      "scoreA": 76,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 51
+      "scoreA": 15,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 12
     }
   ],
-  "verdict": "Bargo has a lower overall climate risk score (37/100) compared to Barellan (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Barellan has a lower overall climate risk score (35/100) compared to Bargo (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Barellan or Bargo safer from flooding?",
-      "answer": "Barellan has a flood risk score of 43/100, while Bargo scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barellan has a flood risk score of 40/100, while Bargo scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barellan scores 60/100 for bushfire risk. Bargo scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barellan scores 36/100 for bushfire risk. Bargo scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barellan or Bargo?",
-      "answer": "Both suburbs have climate considerations. Bargo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Barellan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bargo Should I Buy?",
       "url": "/suburbs/nsw/bargo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

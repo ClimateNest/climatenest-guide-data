@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 58
+      "scoreA": 50,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 61
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Heat",
       "scoreA": 60,
-      "scoreB": 79
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 19
     }
   ],
-  "verdict": "Cororooke has a lower overall climate risk score (41/100) compared to Corryong (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Corryong has a lower overall climate risk score (38/100) compared to Cororooke (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cororooke or Corryong safer from flooding?",
-      "answer": "Cororooke has a flood risk score of 51/100, while Corryong scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cororooke has a flood risk score of 50/100, while Corryong scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cororooke scores 56/100 for bushfire risk. Corryong scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cororooke scores 42/100 for bushfire risk. Corryong scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cororooke or Corryong?",
-      "answer": "Both suburbs have climate considerations. Cororooke has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Corryong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Corryong Should I Buy?",
       "url": "/suburbs/vic/corryong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

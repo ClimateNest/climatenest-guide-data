@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 33,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 71
+      "scoreA": 42,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 33
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 11
+      "scoreA": 33,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 17,
+      "scoreB": 20
     }
   ],
-  "verdict": "Upper Horton has a lower overall climate risk score (32/100) compared to Upper Horseshoe Creek (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Upper Horseshoe Creek has a lower overall climate risk score (28/100) compared to Upper Horton (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Upper Horseshoe Creek or Upper Horton safer from flooding?",
-      "answer": "Upper Horseshoe Creek has a flood risk score of 25/100, while Upper Horton scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Upper Horseshoe Creek has a flood risk score of 33/100, while Upper Horton scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Upper Horseshoe Creek scores 30/100 for bushfire risk. Upper Horton scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Upper Horseshoe Creek scores 21/100 for bushfire risk. Upper Horton scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Upper Horseshoe Creek or Upper Horton?",
-      "answer": "Both suburbs have climate considerations. Upper Horton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Upper Horseshoe Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Upper Horton Should I Buy?",
       "url": "/suburbs/nsw/upper-horton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

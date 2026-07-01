@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 40,
-      "scoreB": 30
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 37
+      "scoreA": 34,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 34
+      "scoreA": 34,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 35
+      "scoreA": 31,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 32
+      "scoreA": 46,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 29
     }
   ],
-  "verdict": "Empire Vale has a lower overall climate risk score (30/100) compared to Emmaville (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Emmaville has a lower overall climate risk score (34/100) compared to Empire Vale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Emmaville or Empire Vale safer from flooding?",
-      "answer": "Emmaville has a flood risk score of 40/100, while Empire Vale scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Emmaville has a flood risk score of 40/100, while Empire Vale scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Emmaville scores 22/100 for bushfire risk. Empire Vale scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Emmaville scores 34/100 for bushfire risk. Empire Vale scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Emmaville or Empire Vale?",
-      "answer": "Both suburbs have climate considerations. Empire Vale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Emmaville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Empire Vale Should I Buy?",
       "url": "/suburbs/nsw/empire-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

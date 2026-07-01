@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 30,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 25
-    },
-    {
-      "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 63
-    },
-    {
-      "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 45
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 16,
+      "scoreA": 52,
       "scoreB": 27
     },
     {
+      "name": "Heat",
+      "scoreA": 54,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 30,
+      "scoreB": 33
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 21,
+      "scoreB": 29
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 24
+      "scoreA": 16,
+      "scoreB": 15
     }
   ],
-  "verdict": "Wahgunyah has a lower overall climate risk score (35/100) compared to Wahring (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wahgunyah has a lower overall climate risk score (34/100) compared to Wahring (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wahgunyah or Wahring safer from flooding?",
-      "answer": "Wahgunyah has a flood risk score of 35/100, while Wahring scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wahgunyah has a flood risk score of 30/100, while Wahring scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wahgunyah scores 54/100 for bushfire risk. Wahring scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wahgunyah scores 52/100 for bushfire risk. Wahring scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wahgunyah or Wahring?",
@@ -76,5 +76,15 @@
       "label": "Wahring Should I Buy?",
       "url": "/suburbs/vic/wahring/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

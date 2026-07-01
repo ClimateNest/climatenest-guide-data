@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 34
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 53
+      "scoreA": 61,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 75
+      "scoreA": 59,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 20
+      "scoreA": 48,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 15
+      "scoreA": 41,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 11
+      "scoreA": 27,
+      "scoreB": 24
     }
   ],
-  "verdict": "Cadgee has a lower overall climate risk score (35/100) compared to Caddens (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cadgee has a lower overall climate risk score (30/100) compared to Caddens (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Caddens or Cadgee safer from flooding?",
-      "answer": "Caddens has a flood risk score of 22/100, while Cadgee scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Caddens has a flood risk score of 24/100, while Cadgee scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Caddens scores 51/100 for bushfire risk. Cadgee scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Caddens scores 61/100 for bushfire risk. Cadgee scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Caddens or Cadgee?",
@@ -76,5 +76,15 @@
       "label": "Cadgee Should I Buy?",
       "url": "/suburbs/nsw/cadgee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

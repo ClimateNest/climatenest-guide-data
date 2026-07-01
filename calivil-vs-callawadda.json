@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 44
+      "scoreA": 40,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 31
+      "scoreA": 41,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 79
+      "scoreA": 69,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 46,
       "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 28,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Calivil has a lower overall climate risk score (36/100) compared to Callawadda (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Calivil has a lower overall climate risk score (41/100) compared to Callawadda (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Calivil or Callawadda safer from flooding?",
-      "answer": "Calivil has a flood risk score of 48/100, while Callawadda scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Calivil has a flood risk score of 40/100, while Callawadda scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Calivil scores 46/100 for bushfire risk. Callawadda scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Calivil scores 41/100 for bushfire risk. Callawadda scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Calivil or Callawadda?",
@@ -76,5 +76,15 @@
       "label": "Callawadda Should I Buy?",
       "url": "/suburbs/vic/callawadda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

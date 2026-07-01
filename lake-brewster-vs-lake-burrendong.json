@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 59
+      "scoreA": 32,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Heat",
       "scoreA": 61,
-      "scoreB": 52
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 29
+      "scoreA": 41,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 28
     }
   ],
-  "verdict": "Lake Brewster has a lower overall climate risk score (35/100) compared to Lake Burrendong (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Brewster has a lower overall climate risk score (34/100) compared to Lake Burrendong (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lake Brewster or Lake Burrendong safer from flooding?",
-      "answer": "Lake Brewster has a flood risk score of 37/100, while Lake Burrendong scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Brewster has a flood risk score of 32/100, while Lake Burrendong scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Brewster scores 25/100 for bushfire risk. Lake Burrendong scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Brewster scores 27/100 for bushfire risk. Lake Burrendong scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Brewster or Lake Burrendong?",
@@ -76,5 +76,15 @@
       "label": "Lake Burrendong Should I Buy?",
       "url": "/suburbs/nsw/lake-burrendong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

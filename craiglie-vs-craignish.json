@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 58
+      "scoreA": 48,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 56
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 34
+      "scoreA": 33,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 35
+      "scoreA": 27,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "Craiglie has a lower overall climate risk score (30/100) compared to Craignish (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Craiglie has a lower overall climate risk score (30/100) compared to Craignish (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Craiglie or Craignish safer from flooding?",
-      "answer": "Craiglie has a flood risk score of 56/100, while Craignish scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Craiglie has a flood risk score of 48/100, while Craignish scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Craiglie scores 20/100 for bushfire risk. Craignish scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Craiglie scores 30/100 for bushfire risk. Craignish scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Craiglie or Craignish?",
@@ -76,5 +76,15 @@
       "label": "Craignish Should I Buy?",
       "url": "/suburbs/qld/craignish/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

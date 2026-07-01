@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 57
+      "scoreA": 46,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 35
+      "scoreA": 64,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 45
+      "scoreA": 34,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 24
+      "scoreA": 49,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 38
+      "scoreA": 32,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 22,
+      "scoreB": 29
     }
   ],
-  "verdict": "Wyaga has a lower overall climate risk score (36/100) compared to Wutul (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wyaga has a lower overall climate risk score (37/100) compared to Wutul (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wutul or Wyaga safer from flooding?",
-      "answer": "Wutul has a flood risk score of 59/100, while Wyaga scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wutul has a flood risk score of 46/100, while Wyaga scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wutul scores 41/100 for bushfire risk. Wyaga scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wutul scores 64/100 for bushfire risk. Wyaga scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wutul or Wyaga?",
@@ -76,5 +76,15 @@
       "label": "Wyaga Should I Buy?",
       "url": "/suburbs/qld/wyaga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

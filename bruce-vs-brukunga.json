@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 64
+      "scoreA": 19,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 69
+      "scoreA": 58,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 26
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 15
+      "scoreA": 13,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 15
+      "scoreA": 15,
+      "scoreB": 20
     }
   ],
-  "verdict": "Brukunga has a lower overall climate risk score (38/100) compared to Bruce (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bruce has a lower overall climate risk score (30/100) compared to Brukunga (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bruce or Brukunga safer from flooding?",
-      "answer": "Bruce has a flood risk score of 55/100, while Brukunga scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bruce has a flood risk score of 30/100, while Brukunga scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bruce scores 53/100 for bushfire risk. Brukunga scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bruce scores 19/100 for bushfire risk. Brukunga scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bruce or Brukunga?",
-      "answer": "Both suburbs have climate considerations. Brukunga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bruce has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Brukunga Should I Buy?",
       "url": "/suburbs/sa/brukunga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

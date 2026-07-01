@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 26,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 48
+      "scoreA": 34,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 45
+      "scoreA": 26,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 51
+      "scoreA": 44,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 28
+      "scoreA": 15,
+      "scoreB": 29
     }
   ],
-  "verdict": "Spring Mountain has a lower overall climate risk score (29/100) compared to Springdale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Spring Mountain has a lower overall climate risk score (29/100) compared to Springdale (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Spring Mountain or Springdale safer from flooding?",
-      "answer": "Spring Mountain has a flood risk score of 44/100, while Springdale scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Spring Mountain has a flood risk score of 26/100, while Springdale scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Spring Mountain scores 16/100 for bushfire risk. Springdale scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Spring Mountain scores 29/100 for bushfire risk. Springdale scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Spring Mountain or Springdale?",
@@ -76,5 +76,15 @@
       "label": "Springdale Should I Buy?",
       "url": "/suburbs/qld/springdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

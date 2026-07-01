@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 29
+      "scoreA": 43,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 60
+      "scoreA": 25,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 68
+      "scoreA": 58,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 39
+      "scoreA": 27,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
       "scoreA": 39,
-      "scoreB": 39
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 19
     }
   ],
-  "verdict": "East Corrimal has a lower overall climate risk score (43/100) compared to East Gresford (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "East Corrimal has a lower overall climate risk score (36/100) compared to East Gresford (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Corrimal or East Gresford safer from flooding?",
-      "answer": "East Corrimal has a flood risk score of 45/100, while East Gresford scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Corrimal has a flood risk score of 43/100, while East Gresford scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Corrimal scores 42/100 for bushfire risk. East Gresford scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Corrimal scores 25/100 for bushfire risk. East Gresford scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Corrimal or East Gresford?",
@@ -76,5 +76,15 @@
       "label": "East Gresford Should I Buy?",
       "url": "/suburbs/nsw/east-gresford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

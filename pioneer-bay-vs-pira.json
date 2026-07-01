@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 27
+      "scoreA": 60,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 32
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 59
+      "scoreA": 71,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 46
+      "scoreA": 30,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 30
     }
   ],
-  "verdict": "Pira has a lower overall climate risk score (35/100) compared to Pioneer Bay (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Pioneer Bay has a lower overall climate risk score (36/100) compared to Pira (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pioneer Bay or Pira safer from flooding?",
-      "answer": "Pioneer Bay has a flood risk score of 49/100, while Pira scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pioneer Bay has a flood risk score of 60/100, while Pira scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pioneer Bay scores 59/100 for bushfire risk. Pira scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pioneer Bay scores 26/100 for bushfire risk. Pira scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pioneer Bay or Pira?",
-      "answer": "Both suburbs have climate considerations. Pira has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pioneer Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pira Should I Buy?",
       "url": "/suburbs/vic/pira/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

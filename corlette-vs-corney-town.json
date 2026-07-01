@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 43
+      "scoreA": 57,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 42
+      "scoreA": 64,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 74
+      "scoreA": 60,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 24
+      "scoreA": 41,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 13
+      "scoreA": 30,
+      "scoreB": 20
     }
   ],
-  "verdict": "Corlette has a lower overall climate risk score (37/100) compared to Corney Town (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Corney Town has a lower overall climate risk score (29/100) compared to Corlette (50/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Corlette or Corney Town safer from flooding?",
-      "answer": "Corlette has a flood risk score of 29/100, while Corney Town scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Corlette has a flood risk score of 57/100, while Corney Town scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Corlette scores 17/100 for bushfire risk. Corney Town scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Corlette scores 64/100 for bushfire risk. Corney Town scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Corlette or Corney Town?",
-      "answer": "Both suburbs have climate considerations. Corlette has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Corney Town has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Corney Town Should I Buy?",
       "url": "/suburbs/nsw/corney-town/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4600,
+    "projected2030": 6440,
+    "projected2050": 11960
+  },
+  "valueImpact": {
+    "dragPercent": 3,
+    "description": "Properties in this area may face a 3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

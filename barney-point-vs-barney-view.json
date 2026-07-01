@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 40
+      "scoreA": 54,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 38
+      "scoreA": 51,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 31,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 56
+      "scoreA": 51,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 8,
+      "scoreB": 24
     }
   ],
-  "verdict": "Barney Point has a lower overall climate risk score (31/100) compared to Barney View (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Barney Point has a lower overall climate risk score (39/100) compared to Barney View (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Barney Point or Barney View safer from flooding?",
-      "answer": "Barney Point has a flood risk score of 52/100, while Barney View scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barney Point has a flood risk score of 54/100, while Barney View scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barney Point scores 25/100 for bushfire risk. Barney View scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barney Point scores 51/100 for bushfire risk. Barney View scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barney Point or Barney View?",
@@ -76,5 +76,15 @@
       "label": "Barney View Should I Buy?",
       "url": "/suburbs/qld/barney-view/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

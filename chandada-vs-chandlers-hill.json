@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 59
+      "scoreA": 33,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 27
+      "scoreA": 57,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 69,
+      "scoreA": 51,
       "scoreB": 52
     },
     {
       "name": "Storm",
       "scoreA": 40,
-      "scoreB": 48
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 13
+      "scoreA": 24,
+      "scoreB": 29
     }
   ],
-  "verdict": "Chandlers Hill has a lower overall climate risk score (35/100) compared to Chandada (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Chandlers Hill has a lower overall climate risk score (36/100) compared to Chandada (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Chandada or Chandlers Hill safer from flooding?",
-      "answer": "Chandada has a flood risk score of 40/100, while Chandlers Hill scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Chandada has a flood risk score of 33/100, while Chandlers Hill scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Chandada scores 44/100 for bushfire risk. Chandlers Hill scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Chandada scores 57/100 for bushfire risk. Chandlers Hill scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Chandada or Chandlers Hill?",
@@ -76,5 +76,15 @@
       "label": "Chandlers Hill Should I Buy?",
       "url": "/suburbs/sa/chandlers-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

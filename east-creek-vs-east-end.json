@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 49
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 22
-    },
-    {
-      "name": "Heat",
-      "scoreA": 45,
+      "scoreA": 58,
       "scoreB": 41
     },
     {
+      "name": "Bushfire",
+      "scoreA": 20,
+      "scoreB": 19
+    },
+    {
+      "name": "Heat",
+      "scoreA": 38,
+      "scoreB": 43
+    },
+    {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 36,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 35
+      "scoreA": 28,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 6
+      "scoreA": 18,
+      "scoreB": 10
     }
   ],
-  "verdict": "East Creek has a lower overall climate risk score (25/100) compared to East End (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Creek has a lower overall climate risk score (33/100) compared to East End (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Creek or East End safer from flooding?",
-      "answer": "East Creek has a flood risk score of 23/100, while East End scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Creek has a flood risk score of 58/100, while East End scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Creek scores 21/100 for bushfire risk. East End scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Creek scores 20/100 for bushfire risk. East End scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Creek or East End?",
@@ -76,5 +76,15 @@
       "label": "East End Should I Buy?",
       "url": "/suburbs/qld/east-end/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

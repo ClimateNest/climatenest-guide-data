@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 36
+      "scoreA": 31,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 47
+      "scoreA": 18,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 67
+      "scoreA": 53,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 23,
       "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 22
     }
   ],
-  "verdict": "Marlbed has a lower overall climate risk score (37/100) compared to Marnoo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marlbed has a lower overall climate risk score (29/100) compared to Marnoo (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Marlbed or Marnoo safer from flooding?",
-      "answer": "Marlbed has a flood risk score of 22/100, while Marnoo scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marlbed has a flood risk score of 31/100, while Marnoo scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marlbed scores 32/100 for bushfire risk. Marnoo scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marlbed scores 18/100 for bushfire risk. Marnoo scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marlbed or Marnoo?",
@@ -76,5 +76,15 @@
       "label": "Marnoo Should I Buy?",
       "url": "/suburbs/vic/marnoo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3285,
+    "projected2030": 4599,
+    "projected2050": 8542
+  },
+  "valueImpact": {
+    "dragPercent": 0.1,
+    "description": "Properties in this area may face a 0.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

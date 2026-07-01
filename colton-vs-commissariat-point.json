@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 29
+      "scoreA": 59,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 15
+      "scoreA": 23,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 60
+      "scoreA": 68,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 38
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 11,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
+      "scoreA": 10,
       "scoreB": 22
     }
   ],
-  "verdict": "Commissariat Point has a lower overall climate risk score (31/100) compared to Colton (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Colton has a lower overall climate risk score (32/100) compared to Commissariat Point (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Colton or Commissariat Point safer from flooding?",
-      "answer": "Colton has a flood risk score of 38/100, while Commissariat Point scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Colton has a flood risk score of 59/100, while Commissariat Point scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Colton scores 54/100 for bushfire risk. Commissariat Point scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Colton scores 23/100 for bushfire risk. Commissariat Point scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Colton or Commissariat Point?",
-      "answer": "Both suburbs have climate considerations. Commissariat Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Colton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Commissariat Point Should I Buy?",
       "url": "/suburbs/sa/commissariat-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

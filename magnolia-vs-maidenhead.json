@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
+      "scoreA": 59,
       "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 54
+      "scoreA": 15,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 57
+      "scoreA": 35,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 22
     }
   ],
-  "verdict": "Magnolia has a lower overall climate risk score (35/100) compared to Maidenhead (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Magnolia has a lower overall climate risk score (34/100) compared to Maidenhead (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Magnolia or Maidenhead safer from flooding?",
-      "answer": "Magnolia has a flood risk score of 60/100, while Maidenhead scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Magnolia has a flood risk score of 59/100, while Maidenhead scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Magnolia scores 17/100 for bushfire risk. Maidenhead scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Magnolia scores 15/100 for bushfire risk. Maidenhead scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Magnolia or Maidenhead?",
@@ -76,5 +76,15 @@
       "label": "Maidenhead Should I Buy?",
       "url": "/suburbs/qld/maidenhead/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

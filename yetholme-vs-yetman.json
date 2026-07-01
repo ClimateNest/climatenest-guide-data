@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 43
+      "scoreA": 25,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 46
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 40
+      "scoreA": 56,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 49,
+      "scoreA": 36,
       "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 56
+      "scoreA": 21,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 28
     }
   ],
-  "verdict": "Yetman has a lower overall climate risk score (39/100) compared to Yetholme (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Yetholme has a lower overall climate risk score (29/100) compared to Yetman (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yetholme or Yetman safer from flooding?",
-      "answer": "Yetholme has a flood risk score of 23/100, while Yetman scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yetholme has a flood risk score of 25/100, while Yetman scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yetholme scores 60/100 for bushfire risk. Yetman scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yetholme scores 24/100 for bushfire risk. Yetman scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yetholme or Yetman?",
-      "answer": "Both suburbs have climate considerations. Yetman has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yetholme has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yetman Should I Buy?",
       "url": "/suburbs/nsw/yetman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

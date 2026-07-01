@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 37
+      "scoreA": 52,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 63
+      "scoreA": 53,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 69
+      "scoreA": 46,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 29,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 20
     }
   ],
-  "verdict": "Northern Gully has a lower overall climate risk score (30/100) compared to Nowergup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Northern Gully has a lower overall climate risk score (38/100) compared to Nowergup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Northern Gully or Nowergup safer from flooding?",
-      "answer": "Northern Gully has a flood risk score of 27/100, while Nowergup scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Northern Gully has a flood risk score of 52/100, while Nowergup scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Northern Gully scores 49/100 for bushfire risk. Nowergup scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Northern Gully scores 53/100 for bushfire risk. Nowergup scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Northern Gully or Nowergup?",
@@ -76,5 +76,15 @@
       "label": "Nowergup Should I Buy?",
       "url": "/suburbs/wa/nowergup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 47
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 42
-    },
-    {
-      "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 57
-    },
-    {
-      "name": "Storm",
-      "scoreA": 27,
+      "scoreA": 41,
       "scoreB": 32
     },
     {
+      "name": "Bushfire",
+      "scoreA": 33,
+      "scoreB": 55
+    },
+    {
+      "name": "Heat",
+      "scoreA": 48,
+      "scoreB": 74
+    },
+    {
+      "name": "Storm",
+      "scoreA": 34,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 12
+      "scoreA": 36,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 19
     }
   ],
-  "verdict": "Tumorrama has a lower overall climate risk score (35/100) compared to Tumbulgum (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Tumbulgum has a lower overall climate risk score (36/100) compared to Tumorrama (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tumbulgum or Tumorrama safer from flooding?",
-      "answer": "Tumbulgum has a flood risk score of 45/100, while Tumorrama scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tumbulgum has a flood risk score of 41/100, while Tumorrama scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tumbulgum scores 58/100 for bushfire risk. Tumorrama scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tumbulgum scores 33/100 for bushfire risk. Tumorrama scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tumbulgum or Tumorrama?",
-      "answer": "Both suburbs have climate considerations. Tumorrama has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tumbulgum has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tumorrama Should I Buy?",
       "url": "/suburbs/nsw/tumorrama/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

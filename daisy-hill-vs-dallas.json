@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 40,
-      "scoreB": 37
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 53
+      "scoreA": 55,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 72
+      "scoreA": 76,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 29
+      "scoreA": 35,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 30,
+      "scoreB": 15
     }
   ],
-  "verdict": "Daisy Hill has a lower overall climate risk score (33/100) compared to Dallas (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dallas has a lower overall climate risk score (38/100) compared to Daisy Hill (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Daisy Hill or Dallas safer from flooding?",
-      "answer": "Daisy Hill has a flood risk score of 40/100, while Dallas scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Daisy Hill has a flood risk score of 40/100, while Dallas scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Daisy Hill scores 33/100 for bushfire risk. Dallas scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Daisy Hill scores 55/100 for bushfire risk. Dallas scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Daisy Hill or Dallas?",
-      "answer": "Both suburbs have climate considerations. Daisy Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dallas has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dallas Should I Buy?",
       "url": "/suburbs/vic/dallas/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

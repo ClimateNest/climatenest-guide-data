@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 32
+      "scoreA": 49,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 26
+      "scoreA": 31,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 46
+      "scoreA": 32,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 27
+      "scoreA": 42,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 18,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 7,
+      "scoreB": 13
     }
   ],
-  "verdict": "Ngaanyatjarra-Giles has a lower overall climate risk score (30/100) compared to Newman (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Newman has a lower overall climate risk score (30/100) compared to Ngaanyatjarra-Giles (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Newman or Ngaanyatjarra-Giles safer from flooding?",
-      "answer": "Newman has a flood risk score of 60/100, while Ngaanyatjarra-Giles scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Newman has a flood risk score of 49/100, while Ngaanyatjarra-Giles scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Newman scores 34/100 for bushfire risk. Ngaanyatjarra-Giles scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Newman scores 31/100 for bushfire risk. Ngaanyatjarra-Giles scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Newman or Ngaanyatjarra-Giles?",
-      "answer": "Both suburbs have climate considerations. Ngaanyatjarra-Giles has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Newman has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ngaanyatjarra-Giles Should I Buy?",
       "url": "/suburbs/wa/ngaanyatjarra-giles/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

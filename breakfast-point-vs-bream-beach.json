@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
+      "scoreA": 56,
       "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 33
+      "scoreA": 18,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 58
+      "scoreA": 79,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 45
+      "scoreA": 47,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 53,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 28
     }
   ],
-  "verdict": "Breakfast Point has a lower overall climate risk score (37/100) compared to Bream Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bream Beach has a lower overall climate risk score (43/100) compared to Breakfast Point (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Breakfast Point or Bream Beach safer from flooding?",
-      "answer": "Breakfast Point has a flood risk score of 37/100, while Bream Beach scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Breakfast Point has a flood risk score of 56/100, while Bream Beach scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Breakfast Point scores 45/100 for bushfire risk. Bream Beach scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Breakfast Point scores 18/100 for bushfire risk. Bream Beach scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Breakfast Point or Bream Beach?",
-      "answer": "Both suburbs have climate considerations. Breakfast Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bream Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bream Beach Should I Buy?",
       "url": "/suburbs/nsw/bream-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4328,
+    "projected2030": 6059,
+    "projected2050": 11253
+  },
+  "valueImpact": {
+    "dragPercent": 2.4,
+    "description": "Properties in this area may face a 2.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

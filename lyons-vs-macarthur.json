@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 54
+      "scoreA": 44,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 61
+      "scoreA": 43,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 61
+      "scoreA": 60,
+      "scoreB": 65
     },
     {
       "name": "Storm",
       "scoreA": 23,
-      "scoreB": 29
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 30,
       "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 25
     }
   ],
-  "verdict": "Lyons has a lower overall climate risk score (29/100) compared to Macarthur (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lyons has a lower overall climate risk score (37/100) compared to Macarthur (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lyons or Macarthur safer from flooding?",
-      "answer": "Lyons has a flood risk score of 47/100, while Macarthur scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lyons has a flood risk score of 44/100, while Macarthur scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lyons scores 20/100 for bushfire risk. Macarthur scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lyons scores 43/100 for bushfire risk. Macarthur scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lyons or Macarthur?",
@@ -76,5 +76,15 @@
       "label": "Macarthur Should I Buy?",
       "url": "/suburbs/act/macarthur/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

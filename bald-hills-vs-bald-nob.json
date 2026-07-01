@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 56
+      "scoreA": 51,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 31
+      "scoreA": 55,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 36
+      "scoreA": 39,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 56
+      "scoreA": 25,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 20
     }
   ],
-  "verdict": "Bald Nob has a lower overall climate risk score (40/100) compared to Bald Hills (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bald Nob has a lower overall climate risk score (36/100) compared to Bald Hills (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bald Hills or Bald Nob safer from flooding?",
-      "answer": "Bald Hills has a flood risk score of 47/100, while Bald Nob scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bald Hills has a flood risk score of 42/100, while Bald Nob scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bald Hills scores 33/100 for bushfire risk. Bald Nob scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bald Hills scores 51/100 for bushfire risk. Bald Nob scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bald Hills or Bald Nob?",
@@ -76,5 +76,15 @@
       "label": "Bald Nob Should I Buy?",
       "url": "/suburbs/nsw/bald-nob/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,28 +14,28 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 54
+      "scoreA": 40,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 64
+      "scoreA": 37,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 66
+      "scoreA": 71,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 30
+      "scoreA": 28,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
@@ -43,16 +43,16 @@
       "scoreB": 13
     }
   ],
-  "verdict": "Lake Lonsdale has a lower overall climate risk score (32/100) compared to Lake Marmal (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Lonsdale has a lower overall climate risk score (36/100) compared to Lake Marmal (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lake Lonsdale or Lake Marmal safer from flooding?",
-      "answer": "Lake Lonsdale has a flood risk score of 33/100, while Lake Marmal scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Lonsdale has a flood risk score of 40/100, while Lake Marmal scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Lonsdale scores 54/100 for bushfire risk. Lake Marmal scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Lonsdale scores 37/100 for bushfire risk. Lake Marmal scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Lonsdale or Lake Marmal?",
@@ -76,5 +76,15 @@
       "label": "Lake Marmal Should I Buy?",
       "url": "/suburbs/vic/lake-marmal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

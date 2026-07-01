@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 35,
-      "scoreB": 31
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 54
+      "scoreA": 19,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 52,
+      "scoreA": 77,
       "scoreB": 39
     },
     {
       "name": "Storm",
       "scoreA": 43,
-      "scoreB": 48
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 47
+      "scoreA": 56,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
+      "scoreA": 10,
       "scoreB": 27
     }
   ],
-  "verdict": "Ghinni Ghi has a lower overall climate risk score (41/100) compared to Gerroa (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ghinni Ghi has a lower overall climate risk score (35/100) compared to Gerroa (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gerroa or Ghinni Ghi safer from flooding?",
-      "answer": "Gerroa has a flood risk score of 35/100, while Ghinni Ghi scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gerroa has a flood risk score of 35/100, while Ghinni Ghi scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gerroa scores 42/100 for bushfire risk. Ghinni Ghi scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gerroa scores 19/100 for bushfire risk. Ghinni Ghi scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gerroa or Ghinni Ghi?",
@@ -76,5 +76,15 @@
       "label": "Ghinni Ghi Should I Buy?",
       "url": "/suburbs/nsw/ghinni-ghi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

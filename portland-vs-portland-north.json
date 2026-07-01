@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 31
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 49
-    },
-    {
-      "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 74
-    },
-    {
-      "name": "Storm",
-      "scoreA": 49,
+      "scoreA": 48,
       "scoreB": 25
     },
     {
-      "name": "Coastal",
+      "name": "Bushfire",
+      "scoreA": 50,
+      "scoreB": 48
+    },
+    {
+      "name": "Heat",
+      "scoreA": 62,
+      "scoreB": 55
+    },
+    {
+      "name": "Storm",
       "scoreA": 23,
-      "scoreB": 30
+      "scoreB": 39
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 16
     }
   ],
-  "verdict": "Portland has a lower overall climate risk score (35/100) compared to Portland North (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Portland and Portland North have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Portland or Portland North safer from flooding?",
-      "answer": "Portland has a flood risk score of 29/100, while Portland North scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Portland has a flood risk score of 48/100, while Portland North scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Portland scores 29/100 for bushfire risk. Portland North scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Portland scores 50/100 for bushfire risk. Portland North scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Portland or Portland North?",
@@ -76,5 +76,15 @@
       "label": "Portland North Should I Buy?",
       "url": "/suburbs/vic/portland-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

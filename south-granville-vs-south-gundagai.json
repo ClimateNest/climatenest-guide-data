@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 32
-    },
-    {
-      "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 58
-    },
-    {
-      "name": "Storm",
-      "scoreA": 37,
+      "scoreA": 53,
       "scoreB": 39
     },
     {
+      "name": "Bushfire",
+      "scoreA": 47,
+      "scoreB": 64
+    },
+    {
+      "name": "Heat",
+      "scoreA": 56,
+      "scoreB": 78
+    },
+    {
+      "name": "Storm",
+      "scoreA": 22,
+      "scoreB": 35
+    },
+    {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 13
+      "scoreA": 44,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "South Gundagai has a lower overall climate risk score (36/100) compared to South Granville (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "South Granville has a lower overall climate risk score (40/100) compared to South Gundagai (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is South Granville or South Gundagai safer from flooding?",
-      "answer": "South Granville has a flood risk score of 25/100, while South Gundagai scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Granville has a flood risk score of 53/100, while South Gundagai scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Granville scores 44/100 for bushfire risk. South Gundagai scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Granville scores 47/100 for bushfire risk. South Gundagai scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Granville or South Gundagai?",
-      "answer": "Both suburbs have climate considerations. South Gundagai has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. South Granville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "South Gundagai Should I Buy?",
       "url": "/suburbs/nsw/south-gundagai/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

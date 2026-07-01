@@ -19,31 +19,31 @@
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 35
+      "scoreA": 45,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 47,
+      "scoreA": 25,
       "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 59
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 22,
+      "scoreB": 23
     }
   ],
-  "verdict": "Neurum has a lower overall climate risk score (37/100) compared to Nevilton (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Neurum has a lower overall climate risk score (32/100) compared to Nevilton (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Neurum scores 64/100 for bushfire risk. Nevilton scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Neurum scores 40/100 for bushfire risk. Nevilton scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Neurum or Nevilton?",
@@ -76,5 +76,15 @@
       "label": "Nevilton Should I Buy?",
       "url": "/suburbs/qld/nevilton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

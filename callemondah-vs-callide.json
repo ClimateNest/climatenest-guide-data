@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 42
+      "scoreA": 53,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 36
+      "scoreA": 26,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 48
+      "scoreA": 49,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 43,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 17
+      "scoreA": 45,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 20
     }
   ],
-  "verdict": "Callemondah has a lower overall climate risk score (33/100) compared to Callide (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Callemondah has a lower overall climate risk score (38/100) compared to Callide (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Callemondah or Callide safer from flooding?",
-      "answer": "Callemondah has a flood risk score of 22/100, while Callide scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Callemondah has a flood risk score of 53/100, while Callide scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Callemondah scores 15/100 for bushfire risk. Callide scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Callemondah scores 26/100 for bushfire risk. Callide scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Callemondah or Callide?",
@@ -76,5 +76,15 @@
       "label": "Callide Should I Buy?",
       "url": "/suburbs/qld/callide/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

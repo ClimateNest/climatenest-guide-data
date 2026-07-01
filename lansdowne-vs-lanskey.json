@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 59
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 23
+      "scoreA": 24,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 32
+      "scoreA": 38,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 43
+      "scoreA": 27,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 21
+      "scoreA": 14,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 8
     }
   ],
-  "verdict": "Lansdowne has a lower overall climate risk score (27/100) compared to Lanskey (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lansdowne has a lower overall climate risk score (25/100) compared to Lanskey (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lansdowne or Lanskey safer from flooding?",
-      "answer": "Lansdowne has a flood risk score of 30/100, while Lanskey scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lansdowne has a flood risk score of 24/100, while Lanskey scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lansdowne scores 33/100 for bushfire risk. Lanskey scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lansdowne scores 24/100 for bushfire risk. Lanskey scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lansdowne or Lanskey?",
@@ -76,5 +76,15 @@
       "label": "Lanskey Should I Buy?",
       "url": "/suburbs/qld/lanskey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3274,
+    "projected2030": 4584,
+    "projected2050": 8512
+  },
+  "valueImpact": {
+    "dragPercent": 0.08,
+    "description": "Properties in this area may face a 0.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

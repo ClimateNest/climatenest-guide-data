@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 29,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 34
+      "scoreA": 55,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 48
+      "scoreA": 71,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 37
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 42
+      "scoreA": 50,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 13
     }
   ],
-  "verdict": "Kyogle has a lower overall climate risk score (38/100) compared to Kyle Bay (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kyogle has a lower overall climate risk score (28/100) compared to Kyle Bay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kyle Bay or Kyogle safer from flooding?",
-      "answer": "Kyle Bay has a flood risk score of 49/100, while Kyogle scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kyle Bay has a flood risk score of 29/100, while Kyogle scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kyle Bay scores 45/100 for bushfire risk. Kyogle scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kyle Bay scores 55/100 for bushfire risk. Kyogle scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kyle Bay or Kyogle?",
@@ -76,5 +76,15 @@
       "label": "Kyogle Should I Buy?",
       "url": "/suburbs/nsw/kyogle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

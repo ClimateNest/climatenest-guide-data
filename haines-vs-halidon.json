@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 52
+      "scoreA": 55,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
+      "scoreA": 52,
       "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 65
+      "scoreA": 69,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 16,
+      "scoreB": 19
     }
   ],
-  "verdict": "Halidon has a lower overall climate risk score (34/100) compared to Haines (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Halidon has a lower overall climate risk score (30/100) compared to Haines (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Haines or Halidon safer from flooding?",
-      "answer": "Haines has a flood risk score of 56/100, while Halidon scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Haines has a flood risk score of 55/100, while Halidon scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Haines scores 64/100 for bushfire risk. Halidon scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Haines scores 52/100 for bushfire risk. Halidon scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Haines or Halidon?",
@@ -76,5 +76,15 @@
       "label": "Halidon Should I Buy?",
       "url": "/suburbs/sa/halidon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

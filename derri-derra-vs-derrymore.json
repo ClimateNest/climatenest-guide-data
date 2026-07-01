@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 34
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 19,
+      "scoreA": 58,
       "scoreB": 32
     },
     {
+      "name": "Bushfire",
+      "scoreA": 33,
+      "scoreB": 29
+    },
+    {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 35
+      "scoreA": 31,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 20
+      "scoreA": 47,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 53
+      "scoreA": 50,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 11
+      "scoreA": 13,
+      "scoreB": 14
     }
   ],
-  "verdict": "Derrymore has a lower overall climate risk score (31/100) compared to Derri Derra (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Derrymore has a lower overall climate risk score (32/100) compared to Derri Derra (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Derri Derra or Derrymore safer from flooding?",
-      "answer": "Derri Derra has a flood risk score of 30/100, while Derrymore scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Derri Derra has a flood risk score of 58/100, while Derrymore scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Derri Derra scores 19/100 for bushfire risk. Derrymore scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Derri Derra scores 33/100 for bushfire risk. Derrymore scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Derri Derra or Derrymore?",
@@ -76,5 +76,15 @@
       "label": "Derrymore Should I Buy?",
       "url": "/suburbs/qld/derrymore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

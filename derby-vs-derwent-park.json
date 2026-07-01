@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 54
+      "scoreA": 21,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 61
+      "scoreA": 56,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 69
+      "scoreA": 64,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 31
+      "scoreA": 32,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
       "scoreA": 21,
-      "scoreB": 14
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 13
     }
   ],
-  "verdict": "Derby has a lower overall climate risk score (38/100) compared to Derwent Park (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Derwent Park has a lower overall climate risk score (33/100) compared to Derby (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Derby or Derwent Park safer from flooding?",
-      "answer": "Derby has a flood risk score of 26/100, while Derwent Park scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Derby has a flood risk score of 21/100, while Derwent Park scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Derby scores 41/100 for bushfire risk. Derwent Park scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Derby scores 56/100 for bushfire risk. Derwent Park scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Derby or Derwent Park?",
-      "answer": "Both suburbs have climate considerations. Derby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Derwent Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Derwent Park Should I Buy?",
       "url": "/suburbs/tas/derwent-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

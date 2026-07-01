@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 41,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 43
+      "scoreA": 32,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 49,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 46
+      "scoreA": 28,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 10
     }
   ],
-  "verdict": "Rosella has a lower overall climate risk score (32/100) compared to Roseneath (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rosella and Roseneath have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rosella or Roseneath safer from flooding?",
-      "answer": "Rosella has a flood risk score of 26/100, while Roseneath scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rosella has a flood risk score of 41/100, while Roseneath scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rosella scores 57/100 for bushfire risk. Roseneath scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rosella scores 32/100 for bushfire risk. Roseneath scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rosella or Roseneath?",
@@ -76,5 +76,15 @@
       "label": "Roseneath Should I Buy?",
       "url": "/suburbs/qld/roseneath/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3319,
+    "projected2030": 4647,
+    "projected2050": 8630
+  },
+  "valueImpact": {
+    "dragPercent": 0.18,
+    "description": "Properties in this area may face a 0.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 51
+      "scoreA": 20,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 54,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 57,
+      "scoreA": 63,
       "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 48
+      "scoreA": 49,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
       "scoreA": 29,
-      "scoreB": 24
+      "scoreB": 25
     }
   ],
-  "verdict": "Kariah has a lower overall climate risk score (33/100) compared to Karnak (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Karnak has a lower overall climate risk score (32/100) compared to Kariah (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kariah or Karnak safer from flooding?",
-      "answer": "Kariah has a flood risk score of 45/100, while Karnak scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kariah has a flood risk score of 20/100, while Karnak scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kariah scores 20/100 for bushfire risk. Karnak scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kariah scores 54/100 for bushfire risk. Karnak scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kariah or Karnak?",
-      "answer": "Both suburbs have climate considerations. Kariah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Karnak has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Karnak Should I Buy?",
       "url": "/suburbs/vic/karnak/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

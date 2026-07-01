@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 50
+      "scoreA": 24,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 41,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 72
+      "scoreA": 41,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 48
+      "scoreA": 36,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 28
+      "scoreA": 44,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mookima Wybra has a lower overall climate risk score (42/100) compared to Moolarben (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Mookima Wybra has a lower overall climate risk score (33/100) compared to Moolarben (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mookima Wybra or Moolarben safer from flooding?",
-      "answer": "Mookima Wybra has a flood risk score of 51/100, while Moolarben scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mookima Wybra has a flood risk score of 24/100, while Moolarben scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mookima Wybra scores 35/100 for bushfire risk. Moolarben scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mookima Wybra scores 41/100 for bushfire risk. Moolarben scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mookima Wybra or Moolarben?",
@@ -76,5 +76,15 @@
       "label": "Moolarben Should I Buy?",
       "url": "/suburbs/nsw/moolarben/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

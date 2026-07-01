@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 48
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 54
+      "scoreA": 17,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 75
+      "scoreA": 61,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
       "scoreA": 15,
-      "scoreB": 25
+      "scoreB": 30
     }
   ],
-  "verdict": "North Bendigo has a lower overall climate risk score (41/100) compared to Normanville (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Normanville has a lower overall climate risk score (30/100) compared to North Bendigo (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Normanville or North Bendigo safer from flooding?",
-      "answer": "Normanville has a flood risk score of 60/100, while North Bendigo scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Normanville has a flood risk score of 43/100, while North Bendigo scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Normanville scores 54/100 for bushfire risk. North Bendigo scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Normanville scores 17/100 for bushfire risk. North Bendigo scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Normanville or North Bendigo?",
-      "answer": "Both suburbs have climate considerations. North Bendigo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Normanville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "North Bendigo Should I Buy?",
       "url": "/suburbs/vic/north-bendigo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

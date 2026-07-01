@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 25
+      "scoreA": 43,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 23
+      "scoreA": 33,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 32
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 38,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 23
+      "scoreA": 55,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 11
+      "scoreA": 13,
+      "scoreB": 12
     }
   ],
-  "verdict": "Forest Creek has a lower overall climate risk score (25/100) compared to Foreshores (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Forest Creek has a lower overall climate risk score (35/100) compared to Foreshores (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Foreshores or Forest Creek safer from flooding?",
-      "answer": "Foreshores has a flood risk score of 52/100, while Forest Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Foreshores has a flood risk score of 43/100, while Forest Creek scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Foreshores scores 32/100 for bushfire risk. Forest Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Foreshores scores 33/100 for bushfire risk. Forest Creek scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Foreshores or Forest Creek?",
@@ -76,5 +76,15 @@
       "label": "Forest Creek Should I Buy?",
       "url": "/suburbs/qld/forest-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 54
+      "scoreA": 20,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 15
+      "scoreA": 35,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 51
+      "scoreA": 59,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 46,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 15
     }
   ],
-  "verdict": "Ellendale has a lower overall climate risk score (32/100) compared to Emita (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ellendale has a lower overall climate risk score (34/100) compared to Emita (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ellendale or Emita safer from flooding?",
-      "answer": "Ellendale has a flood risk score of 21/100, while Emita scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ellendale has a flood risk score of 20/100, while Emita scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ellendale scores 30/100 for bushfire risk. Emita scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ellendale scores 35/100 for bushfire risk. Emita scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ellendale or Emita?",
@@ -76,5 +76,15 @@
       "label": "Emita Should I Buy?",
       "url": "/suburbs/tas/emita/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

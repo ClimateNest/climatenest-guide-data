@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 52
+      "scoreA": 31,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 44,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 43
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 28
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 40,
+      "scoreA": 58,
       "scoreB": 46
     },
     {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 21
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 39,
+      "scoreB": 52
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 11
     }
   ],
-  "verdict": "Pagans Flat has a lower overall climate risk score (38/100) compared to Padstow (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pagans Flat has a lower overall climate risk score (30/100) compared to Padstow (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Padstow or Pagans Flat safer from flooding?",
-      "answer": "Padstow has a flood risk score of 54/100, while Pagans Flat scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Padstow has a flood risk score of 31/100, while Pagans Flat scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Padstow scores 56/100 for bushfire risk. Pagans Flat scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Padstow scores 44/100 for bushfire risk. Pagans Flat scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Padstow or Pagans Flat?",
@@ -76,5 +76,15 @@
       "label": "Pagans Flat Should I Buy?",
       "url": "/suburbs/nsw/pagans-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

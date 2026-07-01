@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 54
+      "scoreA": 22,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 55
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 44
-    },
-    {
-      "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 36
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 53,
+      "scoreA": 60,
       "scoreB": 38
     },
     {
+      "name": "Heat",
+      "scoreA": 41,
+      "scoreB": 42
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 34
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 60,
+      "scoreB": 51
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 30
     }
   ],
-  "verdict": "Karara has a lower overall climate risk score (36/100) compared to Karrabin (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Karrabin has a lower overall climate risk score (38/100) compared to Karara (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Karara or Karrabin safer from flooding?",
-      "answer": "Karara has a flood risk score of 50/100, while Karrabin scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Karara has a flood risk score of 22/100, while Karrabin scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Karara scores 21/100 for bushfire risk. Karrabin scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Karara scores 60/100 for bushfire risk. Karrabin scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Karara or Karrabin?",
-      "answer": "Both suburbs have climate considerations. Karara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Karrabin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Karrabin Should I Buy?",
       "url": "/suburbs/qld/karrabin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

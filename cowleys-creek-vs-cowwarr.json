@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 48
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 23,
+      "scoreA": 43,
       "scoreB": 25
     },
     {
+      "name": "Bushfire",
+      "scoreA": 36,
+      "scoreB": 17
+    },
+    {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 53
+      "scoreA": 60,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
       "scoreA": 15,
-      "scoreB": 21
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 21
     }
   ],
-  "verdict": "Cowleys Creek has a lower overall climate risk score (34/100) compared to Cowwarr (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cowwarr has a lower overall climate risk score (29/100) compared to Cowleys Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cowleys Creek or Cowwarr safer from flooding?",
-      "answer": "Cowleys Creek has a flood risk score of 50/100, while Cowwarr scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cowleys Creek has a flood risk score of 43/100, while Cowwarr scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cowleys Creek scores 23/100 for bushfire risk. Cowwarr scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cowleys Creek scores 36/100 for bushfire risk. Cowwarr scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cowleys Creek or Cowwarr?",
-      "answer": "Both suburbs have climate considerations. Cowleys Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cowwarr has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cowwarr Should I Buy?",
       "url": "/suburbs/vic/cowwarr/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

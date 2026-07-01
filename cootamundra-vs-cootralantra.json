@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 30,
-      "scoreB": 57
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 35
+      "scoreA": 59,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 62
+      "scoreA": 50,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 38
+      "scoreA": 25,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 16
     }
   ],
-  "verdict": "Cootamundra has a lower overall climate risk score (32/100) compared to Cootralantra (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cootamundra has a lower overall climate risk score (33/100) compared to Cootralantra (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cootamundra or Cootralantra safer from flooding?",
-      "answer": "Cootamundra has a flood risk score of 30/100, while Cootralantra scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cootamundra has a flood risk score of 30/100, while Cootralantra scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cootamundra scores 15/100 for bushfire risk. Cootralantra scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cootamundra scores 59/100 for bushfire risk. Cootralantra scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cootamundra or Cootralantra?",
@@ -76,5 +76,15 @@
       "label": "Cootralantra Should I Buy?",
       "url": "/suburbs/nsw/cootralantra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

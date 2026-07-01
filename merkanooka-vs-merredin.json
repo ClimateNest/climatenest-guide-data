@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 30
+      "scoreA": 55,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 61
+      "scoreA": 65,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 71
+      "scoreA": 48,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 40,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 12
+      "scoreA": 26,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 15
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Merkanooka has a lower overall climate risk score (31/100) compared to Merredin (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Merredin has a lower overall climate risk score (40/100) compared to Merkanooka (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Merkanooka or Merredin safer from flooding?",
-      "answer": "Merkanooka has a flood risk score of 22/100, while Merredin scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Merkanooka has a flood risk score of 55/100, while Merredin scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Merkanooka scores 64/100 for bushfire risk. Merredin scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Merkanooka scores 65/100 for bushfire risk. Merredin scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Merkanooka or Merredin?",
-      "answer": "Both suburbs have climate considerations. Merkanooka has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Merredin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Merredin Should I Buy?",
       "url": "/suburbs/wa/merredin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

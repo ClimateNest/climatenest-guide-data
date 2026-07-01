@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 45,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 34
+      "scoreA": 62,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 72
+      "scoreA": 77,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 24,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 30
+      "scoreA": 12,
+      "scoreB": 22
     }
   ],
-  "verdict": "St Kitts has a lower overall climate risk score (36/100) compared to St Marys (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "St Kitts has a lower overall climate risk score (41/100) compared to St Marys (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is St Kitts or St Marys safer from flooding?",
-      "answer": "St Kitts has a flood risk score of 21/100, while St Marys scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Kitts has a flood risk score of 45/100, while St Marys scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Kitts scores 65/100 for bushfire risk. St Marys scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Kitts scores 62/100 for bushfire risk. St Marys scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Kitts or St Marys?",
@@ -76,5 +76,15 @@
       "label": "St Marys Should I Buy?",
       "url": "/suburbs/sa/st-marys/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 36
+      "scoreA": 48,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
+      "scoreA": 59,
       "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 52
+      "scoreA": 73,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 40
+      "scoreA": 36,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 26,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 25
     }
   ],
-  "verdict": "Coomandook has a lower overall climate risk score (34/100) compared to Coombe (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Coombe has a lower overall climate risk score (37/100) compared to Coomandook (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Coomandook or Coombe safer from flooding?",
-      "answer": "Coomandook has a flood risk score of 56/100, while Coombe scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coomandook has a flood risk score of 48/100, while Coombe scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coomandook scores 33/100 for bushfire risk. Coombe scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coomandook scores 59/100 for bushfire risk. Coombe scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coomandook or Coombe?",
-      "answer": "Both suburbs have climate considerations. Coomandook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Coombe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Coombe Should I Buy?",
       "url": "/suburbs/sa/coombe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

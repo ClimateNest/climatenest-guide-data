@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 25,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 64
+      "scoreA": 56,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
+      "scoreA": 24,
       "scoreB": 15
     }
   ],
-  "verdict": "Coonooer West has a lower overall climate risk score (37/100) compared to Cooriemungle (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coonooer West has a lower overall climate risk score (30/100) compared to Cooriemungle (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coonooer West or Cooriemungle safer from flooding?",
-      "answer": "Coonooer West has a flood risk score of 40/100, while Cooriemungle scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coonooer West has a flood risk score of 30/100, while Cooriemungle scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coonooer West scores 28/100 for bushfire risk. Cooriemungle scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coonooer West scores 25/100 for bushfire risk. Cooriemungle scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coonooer West or Cooriemungle?",
@@ -76,5 +76,15 @@
       "label": "Cooriemungle Should I Buy?",
       "url": "/suburbs/vic/cooriemungle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

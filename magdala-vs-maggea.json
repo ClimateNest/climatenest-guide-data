@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 39
+      "scoreA": 27,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 15,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 54
+      "scoreA": 67,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 19,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 28,
+      "scoreB": 29
     }
   ],
-  "verdict": "Magdala has a lower overall climate risk score (35/100) compared to Maggea (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Magdala has a lower overall climate risk score (30/100) compared to Maggea (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Magdala or Maggea safer from flooding?",
-      "answer": "Magdala has a flood risk score of 34/100, while Maggea scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Magdala has a flood risk score of 27/100, while Maggea scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Magdala scores 30/100 for bushfire risk. Maggea scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Magdala scores 15/100 for bushfire risk. Maggea scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Magdala or Maggea?",
@@ -76,5 +76,15 @@
       "label": "Maggea Should I Buy?",
       "url": "/suburbs/sa/maggea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

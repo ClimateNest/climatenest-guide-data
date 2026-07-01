@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 45
+      "scoreA": 57,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 66
+      "scoreA": 69,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 30
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Balliang East has a lower overall climate risk score (35/100) compared to Ballyrogan (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balliang East has a lower overall climate risk score (34/100) compared to Ballyrogan (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Balliang East or Ballyrogan safer from flooding?",
-      "answer": "Balliang East has a flood risk score of 32/100, while Ballyrogan scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balliang East has a flood risk score of 22/100, while Ballyrogan scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balliang East scores 40/100 for bushfire risk. Ballyrogan scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balliang East scores 57/100 for bushfire risk. Ballyrogan scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balliang East or Ballyrogan?",
@@ -76,5 +76,15 @@
       "label": "Ballyrogan Should I Buy?",
       "url": "/suburbs/vic/ballyrogan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

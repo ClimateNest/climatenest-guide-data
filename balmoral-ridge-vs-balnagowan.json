@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 38
+      "scoreA": 25,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 57
+      "scoreA": 48,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 28
+      "scoreA": 42,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 10
     }
   ],
-  "verdict": "Balnagowan has a lower overall climate risk score (39/100) compared to Balmoral Ridge (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balnagowan has a lower overall climate risk score (30/100) compared to Balmoral Ridge (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Balmoral Ridge or Balnagowan safer from flooding?",
-      "answer": "Balmoral Ridge has a flood risk score of 56/100, while Balnagowan scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balmoral Ridge has a flood risk score of 25/100, while Balnagowan scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balmoral Ridge scores 42/100 for bushfire risk. Balnagowan scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balmoral Ridge scores 48/100 for bushfire risk. Balnagowan scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balmoral Ridge or Balnagowan?",
@@ -76,5 +76,15 @@
       "label": "Balnagowan Should I Buy?",
       "url": "/suburbs/qld/balnagowan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3251,
+    "projected2030": 4552,
+    "projected2050": 8453
+  },
+  "valueImpact": {
+    "dragPercent": 0.03,
+    "description": "Properties in this area may face a 0.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

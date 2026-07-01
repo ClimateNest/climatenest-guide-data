@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 55
+      "scoreA": 49,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 47
+      "scoreA": 77,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 26
+      "scoreA": 37,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 10,
+      "scoreB": 15
     }
   ],
-  "verdict": "Bulyeroi has a lower overall climate risk score (31/100) compared to Bullio (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bulyeroi has a lower overall climate risk score (31/100) compared to Bullio (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bullio or Bulyeroi safer from flooding?",
-      "answer": "Bullio has a flood risk score of 25/100, while Bulyeroi scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bullio has a flood risk score of 26/100, while Bulyeroi scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bullio scores 36/100 for bushfire risk. Bulyeroi scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bullio scores 49/100 for bushfire risk. Bulyeroi scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bullio or Bulyeroi?",
@@ -76,5 +76,15 @@
       "label": "Bulyeroi Should I Buy?",
       "url": "/suburbs/nsw/bulyeroi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

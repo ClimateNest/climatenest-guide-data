@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
       "scoreA": 52,
-      "scoreB": 55
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 54
+      "scoreA": 45,
+      "scoreB": 55
     },
     {
       "name": "Storm",
       "scoreA": 31,
-      "scoreB": 32
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 55,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Yagon has a lower overall climate risk score (38/100) compared to Yabbra (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Yabbra has a lower overall climate risk score (38/100) compared to Yagon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yabbra or Yagon safer from flooding?",
-      "answer": "Yabbra has a flood risk score of 58/100, while Yagon scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yabbra has a flood risk score of 30/100, while Yagon scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yabbra scores 52/100 for bushfire risk. Yagon scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yabbra scores 52/100 for bushfire risk. Yagon scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yabbra or Yagon?",
-      "answer": "Both suburbs have climate considerations. Yagon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yabbra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yagon Should I Buy?",
       "url": "/suburbs/nsw/yagon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

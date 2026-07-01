@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
+      "scoreA": 42,
       "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 58
+      "scoreA": 47,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 49
+      "scoreA": 44,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 17
     }
   ],
-  "verdict": "Ilfracombe has a lower overall climate risk score (38/100) compared to Ilbilbie (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ilfracombe has a lower overall climate risk score (26/100) compared to Ilbilbie (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ilbilbie or Ilfracombe safer from flooding?",
-      "answer": "Ilbilbie has a flood risk score of 40/100, while Ilfracombe scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ilbilbie has a flood risk score of 42/100, while Ilfracombe scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ilbilbie scores 59/100 for bushfire risk. Ilfracombe scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ilbilbie scores 47/100 for bushfire risk. Ilfracombe scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ilbilbie or Ilfracombe?",
@@ -76,5 +76,15 @@
       "label": "Ilfracombe Should I Buy?",
       "url": "/suburbs/qld/ilfracombe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

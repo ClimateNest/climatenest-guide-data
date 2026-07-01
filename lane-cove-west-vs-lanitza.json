@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 56
+      "scoreA": 57,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 37
+      "scoreA": 65,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 64,
+      "scoreA": 63,
       "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 21,
       "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 57
+      "scoreA": 54,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 16
     }
   ],
-  "verdict": "Lane Cove West has a lower overall climate risk score (35/100) compared to Lanitza (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Lanitza has a lower overall climate risk score (42/100) compared to Lane Cove West (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lane Cove West or Lanitza safer from flooding?",
-      "answer": "Lane Cove West has a flood risk score of 41/100, while Lanitza scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lane Cove West has a flood risk score of 57/100, while Lanitza scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lane Cove West scores 16/100 for bushfire risk. Lanitza scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lane Cove West scores 65/100 for bushfire risk. Lanitza scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lane Cove West or Lanitza?",
-      "answer": "Both suburbs have climate considerations. Lane Cove West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lanitza has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lanitza Should I Buy?",
       "url": "/suburbs/nsw/lanitza/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4453,
+    "projected2030": 6234,
+    "projected2050": 11577
+  },
+  "valueImpact": {
+    "dragPercent": 2.68,
+    "description": "Properties in this area may face a 2.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

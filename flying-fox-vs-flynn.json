@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 50
+      "scoreA": 21,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 47
+      "scoreA": 34,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 19
+      "scoreA": 17,
+      "scoreB": 9
     }
   ],
-  "verdict": "Flying Fox has a lower overall climate risk score (28/100) compared to Flynn (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Flying Fox has a lower overall climate risk score (26/100) compared to Flynn (26/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Flying Fox or Flynn safer from flooding?",
-      "answer": "Flying Fox has a flood risk score of 22/100, while Flynn scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Flying Fox has a flood risk score of 21/100, while Flynn scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Flying Fox scores 61/100 for bushfire risk. Flynn scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Flying Fox scores 29/100 for bushfire risk. Flynn scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Flying Fox or Flynn?",
@@ -76,5 +76,15 @@
       "label": "Flynn Should I Buy?",
       "url": "/suburbs/nt/flynn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 2968,
+    "projected2030": 4155,
+    "projected2050": 7717
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 24
+      "scoreA": 44,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 57
+      "scoreA": 28,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 62
+      "scoreA": 77,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 21
+      "scoreA": 16,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 11
     }
   ],
-  "verdict": "Highbury has a lower overall climate risk score (34/100) compared to Hewett (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Highbury has a lower overall climate risk score (33/100) compared to Hewett (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hewett or Highbury safer from flooding?",
-      "answer": "Hewett has a flood risk score of 50/100, while Highbury scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hewett has a flood risk score of 44/100, while Highbury scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hewett scores 31/100 for bushfire risk. Highbury scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hewett scores 28/100 for bushfire risk. Highbury scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hewett or Highbury?",
@@ -76,5 +76,15 @@
       "label": "Highbury Should I Buy?",
       "url": "/suburbs/sa/highbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

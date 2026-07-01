@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 42
+      "scoreA": 41,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 33
+      "scoreA": 47,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 47
-    },
-    {
-      "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 68,
       "scoreB": 50
     },
     {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 34
+    },
+    {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 31
+      "scoreA": 37,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 27
     }
   ],
-  "verdict": "East Lismore has a lower overall climate risk score (39/100) compared to East Kurrajong (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "East Kurrajong has a lower overall climate risk score (43/100) compared to East Lismore (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is East Kurrajong or East Lismore safer from flooding?",
-      "answer": "East Kurrajong has a flood risk score of 58/100, while East Lismore scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Kurrajong has a flood risk score of 41/100, while East Lismore scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Kurrajong scores 49/100 for bushfire risk. East Lismore scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Kurrajong scores 47/100 for bushfire risk. East Lismore scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Kurrajong or East Lismore?",
-      "answer": "Both suburbs have climate considerations. East Lismore has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. East Kurrajong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "East Lismore Should I Buy?",
       "url": "/suburbs/nsw/east-lismore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

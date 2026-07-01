@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 21
+      "scoreA": 54,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 55
+      "scoreA": 26,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 56
+      "scoreA": 71,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 29,
+      "scoreA": 23,
       "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 27
+      "scoreA": 26,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Gardners Bay has a lower overall climate risk score (33/100) compared to Gawler (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gardners Bay has a lower overall climate risk score (36/100) compared to Gawler (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gardners Bay or Gawler safer from flooding?",
-      "answer": "Gardners Bay has a flood risk score of 59/100, while Gawler scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gardners Bay has a flood risk score of 54/100, while Gawler scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gardners Bay scores 19/100 for bushfire risk. Gawler scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gardners Bay scores 26/100 for bushfire risk. Gawler scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gardners Bay or Gawler?",
@@ -76,5 +76,15 @@
       "label": "Gawler Should I Buy?",
       "url": "/suburbs/tas/gawler/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

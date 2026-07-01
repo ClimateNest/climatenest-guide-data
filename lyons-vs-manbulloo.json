@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 31
+      "scoreA": 60,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 21
+      "scoreA": 47,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 38
+      "scoreA": 46,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 43
+      "scoreA": 30,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 9
+      "scoreA": 12,
+      "scoreB": 20
     }
   ],
-  "verdict": "Lyons has a lower overall climate risk score (27/100) compared to Manbulloo (28/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lyons has a lower overall climate risk score (35/100) compared to Manbulloo (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lyons or Manbulloo safer from flooding?",
-      "answer": "Lyons has a flood risk score of 26/100, while Manbulloo scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lyons has a flood risk score of 60/100, while Manbulloo scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lyons scores 17/100 for bushfire risk. Manbulloo scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lyons scores 47/100 for bushfire risk. Manbulloo scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lyons or Manbulloo?",
@@ -76,5 +76,15 @@
       "label": "Manbulloo Should I Buy?",
       "url": "/suburbs/nt/manbulloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

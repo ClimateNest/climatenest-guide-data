@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 31
+      "scoreA": 47,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 31
+      "scoreA": 42,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 77
+      "scoreA": 51,
+      "scoreB": 67
     },
     {
       "name": "Storm",
       "scoreA": 39,
-      "scoreB": 24
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "Bravington has a lower overall climate risk score (35/100) compared to Brandy Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bravington has a lower overall climate risk score (29/100) compared to Brandy Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Brandy Creek or Bravington safer from flooding?",
-      "answer": "Brandy Creek has a flood risk score of 38/100, while Bravington scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brandy Creek has a flood risk score of 47/100, while Bravington scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brandy Creek scores 43/100 for bushfire risk. Bravington scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brandy Creek scores 42/100 for bushfire risk. Bravington scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brandy Creek or Bravington?",
@@ -76,5 +76,15 @@
       "label": "Bravington Should I Buy?",
       "url": "/suburbs/vic/bravington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

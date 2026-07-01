@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 55
+      "scoreA": 55,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 52
+      "scoreA": 32,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 74
+      "scoreA": 78,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 21
+      "scoreA": 49,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 19
+      "scoreA": 13,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 26
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Worrowing has a lower overall climate risk score (41/100) compared to Woosang (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Woosang has a lower overall climate risk score (40/100) compared to Worrowing (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woosang or Worrowing safer from flooding?",
-      "answer": "Woosang has a flood risk score of 60/100, while Worrowing scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woosang has a flood risk score of 55/100, while Worrowing scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woosang scores 49/100 for bushfire risk. Worrowing scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woosang scores 32/100 for bushfire risk. Worrowing scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woosang or Worrowing?",
-      "answer": "Both suburbs have climate considerations. Worrowing has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Woosang has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Worrowing Should I Buy?",
       "url": "/suburbs/vic/worrowing/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

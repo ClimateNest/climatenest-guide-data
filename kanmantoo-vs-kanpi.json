@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
+      "scoreA": 30,
       "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 41
+      "scoreA": 34,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 35
+      "scoreA": 53,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 33
+      "scoreA": 39,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Kanpi has a lower overall climate risk score (30/100) compared to Kanmantoo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kanpi has a lower overall climate risk score (31/100) compared to Kanmantoo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kanmantoo or Kanpi safer from flooding?",
-      "answer": "Kanmantoo has a flood risk score of 38/100, while Kanpi scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kanmantoo has a flood risk score of 30/100, while Kanpi scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kanmantoo scores 36/100 for bushfire risk. Kanpi scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kanmantoo scores 34/100 for bushfire risk. Kanpi scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kanmantoo or Kanpi?",
@@ -76,5 +76,15 @@
       "label": "Kanpi Should I Buy?",
       "url": "/suburbs/sa/kanpi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

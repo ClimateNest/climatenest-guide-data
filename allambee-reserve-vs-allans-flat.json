@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 30
+      "scoreA": 40,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 39,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 77
+      "scoreA": 61,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 43
+      "scoreA": 44,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 29
     }
   ],
-  "verdict": "Allambee Reserve has a lower overall climate risk score (30/100) compared to Allans Flat (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Allambee Reserve has a lower overall climate risk score (35/100) compared to Allans Flat (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Allambee Reserve or Allans Flat safer from flooding?",
-      "answer": "Allambee Reserve has a flood risk score of 29/100, while Allans Flat scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Allambee Reserve has a flood risk score of 40/100, while Allans Flat scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Allambee Reserve scores 26/100 for bushfire risk. Allans Flat scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Allambee Reserve scores 39/100 for bushfire risk. Allans Flat scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Allambee Reserve or Allans Flat?",
@@ -76,5 +76,15 @@
       "label": "Allans Flat Should I Buy?",
       "url": "/suburbs/vic/allans-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

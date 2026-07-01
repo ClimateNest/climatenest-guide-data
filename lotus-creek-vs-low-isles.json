@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 29
+      "scoreA": 55,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 50
+      "scoreA": 26,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 37
+      "scoreA": 32,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 22
+      "scoreA": 19,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 9
     }
   ],
-  "verdict": "Lotus Creek has a lower overall climate risk score (30/100) compared to Low Isles (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Low Isles has a lower overall climate risk score (31/100) compared to Lotus Creek (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lotus Creek or Low Isles safer from flooding?",
-      "answer": "Lotus Creek has a flood risk score of 44/100, while Low Isles scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lotus Creek has a flood risk score of 55/100, while Low Isles scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lotus Creek scores 25/100 for bushfire risk. Low Isles scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lotus Creek scores 26/100 for bushfire risk. Low Isles scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lotus Creek or Low Isles?",
-      "answer": "Both suburbs have climate considerations. Lotus Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Low Isles has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Low Isles Should I Buy?",
       "url": "/suburbs/qld/low-isles/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

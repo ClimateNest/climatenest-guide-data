@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 30,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 20
+      "scoreA": 62,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 80
+      "scoreA": 70,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 45
+      "scoreA": 37,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 15,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Blanchetown has a lower overall climate risk score (32/100) compared to Bletchley (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Blanchetown has a lower overall climate risk score (40/100) compared to Bletchley (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Blanchetown or Bletchley safer from flooding?",
-      "answer": "Blanchetown has a flood risk score of 22/100, while Bletchley scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blanchetown has a flood risk score of 30/100, while Bletchley scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blanchetown scores 26/100 for bushfire risk. Bletchley scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blanchetown scores 62/100 for bushfire risk. Bletchley scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blanchetown or Bletchley?",
@@ -76,5 +76,15 @@
       "label": "Bletchley Should I Buy?",
       "url": "/suburbs/sa/bletchley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

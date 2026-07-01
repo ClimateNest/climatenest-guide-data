@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 22
+      "scoreA": 38,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 60
+      "scoreA": 45,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 63
+      "scoreA": 67,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 26
+      "scoreA": 39,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
       "scoreA": 22,
-      "scoreB": 14
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Wyalong has a lower overall climate risk score (33/100) compared to Wuuluman (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wyalong has a lower overall climate risk score (35/100) compared to Wuuluman (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wuuluman or Wyalong safer from flooding?",
-      "answer": "Wuuluman has a flood risk score of 58/100, while Wyalong scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wuuluman has a flood risk score of 38/100, while Wyalong scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wuuluman scores 35/100 for bushfire risk. Wyalong scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wuuluman scores 45/100 for bushfire risk. Wyalong scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wuuluman or Wyalong?",
@@ -76,5 +76,15 @@
       "label": "Wyalong Should I Buy?",
       "url": "/suburbs/nsw/wyalong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

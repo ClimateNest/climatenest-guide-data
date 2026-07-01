@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 44
+      "scoreA": 52,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 39,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 70
+      "scoreA": 77,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 23
+      "scoreA": 34,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
-  "verdict": "High Camp has a lower overall climate risk score (34/100) compared to Highlands (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Highlands has a lower overall climate risk score (29/100) compared to High Camp (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is High Camp or Highlands safer from flooding?",
-      "answer": "High Camp has a flood risk score of 42/100, while Highlands scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "High Camp has a flood risk score of 52/100, while Highlands scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "High Camp scores 16/100 for bushfire risk. Highlands scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "High Camp scores 39/100 for bushfire risk. Highlands scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in High Camp or Highlands?",
-      "answer": "Both suburbs have climate considerations. High Camp has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Highlands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Highlands Should I Buy?",
       "url": "/suburbs/vic/highlands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

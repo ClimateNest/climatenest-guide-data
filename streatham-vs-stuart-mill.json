@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 56
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 80
+      "scoreA": 59,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 44
+      "scoreA": 48,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 28
     }
   ],
-  "verdict": "Streatham has a lower overall climate risk score (37/100) compared to Stuart Mill (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Streatham has a lower overall climate risk score (35/100) compared to Stuart Mill (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Streatham or Stuart Mill safer from flooding?",
-      "answer": "Streatham has a flood risk score of 35/100, while Stuart Mill scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Streatham has a flood risk score of 26/100, while Stuart Mill scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Streatham scores 40/100 for bushfire risk. Stuart Mill scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Streatham scores 26/100 for bushfire risk. Stuart Mill scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Streatham or Stuart Mill?",
@@ -76,5 +76,15 @@
       "label": "Stuart Mill Should I Buy?",
       "url": "/suburbs/vic/stuart-mill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

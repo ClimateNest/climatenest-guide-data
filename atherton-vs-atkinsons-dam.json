@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 27
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 15
+      "scoreA": 37,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 50
+      "scoreA": 50,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 46,
+      "scoreA": 20,
       "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 48
+      "scoreA": 24,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 12
     }
   ],
-  "verdict": "Atkinsons Dam has a lower overall climate risk score (31/100) compared to Atherton (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Atherton has a lower overall climate risk score (31/100) compared to Atkinsons Dam (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Atherton or Atkinsons Dam safer from flooding?",
-      "answer": "Atherton has a flood risk score of 46/100, while Atkinsons Dam scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Atherton has a flood risk score of 40/100, while Atkinsons Dam scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Atherton scores 56/100 for bushfire risk. Atkinsons Dam scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Atherton scores 37/100 for bushfire risk. Atkinsons Dam scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Atherton or Atkinsons Dam?",
-      "answer": "Both suburbs have climate considerations. Atkinsons Dam has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Atherton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Atkinsons Dam Should I Buy?",
       "url": "/suburbs/qld/atkinsons-dam/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
+      "scoreA": 53,
       "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 44,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 57
+      "scoreA": 73,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 28
+      "scoreA": 27,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 15
+      "scoreA": 27,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 17,
+      "scoreB": 26
     }
   ],
-  "verdict": "Kernot has a lower overall climate risk score (31/100) compared to Kergunyah South (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kernot has a lower overall climate risk score (34/100) compared to Kergunyah South (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kergunyah South or Kernot safer from flooding?",
-      "answer": "Kergunyah South has a flood risk score of 27/100, while Kernot scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kergunyah South has a flood risk score of 53/100, while Kernot scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kergunyah South scores 16/100 for bushfire risk. Kernot scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kergunyah South scores 44/100 for bushfire risk. Kernot scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kergunyah South or Kernot?",
@@ -76,5 +76,15 @@
       "label": "Kernot Should I Buy?",
       "url": "/suburbs/vic/kernot/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

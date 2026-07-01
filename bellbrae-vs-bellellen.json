@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 42
+      "scoreA": 25,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 64
+      "scoreA": 56,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 62
+      "scoreA": 70,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 36
+      "scoreA": 36,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 17
     }
   ],
-  "verdict": "Bellellen has a lower overall climate risk score (42/100) compared to Bellbrae (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bellellen has a lower overall climate risk score (36/100) compared to Bellbrae (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bellbrae or Bellellen safer from flooding?",
-      "answer": "Bellbrae has a flood risk score of 58/100, while Bellellen scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellbrae has a flood risk score of 25/100, while Bellellen scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellbrae scores 62/100 for bushfire risk. Bellellen scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellbrae scores 56/100 for bushfire risk. Bellellen scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellbrae or Bellellen?",
@@ -76,5 +76,15 @@
       "label": "Bellellen Should I Buy?",
       "url": "/suburbs/vic/bellellen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

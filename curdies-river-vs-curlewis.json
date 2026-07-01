@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 57
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 43
+      "scoreA": 31,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 72
+      "scoreA": 54,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 48
+      "scoreA": 21,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 13
     }
   ],
-  "verdict": "Curdies River has a lower overall climate risk score (38/100) compared to Curlewis (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Curdies River has a lower overall climate risk score (31/100) compared to Curlewis (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Curdies River or Curlewis safer from flooding?",
-      "answer": "Curdies River has a flood risk score of 57/100, while Curlewis scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Curdies River has a flood risk score of 48/100, while Curlewis scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Curdies River scores 30/100 for bushfire risk. Curlewis scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Curdies River scores 31/100 for bushfire risk. Curlewis scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Curdies River or Curlewis?",
@@ -76,5 +76,15 @@
       "label": "Curlewis Should I Buy?",
       "url": "/suburbs/vic/curlewis/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

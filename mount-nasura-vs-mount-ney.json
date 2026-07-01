@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 28
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 33
-    },
-    {
-      "name": "Heat",
-      "scoreA": 80,
+      "scoreA": 57,
       "scoreB": 59
     },
     {
+      "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 42
+    },
+    {
+      "name": "Heat",
+      "scoreA": 73,
+      "scoreB": 56
+    },
+    {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 40
+      "scoreA": 34,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 21
     }
   ],
-  "verdict": "Mount Nasura has a lower overall climate risk score (33/100) compared to Mount Ney (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Ney has a lower overall climate risk score (36/100) compared to Mount Nasura (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Nasura or Mount Ney safer from flooding?",
-      "answer": "Mount Nasura has a flood risk score of 29/100, while Mount Ney scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Nasura has a flood risk score of 57/100, while Mount Ney scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Nasura scores 21/100 for bushfire risk. Mount Ney scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Nasura scores 37/100 for bushfire risk. Mount Ney scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Nasura or Mount Ney?",
-      "answer": "Both suburbs have climate considerations. Mount Nasura has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Ney has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Ney Should I Buy?",
       "url": "/suburbs/wa/mount-ney/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

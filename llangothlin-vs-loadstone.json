@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 52
+      "scoreA": 38,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 35
+      "scoreA": 71,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 40,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 42
+      "scoreA": 34,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 22
     }
   ],
-  "verdict": "Loadstone has a lower overall climate risk score (40/100) compared to Llangothlin (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Llangothlin and Loadstone have similar overall climate risk scores.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Llangothlin or Loadstone safer from flooding?",
-      "answer": "Llangothlin has a flood risk score of 48/100, while Loadstone scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Llangothlin has a flood risk score of 40/100, while Loadstone scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Llangothlin scores 49/100 for bushfire risk. Loadstone scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Llangothlin scores 38/100 for bushfire risk. Loadstone scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Llangothlin or Loadstone?",
-      "answer": "Both suburbs have climate considerations. Loadstone has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Llangothlin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Loadstone Should I Buy?",
       "url": "/suburbs/nsw/loadstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

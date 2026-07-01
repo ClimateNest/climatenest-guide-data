@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 42,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 40
+      "scoreA": 41,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 65
+      "scoreA": 59,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 37
+      "scoreA": 27,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 29,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 18
     }
   ],
-  "verdict": "Midland has a lower overall climate risk score (35/100) compared to Middlesex (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Midland has a lower overall climate risk score (35/100) compared to Middlesex (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Middlesex or Midland safer from flooding?",
-      "answer": "Middlesex has a flood risk score of 41/100, while Midland scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Middlesex has a flood risk score of 42/100, while Midland scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Middlesex scores 59/100 for bushfire risk. Midland scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Middlesex scores 41/100 for bushfire risk. Midland scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Middlesex or Midland?",
@@ -76,5 +76,15 @@
       "label": "Midland Should I Buy?",
       "url": "/suburbs/wa/midland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

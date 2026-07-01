@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 47
+      "scoreA": 56,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 54
+      "scoreA": 27,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 47
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 35
+      "scoreA": 14,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 5,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 24
     }
   ],
-  "verdict": "East Palmerston has a lower overall climate risk score (35/100) compared to East Toowoomba (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Palmerston has a lower overall climate risk score (28/100) compared to East Toowoomba (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Palmerston or East Toowoomba safer from flooding?",
-      "answer": "East Palmerston has a flood risk score of 39/100, while East Toowoomba scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Palmerston has a flood risk score of 56/100, while East Toowoomba scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Palmerston scores 64/100 for bushfire risk. East Toowoomba scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Palmerston scores 27/100 for bushfire risk. East Toowoomba scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Palmerston or East Toowoomba?",
@@ -76,5 +76,15 @@
       "label": "East Toowoomba Should I Buy?",
       "url": "/suburbs/qld/east-toowoomba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

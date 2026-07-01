@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 50
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
-      "scoreA": 31,
+      "scoreA": 17,
       "scoreB": 49
     },
     {
+      "name": "Heat",
+      "scoreA": 33,
+      "scoreB": 31
+    },
+    {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 37
+    },
+    {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
+      "scoreA": 7,
       "scoreB": 13
     }
   ],
-  "verdict": "Palmer has a lower overall climate risk score (32/100) compared to Palmerston (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Palmer has a lower overall climate risk score (28/100) compared to Palmerston (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Palmer or Palmerston safer from flooding?",
-      "answer": "Palmer has a flood risk score of 29/100, while Palmerston scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palmer has a flood risk score of 46/100, while Palmerston scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palmer scores 46/100 for bushfire risk. Palmerston scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palmer scores 17/100 for bushfire risk. Palmerston scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palmer or Palmerston?",
@@ -76,5 +76,15 @@
       "label": "Palmerston Should I Buy?",
       "url": "/suburbs/qld/palmerston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3285,
+    "projected2030": 4599,
+    "projected2050": 8542
+  },
+  "valueImpact": {
+    "dragPercent": 0.1,
+    "description": "Properties in this area may face a 0.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 34
+      "scoreA": 24,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 45
+      "scoreA": 45,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 78
+      "scoreA": 74,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 42
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "Indi has a lower overall climate risk score (33/100) compared to Ingebirah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Indi has a lower overall climate risk score (34/100) compared to Ingebirah (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Indi or Ingebirah safer from flooding?",
-      "answer": "Indi has a flood risk score of 32/100, while Ingebirah scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Indi has a flood risk score of 24/100, while Ingebirah scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Indi scores 24/100 for bushfire risk. Ingebirah scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Indi scores 45/100 for bushfire risk. Ingebirah scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Indi or Ingebirah?",
@@ -76,5 +76,15 @@
       "label": "Ingebirah Should I Buy?",
       "url": "/suburbs/nsw/ingebirah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

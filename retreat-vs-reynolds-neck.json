@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 45
+      "scoreA": 35,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 44
+      "scoreA": 32,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 66
+      "scoreA": 62,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 28
     }
   ],
-  "verdict": "Retreat has a lower overall climate risk score (33/100) compared to Reynolds Neck (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Retreat has a lower overall climate risk score (33/100) compared to Reynolds Neck (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Retreat or Reynolds Neck safer from flooding?",
-      "answer": "Retreat has a flood risk score of 24/100, while Reynolds Neck scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Retreat has a flood risk score of 35/100, while Reynolds Neck scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Retreat scores 42/100 for bushfire risk. Reynolds Neck scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Retreat scores 32/100 for bushfire risk. Reynolds Neck scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Retreat or Reynolds Neck?",
@@ -76,5 +76,15 @@
       "label": "Reynolds Neck Should I Buy?",
       "url": "/suburbs/tas/reynolds-neck/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

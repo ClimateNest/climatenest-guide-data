@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 50,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 51
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 38
+      "scoreA": 31,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 47
+      "scoreA": 34,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 23
     }
   ],
-  "verdict": "Mountain Camp has a lower overall climate risk score (30/100) compared to Mountain Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mountain Camp has a lower overall climate risk score (34/100) compared to Mountain Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mountain Camp or Mountain Creek safer from flooding?",
-      "answer": "Mountain Camp has a flood risk score of 27/100, while Mountain Creek scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mountain Camp has a flood risk score of 50/100, while Mountain Creek scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mountain Camp scores 40/100 for bushfire risk. Mountain Creek scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mountain Camp scores 32/100 for bushfire risk. Mountain Creek scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mountain Camp or Mountain Creek?",
@@ -76,5 +76,15 @@
       "label": "Mountain Creek Should I Buy?",
       "url": "/suburbs/qld/mountain-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

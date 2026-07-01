@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 49,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 73
+      "scoreA": 67,
+      "scoreB": 60
     },
     {
       "name": "Storm",
       "scoreA": 33,
-      "scoreB": 48
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 29,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
-  "verdict": "Goornong has a lower overall climate risk score (36/100) compared to Goorambat (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goornong has a lower overall climate risk score (30/100) compared to Goorambat (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Goorambat or Goornong safer from flooding?",
-      "answer": "Goorambat has a flood risk score of 27/100, while Goornong scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goorambat has a flood risk score of 49/100, while Goornong scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goorambat scores 60/100 for bushfire risk. Goornong scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goorambat scores 22/100 for bushfire risk. Goornong scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goorambat or Goornong?",
@@ -76,5 +76,15 @@
       "label": "Goornong Should I Buy?",
       "url": "/suburbs/vic/goornong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

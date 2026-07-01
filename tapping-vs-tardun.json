@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 58
+      "scoreA": 59,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 46
+      "scoreA": 50,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 44
+      "scoreA": 67,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 21,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 15,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "Tardun has a lower overall climate risk score (38/100) compared to Tapping (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tardun has a lower overall climate risk score (36/100) compared to Tapping (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tapping or Tardun safer from flooding?",
-      "answer": "Tapping has a flood risk score of 58/100, while Tardun scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tapping has a flood risk score of 59/100, while Tardun scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tapping scores 51/100 for bushfire risk. Tardun scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tapping scores 50/100 for bushfire risk. Tardun scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tapping or Tardun?",
@@ -76,5 +76,15 @@
       "label": "Tardun Should I Buy?",
       "url": "/suburbs/wa/tardun/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 27
+      "scoreA": 56,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 20
+      "scoreA": 58,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 35,
+      "scoreA": 47,
       "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 29
+      "scoreA": 45,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 60,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 17
+      "scoreA": 29,
+      "scoreB": 14
     }
   ],
-  "verdict": "Ironpot has a lower overall climate risk score (30/100) compared to Ironbark (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ironpot has a lower overall climate risk score (31/100) compared to Ironbark (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ironbark or Ironpot safer from flooding?",
-      "answer": "Ironbark has a flood risk score of 38/100, while Ironpot scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ironbark has a flood risk score of 56/100, while Ironpot scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ironbark scores 56/100 for bushfire risk. Ironpot scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ironbark scores 58/100 for bushfire risk. Ironpot scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ironbark or Ironpot?",
@@ -76,5 +76,15 @@
       "label": "Ironpot Should I Buy?",
       "url": "/suburbs/qld/ironpot/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4543,
+    "projected2030": 6361,
+    "projected2050": 11813
+  },
+  "valueImpact": {
+    "dragPercent": 2.88,
+    "description": "Properties in this area may face a 2.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

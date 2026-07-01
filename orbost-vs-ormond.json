@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 25
+      "scoreA": 50,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 66
+      "scoreA": 52,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 21
+      "scoreA": 10,
+      "scoreB": 20
     }
   ],
-  "verdict": "Ormond has a lower overall climate risk score (35/100) compared to Orbost (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Orbost has a lower overall climate risk score (31/100) compared to Ormond (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Orbost or Ormond safer from flooding?",
-      "answer": "Orbost has a flood risk score of 51/100, while Ormond scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Orbost has a flood risk score of 32/100, while Ormond scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Orbost scores 62/100 for bushfire risk. Ormond scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Orbost scores 50/100 for bushfire risk. Ormond scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Orbost or Ormond?",
-      "answer": "Both suburbs have climate considerations. Ormond has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Orbost has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ormond Should I Buy?",
       "url": "/suburbs/vic/ormond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

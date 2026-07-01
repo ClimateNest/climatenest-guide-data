@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 53
+      "scoreA": 29,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 64
+      "scoreA": 60,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 70
+      "scoreA": 78,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 42
+      "scoreA": 26,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
       "scoreA": 27,
-      "scoreB": 47
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 17
     }
   ],
-  "verdict": "Wisemans Creek has a lower overall climate risk score (30/100) compared to Wittitrin (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Wittitrin has a lower overall climate risk score (39/100) compared to Wisemans Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wisemans Creek or Wittitrin safer from flooding?",
-      "answer": "Wisemans Creek has a flood risk score of 26/100, while Wittitrin scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wisemans Creek has a flood risk score of 29/100, while Wittitrin scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wisemans Creek scores 20/100 for bushfire risk. Wittitrin scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wisemans Creek scores 60/100 for bushfire risk. Wittitrin scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wisemans Creek or Wittitrin?",
-      "answer": "Both suburbs have climate considerations. Wisemans Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wittitrin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wittitrin Should I Buy?",
       "url": "/suburbs/nsw/wittitrin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 43
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 53,
+      "scoreA": 59,
       "scoreB": 20
     },
     {
+      "name": "Bushfire",
+      "scoreA": 31,
+      "scoreB": 51
+    },
+    {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 78
+      "scoreA": 71,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 10,
+      "scoreB": 11
     }
   ],
-  "verdict": "Walpa has a lower overall climate risk score (36/100) compared to Wallup (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Walpa has a lower overall climate risk score (38/100) compared to Wallup (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wallup or Walpa safer from flooding?",
-      "answer": "Wallup has a flood risk score of 53/100, while Walpa scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wallup has a flood risk score of 59/100, while Walpa scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wallup scores 53/100 for bushfire risk. Walpa scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wallup scores 31/100 for bushfire risk. Walpa scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wallup or Walpa?",
@@ -76,5 +76,15 @@
       "label": "Walpa Should I Buy?",
       "url": "/suburbs/vic/walpa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

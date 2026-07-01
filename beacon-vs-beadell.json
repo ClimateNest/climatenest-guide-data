@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 51
+      "scoreA": 30,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 60
+      "scoreA": 17,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 48
+      "scoreA": 56,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
       "scoreA": 19,
-      "scoreB": 26
+      "scoreB": 23
     }
   ],
-  "verdict": "Beacon has a lower overall climate risk score (39/100) compared to Beadell (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beacon has a lower overall climate risk score (29/100) compared to Beadell (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Beacon or Beadell safer from flooding?",
-      "answer": "Beacon has a flood risk score of 28/100, while Beadell scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beacon has a flood risk score of 30/100, while Beadell scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beacon scores 54/100 for bushfire risk. Beadell scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beacon scores 17/100 for bushfire risk. Beadell scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beacon or Beadell?",
@@ -76,5 +76,15 @@
       "label": "Beadell Should I Buy?",
       "url": "/suburbs/wa/beadell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

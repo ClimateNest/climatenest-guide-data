@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 55,
-      "scoreB": 40
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 22
+      "scoreA": 50,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 58
+      "scoreA": 50,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 35
+      "scoreA": 20,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Weldborough has a lower overall climate risk score (31/100) compared to Weegena (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Weldborough has a lower overall climate risk score (36/100) compared to Weegena (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Weegena or Weldborough safer from flooding?",
-      "answer": "Weegena has a flood risk score of 55/100, while Weldborough scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Weegena has a flood risk score of 55/100, while Weldborough scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Weegena scores 49/100 for bushfire risk. Weldborough scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Weegena scores 50/100 for bushfire risk. Weldborough scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Weegena or Weldborough?",
@@ -76,5 +76,15 @@
       "label": "Weldborough Should I Buy?",
       "url": "/suburbs/tas/weldborough/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

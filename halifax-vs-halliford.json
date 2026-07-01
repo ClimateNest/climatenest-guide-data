@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 31
+      "scoreA": 28,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 50
+      "scoreA": 33,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 41
+      "scoreA": 32,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 31
+      "scoreA": 23,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 20
     }
   ],
-  "verdict": "Halifax has a lower overall climate risk score (27/100) compared to Halliford (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Halifax has a lower overall climate risk score (29/100) compared to Halliford (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Halifax or Halliford safer from flooding?",
-      "answer": "Halifax has a flood risk score of 27/100, while Halliford scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Halifax has a flood risk score of 28/100, while Halliford scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Halifax scores 27/100 for bushfire risk. Halliford scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Halifax scores 33/100 for bushfire risk. Halliford scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Halifax or Halliford?",
@@ -76,5 +76,15 @@
       "label": "Halliford Should I Buy?",
       "url": "/suburbs/qld/halliford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 57
+      "scoreA": 23,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
+      "scoreA": 50,
       "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 35
+      "scoreA": 53,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 34
+      "scoreA": 48,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 33
+      "scoreA": 29,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 22
     }
   ],
-  "verdict": "Howards Grass has a lower overall climate risk score (36/100) compared to Hovells Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Howards Grass has a lower overall climate risk score (34/100) compared to Hovells Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hovells Creek or Howards Grass safer from flooding?",
-      "answer": "Hovells Creek has a flood risk score of 41/100, while Howards Grass scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hovells Creek has a flood risk score of 23/100, while Howards Grass scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hovells Creek scores 65/100 for bushfire risk. Howards Grass scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hovells Creek scores 50/100 for bushfire risk. Howards Grass scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hovells Creek or Howards Grass?",
@@ -76,5 +76,15 @@
       "label": "Howards Grass Should I Buy?",
       "url": "/suburbs/nsw/howards-grass/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

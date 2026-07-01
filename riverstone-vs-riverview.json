@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 32
+      "scoreA": 37,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 37
+      "scoreA": 25,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 57
+      "scoreA": 56,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 58
+      "scoreA": 31,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 25
     }
   ],
-  "verdict": "Riverstone has a lower overall climate risk score (39/100) compared to Riverview (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Riverstone has a lower overall climate risk score (31/100) compared to Riverview (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Riverstone or Riverview safer from flooding?",
-      "answer": "Riverstone has a flood risk score of 48/100, while Riverview scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Riverstone has a flood risk score of 37/100, while Riverview scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Riverstone scores 19/100 for bushfire risk. Riverview scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Riverstone scores 25/100 for bushfire risk. Riverview scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Riverstone or Riverview?",
@@ -76,5 +76,15 @@
       "label": "Riverview Should I Buy?",
       "url": "/suburbs/nsw/riverview/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4543,
+    "projected2030": 6361,
+    "projected2050": 11813
+  },
+  "valueImpact": {
+    "dragPercent": 2.88,
+    "description": "Properties in this area may face a 2.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

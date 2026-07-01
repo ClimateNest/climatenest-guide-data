@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 55
+      "scoreA": 53,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 72
+      "scoreA": 66,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 24,
+      "scoreB": 17
     }
   ],
-  "verdict": "Winton has a lower overall climate risk score (39/100) compared to Winnindoo (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Winton has a lower overall climate risk score (33/100) compared to Winnindoo (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Winnindoo or Winton safer from flooding?",
-      "answer": "Winnindoo has a flood risk score of 58/100, while Winton scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Winnindoo has a flood risk score of 53/100, while Winton scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Winnindoo scores 64/100 for bushfire risk. Winton scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Winnindoo scores 32/100 for bushfire risk. Winton scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Winnindoo or Winton?",
@@ -76,5 +76,15 @@
       "label": "Winton Should I Buy?",
       "url": "/suburbs/vic/winton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

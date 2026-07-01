@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 22
+      "scoreA": 42,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 45
+      "scoreA": 53,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 51
+      "scoreA": 75,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 44
+      "scoreA": 36,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 24,
       "scoreB": 22
     }
   ],
-  "verdict": "Terrabella has a lower overall climate risk score (33/100) compared to Teridgerie (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Terrabella has a lower overall climate risk score (38/100) compared to Teridgerie (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Teridgerie or Terrabella safer from flooding?",
-      "answer": "Teridgerie has a flood risk score of 59/100, while Terrabella scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Teridgerie has a flood risk score of 42/100, while Terrabella scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Teridgerie scores 62/100 for bushfire risk. Terrabella scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Teridgerie scores 53/100 for bushfire risk. Terrabella scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Teridgerie or Terrabella?",
@@ -76,5 +76,15 @@
       "label": "Terrabella Should I Buy?",
       "url": "/suburbs/nsw/terrabella/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

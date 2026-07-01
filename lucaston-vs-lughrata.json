@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 53
+      "scoreA": 37,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 64
+      "scoreA": 23,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 65
+      "scoreA": 69,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 29
+      "scoreA": 38,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 11,
+      "scoreB": 25
     }
   ],
-  "verdict": "Lucaston has a lower overall climate risk score (37/100) compared to Lughrata (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lucaston has a lower overall climate risk score (32/100) compared to Lughrata (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lucaston or Lughrata safer from flooding?",
-      "answer": "Lucaston has a flood risk score of 42/100, while Lughrata scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lucaston has a flood risk score of 37/100, while Lughrata scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lucaston scores 20/100 for bushfire risk. Lughrata scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lucaston scores 23/100 for bushfire risk. Lughrata scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lucaston or Lughrata?",
@@ -76,5 +76,15 @@
       "label": "Lughrata Should I Buy?",
       "url": "/suburbs/tas/lughrata/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

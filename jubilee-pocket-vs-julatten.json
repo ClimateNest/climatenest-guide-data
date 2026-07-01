@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 27
+      "scoreA": 48,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 21
+      "scoreA": 59,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 47,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 37,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 12
+      "scoreA": 9,
+      "scoreB": 18
     }
   ],
-  "verdict": "Julatten has a lower overall climate risk score (25/100) compared to Jubilee Pocket (27/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Julatten has a lower overall climate risk score (36/100) compared to Jubilee Pocket (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jubilee Pocket or Julatten safer from flooding?",
-      "answer": "Jubilee Pocket has a flood risk score of 32/100, while Julatten scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jubilee Pocket has a flood risk score of 48/100, while Julatten scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jubilee Pocket scores 46/100 for bushfire risk. Julatten scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jubilee Pocket scores 59/100 for bushfire risk. Julatten scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jubilee Pocket or Julatten?",
@@ -76,5 +76,15 @@
       "label": "Julatten Should I Buy?",
       "url": "/suburbs/qld/julatten/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

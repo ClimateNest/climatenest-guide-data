@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 36
+      "scoreA": 56,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 21
+      "scoreA": 52,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 79
+      "scoreA": 64,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 35,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 18
     }
   ],
-  "verdict": "Caulfield East has a lower overall climate risk score (35/100) compared to Caulfield South (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Caulfield South has a lower overall climate risk score (36/100) compared to Caulfield East (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Caulfield East or Caulfield South safer from flooding?",
-      "answer": "Caulfield East has a flood risk score of 25/100, while Caulfield South scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Caulfield East has a flood risk score of 56/100, while Caulfield South scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Caulfield East scores 40/100 for bushfire risk. Caulfield South scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Caulfield East scores 52/100 for bushfire risk. Caulfield South scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Caulfield East or Caulfield South?",
-      "answer": "Both suburbs have climate considerations. Caulfield East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Caulfield South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Caulfield South Should I Buy?",
       "url": "/suburbs/vic/caulfield-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

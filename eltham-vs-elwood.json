@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 41
+      "scoreA": 27,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 69
+      "scoreA": 67,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 43
+      "scoreA": 46,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
       "scoreA": 23,
-      "scoreB": 27
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 27
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Eltham has a lower overall climate risk score (33/100) compared to Elwood (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Elwood has a lower overall climate risk score (29/100) compared to Eltham (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eltham or Elwood safer from flooding?",
-      "answer": "Eltham has a flood risk score of 30/100, while Elwood scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eltham has a flood risk score of 27/100, while Elwood scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eltham scores 50/100 for bushfire risk. Elwood scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eltham scores 21/100 for bushfire risk. Elwood scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eltham or Elwood?",
-      "answer": "Both suburbs have climate considerations. Eltham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Elwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Elwood Should I Buy?",
       "url": "/suburbs/vic/elwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

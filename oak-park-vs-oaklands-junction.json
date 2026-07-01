@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 59
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 50
+      "scoreA": 20,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 60
+      "scoreA": 61,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 42
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
       "scoreA": 11,
-      "scoreB": 27
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 12
     }
   ],
-  "verdict": "Oak Park has a lower overall climate risk score (33/100) compared to Oaklands Junction (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Oak Park has a lower overall climate risk score (27/100) compared to Oaklands Junction (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Oak Park or Oaklands Junction safer from flooding?",
-      "answer": "Oak Park has a flood risk score of 32/100, while Oaklands Junction scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oak Park has a flood risk score of 26/100, while Oaklands Junction scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oak Park scores 33/100 for bushfire risk. Oaklands Junction scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oak Park scores 20/100 for bushfire risk. Oaklands Junction scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oak Park or Oaklands Junction?",
@@ -76,5 +76,15 @@
       "label": "Oaklands Junction Should I Buy?",
       "url": "/suburbs/vic/oaklands-junction/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3251,
+    "projected2030": 4552,
+    "projected2050": 8453
+  },
+  "valueImpact": {
+    "dragPercent": 0.03,
+    "description": "Properties in this area may face a 0.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

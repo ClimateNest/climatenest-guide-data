@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 35
+      "scoreA": 43,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 46
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 61
+      "scoreA": 42,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 34
+      "scoreA": 29,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 45,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
+      "scoreA": 25,
       "scoreB": 29
     }
   ],
-  "verdict": "Mullumbimby has a lower overall climate risk score (31/100) compared to Mulwala (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mulwala has a lower overall climate risk score (36/100) compared to Mullumbimby (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mullumbimby or Mulwala safer from flooding?",
-      "answer": "Mullumbimby has a flood risk score of 27/100, while Mulwala scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mullumbimby has a flood risk score of 43/100, while Mulwala scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mullumbimby scores 41/100 for bushfire risk. Mulwala scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mullumbimby scores 46/100 for bushfire risk. Mulwala scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mullumbimby or Mulwala?",
-      "answer": "Both suburbs have climate considerations. Mullumbimby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mulwala has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mulwala Should I Buy?",
       "url": "/suburbs/nsw/mulwala/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

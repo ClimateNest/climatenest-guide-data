@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 52
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 40
+      "scoreA": 18,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 74
+      "scoreA": 34,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 37
+      "scoreA": 25,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 16
+      "scoreA": 38,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Tabbimoble has a lower overall climate risk score (36/100) compared to Tabbita (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tabbimoble has a lower overall climate risk score (29/100) compared to Tabbita (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tabbimoble or Tabbita safer from flooding?",
-      "answer": "Tabbimoble has a flood risk score of 27/100, while Tabbita scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tabbimoble has a flood risk score of 40/100, while Tabbita scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tabbimoble scores 50/100 for bushfire risk. Tabbita scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tabbimoble scores 18/100 for bushfire risk. Tabbita scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tabbimoble or Tabbita?",
@@ -76,5 +76,15 @@
       "label": "Tabbita Should I Buy?",
       "url": "/suburbs/nsw/tabbita/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

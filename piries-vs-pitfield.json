@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 55
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 76
+      "scoreA": 73,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 48
+      "scoreA": 20,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
+      "scoreA": 15,
       "scoreB": 18
     }
   ],
-  "verdict": "Piries has a lower overall climate risk score (34/100) compared to Pitfield (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Pitfield has a lower overall climate risk score (35/100) compared to Piries (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Piries or Pitfield safer from flooding?",
-      "answer": "Piries has a flood risk score of 32/100, while Pitfield scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Piries has a flood risk score of 29/100, while Pitfield scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Piries scores 37/100 for bushfire risk. Pitfield scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Piries scores 55/100 for bushfire risk. Pitfield scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Piries or Pitfield?",
-      "answer": "Both suburbs have climate considerations. Piries has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pitfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pitfield Should I Buy?",
       "url": "/suburbs/vic/pitfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

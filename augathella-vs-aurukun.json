@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 24,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 17
-    },
-    {
-      "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 33
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 47,
       "scoreB": 15
     },
     {
+      "name": "Heat",
+      "scoreA": 35,
+      "scoreB": 45
+    },
+    {
+      "name": "Storm",
+      "scoreA": 46,
+      "scoreB": 31
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 22
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 9
+      "scoreA": 23,
+      "scoreB": 7
     }
   ],
-  "verdict": "Aurukun has a lower overall climate risk score (26/100) compared to Augathella (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Aurukun has a lower overall climate risk score (29/100) compared to Augathella (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Augathella or Aurukun safer from flooding?",
-      "answer": "Augathella has a flood risk score of 44/100, while Aurukun scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Augathella has a flood risk score of 24/100, while Aurukun scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Augathella scores 32/100 for bushfire risk. Aurukun scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Augathella scores 47/100 for bushfire risk. Aurukun scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Augathella or Aurukun?",
@@ -76,5 +76,15 @@
       "label": "Aurukun Should I Buy?",
       "url": "/suburbs/qld/aurukun/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

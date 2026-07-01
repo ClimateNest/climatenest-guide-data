@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 38
+      "scoreA": 57,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 45
+      "scoreA": 37,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 68
+      "scoreA": 66,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 27
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 19
     }
   ],
-  "verdict": "Pureba has a lower overall climate risk score (35/100) compared to Punthari (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pureba has a lower overall climate risk score (36/100) compared to Punthari (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Punthari or Pureba safer from flooding?",
-      "answer": "Punthari has a flood risk score of 31/100, while Pureba scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Punthari has a flood risk score of 57/100, while Pureba scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Punthari scores 52/100 for bushfire risk. Pureba scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Punthari scores 37/100 for bushfire risk. Pureba scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Punthari or Pureba?",
@@ -76,5 +76,15 @@
       "label": "Pureba Should I Buy?",
       "url": "/suburbs/sa/pureba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

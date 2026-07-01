@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 56
+      "scoreA": 21,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 64,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 38,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 34
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 15
+      "scoreA": 10,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
+      "scoreA": 17,
       "scoreB": 15
     }
   ],
-  "verdict": "Sandsprings has a lower overall climate risk score (28/100) compared to Sandstone (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sandsprings has a lower overall climate risk score (30/100) compared to Sandstone (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sandsprings or Sandstone safer from flooding?",
-      "answer": "Sandsprings has a flood risk score of 40/100, while Sandstone scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandsprings has a flood risk score of 21/100, while Sandstone scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandsprings scores 20/100 for bushfire risk. Sandstone scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandsprings scores 64/100 for bushfire risk. Sandstone scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandsprings or Sandstone?",
@@ -76,5 +76,15 @@
       "label": "Sandstone Should I Buy?",
       "url": "/suburbs/wa/sandstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

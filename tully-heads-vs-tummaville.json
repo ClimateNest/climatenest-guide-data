@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 45
+      "scoreA": 59,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 38,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 39,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 43
+      "scoreA": 39,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 46
+      "scoreA": 18,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 17,
+      "scoreB": 27
     }
   ],
-  "verdict": "Tully Heads has a lower overall climate risk score (32/100) compared to Tummaville (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tummaville has a lower overall climate risk score (34/100) compared to Tully Heads (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tully Heads or Tummaville safer from flooding?",
-      "answer": "Tully Heads has a flood risk score of 56/100, while Tummaville scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tully Heads has a flood risk score of 59/100, while Tummaville scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tully Heads scores 28/100 for bushfire risk. Tummaville scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tully Heads scores 38/100 for bushfire risk. Tummaville scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tully Heads or Tummaville?",
-      "answer": "Both suburbs have climate considerations. Tully Heads has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tummaville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tummaville Should I Buy?",
       "url": "/suburbs/qld/tummaville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

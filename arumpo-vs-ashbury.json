@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
+      "scoreA": 49,
       "scoreB": 45
     },
     {
       "name": "Heat",
       "scoreA": 74,
-      "scoreB": 55
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 36
+      "scoreA": 45,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 52
+      "scoreA": 18,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
+      "scoreA": 26,
       "scoreB": 24
     }
   ],
-  "verdict": "Arumpo has a lower overall climate risk score (41/100) compared to Ashbury (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Ashbury has a lower overall climate risk score (39/100) compared to Arumpo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Arumpo or Ashbury safer from flooding?",
-      "answer": "Arumpo has a flood risk score of 44/100, while Ashbury scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Arumpo has a flood risk score of 30/100, while Ashbury scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Arumpo scores 38/100 for bushfire risk. Ashbury scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Arumpo scores 49/100 for bushfire risk. Ashbury scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Arumpo or Ashbury?",
-      "answer": "Both suburbs have climate considerations. Arumpo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ashbury has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ashbury Should I Buy?",
       "url": "/suburbs/nsw/ashbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

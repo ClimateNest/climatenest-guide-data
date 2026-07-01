@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 35,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 27
+      "scoreA": 48,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 60
+      "scoreA": 76,
+      "scoreB": 72
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 37
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 25,
+      "scoreB": 25
     }
   ],
-  "verdict": "West Ulverstone has a lower overall climate risk score (32/100) compared to West Takone (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "West Ulverstone has a lower overall climate risk score (37/100) compared to West Takone (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is West Takone or West Ulverstone safer from flooding?",
-      "answer": "West Takone has a flood risk score of 30/100, while West Ulverstone scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Takone has a flood risk score of 35/100, while West Ulverstone scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Takone scores 64/100 for bushfire risk. West Ulverstone scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Takone scores 48/100 for bushfire risk. West Ulverstone scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Takone or West Ulverstone?",
@@ -76,5 +76,15 @@
       "label": "West Ulverstone Should I Buy?",
       "url": "/suburbs/tas/west-ulverstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

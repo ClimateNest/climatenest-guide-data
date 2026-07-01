@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 35
+      "scoreA": 60,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 58
+      "scoreA": 80,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 32
+      "scoreA": 42,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 15
+      "scoreA": 55,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
       "scoreA": 28,
-      "scoreB": 15
+      "scoreB": 11
     }
   ],
-  "verdict": "Barragga Bay has a lower overall climate risk score (29/100) compared to Barrack Point (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Barragga Bay has a lower overall climate risk score (30/100) compared to Barrack Point (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Barrack Point or Barragga Bay safer from flooding?",
-      "answer": "Barrack Point has a flood risk score of 40/100, while Barragga Bay scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barrack Point has a flood risk score of 26/100, while Barragga Bay scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barrack Point scores 19/100 for bushfire risk. Barragga Bay scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barrack Point scores 60/100 for bushfire risk. Barragga Bay scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barrack Point or Barragga Bay?",
@@ -76,5 +76,15 @@
       "label": "Barragga Bay Should I Buy?",
       "url": "/suburbs/nsw/barragga-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4498,
+    "projected2030": 6297,
+    "projected2050": 11695
+  },
+  "valueImpact": {
+    "dragPercent": 2.78,
+    "description": "Properties in this area may face a 2.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

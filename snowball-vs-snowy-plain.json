@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 22
+      "scoreA": 55,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 54
+      "scoreA": 21,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 74,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 46,
+      "scoreA": 31,
       "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 24
     }
   ],
-  "verdict": "Snowball has a lower overall climate risk score (34/100) compared to Snowy Plain (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Snowy Plain has a lower overall climate risk score (34/100) compared to Snowball (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Snowball or Snowy Plain safer from flooding?",
-      "answer": "Snowball has a flood risk score of 35/100, while Snowy Plain scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Snowball has a flood risk score of 55/100, while Snowy Plain scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Snowball scores 33/100 for bushfire risk. Snowy Plain scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Snowball scores 21/100 for bushfire risk. Snowy Plain scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Snowball or Snowy Plain?",
-      "answer": "Both suburbs have climate considerations. Snowball has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Snowy Plain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Snowy Plain Should I Buy?",
       "url": "/suburbs/nsw/snowy-plain/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

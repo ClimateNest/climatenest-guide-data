@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 58
+      "scoreA": 43,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 64
+      "scoreA": 15,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 41
+      "scoreA": 73,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 35
+      "scoreA": 43,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
+      "scoreA": 46,
       "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 14,
+      "scoreB": 10
     }
   ],
-  "verdict": "Woodville has a lower overall climate risk score (40/100) compared to Woody Head (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Woody Head has a lower overall climate risk score (38/100) compared to Woodville (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Woodville or Woody Head safer from flooding?",
-      "answer": "Woodville has a flood risk score of 26/100, while Woody Head scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodville has a flood risk score of 43/100, while Woody Head scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodville scores 16/100 for bushfire risk. Woody Head scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodville scores 15/100 for bushfire risk. Woody Head scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodville or Woody Head?",
-      "answer": "Both suburbs have climate considerations. Woodville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Woody Head has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Woody Head Should I Buy?",
       "url": "/suburbs/nsw/woody-head/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

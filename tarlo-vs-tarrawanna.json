@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 65
+      "scoreA": 50,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 70
+      "scoreA": 80,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 40
+      "scoreA": 38,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 37
+      "scoreA": 30,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 17
     }
   ],
-  "verdict": "Tarlo has a lower overall climate risk score (43/100) compared to Tarrawanna (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Tarrawanna has a lower overall climate risk score (37/100) compared to Tarlo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tarlo or Tarrawanna safer from flooding?",
-      "answer": "Tarlo has a flood risk score of 50/100, while Tarrawanna scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarlo has a flood risk score of 26/100, while Tarrawanna scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarlo scores 46/100 for bushfire risk. Tarrawanna scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarlo scores 50/100 for bushfire risk. Tarrawanna scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarlo or Tarrawanna?",
-      "answer": "Both suburbs have climate considerations. Tarlo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tarrawanna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tarrawanna Should I Buy?",
       "url": "/suburbs/nsw/tarrawanna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

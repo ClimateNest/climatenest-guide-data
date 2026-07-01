@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 26
+      "scoreA": 58,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 21
+      "scoreA": 42,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 73
+      "scoreA": 56,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 43
+      "scoreA": 32,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 13,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 25
     }
   ],
-  "verdict": "Ryansbrook has a lower overall climate risk score (35/100) compared to Ruabon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ryansbrook has a lower overall climate risk score (33/100) compared to Ruabon (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ruabon or Ryansbrook safer from flooding?",
-      "answer": "Ruabon has a flood risk score of 37/100, while Ryansbrook scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ruabon has a flood risk score of 58/100, while Ryansbrook scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ruabon scores 56/100 for bushfire risk. Ryansbrook scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ruabon scores 42/100 for bushfire risk. Ryansbrook scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ruabon or Ryansbrook?",
@@ -76,5 +76,15 @@
       "label": "Ryansbrook Should I Buy?",
       "url": "/suburbs/wa/ryansbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

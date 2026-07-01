@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 50
+      "scoreA": 27,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 63
+      "scoreA": 63,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 67
+      "scoreA": 76,
+      "scoreB": 80
     },
     {
       "name": "Storm",
       "scoreA": 24,
-      "scoreB": 37
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 13
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 11
     }
   ],
-  "verdict": "Kenton Valley has a lower overall climate risk score (38/100) compared to Keppoch (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kenton Valley has a lower overall climate risk score (40/100) compared to Keppoch (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Kenton Valley or Keppoch safer from flooding?",
-      "answer": "Kenton Valley has a flood risk score of 54/100, while Keppoch scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kenton Valley has a flood risk score of 27/100, while Keppoch scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kenton Valley scores 39/100 for bushfire risk. Keppoch scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kenton Valley scores 63/100 for bushfire risk. Keppoch scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kenton Valley or Keppoch?",
@@ -76,5 +76,15 @@
       "label": "Keppoch Should I Buy?",
       "url": "/suburbs/sa/keppoch/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

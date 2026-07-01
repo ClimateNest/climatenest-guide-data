@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 49
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 16
+      "scoreA": 40,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 79
+      "scoreA": 60,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mulgrave has a lower overall climate risk score (31/100) compared to Mumbannar (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mumbannar has a lower overall climate risk score (32/100) compared to Mulgrave (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mulgrave or Mumbannar safer from flooding?",
-      "answer": "Mulgrave has a flood risk score of 39/100, while Mumbannar scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mulgrave has a flood risk score of 32/100, while Mumbannar scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mulgrave scores 44/100 for bushfire risk. Mumbannar scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mulgrave scores 40/100 for bushfire risk. Mumbannar scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mulgrave or Mumbannar?",
-      "answer": "Both suburbs have climate considerations. Mulgrave has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mumbannar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mumbannar Should I Buy?",
       "url": "/suburbs/vic/mumbannar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

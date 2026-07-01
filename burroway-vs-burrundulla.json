@@ -14,8 +14,8 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 56
+      "scoreA": 21,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
@@ -24,31 +24,31 @@
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 79
+      "scoreA": 53,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 30
+      "scoreA": 49,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 27
+      "scoreA": 15,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 26
     }
   ],
-  "verdict": "Burroway has a lower overall climate risk score (36/100) compared to Burrundulla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Burroway has a lower overall climate risk score (32/100) compared to Burrundulla (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burroway or Burrundulla safer from flooding?",
-      "answer": "Burroway has a flood risk score of 57/100, while Burrundulla scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burroway has a flood risk score of 21/100, while Burrundulla scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
@@ -76,5 +76,15 @@
       "label": "Burrundulla Should I Buy?",
       "url": "/suburbs/nsw/burrundulla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

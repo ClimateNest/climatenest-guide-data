@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 42
+      "scoreA": 56,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 31
+      "scoreA": 62,
+      "scoreB": 20
     },
     {
       "name": "Heat",
       "scoreA": 66,
-      "scoreB": 74
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 30
+      "scoreA": 31,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 25
     }
   ],
-  "verdict": "Lower Beulah has a lower overall climate risk score (35/100) compared to Low Head (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lower Beulah has a lower overall climate risk score (37/100) compared to Low Head (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Low Head or Lower Beulah safer from flooding?",
-      "answer": "Low Head has a flood risk score of 30/100, while Lower Beulah scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Low Head has a flood risk score of 56/100, while Lower Beulah scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Low Head scores 42/100 for bushfire risk. Lower Beulah scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Low Head scores 62/100 for bushfire risk. Lower Beulah scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Low Head or Lower Beulah?",
@@ -76,5 +76,15 @@
       "label": "Lower Beulah Should I Buy?",
       "url": "/suburbs/tas/lower-beulah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

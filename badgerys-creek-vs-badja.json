@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 47
+      "scoreA": 27,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 45
+      "scoreA": 45,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 67
+      "scoreA": 54,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 33,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 11
+      "scoreA": 37,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 12
     }
   ],
-  "verdict": "Badja has a lower overall climate risk score (37/100) compared to Badgerys Creek (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Badja has a lower overall climate risk score (32/100) compared to Badgerys Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Badgerys Creek or Badja safer from flooding?",
-      "answer": "Badgerys Creek has a flood risk score of 30/100, while Badja scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Badgerys Creek has a flood risk score of 27/100, while Badja scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Badgerys Creek scores 62/100 for bushfire risk. Badja scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Badgerys Creek scores 45/100 for bushfire risk. Badja scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Badgerys Creek or Badja?",
@@ -76,5 +76,15 @@
       "label": "Badja Should I Buy?",
       "url": "/suburbs/nsw/badja/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

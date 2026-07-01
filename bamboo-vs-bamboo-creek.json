@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
+      "scoreA": 35,
       "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 17,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 39,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 37
+      "scoreA": 27,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 17
+      "scoreB": 13
     }
   ],
-  "verdict": "Bamboo has a lower overall climate risk score (30/100) compared to Bamboo Creek (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bamboo has a lower overall climate risk score (24/100) compared to Bamboo Creek (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bamboo or Bamboo Creek safer from flooding?",
-      "answer": "Bamboo has a flood risk score of 50/100, while Bamboo Creek scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bamboo has a flood risk score of 35/100, while Bamboo Creek scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bamboo scores 30/100 for bushfire risk. Bamboo Creek scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bamboo scores 17/100 for bushfire risk. Bamboo Creek scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bamboo or Bamboo Creek?",
@@ -76,5 +76,15 @@
       "label": "Bamboo Creek Should I Buy?",
       "url": "/suburbs/qld/bamboo-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

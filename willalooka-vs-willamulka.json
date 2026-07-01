@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 27
+      "scoreA": 36,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 21
+      "scoreA": 38,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 79
+      "scoreA": 64,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 23
+      "scoreA": 41,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 19,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 28,
+      "scoreB": 29
     }
   ],
-  "verdict": "Willamulka has a lower overall climate risk score (31/100) compared to Willalooka (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Willamulka has a lower overall climate risk score (35/100) compared to Willalooka (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Willalooka or Willamulka safer from flooding?",
-      "answer": "Willalooka has a flood risk score of 28/100, while Willamulka scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Willalooka has a flood risk score of 36/100, while Willamulka scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Willalooka scores 64/100 for bushfire risk. Willamulka scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Willalooka scores 38/100 for bushfire risk. Willamulka scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Willalooka or Willamulka?",
@@ -76,5 +76,15 @@
       "label": "Willamulka Should I Buy?",
       "url": "/suburbs/sa/willamulka/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

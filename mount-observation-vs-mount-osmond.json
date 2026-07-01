@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 53
+      "scoreA": 24,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 24
+      "scoreA": 15,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 79
+      "scoreA": 52,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 39,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 27
     }
   ],
-  "verdict": "Mount Observation has a lower overall climate risk score (34/100) compared to Mount Osmond (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Observation has a lower overall climate risk score (29/100) compared to Mount Osmond (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Observation or Mount Osmond safer from flooding?",
-      "answer": "Mount Observation has a flood risk score of 36/100, while Mount Osmond scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Observation has a flood risk score of 24/100, while Mount Osmond scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Observation scores 45/100 for bushfire risk. Mount Osmond scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Observation scores 15/100 for bushfire risk. Mount Osmond scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Observation or Mount Osmond?",
@@ -76,5 +76,15 @@
       "label": "Mount Osmond Should I Buy?",
       "url": "/suburbs/sa/mount-osmond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

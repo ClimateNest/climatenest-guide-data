@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 21
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 26,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 69
+      "scoreA": 65,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 47,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 11,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 16
     }
   ],
-  "verdict": "Cuprona has a lower overall climate risk score (34/100) compared to Cressy (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cuprona has a lower overall climate risk score (35/100) compared to Cressy (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cressy or Cuprona safer from flooding?",
-      "answer": "Cressy has a flood risk score of 42/100, while Cuprona scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cressy has a flood risk score of 35/100, while Cuprona scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cressy scores 43/100 for bushfire risk. Cuprona scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cressy scores 26/100 for bushfire risk. Cuprona scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cressy or Cuprona?",
@@ -76,5 +76,15 @@
       "label": "Cuprona Should I Buy?",
       "url": "/suburbs/tas/cuprona/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

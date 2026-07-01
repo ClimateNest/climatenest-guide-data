@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 39
+      "scoreA": 42,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 49
+      "scoreA": 51,
+      "scoreB": 52
     },
     {
       "name": "Heat",
       "scoreA": 42,
-      "scoreB": 30
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 26
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 37,
       "scoreB": 49
     },
     {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 34
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 12
     }
   ],
-  "verdict": "Halifax has a lower overall climate risk score (29/100) compared to Haly Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Halifax has a lower overall climate risk score (34/100) compared to Haly Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Halifax or Haly Creek safer from flooding?",
-      "answer": "Halifax has a flood risk score of 43/100, while Haly Creek scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Halifax has a flood risk score of 42/100, while Haly Creek scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Halifax scores 36/100 for bushfire risk. Haly Creek scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Halifax scores 51/100 for bushfire risk. Haly Creek scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Halifax or Haly Creek?",
@@ -76,5 +76,15 @@
       "label": "Haly Creek Should I Buy?",
       "url": "/suburbs/qld/haly-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

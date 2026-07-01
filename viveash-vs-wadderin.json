@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 54,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 43,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 76
+      "scoreA": 64,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 36
+      "scoreA": 32,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 14
     }
   ],
-  "verdict": "Viveash has a lower overall climate risk score (33/100) compared to Wadderin (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Viveash has a lower overall climate risk score (39/100) compared to Wadderin (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Viveash or Wadderin safer from flooding?",
-      "answer": "Viveash has a flood risk score of 29/100, while Wadderin scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Viveash has a flood risk score of 54/100, while Wadderin scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Viveash scores 27/100 for bushfire risk. Wadderin scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Viveash scores 43/100 for bushfire risk. Wadderin scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Viveash or Wadderin?",
@@ -76,5 +76,15 @@
       "label": "Wadderin Should I Buy?",
       "url": "/suburbs/wa/wadderin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

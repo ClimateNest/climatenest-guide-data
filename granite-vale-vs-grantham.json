@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 47
+      "scoreA": 35,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 40
+      "scoreA": 53,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 37,
+      "scoreA": 43,
       "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 25,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 56
+      "scoreA": 10,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Granite Vale has a lower overall climate risk score (34/100) compared to Grantham (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Granite Vale has a lower overall climate risk score (30/100) compared to Grantham (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Granite Vale or Grantham safer from flooding?",
-      "answer": "Granite Vale has a flood risk score of 43/100, while Grantham scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Granite Vale has a flood risk score of 35/100, while Grantham scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Granite Vale scores 58/100 for bushfire risk. Grantham scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Granite Vale scores 53/100 for bushfire risk. Grantham scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Granite Vale or Grantham?",
@@ -76,5 +76,15 @@
       "label": "Grantham Should I Buy?",
       "url": "/suburbs/qld/grantham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

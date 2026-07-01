@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 38
-    },
-    {
-      "name": "Heat",
-      "scoreA": 72,
+      "scoreA": 56,
       "scoreB": 40
     },
     {
+      "name": "Heat",
+      "scoreA": 65,
+      "scoreB": 32
+    },
+    {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 50,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
       "scoreA": 24,
-      "scoreB": 16
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
+      "scoreA": 21,
       "scoreB": 18
     }
   ],
-  "verdict": "Bandya has a lower overall climate risk score (30/100) compared to Bandy Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bandya has a lower overall climate risk score (28/100) compared to Bandy Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bandy Creek or Bandya safer from flooding?",
-      "answer": "Bandy Creek has a flood risk score of 43/100, while Bandya scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bandy Creek has a flood risk score of 31/100, while Bandya scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bandy Creek scores 47/100 for bushfire risk. Bandya scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bandy Creek scores 56/100 for bushfire risk. Bandya scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bandy Creek or Bandya?",
@@ -76,5 +76,15 @@
       "label": "Bandya Should I Buy?",
       "url": "/suburbs/wa/bandya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

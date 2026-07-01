@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 43
+      "scoreA": 53,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 19,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 63
+      "scoreA": 31,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 21
+      "scoreA": 29,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 32
+      "scoreA": 58,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 21
     }
   ],
-  "verdict": "Terranora and Terrey Hills have similar overall climate risk scores.",
+  "verdict": "Terranora has a lower overall climate risk score (35/100) compared to Terrey Hills (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Terranora or Terrey Hills safer from flooding?",
-      "answer": "Terranora has a flood risk score of 41/100, while Terrey Hills scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Terranora has a flood risk score of 53/100, while Terrey Hills scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Terranora scores 25/100 for bushfire risk. Terrey Hills scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Terranora scores 19/100 for bushfire risk. Terrey Hills scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Terranora or Terrey Hills?",
@@ -76,5 +76,15 @@
       "label": "Terrey Hills Should I Buy?",
       "url": "/suburbs/nsw/terrey-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

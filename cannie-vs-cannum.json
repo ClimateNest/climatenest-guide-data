@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 45
+      "scoreA": 52,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 34
+      "scoreA": 41,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 74
+      "scoreA": 73,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
       "scoreA": 26,
-      "scoreB": 23
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "Cannie has a lower overall climate risk score (37/100) compared to Cannum (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cannum has a lower overall climate risk score (32/100) compared to Cannie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cannie or Cannum safer from flooding?",
-      "answer": "Cannie has a flood risk score of 32/100, while Cannum scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cannie has a flood risk score of 52/100, while Cannum scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cannie scores 45/100 for bushfire risk. Cannum scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cannie scores 41/100 for bushfire risk. Cannum scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cannie or Cannum?",
-      "answer": "Both suburbs have climate considerations. Cannie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cannum has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cannum Should I Buy?",
       "url": "/suburbs/vic/cannum/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 22,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 16
+      "scoreA": 31,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 58
+      "scoreA": 74,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 24
+      "scoreA": 49,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 26
+      "scoreA": 42,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 20
     }
   ],
-  "verdict": "Carrick has a lower overall climate risk score (31/100) compared to Carramar (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Carramar has a lower overall climate risk score (38/100) compared to Carrick (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Carramar or Carrick safer from flooding?",
-      "answer": "Carramar has a flood risk score of 44/100, while Carrick scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carramar has a flood risk score of 22/100, while Carrick scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carramar scores 59/100 for bushfire risk. Carrick scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carramar scores 31/100 for bushfire risk. Carrick scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carramar or Carrick?",
-      "answer": "Both suburbs have climate considerations. Carrick has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Carramar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Carrick Should I Buy?",
       "url": "/suburbs/nsw/carrick/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

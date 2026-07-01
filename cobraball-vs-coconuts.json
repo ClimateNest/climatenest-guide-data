@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 44
+      "scoreA": 57,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 16
+      "scoreA": 38,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 42
+      "scoreA": 31,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 30
+      "scoreA": 29,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 15
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 6,
+      "scoreB": 19
     }
   ],
-  "verdict": "Coconuts has a lower overall climate risk score (27/100) compared to Cobraball (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cobraball has a lower overall climate risk score (34/100) compared to Coconuts (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cobraball or Coconuts safer from flooding?",
-      "answer": "Cobraball has a flood risk score of 58/100, while Coconuts scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cobraball has a flood risk score of 57/100, while Coconuts scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cobraball scores 43/100 for bushfire risk. Coconuts scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cobraball scores 38/100 for bushfire risk. Coconuts scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cobraball or Coconuts?",
-      "answer": "Both suburbs have climate considerations. Coconuts has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cobraball has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Coconuts Should I Buy?",
       "url": "/suburbs/qld/coconuts/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

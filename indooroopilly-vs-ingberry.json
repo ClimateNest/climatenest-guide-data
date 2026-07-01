@@ -14,13 +14,13 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 58,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 56
     },
     {
       "name": "Heat",
@@ -29,30 +29,30 @@
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 42
+      "scoreA": 36,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 25
+      "scoreA": 59,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 21,
+      "scoreB": 14
     }
   ],
-  "verdict": "Ingberry has a lower overall climate risk score (30/100) compared to Indooroopilly (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ingberry has a lower overall climate risk score (36/100) compared to Indooroopilly (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Indooroopilly or Ingberry safer from flooding?",
-      "answer": "Indooroopilly has a flood risk score of 42/100, while Ingberry scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Indooroopilly has a flood risk score of 58/100, while Ingberry scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Indooroopilly scores 50/100 for bushfire risk. Ingberry scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Indooroopilly scores 34/100 for bushfire risk. Ingberry scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Indooroopilly or Ingberry?",
@@ -76,5 +76,15 @@
       "label": "Ingberry Should I Buy?",
       "url": "/suburbs/qld/ingberry/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

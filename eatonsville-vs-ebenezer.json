@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 16
+      "scoreA": 57,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 76
+      "scoreA": 35,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 24
+      "scoreA": 50,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 25,
+      "scoreB": 14
     }
   ],
-  "verdict": "Ebenezer has a lower overall climate risk score (36/100) compared to Eatonsville (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ebenezer has a lower overall climate risk score (34/100) compared to Eatonsville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eatonsville or Ebenezer safer from flooding?",
-      "answer": "Eatonsville has a flood risk score of 41/100, while Ebenezer scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eatonsville has a flood risk score of 33/100, while Ebenezer scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eatonsville scores 59/100 for bushfire risk. Ebenezer scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eatonsville scores 57/100 for bushfire risk. Ebenezer scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eatonsville or Ebenezer?",
@@ -76,5 +76,15 @@
       "label": "Ebenezer Should I Buy?",
       "url": "/suburbs/nsw/ebenezer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

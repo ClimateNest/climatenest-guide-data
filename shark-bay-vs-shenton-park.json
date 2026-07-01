@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 36
+      "scoreA": 33,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 75
+      "scoreA": 30,
+      "scoreB": 67
     },
     {
       "name": "Storm",
       "scoreA": 45,
-      "scoreB": 48
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 30
+      "scoreA": 28,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 24,
+      "scoreB": 18
     }
   ],
-  "verdict": "Shark Bay has a lower overall climate risk score (37/100) compared to Shenton Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shark Bay has a lower overall climate risk score (29/100) compared to Shenton Park (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Shark Bay or Shenton Park safer from flooding?",
-      "answer": "Shark Bay has a flood risk score of 52/100, while Shenton Park scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shark Bay has a flood risk score of 33/100, while Shenton Park scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shark Bay scores 45/100 for bushfire risk. Shenton Park scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shark Bay scores 16/100 for bushfire risk. Shenton Park scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shark Bay or Shenton Park?",
@@ -76,5 +76,15 @@
       "label": "Shenton Park Should I Buy?",
       "url": "/suburbs/wa/shenton-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

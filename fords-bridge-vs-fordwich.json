@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 42
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 16,
+      "scoreA": 35,
       "scoreB": 58
     },
     {
+      "name": "Bushfire",
+      "scoreA": 45,
+      "scoreB": 19
+    },
+    {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 67
+      "scoreA": 34,
+      "scoreB": 71
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 43
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 48
+      "scoreA": 24,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "Fords Bridge has a lower overall climate risk score (30/100) compared to Fordwich (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fords Bridge has a lower overall climate risk score (34/100) compared to Fordwich (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fords Bridge or Fordwich safer from flooding?",
-      "answer": "Fords Bridge has a flood risk score of 48/100, while Fordwich scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fords Bridge has a flood risk score of 35/100, while Fordwich scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fords Bridge scores 16/100 for bushfire risk. Fordwich scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fords Bridge scores 45/100 for bushfire risk. Fordwich scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fords Bridge or Fordwich?",
@@ -76,5 +76,15 @@
       "label": "Fordwich Should I Buy?",
       "url": "/suburbs/nsw/fordwich/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

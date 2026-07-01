@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 23,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 57
+      "scoreA": 60,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 72
+      "scoreA": 65,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 27
+      "scoreA": 41,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 21
+      "scoreA": 21,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 23
     }
   ],
-  "verdict": "Merriton has a lower overall climate risk score (34/100) compared to Middle Beach (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Merriton has a lower overall climate risk score (39/100) compared to Middle Beach (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Merriton or Middle Beach safer from flooding?",
-      "answer": "Merriton has a flood risk score of 22/100, while Middle Beach scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Merriton has a flood risk score of 23/100, while Middle Beach scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Merriton scores 35/100 for bushfire risk. Middle Beach scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Merriton scores 60/100 for bushfire risk. Middle Beach scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Merriton or Middle Beach?",
@@ -76,5 +76,15 @@
       "label": "Middle Beach Should I Buy?",
       "url": "/suburbs/sa/middle-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

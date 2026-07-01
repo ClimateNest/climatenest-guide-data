@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 41,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 23
+      "scoreA": 40,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 75
+      "scoreA": 68,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 27
+      "scoreA": 45,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 52
+      "scoreA": 22,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 10
+      "scoreA": 15,
+      "scoreB": 21
     }
   ],
-  "verdict": "Binya has a lower overall climate risk score (31/100) compared to Birchgrove (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Binya has a lower overall climate risk score (39/100) compared to Birchgrove (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Binya or Birchgrove safer from flooding?",
-      "answer": "Binya has a flood risk score of 22/100, while Birchgrove scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Binya has a flood risk score of 41/100, while Birchgrove scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Binya scores 34/100 for bushfire risk. Birchgrove scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Binya scores 40/100 for bushfire risk. Birchgrove scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Binya or Birchgrove?",
@@ -76,5 +76,15 @@
       "label": "Birchgrove Should I Buy?",
       "url": "/suburbs/nsw/birchgrove/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

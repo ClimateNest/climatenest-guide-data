@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 38
+      "scoreA": 49,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 47
+      "scoreA": 61,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 64
+      "scoreA": 62,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "Geeveston has a lower overall climate risk score (36/100) compared to Geilston Bay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Geilston Bay has a lower overall climate risk score (33/100) compared to Geeveston (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Geeveston or Geilston Bay safer from flooding?",
-      "answer": "Geeveston has a flood risk score of 50/100, while Geilston Bay scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Geeveston has a flood risk score of 49/100, while Geilston Bay scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Geeveston scores 25/100 for bushfire risk. Geilston Bay scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Geeveston scores 61/100 for bushfire risk. Geilston Bay scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Geeveston or Geilston Bay?",
-      "answer": "Both suburbs have climate considerations. Geeveston has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Geilston Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Geilston Bay Should I Buy?",
       "url": "/suburbs/tas/geilston-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

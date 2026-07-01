@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 43
+      "scoreA": 54,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 31
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 46
+      "scoreA": 19,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
       "scoreA": 14,
-      "scoreB": 23
+      "scoreB": 30
     }
   ],
-  "verdict": "Oakenden has a lower overall climate risk score (28/100) compared to Oakey (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Oakenden has a lower overall climate risk score (29/100) compared to Oakey (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Oakenden or Oakey safer from flooding?",
-      "answer": "Oakenden has a flood risk score of 45/100, while Oakey scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oakenden has a flood risk score of 54/100, while Oakey scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oakenden scores 30/100 for bushfire risk. Oakey scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oakenden scores 15/100 for bushfire risk. Oakey scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oakenden or Oakey?",
@@ -76,5 +76,15 @@
       "label": "Oakey Should I Buy?",
       "url": "/suburbs/qld/oakey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

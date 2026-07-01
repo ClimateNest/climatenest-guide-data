@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 33
+      "scoreA": 55,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 40,
+      "scoreA": 34,
       "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 50
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 44,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 26,
+      "scoreB": 13
     }
   ],
-  "verdict": "Beaconsfield has a lower overall climate risk score (36/100) compared to Beachmere (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beaconsfield has a lower overall climate risk score (31/100) compared to Beachmere (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beachmere or Beaconsfield safer from flooding?",
-      "answer": "Beachmere has a flood risk score of 54/100, while Beaconsfield scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beachmere has a flood risk score of 55/100, while Beaconsfield scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beachmere scores 34/100 for bushfire risk. Beaconsfield scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beachmere scores 58/100 for bushfire risk. Beaconsfield scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beachmere or Beaconsfield?",
@@ -76,5 +76,15 @@
       "label": "Beaconsfield Should I Buy?",
       "url": "/suburbs/qld/beaconsfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

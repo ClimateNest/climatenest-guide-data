@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 60
+      "scoreA": 42,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 36
+      "scoreA": 16,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 77
+      "scoreA": 61,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 50
+      "scoreA": 28,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 24,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 13,
+      "scoreB": 26
     }
   ],
-  "verdict": "Fingal has a lower overall climate risk score (42/100) compared to Flintstone (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Fingal has a lower overall climate risk score (31/100) compared to Flintstone (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fingal or Flintstone safer from flooding?",
-      "answer": "Fingal has a flood risk score of 36/100, while Flintstone scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fingal has a flood risk score of 42/100, while Flintstone scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fingal scores 52/100 for bushfire risk. Flintstone scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fingal scores 16/100 for bushfire risk. Flintstone scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fingal or Flintstone?",
@@ -76,5 +76,15 @@
       "label": "Flintstone Should I Buy?",
       "url": "/suburbs/tas/flintstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

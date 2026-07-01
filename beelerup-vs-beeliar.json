@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 56
+      "scoreA": 37,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 40
+      "scoreA": 53,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 68
+      "scoreA": 67,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 11,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Beelerup has a lower overall climate risk score (39/100) compared to Beeliar (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beelerup has a lower overall climate risk score (36/100) compared to Beeliar (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Beelerup or Beeliar safer from flooding?",
-      "answer": "Beelerup has a flood risk score of 30/100, while Beeliar scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beelerup has a flood risk score of 37/100, while Beeliar scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beelerup scores 40/100 for bushfire risk. Beeliar scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beelerup scores 53/100 for bushfire risk. Beeliar scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beelerup or Beeliar?",
@@ -76,5 +76,15 @@
       "label": "Beeliar Should I Buy?",
       "url": "/suburbs/wa/beeliar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 39,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 61
+      "scoreA": 26,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 73
+      "scoreA": 61,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 11
+      "scoreA": 10,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
+      "scoreA": 19,
       "scoreB": 22
     }
   ],
-  "verdict": "Tooms Lake has a lower overall climate risk score (26/100) compared to Travellers Rest (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tooms Lake has a lower overall climate risk score (29/100) compared to Travellers Rest (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tooms Lake or Travellers Rest safer from flooding?",
-      "answer": "Tooms Lake has a flood risk score of 25/100, while Travellers Rest scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tooms Lake has a flood risk score of 39/100, while Travellers Rest scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tooms Lake scores 17/100 for bushfire risk. Travellers Rest scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tooms Lake scores 26/100 for bushfire risk. Travellers Rest scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tooms Lake or Travellers Rest?",
@@ -76,5 +76,15 @@
       "label": "Travellers Rest Should I Buy?",
       "url": "/suburbs/tas/travellers-rest/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

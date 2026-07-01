@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 22
+      "scoreA": 37,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 56
+      "scoreA": 15,
+      "scoreB": 34
     },
     {
       "name": "Heat",
       "scoreA": 49,
-      "scoreB": 50
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 35
+      "scoreA": 28,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 28
+      "scoreA": 5,
+      "scoreB": 24
     }
   ],
-  "verdict": "Silver Valley has a lower overall climate risk score (30/100) compared to Silverleaf (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Silver Valley has a lower overall climate risk score (27/100) compared to Silverleaf (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Silver Valley or Silverleaf safer from flooding?",
-      "answer": "Silver Valley has a flood risk score of 35/100, while Silverleaf scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Silver Valley has a flood risk score of 37/100, while Silverleaf scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Silver Valley scores 38/100 for bushfire risk. Silverleaf scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Silver Valley scores 15/100 for bushfire risk. Silverleaf scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Silver Valley or Silverleaf?",
@@ -76,5 +76,15 @@
       "label": "Silverleaf Should I Buy?",
       "url": "/suburbs/qld/silverleaf/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

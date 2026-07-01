@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 24
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 16,
+      "scoreA": 36,
       "scoreB": 39
     },
     {
+      "name": "Bushfire",
+      "scoreA": 18,
+      "scoreB": 44
+    },
+    {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 40
+      "scoreA": 43,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 53
+      "scoreA": 15,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 6,
+      "scoreB": 12
     }
   ],
-  "verdict": "East Creek has a lower overall climate risk score (28/100) compared to East Deep Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Creek has a lower overall climate risk score (24/100) compared to East Deep Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Creek or East Deep Creek safer from flooding?",
-      "answer": "East Creek has a flood risk score of 32/100, while East Deep Creek scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Creek has a flood risk score of 36/100, while East Deep Creek scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Creek scores 16/100 for bushfire risk. East Deep Creek scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Creek scores 18/100 for bushfire risk. East Deep Creek scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Creek or East Deep Creek?",
@@ -76,5 +76,15 @@
       "label": "East Deep Creek Should I Buy?",
       "url": "/suburbs/qld/east-deep-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

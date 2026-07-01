@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 53
+      "scoreA": 57,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 27
+      "scoreA": 55,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 41
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 46,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Pauls Pocket has a lower overall climate risk score (34/100) compared to Patrick Estate (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pauls Pocket has a lower overall climate risk score (37/100) compared to Patrick Estate (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Patrick Estate or Pauls Pocket safer from flooding?",
-      "answer": "Patrick Estate has a flood risk score of 60/100, while Pauls Pocket scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Patrick Estate has a flood risk score of 57/100, while Pauls Pocket scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Patrick Estate scores 38/100 for bushfire risk. Pauls Pocket scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Patrick Estate scores 55/100 for bushfire risk. Pauls Pocket scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Patrick Estate or Pauls Pocket?",
@@ -76,5 +76,15 @@
       "label": "Pauls Pocket Should I Buy?",
       "url": "/suburbs/qld/pauls-pocket/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

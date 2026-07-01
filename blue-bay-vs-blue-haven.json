@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 51
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 30
-    },
-    {
-      "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 75
-    },
-    {
-      "name": "Storm",
-      "scoreA": 37,
+      "scoreA": 27,
       "scoreB": 46
     },
     {
+      "name": "Bushfire",
+      "scoreA": 31,
+      "scoreB": 28
+    },
+    {
+      "name": "Heat",
+      "scoreA": 72,
+      "scoreB": 76
+    },
+    {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 35
+    },
+    {
       "name": "Coastal",
-      "scoreA": 37,
+      "scoreA": 33,
       "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 23
+      "scoreA": 22,
+      "scoreB": 28
     }
   ],
-  "verdict": "Blue Bay has a lower overall climate risk score (39/100) compared to Blue Haven (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blue Bay has a lower overall climate risk score (38/100) compared to Blue Haven (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Blue Bay or Blue Haven safer from flooding?",
-      "answer": "Blue Bay has a flood risk score of 42/100, while Blue Haven scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blue Bay has a flood risk score of 27/100, while Blue Haven scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blue Bay scores 41/100 for bushfire risk. Blue Haven scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blue Bay scores 31/100 for bushfire risk. Blue Haven scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blue Bay or Blue Haven?",
@@ -76,5 +76,15 @@
       "label": "Blue Haven Should I Buy?",
       "url": "/suburbs/nsw/blue-haven/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

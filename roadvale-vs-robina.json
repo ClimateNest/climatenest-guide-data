@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 34
+      "scoreA": 54,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 58,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 48
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 53
+      "scoreA": 54,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 23
     }
   ],
-  "verdict": "Robina has a lower overall climate risk score (35/100) compared to Roadvale (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Roadvale has a lower overall climate risk score (40/100) compared to Robina (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Roadvale or Robina safer from flooding?",
-      "answer": "Roadvale has a flood risk score of 33/100, while Robina scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Roadvale has a flood risk score of 54/100, while Robina scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Roadvale scores 30/100 for bushfire risk. Robina scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Roadvale scores 58/100 for bushfire risk. Robina scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Roadvale or Robina?",
-      "answer": "Both suburbs have climate considerations. Robina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Roadvale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Robina Should I Buy?",
       "url": "/suburbs/qld/robina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

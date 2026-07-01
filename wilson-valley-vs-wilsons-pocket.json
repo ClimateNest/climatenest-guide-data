@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 35,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 65
+      "scoreA": 37,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 32
+      "scoreA": 33,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 33
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 43
+      "scoreA": 49,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
-  "verdict": "Wilson Valley has a lower overall climate risk score (36/100) compared to Wilsons Pocket (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wilson Valley has a lower overall climate risk score (35/100) compared to Wilsons Pocket (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wilson Valley or Wilsons Pocket safer from flooding?",
-      "answer": "Wilson Valley has a flood risk score of 47/100, while Wilsons Pocket scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wilson Valley has a flood risk score of 35/100, while Wilsons Pocket scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wilson Valley scores 30/100 for bushfire risk. Wilsons Pocket scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wilson Valley scores 37/100 for bushfire risk. Wilsons Pocket scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wilson Valley or Wilsons Pocket?",
@@ -76,5 +76,15 @@
       "label": "Wilsons Pocket Should I Buy?",
       "url": "/suburbs/qld/wilsons-pocket/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

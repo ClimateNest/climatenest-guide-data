@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 54,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 30
+      "scoreA": 51,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 77
+      "scoreA": 54,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 42
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 14,
       "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 16
     }
   ],
-  "verdict": "Southend has a lower overall climate risk score (33/100) compared to Spectacle Lake (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Southend has a lower overall climate risk score (37/100) compared to Spectacle Lake (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Southend or Spectacle Lake safer from flooding?",
-      "answer": "Southend has a flood risk score of 39/100, while Spectacle Lake scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Southend has a flood risk score of 54/100, while Spectacle Lake scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Southend scores 31/100 for bushfire risk. Spectacle Lake scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Southend scores 51/100 for bushfire risk. Spectacle Lake scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Southend or Spectacle Lake?",
@@ -76,5 +76,15 @@
       "label": "Spectacle Lake Should I Buy?",
       "url": "/suburbs/sa/spectacle-lake/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

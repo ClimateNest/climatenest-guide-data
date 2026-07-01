@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 57,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 47
+      "scoreA": 55,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 66
+      "scoreA": 64,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 26
+      "scoreA": 49,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 39
+      "scoreA": 35,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 16
     }
   ],
-  "verdict": "Crescent Head has a lower overall climate risk score (37/100) compared to Cremorne Point (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Crescent Head has a lower overall climate risk score (38/100) compared to Cremorne Point (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cremorne Point or Crescent Head safer from flooding?",
-      "answer": "Cremorne Point has a flood risk score of 35/100, while Crescent Head scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cremorne Point has a flood risk score of 57/100, while Crescent Head scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cremorne Point scores 23/100 for bushfire risk. Crescent Head scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cremorne Point scores 55/100 for bushfire risk. Crescent Head scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cremorne Point or Crescent Head?",
@@ -76,5 +76,15 @@
       "label": "Crescent Head Should I Buy?",
       "url": "/suburbs/nsw/crescent-head/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

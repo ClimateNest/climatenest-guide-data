@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 52
+      "scoreA": 34,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 47
+      "scoreA": 58,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 65
+      "scoreA": 57,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 46
+      "scoreA": 37,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 23
     }
   ],
-  "verdict": "Parnaroo has a lower overall climate risk score (40/100) compared to Parndana (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Parndana has a lower overall climate risk score (30/100) compared to Parnaroo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Parnaroo or Parndana safer from flooding?",
-      "answer": "Parnaroo has a flood risk score of 40/100, while Parndana scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Parnaroo has a flood risk score of 34/100, while Parndana scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Parnaroo scores 63/100 for bushfire risk. Parndana scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Parnaroo scores 58/100 for bushfire risk. Parndana scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Parnaroo or Parndana?",
-      "answer": "Both suburbs have climate considerations. Parnaroo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Parndana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Parndana Should I Buy?",
       "url": "/suburbs/sa/parndana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 24
+      "scoreA": 38,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 32
+      "scoreA": 46,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 50
+      "scoreA": 37,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 50
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "Lake Darlot has a lower overall climate risk score (28/100) compared to Lake Grace (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Darlot has a lower overall climate risk score (34/100) compared to Lake Grace (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lake Darlot or Lake Grace safer from flooding?",
-      "answer": "Lake Darlot has a flood risk score of 36/100, while Lake Grace scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Darlot has a flood risk score of 38/100, while Lake Grace scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Darlot scores 22/100 for bushfire risk. Lake Grace scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Darlot scores 46/100 for bushfire risk. Lake Grace scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Darlot or Lake Grace?",
@@ -76,5 +76,15 @@
       "label": "Lake Grace Should I Buy?",
       "url": "/suburbs/wa/lake-grace/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

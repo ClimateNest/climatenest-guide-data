@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 48
+      "scoreA": 33,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 18
+      "scoreA": 32,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 70
+      "scoreA": 80,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 41
+      "scoreA": 29,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
+      "scoreA": 30,
       "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 19,
+      "scoreB": 22
     }
   ],
-  "verdict": "Dowsing Point has a lower overall climate risk score (36/100) compared to Dulcot (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dowsing Point has a lower overall climate risk score (37/100) compared to Dulcot (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dowsing Point or Dulcot safer from flooding?",
-      "answer": "Dowsing Point has a flood risk score of 26/100, while Dulcot scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dowsing Point has a flood risk score of 33/100, while Dulcot scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dowsing Point scores 44/100 for bushfire risk. Dulcot scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dowsing Point scores 32/100 for bushfire risk. Dulcot scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dowsing Point or Dulcot?",
@@ -76,5 +76,15 @@
       "label": "Dulcot Should I Buy?",
       "url": "/suburbs/tas/dulcot/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

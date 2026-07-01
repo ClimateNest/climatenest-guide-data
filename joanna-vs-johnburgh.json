@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 34
+      "scoreA": 26,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 59
+      "scoreA": 56,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 75
+      "scoreA": 77,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 28
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Joanna has a lower overall climate risk score (34/100) compared to Johnburgh (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Joanna has a lower overall climate risk score (39/100) compared to Johnburgh (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Joanna or Johnburgh safer from flooding?",
-      "answer": "Joanna has a flood risk score of 36/100, while Johnburgh scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Joanna has a flood risk score of 26/100, while Johnburgh scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Joanna scores 17/100 for bushfire risk. Johnburgh scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Joanna scores 56/100 for bushfire risk. Johnburgh scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Joanna or Johnburgh?",
@@ -76,5 +76,15 @@
       "label": "Johnburgh Should I Buy?",
       "url": "/suburbs/sa/johnburgh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

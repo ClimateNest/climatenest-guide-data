@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 37
+      "scoreA": 40,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 62
+      "scoreA": 21,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 77
+      "scoreA": 79,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 35,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 29
     }
   ],
-  "verdict": "Tynong has a lower overall climate risk score (40/100) compared to Tynong North (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tynong and Tynong North have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tynong or Tynong North safer from flooding?",
-      "answer": "Tynong has a flood risk score of 53/100, while Tynong North scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tynong has a flood risk score of 40/100, while Tynong North scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tynong scores 53/100 for bushfire risk. Tynong North scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tynong scores 21/100 for bushfire risk. Tynong North scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tynong or Tynong North?",
@@ -76,5 +76,15 @@
       "label": "Tynong North Should I Buy?",
       "url": "/suburbs/vic/tynong-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

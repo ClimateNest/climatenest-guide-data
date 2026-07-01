@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 19
-    },
-    {
-      "name": "Heat",
-      "scoreA": 71,
+      "scoreA": 25,
       "scoreB": 36
     },
     {
+      "name": "Bushfire",
+      "scoreA": 46,
+      "scoreB": 50
+    },
+    {
+      "name": "Heat",
+      "scoreA": 79,
+      "scoreB": 47
+    },
+    {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 44
+      "scoreA": 44,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 54
+      "scoreA": 33,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 24
     }
   ],
-  "verdict": "Kings Forest has a lower overall climate risk score (39/100) compared to Kingfisher Shores (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kings Forest has a lower overall climate risk score (40/100) compared to Kingfisher Shores (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kingfisher Shores or Kings Forest safer from flooding?",
-      "answer": "Kingfisher Shores has a flood risk score of 47/100, while Kings Forest scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kingfisher Shores has a flood risk score of 25/100, while Kings Forest scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kingfisher Shores scores 27/100 for bushfire risk. Kings Forest scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kingfisher Shores scores 46/100 for bushfire risk. Kings Forest scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kingfisher Shores or Kings Forest?",
@@ -76,5 +76,15 @@
       "label": "Kings Forest Should I Buy?",
       "url": "/suburbs/nsw/kings-forest/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

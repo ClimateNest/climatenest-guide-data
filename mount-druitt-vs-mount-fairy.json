@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 47
+      "scoreA": 55,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 44
+      "scoreA": 57,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 75
+      "scoreA": 65,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 32
+      "scoreA": 41,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 18
+      "scoreA": 31,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mount Fairy has a lower overall climate risk score (40/100) compared to Mount Druitt (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Fairy has a lower overall climate risk score (35/100) compared to Mount Druitt (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Druitt or Mount Fairy safer from flooding?",
-      "answer": "Mount Druitt has a flood risk score of 38/100, while Mount Fairy scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Druitt has a flood risk score of 55/100, while Mount Fairy scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Druitt scores 63/100 for bushfire risk. Mount Fairy scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Druitt scores 57/100 for bushfire risk. Mount Fairy scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Druitt or Mount Fairy?",
@@ -76,5 +76,15 @@
       "label": "Mount Fairy Should I Buy?",
       "url": "/suburbs/nsw/mount-fairy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

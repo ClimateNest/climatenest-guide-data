@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
+      "scoreA": 21,
       "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 34
+      "scoreA": 64,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 31
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 12
+      "scoreA": 9,
+      "scoreB": 8
     }
   ],
-  "verdict": "Kewarra Beach has a lower overall climate risk score (30/100) compared to Keriri Island (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Keriri Island has a lower overall climate risk score (32/100) compared to Kewarra Beach (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Keriri Island or Kewarra Beach safer from flooding?",
-      "answer": "Keriri Island has a flood risk score of 37/100, while Kewarra Beach scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Keriri Island has a flood risk score of 21/100, while Kewarra Beach scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Keriri Island scores 36/100 for bushfire risk. Kewarra Beach scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Keriri Island scores 64/100 for bushfire risk. Kewarra Beach scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Keriri Island or Kewarra Beach?",
-      "answer": "Both suburbs have climate considerations. Kewarra Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Keriri Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kewarra Beach Should I Buy?",
       "url": "/suburbs/qld/kewarra-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

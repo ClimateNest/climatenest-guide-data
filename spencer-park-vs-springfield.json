@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 35
+      "scoreA": 36,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 38
+      "scoreA": 51,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 30
+      "scoreA": 37,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 28
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Springfield has a lower overall climate risk score (34/100) compared to Spencer Park (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Springfield has a lower overall climate risk score (25/100) compared to Spencer Park (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Spencer Park or Springfield safer from flooding?",
-      "answer": "Spencer Park has a flood risk score of 39/100, while Springfield scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Spencer Park has a flood risk score of 36/100, while Springfield scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Spencer Park scores 28/100 for bushfire risk. Springfield scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Spencer Park scores 27/100 for bushfire risk. Springfield scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Spencer Park or Springfield?",
@@ -76,5 +76,15 @@
       "label": "Springfield Should I Buy?",
       "url": "/suburbs/wa/springfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

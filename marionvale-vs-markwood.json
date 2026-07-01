@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 43
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 28
-    },
-    {
-      "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 68
-    },
-    {
-      "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 34
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 27,
+      "scoreA": 37,
       "scoreB": 20
     },
     {
+      "name": "Bushfire",
+      "scoreA": 30,
+      "scoreB": 54
+    },
+    {
+      "name": "Heat",
+      "scoreA": 61,
+      "scoreB": 52
+    },
+    {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 30
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 21,
+      "scoreB": 29
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 16
     }
   ],
-  "verdict": "Markwood has a lower overall climate risk score (34/100) compared to Marionvale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Markwood has a lower overall climate risk score (34/100) compared to Marionvale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marionvale or Markwood safer from flooding?",
-      "answer": "Marionvale has a flood risk score of 50/100, while Markwood scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marionvale has a flood risk score of 37/100, while Markwood scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marionvale scores 36/100 for bushfire risk. Markwood scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marionvale scores 30/100 for bushfire risk. Markwood scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marionvale or Markwood?",
@@ -76,5 +76,15 @@
       "label": "Markwood Should I Buy?",
       "url": "/suburbs/vic/markwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

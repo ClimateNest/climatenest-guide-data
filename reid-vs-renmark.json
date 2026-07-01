@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 24
+      "scoreA": 34,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 59
+      "scoreA": 44,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 51
+      "scoreA": 53,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 35,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 13,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 23,
+      "scoreB": 17
     }
   ],
-  "verdict": "Reid has a lower overall climate risk score (34/100) compared to Renmark (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Reid has a lower overall climate risk score (34/100) compared to Renmark (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Reid or Renmark safer from flooding?",
-      "answer": "Reid has a flood risk score of 36/100, while Renmark scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Reid has a flood risk score of 34/100, while Renmark scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Reid scores 23/100 for bushfire risk. Renmark scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Reid scores 44/100 for bushfire risk. Renmark scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Reid or Renmark?",
@@ -76,5 +76,15 @@
       "label": "Renmark Should I Buy?",
       "url": "/suburbs/sa/renmark/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

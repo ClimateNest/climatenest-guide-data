@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 35,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 48
+      "scoreA": 16,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 50
+      "scoreA": 31,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 27
     }
   ],
-  "verdict": "Woodlands has a lower overall climate risk score (33/100) compared to Woodmillar (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woodlands has a lower overall climate risk score (27/100) compared to Woodmillar (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woodlands or Woodmillar safer from flooding?",
-      "answer": "Woodlands has a flood risk score of 26/100, while Woodmillar scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodlands has a flood risk score of 35/100, while Woodmillar scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodlands scores 29/100 for bushfire risk. Woodmillar scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodlands scores 16/100 for bushfire risk. Woodmillar scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodlands or Woodmillar?",
@@ -76,5 +76,15 @@
       "label": "Woodmillar Should I Buy?",
       "url": "/suburbs/qld/woodmillar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

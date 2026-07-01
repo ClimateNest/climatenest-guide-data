@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 56
+      "scoreA": 52,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 53
+      "scoreA": 37,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 64
+      "scoreA": 55,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 41,
+      "scoreA": 42,
       "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 54
+      "scoreA": 47,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 13
     }
   ],
-  "verdict": "Sefton has a lower overall climate risk score (42/100) compared to Seven Hills (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sefton has a lower overall climate risk score (42/100) compared to Seven Hills (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Sefton or Seven Hills safer from flooding?",
-      "answer": "Sefton has a flood risk score of 39/100, while Seven Hills scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sefton has a flood risk score of 52/100, while Seven Hills scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sefton scores 62/100 for bushfire risk. Seven Hills scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sefton scores 37/100 for bushfire risk. Seven Hills scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sefton or Seven Hills?",
@@ -76,5 +76,15 @@
       "label": "Seven Hills Should I Buy?",
       "url": "/suburbs/nsw/seven-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

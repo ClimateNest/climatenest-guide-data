@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 46
+      "scoreA": 33,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 49
+      "scoreA": 56,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 32
+      "scoreA": 33,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 19,
+      "scoreB": 20
     }
   ],
-  "verdict": "Broadbeach has a lower overall climate risk score (39/100) compared to Brisbane Airport (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Broadbeach has a lower overall climate risk score (30/100) compared to Brisbane Airport (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Brisbane Airport or Broadbeach safer from flooding?",
-      "answer": "Brisbane Airport has a flood risk score of 34/100, while Broadbeach scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brisbane Airport has a flood risk score of 33/100, while Broadbeach scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brisbane Airport scores 50/100 for bushfire risk. Broadbeach scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brisbane Airport scores 56/100 for bushfire risk. Broadbeach scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brisbane Airport or Broadbeach?",
@@ -76,5 +76,15 @@
       "label": "Broadbeach Should I Buy?",
       "url": "/suburbs/qld/broadbeach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

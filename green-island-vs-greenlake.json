@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 50
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
+      "scoreA": 29,
       "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 41
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 44
+      "scoreA": 29,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 12,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 8,
+      "scoreB": 8
     }
   ],
-  "verdict": "Green Island has a lower overall climate risk score (31/100) compared to Greenlake (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Green Island has a lower overall climate risk score (23/100) compared to Greenlake (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Green Island or Greenlake safer from flooding?",
-      "answer": "Green Island has a flood risk score of 58/100, while Greenlake scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Green Island has a flood risk score of 24/100, while Greenlake scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Green Island scores 24/100 for bushfire risk. Greenlake scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Green Island scores 29/100 for bushfire risk. Greenlake scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Green Island or Greenlake?",
@@ -76,5 +76,15 @@
       "label": "Greenlake Should I Buy?",
       "url": "/suburbs/qld/greenlake/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

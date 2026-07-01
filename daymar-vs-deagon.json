@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 59
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 41
-    },
-    {
-      "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 40
-    },
-    {
-      "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 58,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 45,
+      "scoreB": 44
+    },
+    {
+      "name": "Heat",
+      "scoreA": 33,
+      "scoreB": 37
+    },
+    {
+      "name": "Storm",
+      "scoreA": 25,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 54
+      "scoreA": 13,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 23
     }
   ],
-  "verdict": "Daymar has a lower overall climate risk score (37/100) compared to Deagon (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Daymar has a lower overall climate risk score (31/100) compared to Deagon (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Daymar or Deagon safer from flooding?",
-      "answer": "Daymar has a flood risk score of 41/100, while Deagon scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Daymar has a flood risk score of 58/100, while Deagon scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Daymar scores 63/100 for bushfire risk. Deagon scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Daymar scores 45/100 for bushfire risk. Deagon scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Daymar or Deagon?",
@@ -76,5 +76,15 @@
       "label": "Deagon Should I Buy?",
       "url": "/suburbs/qld/deagon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

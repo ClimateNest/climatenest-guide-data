@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 51
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 61
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 63
+      "scoreA": 67,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 39,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 13
+      "scoreA": 18,
+      "scoreB": 18
     }
   ],
-  "verdict": "Kallista has a lower overall climate risk score (39/100) compared to Kalkallo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kallista has a lower overall climate risk score (30/100) compared to Kalkallo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kalkallo or Kallista safer from flooding?",
-      "answer": "Kalkallo has a flood risk score of 43/100, while Kallista scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kalkallo has a flood risk score of 36/100, while Kallista scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kalkallo scores 50/100 for bushfire risk. Kallista scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kalkallo scores 30/100 for bushfire risk. Kallista scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kalkallo or Kallista?",
@@ -76,5 +76,15 @@
       "label": "Kallista Should I Buy?",
       "url": "/suburbs/vic/kallista/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 53
+      "scoreA": 42,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 65
+      "scoreA": 41,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 50
+      "scoreA": 42,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 40
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 58,
+      "scoreA": 24,
       "scoreB": 25
     },
     {
+      "name": "Coastal",
+      "scoreA": 40,
+      "scoreB": 15
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 8
     }
   ],
-  "verdict": "Yargullen has a lower overall climate risk score (36/100) compared to Yarrabah (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Yarrabah has a lower overall climate risk score (32/100) compared to Yargullen (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yargullen or Yarrabah safer from flooding?",
-      "answer": "Yargullen has a flood risk score of 22/100, while Yarrabah scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yargullen has a flood risk score of 42/100, while Yarrabah scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yargullen scores 49/100 for bushfire risk. Yarrabah scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yargullen scores 41/100 for bushfire risk. Yarrabah scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yargullen or Yarrabah?",
-      "answer": "Both suburbs have climate considerations. Yargullen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yarrabah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yarrabah Should I Buy?",
       "url": "/suburbs/qld/yarrabah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

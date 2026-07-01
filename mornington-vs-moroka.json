@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 34
+      "scoreA": 44,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 55,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 62
+      "scoreA": 52,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 25
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 27,
+      "scoreA": 47,
       "scoreB": 22
     },
     {
+      "name": "Coastal",
+      "scoreA": 14,
+      "scoreB": 27
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Moroka has a lower overall climate risk score (33/100) compared to Mornington (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moroka has a lower overall climate risk score (32/100) compared to Mornington (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mornington or Moroka safer from flooding?",
-      "answer": "Mornington has a flood risk score of 60/100, while Moroka scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mornington has a flood risk score of 44/100, while Moroka scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mornington scores 38/100 for bushfire risk. Moroka scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mornington scores 55/100 for bushfire risk. Moroka scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mornington or Moroka?",
@@ -76,5 +76,15 @@
       "label": "Moroka Should I Buy?",
       "url": "/suburbs/vic/moroka/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

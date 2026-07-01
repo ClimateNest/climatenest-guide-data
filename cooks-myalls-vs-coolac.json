@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 54
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 30,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 62
+      "scoreA": 68,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 24
     }
   ],
   "verdict": "Cooks Myalls has a lower overall climate risk score (33/100) compared to Coolac (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Cooks Myalls or Coolac safer from flooding?",
-      "answer": "Cooks Myalls has a flood risk score of 25/100, while Coolac scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cooks Myalls has a flood risk score of 32/100, while Coolac scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cooks Myalls scores 17/100 for bushfire risk. Coolac scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cooks Myalls scores 30/100 for bushfire risk. Coolac scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cooks Myalls or Coolac?",
@@ -76,5 +76,15 @@
       "label": "Coolac Should I Buy?",
       "url": "/suburbs/nsw/coolac/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

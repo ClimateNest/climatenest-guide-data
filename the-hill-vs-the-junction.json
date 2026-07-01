@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 58,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 54
+      "scoreA": 18,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 78
+      "scoreA": 79,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 46
+      "scoreA": 24,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 45
+      "scoreA": 46,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 11
     }
   ],
-  "verdict": "The Hill has a lower overall climate risk score (45/100) compared to The Junction (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Hill has a lower overall climate risk score (41/100) compared to The Junction (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is The Hill or The Junction safer from flooding?",
-      "answer": "The Hill has a flood risk score of 36/100, while The Junction scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Hill has a flood risk score of 58/100, while The Junction scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Hill scores 60/100 for bushfire risk. The Junction scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Hill scores 18/100 for bushfire risk. The Junction scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Hill or The Junction?",
@@ -76,5 +76,15 @@
       "label": "The Junction Should I Buy?",
       "url": "/suburbs/nsw/the-junction/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

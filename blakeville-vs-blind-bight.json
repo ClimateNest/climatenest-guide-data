@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 45
+      "scoreA": 47,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 62
+      "scoreA": 51,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 26
+      "scoreA": 32,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
       "scoreA": 26,
-      "scoreB": 24
+      "scoreB": 27
     }
   ],
-  "verdict": "Blind Bight has a lower overall climate risk score (34/100) compared to Blakeville (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blind Bight has a lower overall climate risk score (33/100) compared to Blakeville (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blakeville or Blind Bight safer from flooding?",
-      "answer": "Blakeville has a flood risk score of 35/100, while Blind Bight scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blakeville has a flood risk score of 47/100, while Blind Bight scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blakeville scores 60/100 for bushfire risk. Blind Bight scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blakeville scores 21/100 for bushfire risk. Blind Bight scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blakeville or Blind Bight?",
@@ -76,5 +76,15 @@
       "label": "Blind Bight Should I Buy?",
       "url": "/suburbs/vic/blind-bight/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

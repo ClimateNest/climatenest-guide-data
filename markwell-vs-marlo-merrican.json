@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 58
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 25,
+      "scoreA": 31,
       "scoreB": 21
     },
     {
+      "name": "Bushfire",
+      "scoreA": 24,
+      "scoreB": 64
+    },
+    {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 54
+      "scoreA": 75,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 49
+      "scoreA": 32,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 55
+      "scoreA": 41,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 28
     }
   ],
-  "verdict": "Markwell has a lower overall climate risk score (37/100) compared to Marlo Merrican (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Markwell has a lower overall climate risk score (38/100) compared to Marlo Merrican (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Markwell or Marlo Merrican safer from flooding?",
-      "answer": "Markwell has a flood risk score of 26/100, while Marlo Merrican scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Markwell has a flood risk score of 31/100, while Marlo Merrican scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Markwell scores 25/100 for bushfire risk. Marlo Merrican scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Markwell scores 24/100 for bushfire risk. Marlo Merrican scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Markwell or Marlo Merrican?",
@@ -76,5 +76,15 @@
       "label": "Marlo Merrican Should I Buy?",
       "url": "/suburbs/nsw/marlo-merrican/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

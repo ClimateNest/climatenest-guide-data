@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 42
+      "scoreA": 38,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 54
+      "scoreA": 31,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 58
+      "scoreA": 64,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 48
+      "scoreA": 25,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 30,
+      "scoreB": 10
     }
   ],
-  "verdict": "Warner Glen has a lower overall climate risk score (31/100) compared to Warrachuppin (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warner Glen has a lower overall climate risk score (34/100) compared to Warrachuppin (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Warner Glen or Warrachuppin safer from flooding?",
-      "answer": "Warner Glen has a flood risk score of 50/100, while Warrachuppin scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warner Glen has a flood risk score of 38/100, while Warrachuppin scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warner Glen scores 16/100 for bushfire risk. Warrachuppin scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warner Glen scores 31/100 for bushfire risk. Warrachuppin scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warner Glen or Warrachuppin?",
@@ -76,5 +76,15 @@
       "label": "Warrachuppin Should I Buy?",
       "url": "/suburbs/wa/warrachuppin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

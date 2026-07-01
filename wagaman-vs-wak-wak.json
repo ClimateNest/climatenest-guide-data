@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 54
+      "scoreA": 59,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 32,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 44
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 47
+      "scoreA": 36,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 10
+      "scoreA": 15,
+      "scoreB": 14
     }
   ],
-  "verdict": "Wagaman has a lower overall climate risk score (27/100) compared to Wak Wak (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wagaman has a lower overall climate risk score (36/100) compared to Wak Wak (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wagaman or Wak Wak safer from flooding?",
-      "answer": "Wagaman has a flood risk score of 29/100, while Wak Wak scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wagaman has a flood risk score of 59/100, while Wak Wak scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wagaman scores 21/100 for bushfire risk. Wak Wak scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wagaman scores 32/100 for bushfire risk. Wak Wak scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wagaman or Wak Wak?",
@@ -76,5 +76,15 @@
       "label": "Wak Wak Should I Buy?",
       "url": "/suburbs/nt/wak-wak/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

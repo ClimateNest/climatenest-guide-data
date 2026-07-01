@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 30
+      "scoreA": 50,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 27,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 47
+      "scoreA": 38,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 33
+      "scoreA": 37,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 34
+      "scoreA": 23,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 12
     }
   ],
-  "verdict": "Topaz has a lower overall climate risk score (36/100) compared to Torbanlea (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Torbanlea has a lower overall climate risk score (28/100) compared to Topaz (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Topaz or Torbanlea safer from flooding?",
-      "answer": "Topaz has a flood risk score of 52/100, while Torbanlea scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Topaz has a flood risk score of 50/100, while Torbanlea scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Topaz scores 56/100 for bushfire risk. Torbanlea scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Topaz scores 27/100 for bushfire risk. Torbanlea scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Topaz or Torbanlea?",
-      "answer": "Both suburbs have climate considerations. Topaz has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Torbanlea has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Torbanlea Should I Buy?",
       "url": "/suburbs/qld/torbanlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3319,
+    "projected2030": 4647,
+    "projected2050": 8630
+  },
+  "valueImpact": {
+    "dragPercent": 0.18,
+    "description": "Properties in this area may face a 0.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 44
+      "scoreA": 31,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 33,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 52
+      "scoreA": 75,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Balbarrup has a lower overall climate risk score (31/100) compared to Bakers Hill (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balbarrup has a lower overall climate risk score (34/100) compared to Bakers Hill (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bakers Hill or Balbarrup safer from flooding?",
-      "answer": "Bakers Hill has a flood risk score of 49/100, while Balbarrup scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bakers Hill has a flood risk score of 31/100, while Balbarrup scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bakers Hill scores 18/100 for bushfire risk. Balbarrup scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bakers Hill scores 33/100 for bushfire risk. Balbarrup scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bakers Hill or Balbarrup?",
@@ -76,5 +76,15 @@
       "label": "Balbarrup Should I Buy?",
       "url": "/suburbs/wa/balbarrup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

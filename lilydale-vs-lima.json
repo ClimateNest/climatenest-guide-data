@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 52
+      "scoreA": 54,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 80
+      "scoreA": 78,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 28,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
       "scoreA": 25,
-      "scoreB": 29
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 28
     }
   ],
-  "verdict": "Lilydale has a lower overall climate risk score (37/100) compared to Lima (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Lima has a lower overall climate risk score (36/100) compared to Lilydale (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lilydale or Lima safer from flooding?",
-      "answer": "Lilydale has a flood risk score of 36/100, while Lima scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lilydale has a flood risk score of 40/100, while Lima scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lilydale scores 35/100 for bushfire risk. Lima scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lilydale scores 54/100 for bushfire risk. Lima scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lilydale or Lima?",
-      "answer": "Both suburbs have climate considerations. Lilydale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lima has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lima Should I Buy?",
       "url": "/suburbs/vic/lima/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

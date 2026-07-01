@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 21
+      "scoreA": 53,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 31
+      "scoreA": 52,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 71
+      "scoreA": 64,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 47,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 15
+      "scoreA": 20,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
       "scoreA": 22,
-      "scoreB": 22
+      "scoreB": 17
     }
   ],
-  "verdict": "Somerville has a lower overall climate risk score (34/100) compared to Smith Brook (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Somerville has a lower overall climate risk score (31/100) compared to Smith Brook (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Smith Brook or Somerville safer from flooding?",
-      "answer": "Smith Brook has a flood risk score of 59/100, while Somerville scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Smith Brook has a flood risk score of 53/100, while Somerville scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Smith Brook scores 24/100 for bushfire risk. Somerville scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Smith Brook scores 52/100 for bushfire risk. Somerville scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Smith Brook or Somerville?",
@@ -76,5 +76,15 @@
       "label": "Somerville Should I Buy?",
       "url": "/suburbs/wa/somerville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

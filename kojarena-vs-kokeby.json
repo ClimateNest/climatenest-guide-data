@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 36
+      "scoreA": 17,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 53
+      "scoreA": 39,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 35,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 10,
+      "scoreB": 22
     }
   ],
-  "verdict": "Kojarena has a lower overall climate risk score (32/100) compared to Kokeby (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kojarena has a lower overall climate risk score (28/100) compared to Kokeby (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kojarena or Kokeby safer from flooding?",
-      "answer": "Kojarena has a flood risk score of 39/100, while Kokeby scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kojarena has a flood risk score of 45/100, while Kokeby scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kojarena scores 27/100 for bushfire risk. Kokeby scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kojarena scores 17/100 for bushfire risk. Kokeby scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kojarena or Kokeby?",
@@ -76,5 +76,15 @@
       "label": "Kokeby Should I Buy?",
       "url": "/suburbs/wa/kokeby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

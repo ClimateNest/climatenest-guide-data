@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 49
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Heat",
       "scoreA": 79,
-      "scoreB": 77
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 24
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 14
+      "scoreA": 32,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
-  "verdict": "Olinda has a lower overall climate risk score (36/100) compared to Old Toongabbie (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Olinda has a lower overall climate risk score (38/100) compared to Old Toongabbie (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Old Toongabbie or Olinda safer from flooding?",
-      "answer": "Old Toongabbie has a flood risk score of 42/100, while Olinda scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Old Toongabbie has a flood risk score of 28/100, while Olinda scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Old Toongabbie scores 43/100 for bushfire risk. Olinda scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Old Toongabbie scores 35/100 for bushfire risk. Olinda scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Old Toongabbie or Olinda?",
@@ -76,5 +76,15 @@
       "label": "Olinda Should I Buy?",
       "url": "/suburbs/nsw/olinda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

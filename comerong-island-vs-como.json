@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 37
+      "scoreA": 49,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 56
+      "scoreA": 22,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 61
+      "scoreA": 58,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 35
+      "scoreA": 38,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 56,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 14,
+      "scoreB": 20
     }
   ],
-  "verdict": "Comerong Island has a lower overall climate risk score (41/100) compared to Como (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Comerong Island has a lower overall climate risk score (40/100) compared to Como (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Comerong Island or Como safer from flooding?",
-      "answer": "Comerong Island has a flood risk score of 28/100, while Como scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Comerong Island has a flood risk score of 49/100, while Como scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Comerong Island scores 49/100 for bushfire risk. Como scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Comerong Island scores 22/100 for bushfire risk. Como scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Comerong Island or Como?",
@@ -76,5 +76,15 @@
       "label": "Como Should I Buy?",
       "url": "/suburbs/nsw/como/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

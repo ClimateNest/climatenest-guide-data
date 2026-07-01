@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 65
+      "scoreA": 34,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 68
+      "scoreA": 60,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 27
+      "scoreA": 34,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 15
+      "scoreA": 13,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 27
     }
   ],
-  "verdict": "Netherton has a lower overall climate risk score (34/100) compared to New Port (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Netherton has a lower overall climate risk score (33/100) compared to New Port (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Netherton or New Port safer from flooding?",
-      "answer": "Netherton has a flood risk score of 28/100, while New Port scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Netherton has a flood risk score of 44/100, while New Port scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Netherton scores 32/100 for bushfire risk. New Port scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Netherton scores 34/100 for bushfire risk. New Port scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Netherton or New Port?",
@@ -76,5 +76,15 @@
       "label": "New Port Should I Buy?",
       "url": "/suburbs/sa/new-port/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

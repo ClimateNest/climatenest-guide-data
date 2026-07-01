@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 27
+      "scoreA": 38,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 33
+      "scoreA": 57,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 57
+      "scoreA": 55,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 37
+      "scoreA": 41,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 12
+      "scoreA": 14,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 13
     }
   ],
-  "verdict": "Pheasant Creek has a lower overall climate risk score (30/100) compared to Petticoat Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pheasant Creek has a lower overall climate risk score (31/100) compared to Petticoat Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Petticoat Creek or Pheasant Creek safer from flooding?",
-      "answer": "Petticoat Creek has a flood risk score of 42/100, while Pheasant Creek scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Petticoat Creek has a flood risk score of 38/100, while Pheasant Creek scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Petticoat Creek scores 22/100 for bushfire risk. Pheasant Creek scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Petticoat Creek scores 57/100 for bushfire risk. Pheasant Creek scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Petticoat Creek or Pheasant Creek?",
@@ -76,5 +76,15 @@
       "label": "Pheasant Creek Should I Buy?",
       "url": "/suburbs/vic/pheasant-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 51
+      "scoreA": 25,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 77
+      "scoreA": 35,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 46
+      "scoreA": 35,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 46
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 25
     }
   ],
-  "verdict": "The Channon has a lower overall climate risk score (37/100) compared to The Entrance (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Channon has a lower overall climate risk score (31/100) compared to The Entrance (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Channon or The Entrance safer from flooding?",
-      "answer": "The Channon has a flood risk score of 41/100, while The Entrance scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Channon has a flood risk score of 36/100, while The Entrance scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Channon scores 33/100 for bushfire risk. The Entrance scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Channon scores 25/100 for bushfire risk. The Entrance scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Channon or The Entrance?",
@@ -76,5 +76,15 @@
       "label": "The Entrance Should I Buy?",
       "url": "/suburbs/nsw/the-entrance/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

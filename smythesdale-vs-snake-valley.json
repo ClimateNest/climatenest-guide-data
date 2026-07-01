@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 50
+      "scoreA": 27,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 48
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 78
+      "scoreA": 55,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 15,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 26
     }
   ],
-  "verdict": "Smythesdale has a lower overall climate risk score (35/100) compared to Snake Valley (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Snake Valley has a lower overall climate risk score (32/100) compared to Smythesdale (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Smythesdale or Snake Valley safer from flooding?",
-      "answer": "Smythesdale has a flood risk score of 52/100, while Snake Valley scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Smythesdale has a flood risk score of 27/100, while Snake Valley scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Smythesdale scores 33/100 for bushfire risk. Snake Valley scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Smythesdale scores 44/100 for bushfire risk. Snake Valley scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Smythesdale or Snake Valley?",
-      "answer": "Both suburbs have climate considerations. Smythesdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Snake Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Snake Valley Should I Buy?",
       "url": "/suburbs/vic/snake-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

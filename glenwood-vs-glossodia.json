@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 50
+      "scoreA": 36,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 55
+      "scoreA": 80,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 40
+      "scoreA": 46,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 47
+      "scoreA": 42,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "Glenwood has a lower overall climate risk score (42/100) compared to Glossodia (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glenwood has a lower overall climate risk score (40/100) compared to Glossodia (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Glenwood or Glossodia safer from flooding?",
-      "answer": "Glenwood has a flood risk score of 31/100, while Glossodia scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenwood has a flood risk score of 36/100, while Glossodia scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenwood scores 41/100 for bushfire risk. Glossodia scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenwood scores 21/100 for bushfire risk. Glossodia scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenwood or Glossodia?",
@@ -76,5 +76,15 @@
       "label": "Glossodia Should I Buy?",
       "url": "/suburbs/nsw/glossodia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

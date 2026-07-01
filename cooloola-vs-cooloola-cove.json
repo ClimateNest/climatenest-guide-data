@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
+      "scoreA": 36,
       "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 58
+      "scoreA": 52,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 37,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 48
+      "scoreA": 38,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 53
+      "scoreA": 47,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 24,
+      "scoreB": 23
     }
   ],
-  "verdict": "Cooloola has a lower overall climate risk score (38/100) compared to Cooloola Cove (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cooloola Cove has a lower overall climate risk score (37/100) compared to Cooloola (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cooloola or Cooloola Cove safer from flooding?",
-      "answer": "Cooloola has a flood risk score of 46/100, while Cooloola Cove scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cooloola has a flood risk score of 36/100, while Cooloola Cove scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cooloola scores 20/100 for bushfire risk. Cooloola Cove scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cooloola scores 52/100 for bushfire risk. Cooloola Cove scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cooloola or Cooloola Cove?",
-      "answer": "Both suburbs have climate considerations. Cooloola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cooloola Cove has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cooloola Cove Should I Buy?",
       "url": "/suburbs/qld/cooloola-cove/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

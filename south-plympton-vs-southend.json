@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 35,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 51
+      "scoreA": 79,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 48
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 14
     }
   ],
-  "verdict": "South Plympton has a lower overall climate risk score (34/100) compared to Southend (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Southend has a lower overall climate risk score (28/100) compared to South Plympton (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is South Plympton or Southend safer from flooding?",
-      "answer": "South Plympton has a flood risk score of 30/100, while Southend scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Plympton has a flood risk score of 35/100, while Southend scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Plympton scores 44/100 for bushfire risk. Southend scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Plympton scores 18/100 for bushfire risk. Southend scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Plympton or Southend?",
-      "answer": "Both suburbs have climate considerations. South Plympton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Southend has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Southend Should I Buy?",
       "url": "/suburbs/sa/southend/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 54
+      "scoreA": 41,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 22
+      "scoreA": 31,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 32
+      "scoreA": 36,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 45
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 29
+      "scoreA": 48,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 20
+      "scoreA": 16,
+      "scoreB": 19
     }
   ],
-  "verdict": "Oberina has a lower overall climate risk score (34/100) compared to Oakwood (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Oakwood has a lower overall climate risk score (33/100) compared to Oberina (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Oakwood or Oberina safer from flooding?",
-      "answer": "Oakwood has a flood risk score of 59/100, while Oberina scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Oakwood has a flood risk score of 41/100, while Oberina scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Oakwood scores 16/100 for bushfire risk. Oberina scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Oakwood scores 31/100 for bushfire risk. Oberina scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Oakwood or Oberina?",
-      "answer": "Both suburbs have climate considerations. Oberina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Oakwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Oberina Should I Buy?",
       "url": "/suburbs/qld/oberina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

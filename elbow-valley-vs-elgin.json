@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 44,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 33
+      "scoreA": 35,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 34
+      "scoreA": 49,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 18
+      "scoreA": 58,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 17
     }
   ],
-  "verdict": "Elgin has a lower overall climate risk score (27/100) compared to Elbow Valley (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Elgin has a lower overall climate risk score (32/100) compared to Elbow Valley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Elbow Valley or Elgin safer from flooding?",
-      "answer": "Elbow Valley has a flood risk score of 28/100, while Elgin scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elbow Valley has a flood risk score of 44/100, while Elgin scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elbow Valley scores 47/100 for bushfire risk. Elgin scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elbow Valley scores 30/100 for bushfire risk. Elgin scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elbow Valley or Elgin?",
@@ -76,5 +76,15 @@
       "label": "Elgin Should I Buy?",
       "url": "/suburbs/qld/elgin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

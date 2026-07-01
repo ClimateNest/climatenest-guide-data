@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 58
+      "scoreA": 22,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 64,
+      "scoreA": 76,
       "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 32
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 30
+      "scoreA": 15,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 13,
+      "scoreB": 12
     }
   ],
-  "verdict": "Monterey has a lower overall climate risk score (37/100) compared to Montefiores (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Montefiores has a lower overall climate risk score (33/100) compared to Monterey (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Montefiores or Monterey safer from flooding?",
-      "answer": "Montefiores has a flood risk score of 49/100, while Monterey scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Montefiores has a flood risk score of 28/100, while Monterey scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Montefiores scores 60/100 for bushfire risk. Monterey scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Montefiores scores 22/100 for bushfire risk. Monterey scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Montefiores or Monterey?",
-      "answer": "Both suburbs have climate considerations. Monterey has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Montefiores has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Monterey Should I Buy?",
       "url": "/suburbs/nsw/monterey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

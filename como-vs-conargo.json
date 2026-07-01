@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 35,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 63
+      "scoreA": 43,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 80
+      "scoreA": 79,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 17
+      "scoreA": 44,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 17
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Como has a lower overall climate risk score (35/100) compared to Conargo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Como has a lower overall climate risk score (40/100) compared to Conargo (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Como or Conargo safer from flooding?",
-      "answer": "Como has a flood risk score of 32/100, while Conargo scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Como has a flood risk score of 35/100, while Conargo scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Como scores 21/100 for bushfire risk. Conargo scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Como scores 43/100 for bushfire risk. Conargo scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Como or Conargo?",
@@ -76,5 +76,15 @@
       "label": "Conargo Should I Buy?",
       "url": "/suburbs/nsw/conargo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

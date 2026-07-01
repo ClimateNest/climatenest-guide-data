@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 54
+      "scoreA": 37,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 65
+      "scoreA": 46,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 46
+      "scoreA": 32,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 30
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Waggrakine has a lower overall climate risk score (38/100) compared to Waikiki (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Waggrakine has a lower overall climate risk score (34/100) compared to Waikiki (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Waggrakine or Waikiki safer from flooding?",
-      "answer": "Waggrakine has a flood risk score of 42/100, while Waikiki scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waggrakine has a flood risk score of 46/100, while Waikiki scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waggrakine scores 65/100 for bushfire risk. Waikiki scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waggrakine scores 37/100 for bushfire risk. Waikiki scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waggrakine or Waikiki?",
@@ -76,5 +76,15 @@
       "label": "Waikiki Should I Buy?",
       "url": "/suburbs/wa/waikiki/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

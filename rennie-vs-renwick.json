@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 26
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 35,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 67,
+      "scoreA": 56,
       "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Renwick has a lower overall climate risk score (31/100) compared to Rennie (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Rennie has a lower overall climate risk score (34/100) compared to Renwick (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rennie or Renwick safer from flooding?",
-      "answer": "Rennie has a flood risk score of 50/100, while Renwick scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rennie has a flood risk score of 35/100, while Renwick scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rennie scores 17/100 for bushfire risk. Renwick scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rennie scores 35/100 for bushfire risk. Renwick scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rennie or Renwick?",
-      "answer": "Both suburbs have climate considerations. Renwick has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rennie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Renwick Should I Buy?",
       "url": "/suburbs/nsw/renwick/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

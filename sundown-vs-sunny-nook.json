@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 22
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 21,
+      "scoreA": 50,
       "scoreB": 43
     },
     {
-      "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 34
-    },
-    {
-      "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 37
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 56,
+      "name": "Bushfire",
+      "scoreA": 63,
       "scoreB": 48
     },
     {
+      "name": "Heat",
+      "scoreA": 38,
+      "scoreB": 44
+    },
+    {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 50
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 53,
+      "scoreB": 49
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 11,
+      "scoreB": 11
     }
   ],
-  "verdict": "Sunny Nook has a lower overall climate risk score (35/100) compared to Sundown (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sunny Nook has a lower overall climate risk score (41/100) compared to Sundown (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sundown or Sunny Nook safer from flooding?",
-      "answer": "Sundown has a flood risk score of 59/100, while Sunny Nook scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sundown has a flood risk score of 50/100, while Sunny Nook scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sundown scores 21/100 for bushfire risk. Sunny Nook scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sundown scores 63/100 for bushfire risk. Sunny Nook scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sundown or Sunny Nook?",
@@ -76,5 +76,15 @@
       "label": "Sunny Nook Should I Buy?",
       "url": "/suburbs/qld/sunny-nook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

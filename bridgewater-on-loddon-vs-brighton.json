@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 23
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 32
-    },
-    {
-      "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 80
-    },
-    {
-      "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 37
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 12,
+      "scoreA": 50,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 15,
+      "scoreB": 56
+    },
+    {
+      "name": "Heat",
+      "scoreA": 69,
+      "scoreB": 55
+    },
+    {
+      "name": "Storm",
+      "scoreA": 47,
+      "scoreB": 38
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 29,
+      "scoreB": 16
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 21
     }
   ],
-  "verdict": "Brighton has a lower overall climate risk score (36/100) compared to Bridgewater On Loddon (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Brighton has a lower overall climate risk score (36/100) compared to Bridgewater On Loddon (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bridgewater On Loddon or Brighton safer from flooding?",
-      "answer": "Bridgewater On Loddon has a flood risk score of 55/100, while Brighton scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bridgewater On Loddon has a flood risk score of 50/100, while Brighton scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bridgewater On Loddon scores 57/100 for bushfire risk. Brighton scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bridgewater On Loddon scores 15/100 for bushfire risk. Brighton scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bridgewater On Loddon or Brighton?",
@@ -76,5 +76,15 @@
       "label": "Brighton Should I Buy?",
       "url": "/suburbs/vic/brighton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

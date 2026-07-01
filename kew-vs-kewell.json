@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 53
+      "scoreA": 22,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 36
+      "scoreA": 25,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 55
+      "scoreA": 65,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 26,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 14,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 29,
+      "scoreB": 27
     }
   ],
-  "verdict": "Kew has a lower overall climate risk score (33/100) compared to Kewell (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kew has a lower overall climate risk score (30/100) compared to Kewell (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kew or Kewell safer from flooding?",
-      "answer": "Kew has a flood risk score of 27/100, while Kewell scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kew has a flood risk score of 22/100, while Kewell scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kew scores 45/100 for bushfire risk. Kewell scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kew scores 25/100 for bushfire risk. Kewell scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kew or Kewell?",
@@ -76,5 +76,15 @@
       "label": "Kewell Should I Buy?",
       "url": "/suburbs/vic/kewell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

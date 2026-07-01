@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 21
+      "scoreA": 37,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 60
+      "scoreA": 79,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 38
+      "scoreA": 28,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 15,
       "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 25
     }
   ],
-  "verdict": "Wilby has a lower overall climate risk score (35/100) compared to Whroo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wilby has a lower overall climate risk score (36/100) compared to Whroo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Whroo or Wilby safer from flooding?",
-      "answer": "Whroo has a flood risk score of 50/100, while Wilby scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whroo has a flood risk score of 43/100, while Wilby scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whroo scores 59/100 for bushfire risk. Wilby scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whroo scores 37/100 for bushfire risk. Wilby scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whroo or Wilby?",
@@ -76,5 +76,15 @@
       "label": "Wilby Should I Buy?",
       "url": "/suburbs/vic/wilby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

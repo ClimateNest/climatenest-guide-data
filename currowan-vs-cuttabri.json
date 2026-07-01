@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 53,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 34
+      "scoreA": 19,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 80
+      "scoreA": 57,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Currowan has a lower overall climate risk score (31/100) compared to Cuttabri (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Currowan has a lower overall climate risk score (33/100) compared to Cuttabri (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Currowan or Cuttabri safer from flooding?",
-      "answer": "Currowan has a flood risk score of 32/100, while Cuttabri scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Currowan has a flood risk score of 53/100, while Cuttabri scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Currowan scores 28/100 for bushfire risk. Cuttabri scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Currowan scores 19/100 for bushfire risk. Cuttabri scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Currowan or Cuttabri?",
@@ -76,5 +76,15 @@
       "label": "Cuttabri Should I Buy?",
       "url": "/suburbs/nsw/cuttabri/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

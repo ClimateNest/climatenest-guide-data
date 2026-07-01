@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 42,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 34
+      "scoreA": 47,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 43
+      "scoreA": 36,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Pinjarra Hills has a lower overall climate risk score (27/100) compared to Pinkenba (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pinjarra Hills has a lower overall climate risk score (33/100) compared to Pinkenba (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pinjarra Hills or Pinkenba safer from flooding?",
-      "answer": "Pinjarra Hills has a flood risk score of 25/100, while Pinkenba scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pinjarra Hills has a flood risk score of 26/100, while Pinkenba scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pinjarra Hills scores 25/100 for bushfire risk. Pinkenba scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pinjarra Hills scores 42/100 for bushfire risk. Pinkenba scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pinjarra Hills or Pinkenba?",
@@ -76,5 +76,15 @@
       "label": "Pinkenba Should I Buy?",
       "url": "/suburbs/qld/pinkenba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

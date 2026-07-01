@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 19
+      "scoreA": 53,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 36
+      "scoreA": 42,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 27
+      "scoreA": 33,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 43
+      "scoreA": 17,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 9,
+      "scoreB": 30
     }
   ],
-  "verdict": "Ridgelands has a lower overall climate risk score (31/100) compared to Rifle Range (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ridgelands has a lower overall climate risk score (32/100) compared to Rifle Range (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ridgelands or Rifle Range safer from flooding?",
-      "answer": "Ridgelands has a flood risk score of 29/100, while Rifle Range scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ridgelands has a flood risk score of 40/100, while Rifle Range scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ridgelands scores 40/100 for bushfire risk. Rifle Range scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ridgelands scores 53/100 for bushfire risk. Rifle Range scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ridgelands or Rifle Range?",
@@ -76,5 +76,15 @@
       "label": "Rifle Range Should I Buy?",
       "url": "/suburbs/qld/rifle-range/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

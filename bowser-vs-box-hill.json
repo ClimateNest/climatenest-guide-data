@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 57
+      "scoreA": 19,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 69
+      "scoreA": 63,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 24
     }
   ],
-  "verdict": "Box Hill has a lower overall climate risk score (34/100) compared to Bowser (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bowser has a lower overall climate risk score (28/100) compared to Box Hill (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bowser or Box Hill safer from flooding?",
-      "answer": "Bowser has a flood risk score of 46/100, while Box Hill scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bowser has a flood risk score of 27/100, while Box Hill scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bowser scores 51/100 for bushfire risk. Box Hill scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bowser scores 19/100 for bushfire risk. Box Hill scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bowser or Box Hill?",
-      "answer": "Both suburbs have climate considerations. Box Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bowser has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Box Hill Should I Buy?",
       "url": "/suburbs/vic/box-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

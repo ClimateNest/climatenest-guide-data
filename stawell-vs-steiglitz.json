@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 55
+      "scoreA": 54,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 27
+      "scoreA": 65,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 80
+      "scoreA": 71,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 23
+      "scoreA": 29,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 23
+      "scoreA": 13,
+      "scoreB": 16
     }
   ],
-  "verdict": "Steiglitz has a lower overall climate risk score (37/100) compared to Stawell (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Steiglitz has a lower overall climate risk score (30/100) compared to Stawell (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Stawell or Steiglitz safer from flooding?",
-      "answer": "Stawell has a flood risk score of 40/100, while Steiglitz scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stawell has a flood risk score of 54/100, while Steiglitz scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stawell scores 60/100 for bushfire risk. Steiglitz scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stawell scores 65/100 for bushfire risk. Steiglitz scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stawell or Steiglitz?",
@@ -76,5 +76,15 @@
       "label": "Steiglitz Should I Buy?",
       "url": "/suburbs/vic/steiglitz/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

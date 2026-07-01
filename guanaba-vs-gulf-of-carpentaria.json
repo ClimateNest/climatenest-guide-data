@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 40
+      "scoreA": 32,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 64
+      "scoreA": 34,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 34
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 44
+      "scoreA": 46,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 10
+      "scoreA": 50,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 6
+      "scoreA": 13,
+      "scoreB": 14
     }
   ],
-  "verdict": "Gulf Of Carpentaria has a lower overall climate risk score (33/100) compared to Guanaba (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gulf Of Carpentaria has a lower overall climate risk score (27/100) compared to Guanaba (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Guanaba or Gulf Of Carpentaria safer from flooding?",
-      "answer": "Guanaba has a flood risk score of 35/100, while Gulf Of Carpentaria scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Guanaba has a flood risk score of 32/100, while Gulf Of Carpentaria scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Guanaba scores 28/100 for bushfire risk. Gulf Of Carpentaria scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Guanaba scores 34/100 for bushfire risk. Gulf Of Carpentaria scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Guanaba or Gulf Of Carpentaria?",
@@ -76,5 +76,15 @@
       "label": "Gulf Of Carpentaria Should I Buy?",
       "url": "/suburbs/qld/gulf-of-carpentaria/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

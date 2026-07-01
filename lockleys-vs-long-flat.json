@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 28
+      "scoreA": 57,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
+      "scoreA": 57,
       "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 75
+      "scoreA": 73,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 28
+      "scoreA": 43,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 22,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 28
     }
   ],
-  "verdict": "Long Flat has a lower overall climate risk score (29/100) compared to Lockleys (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Long Flat has a lower overall climate risk score (35/100) compared to Lockleys (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lockleys or Long Flat safer from flooding?",
-      "answer": "Lockleys has a flood risk score of 36/100, while Long Flat scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lockleys has a flood risk score of 57/100, while Long Flat scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lockleys scores 16/100 for bushfire risk. Long Flat scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lockleys scores 57/100 for bushfire risk. Long Flat scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lockleys or Long Flat?",
@@ -76,5 +76,15 @@
       "label": "Long Flat Should I Buy?",
       "url": "/suburbs/sa/long-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4305,
+    "projected2030": 6027,
+    "projected2050": 11194
+  },
+  "valueImpact": {
+    "dragPercent": 2.35,
+    "description": "Properties in this area may face a 2.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 36
+      "scoreA": 24,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 34
+      "scoreA": 34,
+      "scoreB": 16
     },
     {
       "name": "Heat",
       "scoreA": 31,
-      "scoreB": 42
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 46
+      "scoreA": 28,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 6
     }
   ],
-  "verdict": "Keppel Sands has a lower overall climate risk score (29/100) compared to Keriri Island (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Keppel Sands and Keriri Island have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Keppel Sands or Keriri Island safer from flooding?",
-      "answer": "Keppel Sands has a flood risk score of 23/100, while Keriri Island scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Keppel Sands has a flood risk score of 24/100, while Keriri Island scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Keppel Sands scores 43/100 for bushfire risk. Keriri Island scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Keppel Sands scores 34/100 for bushfire risk. Keriri Island scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Keppel Sands or Keriri Island?",
@@ -76,5 +76,15 @@
       "label": "Keriri Island Should I Buy?",
       "url": "/suburbs/qld/keriri-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3127,
+    "projected2030": 4377,
+    "projected2050": 8129
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

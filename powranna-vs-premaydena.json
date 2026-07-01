@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 50,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 20
+      "scoreA": 62,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 64
+      "scoreA": 70,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 32
+      "scoreA": 26,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 19,
+      "scoreB": 10
     }
   ],
-  "verdict": "Powranna has a lower overall climate risk score (33/100) compared to Premaydena (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Premaydena has a lower overall climate risk score (30/100) compared to Powranna (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Powranna or Premaydena safer from flooding?",
-      "answer": "Powranna has a flood risk score of 34/100, while Premaydena scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Powranna has a flood risk score of 50/100, while Premaydena scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Powranna scores 29/100 for bushfire risk. Premaydena scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Powranna scores 62/100 for bushfire risk. Premaydena scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Powranna or Premaydena?",
-      "answer": "Both suburbs have climate considerations. Powranna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Premaydena has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Premaydena Should I Buy?",
       "url": "/suburbs/tas/premaydena/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

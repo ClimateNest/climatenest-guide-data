@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 36
+      "scoreA": 49,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 64
+      "scoreA": 33,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 71
+      "scoreA": 79,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 36
+      "scoreA": 29,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 14,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 28
     }
   ],
-  "verdict": "Culham has a lower overall climate risk score (37/100) compared to Cullalla (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cullalla has a lower overall climate risk score (33/100) compared to Culham (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Culham or Cullalla safer from flooding?",
-      "answer": "Culham has a flood risk score of 42/100, while Cullalla scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Culham has a flood risk score of 49/100, while Cullalla scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Culham scores 42/100 for bushfire risk. Cullalla scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Culham scores 33/100 for bushfire risk. Cullalla scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Culham or Cullalla?",
-      "answer": "Both suburbs have climate considerations. Culham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cullalla has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cullalla Should I Buy?",
       "url": "/suburbs/wa/cullalla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 46
+      "scoreA": 46,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 25,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 46
     },
     {
       "name": "Storm",
       "scoreA": 47,
-      "scoreB": 39
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 51
+      "scoreA": 15,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 7,
+      "scoreB": 26
     }
   ],
-  "verdict": "East Feluga has a lower overall climate risk score (37/100) compared to East Greenmount (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Feluga has a lower overall climate risk score (31/100) compared to East Greenmount (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Feluga or East Greenmount safer from flooding?",
-      "answer": "East Feluga has a flood risk score of 58/100, while East Greenmount scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Feluga has a flood risk score of 46/100, while East Greenmount scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Feluga scores 45/100 for bushfire risk. East Greenmount scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Feluga scores 25/100 for bushfire risk. East Greenmount scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Feluga or East Greenmount?",
@@ -76,5 +76,15 @@
       "label": "East Greenmount Should I Buy?",
       "url": "/suburbs/qld/east-greenmount/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

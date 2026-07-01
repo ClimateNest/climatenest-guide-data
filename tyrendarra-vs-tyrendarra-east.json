@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 45
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 30,
+      "scoreA": 33,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 42,
+      "scoreB": 43
+    },
+    {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 60
+      "scoreA": 60,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
-  "verdict": "Tyrendarra East has a lower overall climate risk score (38/100) compared to Tyrendarra (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tyrendarra East has a lower overall climate risk score (38/100) compared to Tyrendarra (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tyrendarra or Tyrendarra East safer from flooding?",
-      "answer": "Tyrendarra has a flood risk score of 56/100, while Tyrendarra East scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tyrendarra has a flood risk score of 33/100, while Tyrendarra East scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tyrendarra scores 30/100 for bushfire risk. Tyrendarra East scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tyrendarra scores 42/100 for bushfire risk. Tyrendarra East scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tyrendarra or Tyrendarra East?",
@@ -76,5 +76,15 @@
       "label": "Tyrendarra East Should I Buy?",
       "url": "/suburbs/vic/tyrendarra-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

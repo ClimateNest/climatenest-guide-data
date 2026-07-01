@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 31
+      "scoreA": 21,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 60,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 57
+      "scoreA": 54,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 42
+      "scoreA": 36,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 30
+      "scoreA": 23,
+      "scoreB": 29
     }
   ],
-  "verdict": "Manypeaks has a lower overall climate risk score (34/100) compared to Marangaroo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Manypeaks has a lower overall climate risk score (37/100) compared to Marangaroo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Manypeaks or Marangaroo safer from flooding?",
-      "answer": "Manypeaks has a flood risk score of 32/100, while Marangaroo scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Manypeaks has a flood risk score of 21/100, while Marangaroo scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Manypeaks scores 29/100 for bushfire risk. Marangaroo scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Manypeaks scores 60/100 for bushfire risk. Marangaroo scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Manypeaks or Marangaroo?",
@@ -76,5 +76,15 @@
       "label": "Marangaroo Should I Buy?",
       "url": "/suburbs/wa/marangaroo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

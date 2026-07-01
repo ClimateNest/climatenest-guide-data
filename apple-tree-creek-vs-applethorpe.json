@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 34,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 53
+      "scoreA": 29,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 31,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 52
+      "scoreA": 45,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Apple Tree Creek has a lower overall climate risk score (32/100) compared to Applethorpe (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Apple Tree Creek has a lower overall climate risk score (30/100) compared to Applethorpe (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Apple Tree Creek or Applethorpe safer from flooding?",
-      "answer": "Apple Tree Creek has a flood risk score of 21/100, while Applethorpe scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Apple Tree Creek has a flood risk score of 34/100, while Applethorpe scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Apple Tree Creek scores 36/100 for bushfire risk. Applethorpe scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Apple Tree Creek scores 29/100 for bushfire risk. Applethorpe scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Apple Tree Creek or Applethorpe?",
@@ -76,5 +76,15 @@
       "label": "Applethorpe Should I Buy?",
       "url": "/suburbs/qld/applethorpe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 54
+      "scoreA": 52,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 42
+      "scoreA": 22,
+      "scoreB": 47
     },
     {
       "name": "Heat",
       "scoreA": 44,
-      "scoreB": 32
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 48
+      "scoreA": 31,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 8
     }
   ],
-  "verdict": "Waikola has a lower overall climate risk score (32/100) compared to Wairuna (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Waikola has a lower overall climate risk score (31/100) compared to Wairuna (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Waikola or Wairuna safer from flooding?",
-      "answer": "Waikola has a flood risk score of 47/100, while Wairuna scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waikola has a flood risk score of 52/100, while Wairuna scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waikola scores 16/100 for bushfire risk. Wairuna scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waikola scores 22/100 for bushfire risk. Wairuna scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waikola or Wairuna?",
@@ -76,5 +76,15 @@
       "label": "Wairuna Should I Buy?",
       "url": "/suburbs/qld/wairuna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

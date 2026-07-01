@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
+      "scoreA": 23,
       "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 26
+      "scoreA": 54,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 46,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 36
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 16
+      "scoreA": 43,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 26,
+      "scoreB": 8
     }
   ],
-  "verdict": "Roundstone has a lower overall climate risk score (27/100) compared to Rothwell (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Roundstone has a lower overall climate risk score (35/100) compared to Rothwell (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rothwell or Roundstone safer from flooding?",
-      "answer": "Rothwell has a flood risk score of 25/100, while Roundstone scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rothwell has a flood risk score of 23/100, while Roundstone scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rothwell scores 52/100 for bushfire risk. Roundstone scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rothwell scores 54/100 for bushfire risk. Roundstone scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rothwell or Roundstone?",
@@ -76,5 +76,15 @@
       "label": "Roundstone Should I Buy?",
       "url": "/suburbs/qld/roundstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

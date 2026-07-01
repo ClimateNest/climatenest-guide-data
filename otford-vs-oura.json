@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 44,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 56
+      "scoreA": 20,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 60
+      "scoreA": 51,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 22,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 23
+      "scoreA": 38,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
       "scoreA": 13,
-      "scoreB": 26
+      "scoreB": 17
     }
   ],
-  "verdict": "Otford has a lower overall climate risk score (35/100) compared to Oura (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Otford has a lower overall climate risk score (31/100) compared to Oura (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Otford or Oura safer from flooding?",
-      "answer": "Otford has a flood risk score of 40/100, while Oura scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Otford has a flood risk score of 44/100, while Oura scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Otford scores 22/100 for bushfire risk. Oura scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Otford scores 20/100 for bushfire risk. Oura scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Otford or Oura?",
@@ -76,5 +76,15 @@
       "label": "Oura Should I Buy?",
       "url": "/suburbs/nsw/oura/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

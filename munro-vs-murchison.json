@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 56
+      "scoreA": 46,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 32
+      "scoreA": 40,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 69
+      "scoreA": 58,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 38
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 17,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 28,
+      "scoreB": 17
     }
   ],
-  "verdict": "Murchison has a lower overall climate risk score (42/100) compared to Munro (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Murchison has a lower overall climate risk score (30/100) compared to Munro (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Munro or Murchison safer from flooding?",
-      "answer": "Munro has a flood risk score of 56/100, while Murchison scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Munro has a flood risk score of 46/100, while Murchison scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Munro scores 63/100 for bushfire risk. Murchison scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Munro scores 40/100 for bushfire risk. Murchison scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Munro or Murchison?",
@@ -76,5 +76,15 @@
       "label": "Murchison Should I Buy?",
       "url": "/suburbs/vic/murchison/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

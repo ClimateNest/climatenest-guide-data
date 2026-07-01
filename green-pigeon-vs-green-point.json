@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 42
+      "scoreA": 49,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 49
+      "scoreA": 29,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 46,
+      "scoreA": 34,
       "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 41
+      "scoreA": 59,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 15
     }
   ],
-  "verdict": "Green Pigeon has a lower overall climate risk score (30/100) compared to Green Point (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Green Pigeon has a lower overall climate risk score (39/100) compared to Green Point (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Green Pigeon or Green Point safer from flooding?",
-      "answer": "Green Pigeon has a flood risk score of 42/100, while Green Point scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Green Pigeon has a flood risk score of 49/100, while Green Point scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Green Pigeon scores 15/100 for bushfire risk. Green Point scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Green Pigeon scores 29/100 for bushfire risk. Green Point scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Green Pigeon or Green Point?",
@@ -76,5 +76,15 @@
       "label": "Green Point Should I Buy?",
       "url": "/suburbs/nsw/green-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

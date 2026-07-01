@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 31
+      "scoreA": 25,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 64
+      "scoreA": 64,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 62
+      "scoreA": 52,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 26
     }
   ],
-  "verdict": "Friendly Beaches has a lower overall climate risk score (35/100) compared to Gagebrook (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Friendly Beaches has a lower overall climate risk score (35/100) compared to Gagebrook (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Friendly Beaches or Gagebrook safer from flooding?",
-      "answer": "Friendly Beaches has a flood risk score of 35/100, while Gagebrook scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Friendly Beaches has a flood risk score of 25/100, while Gagebrook scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Friendly Beaches scores 32/100 for bushfire risk. Gagebrook scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Friendly Beaches scores 64/100 for bushfire risk. Gagebrook scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Friendly Beaches or Gagebrook?",
@@ -76,5 +76,15 @@
       "label": "Gagebrook Should I Buy?",
       "url": "/suburbs/tas/gagebrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 62
+      "scoreA": 57,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 45
+      "scoreA": 33,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 42
+      "scoreA": 26,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
+      "scoreA": 57,
       "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 8
+      "scoreA": 20,
+      "scoreB": 10
     }
   ],
-  "verdict": "Eurong has a lower overall climate risk score (31/100) compared to Evans Landing (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Evans Landing has a lower overall climate risk score (34/100) compared to Eurong (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eurong or Evans Landing safer from flooding?",
-      "answer": "Eurong has a flood risk score of 38/100, while Evans Landing scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eurong has a flood risk score of 22/100, while Evans Landing scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eurong scores 25/100 for bushfire risk. Evans Landing scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eurong scores 57/100 for bushfire risk. Evans Landing scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eurong or Evans Landing?",
-      "answer": "Both suburbs have climate considerations. Eurong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Evans Landing has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Evans Landing Should I Buy?",
       "url": "/suburbs/qld/evans-landing/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

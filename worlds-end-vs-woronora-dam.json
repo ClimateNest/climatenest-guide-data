@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 39,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 53
-    },
-    {
-      "name": "Heat",
-      "scoreA": 58,
+      "scoreA": 55,
       "scoreB": 57
     },
     {
+      "name": "Heat",
+      "scoreA": 61,
+      "scoreB": 68
+    },
+    {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 48
+      "scoreA": 34,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 48
+      "scoreA": 11,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 23
     }
   ],
-  "verdict": "Worlds End has a lower overall climate risk score (36/100) compared to Woronora Dam (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Worlds End has a lower overall climate risk score (37/100) compared to Woronora Dam (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Worlds End or Woronora Dam safer from flooding?",
-      "answer": "Worlds End has a flood risk score of 40/100, while Woronora Dam scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Worlds End has a flood risk score of 39/100, while Woronora Dam scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Worlds End scores 39/100 for bushfire risk. Woronora Dam scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Worlds End scores 55/100 for bushfire risk. Woronora Dam scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Worlds End or Woronora Dam?",
@@ -76,5 +76,15 @@
       "label": "Woronora Dam Should I Buy?",
       "url": "/suburbs/nsw/woronora-dam/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4373,
+    "projected2030": 6123,
+    "projected2050": 11371
+  },
+  "valueImpact": {
+    "dragPercent": 2.5,
+    "description": "Properties in this area may face a 2.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

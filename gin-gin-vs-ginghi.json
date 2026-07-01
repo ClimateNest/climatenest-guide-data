@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 29
+      "scoreA": 50,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
+      "scoreA": 27,
       "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 75
+      "scoreA": 65,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 42,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 15
+      "scoreA": 14,
+      "scoreB": 29
     }
   ],
-  "verdict": "Gin Gin has a lower overall climate risk score (35/100) compared to Ginghi (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gin Gin has a lower overall climate risk score (38/100) compared to Ginghi (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gin Gin or Ginghi safer from flooding?",
-      "answer": "Gin Gin has a flood risk score of 37/100, while Ginghi scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gin Gin has a flood risk score of 50/100, while Ginghi scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gin Gin scores 32/100 for bushfire risk. Ginghi scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gin Gin scores 27/100 for bushfire risk. Ginghi scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gin Gin or Ginghi?",
@@ -76,5 +76,15 @@
       "label": "Ginghi Should I Buy?",
       "url": "/suburbs/nsw/ginghi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4419,
+    "projected2030": 6186,
+    "projected2050": 11489
+  },
+  "valueImpact": {
+    "dragPercent": 2.6,
+    "description": "Properties in this area may face a 2.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

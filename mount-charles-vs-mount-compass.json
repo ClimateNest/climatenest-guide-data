@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 51
+      "scoreA": 49,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 50
+      "scoreA": 29,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 78
+      "scoreA": 51,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 46
+      "scoreA": 21,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 22,
+      "scoreB": 14
     }
   ],
-  "verdict": "Mount Charles has a lower overall climate risk score (45/100) compared to Mount Compass (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Mount Charles has a lower overall climate risk score (32/100) compared to Mount Compass (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Charles or Mount Compass safer from flooding?",
-      "answer": "Mount Charles has a flood risk score of 56/100, while Mount Compass scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Charles has a flood risk score of 49/100, while Mount Compass scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Charles scores 55/100 for bushfire risk. Mount Compass scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Charles scores 29/100 for bushfire risk. Mount Compass scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Charles or Mount Compass?",
@@ -76,5 +76,15 @@
       "label": "Mount Compass Should I Buy?",
       "url": "/suburbs/sa/mount-compass/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

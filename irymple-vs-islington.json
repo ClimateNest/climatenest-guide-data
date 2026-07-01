@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 56
+      "scoreA": 42,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 58
-    },
-    {
-      "name": "Heat",
-      "scoreA": 60,
+      "scoreA": 45,
       "scoreB": 56
     },
     {
+      "name": "Heat",
+      "scoreA": 50,
+      "scoreB": 73
+    },
+    {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 36
+      "scoreA": 45,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 38
+      "scoreA": 11,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 27
     }
   ],
-  "verdict": "Irymple has a lower overall climate risk score (33/100) compared to Islington (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Irymple has a lower overall climate risk score (37/100) compared to Islington (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Irymple or Islington safer from flooding?",
-      "answer": "Irymple has a flood risk score of 31/100, while Islington scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Irymple has a flood risk score of 42/100, while Islington scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Irymple scores 27/100 for bushfire risk. Islington scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Irymple scores 45/100 for bushfire risk. Islington scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Irymple or Islington?",
@@ -76,5 +76,15 @@
       "label": "Islington Should I Buy?",
       "url": "/suburbs/nsw/islington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4464,
+    "projected2030": 6250,
+    "projected2050": 11606
+  },
+  "valueImpact": {
+    "dragPercent": 2.7,
+    "description": "Properties in this area may face a 2.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

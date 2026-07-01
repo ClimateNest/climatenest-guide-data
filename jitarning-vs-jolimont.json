@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 36
+      "scoreA": 55,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 35
+      "scoreA": 52,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 61
+      "scoreA": 63,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 27
+      "scoreA": 43,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 20
+      "scoreA": 16,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 27
     }
   ],
-  "verdict": "Jolimont has a lower overall climate risk score (32/100) compared to Jitarning (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jolimont has a lower overall climate risk score (37/100) compared to Jitarning (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jitarning or Jolimont safer from flooding?",
-      "answer": "Jitarning has a flood risk score of 29/100, while Jolimont scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jitarning has a flood risk score of 55/100, while Jolimont scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jitarning scores 19/100 for bushfire risk. Jolimont scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jitarning scores 52/100 for bushfire risk. Jolimont scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jitarning or Jolimont?",
@@ -76,5 +76,15 @@
       "label": "Jolimont Should I Buy?",
       "url": "/suburbs/wa/jolimont/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

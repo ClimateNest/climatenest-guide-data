@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 33
+      "scoreA": 54,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 35
+      "scoreA": 20,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 69
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 21
+      "scoreA": 43,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
+      "scoreA": 29,
       "scoreB": 22
     }
   ],
-  "verdict": "Winkie has a lower overall climate risk score (35/100) compared to Windsor Gardens (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Windsor Gardens has a lower overall climate risk score (38/100) compared to Winkie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Windsor Gardens or Winkie safer from flooding?",
-      "answer": "Windsor Gardens has a flood risk score of 28/100, while Winkie scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Windsor Gardens has a flood risk score of 54/100, while Winkie scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Windsor Gardens scores 64/100 for bushfire risk. Winkie scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Windsor Gardens scores 20/100 for bushfire risk. Winkie scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Windsor Gardens or Winkie?",
-      "answer": "Both suburbs have climate considerations. Winkie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Windsor Gardens has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Winkie Should I Buy?",
       "url": "/suburbs/sa/winkie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 52
+      "scoreA": 33,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 56
+      "scoreA": 36,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 58
+      "scoreA": 66,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 36
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 19,
+      "scoreB": 15
     }
   ],
-  "verdict": "Boralma has a lower overall climate risk score (37/100) compared to Boronia (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boralma has a lower overall climate risk score (33/100) compared to Boronia (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boralma or Boronia safer from flooding?",
-      "answer": "Boralma has a flood risk score of 21/100, while Boronia scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boralma has a flood risk score of 33/100, while Boronia scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boralma scores 63/100 for bushfire risk. Boronia scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boralma scores 36/100 for bushfire risk. Boronia scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boralma or Boronia?",
@@ -76,5 +76,15 @@
       "label": "Boronia Should I Buy?",
       "url": "/suburbs/vic/boronia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

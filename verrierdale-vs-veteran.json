@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 25
+      "scoreA": 51,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 62
+      "scoreA": 20,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 44
+      "scoreA": 44,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 43
+      "scoreA": 39,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 47
+      "scoreA": 60,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 18
     }
   ],
-  "verdict": "Verrierdale has a lower overall climate risk score (39/100) compared to Veteran (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Verrierdale has a lower overall climate risk score (39/100) compared to Veteran (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Verrierdale or Veteran safer from flooding?",
-      "answer": "Verrierdale has a flood risk score of 45/100, while Veteran scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Verrierdale has a flood risk score of 51/100, while Veteran scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Verrierdale scores 49/100 for bushfire risk. Veteran scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Verrierdale scores 20/100 for bushfire risk. Veteran scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Verrierdale or Veteran?",
@@ -76,5 +76,15 @@
       "label": "Veteran Should I Buy?",
       "url": "/suburbs/qld/veteran/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

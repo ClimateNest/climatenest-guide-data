@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 58
+      "scoreA": 27,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 53
+      "scoreA": 51,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 41,
+      "scoreB": 43
     },
     {
       "name": "Storm",
       "scoreA": 34,
-      "scoreB": 42
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 24
+      "scoreA": 39,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 25,
+      "scoreB": 7
     }
   ],
-  "verdict": "Heathwood has a lower overall climate risk score (31/100) compared to Heatley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Heatley has a lower overall climate risk score (27/100) compared to Heathwood (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Heathwood or Heatley safer from flooding?",
-      "answer": "Heathwood has a flood risk score of 26/100, while Heatley scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Heathwood has a flood risk score of 27/100, while Heatley scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Heathwood scores 21/100 for bushfire risk. Heatley scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Heathwood scores 51/100 for bushfire risk. Heatley scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Heathwood or Heatley?",
-      "answer": "Both suburbs have climate considerations. Heathwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Heatley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Heatley Should I Buy?",
       "url": "/suburbs/qld/heatley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

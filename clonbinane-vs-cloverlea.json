@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 37,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 47
+      "scoreA": 33,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 63
+      "scoreA": 69,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 38
+      "scoreA": 38,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
+      "scoreA": 13,
       "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 17
     }
   ],
-  "verdict": "Cloverlea has a lower overall climate risk score (37/100) compared to Clonbinane (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cloverlea has a lower overall climate risk score (32/100) compared to Clonbinane (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Clonbinane or Cloverlea safer from flooding?",
-      "answer": "Clonbinane has a flood risk score of 56/100, while Cloverlea scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clonbinane has a flood risk score of 37/100, while Cloverlea scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clonbinane scores 45/100 for bushfire risk. Cloverlea scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clonbinane scores 33/100 for bushfire risk. Cloverlea scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clonbinane or Cloverlea?",
@@ -76,5 +76,15 @@
       "label": "Cloverlea Should I Buy?",
       "url": "/suburbs/vic/cloverlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

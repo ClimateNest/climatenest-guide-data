@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 42
+      "scoreA": 24,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 49
+      "scoreA": 60,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 73
+      "scoreA": 50,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 19,
+      "scoreB": 30
     }
   ],
-  "verdict": "Currency Creek has a lower overall climate risk score (37/100) compared to Cuttlefish Bay (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Currency Creek has a lower overall climate risk score (33/100) compared to Cuttlefish Bay (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Currency Creek or Cuttlefish Bay safer from flooding?",
-      "answer": "Currency Creek has a flood risk score of 27/100, while Cuttlefish Bay scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Currency Creek has a flood risk score of 24/100, while Cuttlefish Bay scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Currency Creek scores 62/100 for bushfire risk. Cuttlefish Bay scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Currency Creek scores 60/100 for bushfire risk. Cuttlefish Bay scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Currency Creek or Cuttlefish Bay?",
@@ -76,5 +76,15 @@
       "label": "Cuttlefish Bay Should I Buy?",
       "url": "/suburbs/sa/cuttlefish-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

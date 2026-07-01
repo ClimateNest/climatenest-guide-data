@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
+      "scoreA": 59,
       "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 38
+      "scoreA": 65,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 65
+      "scoreA": 54,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 27
+      "scoreA": 36,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
       "scoreA": 20,
-      "scoreB": 11
+      "scoreB": 15
     }
   ],
-  "verdict": "Moglonemby has a lower overall climate risk score (35/100) compared to Moggs Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moglonemby has a lower overall climate risk score (31/100) compared to Moggs Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moggs Creek or Moglonemby safer from flooding?",
-      "answer": "Moggs Creek has a flood risk score of 30/100, while Moglonemby scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moggs Creek has a flood risk score of 59/100, while Moglonemby scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moggs Creek scores 54/100 for bushfire risk. Moglonemby scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moggs Creek scores 65/100 for bushfire risk. Moglonemby scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moggs Creek or Moglonemby?",
@@ -76,5 +76,15 @@
       "label": "Moglonemby Should I Buy?",
       "url": "/suburbs/vic/moglonemby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

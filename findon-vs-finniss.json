@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 47
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 43
+      "scoreA": 17,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 55
+      "scoreA": 57,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 41,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 15
+      "scoreA": 28,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 12,
+      "scoreB": 24
     }
   ],
-  "verdict": "Finniss has a lower overall climate risk score (35/100) compared to Findon (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Finniss has a lower overall climate risk score (28/100) compared to Findon (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Findon or Finniss safer from flooding?",
-      "answer": "Findon has a flood risk score of 50/100, while Finniss scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Findon has a flood risk score of 23/100, while Finniss scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Findon scores 59/100 for bushfire risk. Finniss scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Findon scores 17/100 for bushfire risk. Finniss scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Findon or Finniss?",
@@ -76,5 +76,15 @@
       "label": "Finniss Should I Buy?",
       "url": "/suburbs/sa/finniss/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3217,
+    "projected2030": 4504,
+    "projected2050": 8365
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

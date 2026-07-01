@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 49
+      "scoreA": 51,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 44
+      "scoreA": 43,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 32
+      "scoreA": 55,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 32
+      "scoreA": 26,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 52
+      "scoreA": 13,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 29
     }
   ],
-  "verdict": "Tullera has a lower overall climate risk score (38/100) compared to Tullamore (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tullera has a lower overall climate risk score (36/100) compared to Tullamore (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tullamore or Tullera safer from flooding?",
-      "answer": "Tullamore has a flood risk score of 41/100, while Tullera scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tullamore has a flood risk score of 51/100, while Tullera scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tullamore scores 49/100 for bushfire risk. Tullera scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tullamore scores 43/100 for bushfire risk. Tullera scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tullamore or Tullera?",
@@ -76,5 +76,15 @@
       "label": "Tullera Should I Buy?",
       "url": "/suburbs/nsw/tullera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 26
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 59
+      "scoreA": 18,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 74
+      "scoreA": 79,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 13,
+      "scoreB": 21
     }
   ],
-  "verdict": "Balook has a lower overall climate risk score (36/100) compared to Balwyn (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balook has a lower overall climate risk score (31/100) compared to Balwyn (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Balook or Balwyn safer from flooding?",
-      "answer": "Balook has a flood risk score of 31/100, while Balwyn scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balook has a flood risk score of 35/100, while Balwyn scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balook scores 41/100 for bushfire risk. Balwyn scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balook scores 18/100 for bushfire risk. Balwyn scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balook or Balwyn?",
@@ -76,5 +76,15 @@
       "label": "Balwyn Should I Buy?",
       "url": "/suburbs/vic/balwyn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

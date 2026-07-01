@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 46
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 62
+      "scoreA": 36,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 35
+      "scoreA": 79,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 31
+      "scoreA": 49,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 7
+      "scoreA": 17,
+      "scoreB": 10
     }
   ],
-  "verdict": "Babbage Island has a lower overall climate risk score (33/100) compared to Baandee (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Babbage Island has a lower overall climate risk score (29/100) compared to Baandee (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Baandee or Babbage Island safer from flooding?",
-      "answer": "Baandee has a flood risk score of 28/100, while Babbage Island scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Baandee has a flood risk score of 26/100, while Babbage Island scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Baandee scores 45/100 for bushfire risk. Babbage Island scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Baandee scores 36/100 for bushfire risk. Babbage Island scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Baandee or Babbage Island?",
@@ -76,5 +76,15 @@
       "label": "Babbage Island Should I Buy?",
       "url": "/suburbs/wa/babbage-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

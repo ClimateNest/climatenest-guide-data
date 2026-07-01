@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 40
+      "scoreA": 30,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 15
     },
     {
       "name": "Heat",
       "scoreA": 55,
-      "scoreB": 70
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 29,
       "scoreB": 32
     },
     {
       "name": "Coastal",
       "scoreA": 13,
-      "scoreB": 28
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 24
     }
   ],
-  "verdict": "Swanston has a lower overall climate risk score (38/100) compared to Swansea (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Swanston has a lower overall climate risk score (28/100) compared to Swansea (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Swansea or Swanston safer from flooding?",
-      "answer": "Swansea has a flood risk score of 47/100, while Swanston scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Swansea has a flood risk score of 30/100, while Swanston scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Swansea scores 61/100 for bushfire risk. Swanston scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Swansea scores 44/100 for bushfire risk. Swanston scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Swansea or Swanston?",
@@ -76,5 +76,15 @@
       "label": "Swanston Should I Buy?",
       "url": "/suburbs/tas/swanston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

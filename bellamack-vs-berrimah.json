@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 21
+      "scoreA": 58,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 38
+      "scoreA": 44,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 18
     }
   ],
-  "verdict": "Berrimah has a lower overall climate risk score (26/100) compared to Bellamack (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Berrimah has a lower overall climate risk score (30/100) compared to Bellamack (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bellamack or Berrimah safer from flooding?",
-      "answer": "Bellamack has a flood risk score of 26/100, while Berrimah scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellamack has a flood risk score of 21/100, while Berrimah scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellamack scores 53/100 for bushfire risk. Berrimah scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellamack scores 58/100 for bushfire risk. Berrimah scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellamack or Berrimah?",
@@ -76,5 +76,15 @@
       "label": "Berrimah Should I Buy?",
       "url": "/suburbs/nt/berrimah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

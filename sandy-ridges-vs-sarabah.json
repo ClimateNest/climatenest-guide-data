@@ -14,8 +14,8 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 24
+      "scoreA": 50,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
@@ -24,31 +24,31 @@
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 38
+      "scoreA": 36,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
       "scoreA": 30,
-      "scoreB": 48
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 11
     }
   ],
-  "verdict": "Sandy Ridges has a lower overall climate risk score (35/100) compared to Sarabah (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Sarabah has a lower overall climate risk score (34/100) compared to Sandy Ridges (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sandy Ridges or Sarabah safer from flooding?",
-      "answer": "Sandy Ridges has a flood risk score of 32/100, while Sarabah scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandy Ridges has a flood risk score of 50/100, while Sarabah scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
@@ -56,7 +56,7 @@
     },
     {
       "question": "Should I buy in Sandy Ridges or Sarabah?",
-      "answer": "Both suburbs have climate considerations. Sandy Ridges has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Sarabah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sarabah Should I Buy?",
       "url": "/suburbs/qld/sarabah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

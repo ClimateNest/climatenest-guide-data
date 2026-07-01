@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 22
+      "scoreA": 50,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 56
+      "scoreA": 63,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 33
+      "scoreA": 40,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 55
+      "scoreA": 47,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 10
     }
   ],
-  "verdict": "Elimbah has a lower overall climate risk score (40/100) compared to Eli Waters (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Elimbah has a lower overall climate risk score (28/100) compared to Eli Waters (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eli Waters or Elimbah safer from flooding?",
-      "answer": "Eli Waters has a flood risk score of 39/100, while Elimbah scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eli Waters has a flood risk score of 50/100, while Elimbah scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eli Waters scores 61/100 for bushfire risk. Elimbah scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eli Waters scores 63/100 for bushfire risk. Elimbah scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eli Waters or Elimbah?",
@@ -76,5 +76,15 @@
       "label": "Elimbah Should I Buy?",
       "url": "/suburbs/qld/elimbah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

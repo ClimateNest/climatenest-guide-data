@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 57
+      "scoreA": 53,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 45
+      "scoreA": 35,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 77
+      "scoreA": 56,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 33,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
       "scoreA": 29,
-      "scoreB": 23
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 22
     }
   ],
-  "verdict": "Arawata has a lower overall climate risk score (40/100) compared to Arcadia (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Arawata has a lower overall climate risk score (36/100) compared to Arcadia (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Arawata or Arcadia safer from flooding?",
-      "answer": "Arawata has a flood risk score of 35/100, while Arcadia scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Arawata has a flood risk score of 53/100, while Arcadia scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Arawata scores 63/100 for bushfire risk. Arcadia scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Arawata scores 35/100 for bushfire risk. Arcadia scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Arawata or Arcadia?",
@@ -76,5 +76,15 @@
       "label": "Arcadia Should I Buy?",
       "url": "/suburbs/vic/arcadia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

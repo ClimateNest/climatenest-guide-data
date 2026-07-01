@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 39
+      "scoreA": 43,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 55
+      "scoreA": 50,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 19
+      "scoreA": 60,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 18
     }
   ],
-  "verdict": "Millingandi has a lower overall climate risk score (33/100) compared to Millfield (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Millingandi has a lower overall climate risk score (32/100) compared to Millfield (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Millfield or Millingandi safer from flooding?",
-      "answer": "Millfield has a flood risk score of 40/100, while Millingandi scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Millfield has a flood risk score of 43/100, while Millingandi scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Millfield scores 30/100 for bushfire risk. Millingandi scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Millfield scores 39/100 for bushfire risk. Millingandi scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Millfield or Millingandi?",
@@ -76,5 +76,15 @@
       "label": "Millingandi Should I Buy?",
       "url": "/suburbs/nsw/millingandi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

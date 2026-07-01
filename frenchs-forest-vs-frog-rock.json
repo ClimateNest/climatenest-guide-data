@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 26
+      "scoreA": 56,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 45
+      "scoreA": 16,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 76
+      "scoreA": 72,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 30
+      "scoreA": 46,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "Frog Rock has a lower overall climate risk score (38/100) compared to Frenchs Forest (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Frog Rock has a lower overall climate risk score (42/100) compared to Frenchs Forest (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Frenchs Forest or Frog Rock safer from flooding?",
-      "answer": "Frenchs Forest has a flood risk score of 37/100, while Frog Rock scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Frenchs Forest has a flood risk score of 56/100, while Frog Rock scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Frenchs Forest scores 49/100 for bushfire risk. Frog Rock scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Frenchs Forest scores 16/100 for bushfire risk. Frog Rock scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Frenchs Forest or Frog Rock?",
@@ -76,5 +76,15 @@
       "label": "Frog Rock Should I Buy?",
       "url": "/suburbs/nsw/frog-rock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 41
+      "scoreA": 46,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 39
+      "scoreA": 65,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 72
+      "scoreA": 54,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 42
+      "scoreA": 48,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 13
     }
   ],
-  "verdict": "Kings Meadows has a lower overall climate risk score (40/100) compared to Kimberley (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kings Meadows has a lower overall climate risk score (36/100) compared to Kimberley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kimberley or Kings Meadows safer from flooding?",
-      "answer": "Kimberley has a flood risk score of 50/100, while Kings Meadows scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kimberley has a flood risk score of 46/100, while Kings Meadows scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kimberley scores 60/100 for bushfire risk. Kings Meadows scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kimberley scores 65/100 for bushfire risk. Kings Meadows scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kimberley or Kings Meadows?",
@@ -76,5 +76,15 @@
       "label": "Kings Meadows Should I Buy?",
       "url": "/suburbs/tas/kings-meadows/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

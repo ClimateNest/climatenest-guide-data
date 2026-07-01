@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
+      "scoreA": 41,
       "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 48
+      "scoreA": 64,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 54
+      "scoreA": 75,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 30
     }
   ],
-  "verdict": "Kadina has a lower overall climate risk score (33/100) compared to Julia (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kadina has a lower overall climate risk score (36/100) compared to Julia (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Julia or Kadina safer from flooding?",
-      "answer": "Julia has a flood risk score of 46/100, while Kadina scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Julia has a flood risk score of 41/100, while Kadina scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Julia scores 48/100 for bushfire risk. Kadina scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Julia scores 64/100 for bushfire risk. Kadina scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Julia or Kadina?",
@@ -76,5 +76,15 @@
       "label": "Kadina Should I Buy?",
       "url": "/suburbs/sa/kadina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

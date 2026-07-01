@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 59,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 55
+      "scoreA": 74,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 48
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 26
     }
   ],
-  "verdict": "Exford has a lower overall climate risk score (33/100) compared to Everton Upper (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Exford has a lower overall climate risk score (37/100) compared to Everton Upper (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Everton Upper or Exford safer from flooding?",
-      "answer": "Everton Upper has a flood risk score of 47/100, while Exford scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Everton Upper has a flood risk score of 59/100, while Exford scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Everton Upper scores 58/100 for bushfire risk. Exford scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Everton Upper scores 28/100 for bushfire risk. Exford scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Everton Upper or Exford?",
@@ -76,5 +76,15 @@
       "label": "Exford Should I Buy?",
       "url": "/suburbs/vic/exford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

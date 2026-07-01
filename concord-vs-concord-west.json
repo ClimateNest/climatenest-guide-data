@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 43
+      "scoreA": 54,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 57
+      "scoreA": 36,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 72
+      "scoreA": 59,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 39
+      "scoreA": 23,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 56
+      "scoreA": 35,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 18
+      "scoreA": 21,
+      "scoreB": 17
     }
   ],
-  "verdict": "Concord West has a lower overall climate risk score (48/100) compared to Concord (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Concord West has a lower overall climate risk score (38/100) compared to Concord (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Concord or Concord West safer from flooding?",
-      "answer": "Concord has a flood risk score of 25/100, while Concord West scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Concord has a flood risk score of 54/100, while Concord West scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Concord scores 65/100 for bushfire risk. Concord West scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Concord scores 36/100 for bushfire risk. Concord West scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Concord or Concord West?",
@@ -76,5 +76,15 @@
       "label": "Concord West Should I Buy?",
       "url": "/suburbs/nsw/concord-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

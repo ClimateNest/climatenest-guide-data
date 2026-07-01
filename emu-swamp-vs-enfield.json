@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 56
+      "scoreA": 21,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 50
+      "scoreA": 15,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 66
+      "scoreA": 51,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 36,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
       "scoreA": 26,
-      "scoreB": 59
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 17
     }
   ],
-  "verdict": "Emu Swamp has a lower overall climate risk score (40/100) compared to Enfield (50/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Emu Swamp has a lower overall climate risk score (28/100) compared to Enfield (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Emu Swamp or Enfield safer from flooding?",
-      "answer": "Emu Swamp has a flood risk score of 30/100, while Enfield scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Emu Swamp has a flood risk score of 21/100, while Enfield scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Emu Swamp scores 59/100 for bushfire risk. Enfield scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Emu Swamp scores 15/100 for bushfire risk. Enfield scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Emu Swamp or Enfield?",
@@ -76,5 +76,15 @@
       "label": "Enfield Should I Buy?",
       "url": "/suburbs/nsw/enfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

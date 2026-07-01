@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 41
+      "scoreA": 31,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 30
+      "scoreA": 54,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 52
+      "scoreA": 53,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 49
+      "scoreA": 25,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
       "scoreA": 15,
-      "scoreB": 12
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 22
     }
   ],
-  "verdict": "Somerton Park has a lower overall climate risk score (36/100) compared to Solomontown (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Solomontown has a lower overall climate risk score (33/100) compared to Somerton Park (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Solomontown or Somerton Park safer from flooding?",
-      "answer": "Solomontown has a flood risk score of 33/100, while Somerton Park scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Solomontown has a flood risk score of 31/100, while Somerton Park scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Solomontown scores 55/100 for bushfire risk. Somerton Park scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Solomontown scores 54/100 for bushfire risk. Somerton Park scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Solomontown or Somerton Park?",
-      "answer": "Both suburbs have climate considerations. Somerton Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Solomontown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Somerton Park Should I Buy?",
       "url": "/suburbs/sa/somerton-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

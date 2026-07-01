@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 56
+      "scoreA": 41,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 62
+      "scoreA": 56,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 31
+      "scoreA": 54,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 49,
+      "scoreA": 24,
       "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 49
+      "scoreA": 18,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Linden has a lower overall climate risk score (37/100) compared to Lindendale (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Linden has a lower overall climate risk score (36/100) compared to Lindendale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Linden or Lindendale safer from flooding?",
-      "answer": "Linden has a flood risk score of 23/100, while Lindendale scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Linden has a flood risk score of 41/100, while Lindendale scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Linden scores 32/100 for bushfire risk. Lindendale scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Linden scores 56/100 for bushfire risk. Lindendale scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Linden or Lindendale?",
@@ -76,5 +76,15 @@
       "label": "Lindendale Should I Buy?",
       "url": "/suburbs/nsw/lindendale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

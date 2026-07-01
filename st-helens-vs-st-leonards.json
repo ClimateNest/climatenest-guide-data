@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 32
+      "scoreA": 49,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 42
+      "scoreA": 26,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 55
+      "scoreA": 59,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 36
+      "scoreA": 32,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 27,
+      "scoreB": 22
     }
   ],
-  "verdict": "St Helens has a lower overall climate risk score (30/100) compared to St Leonards (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "St Leonards has a lower overall climate risk score (32/100) compared to St Helens (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is St Helens or St Leonards safer from flooding?",
-      "answer": "St Helens has a flood risk score of 26/100, while St Leonards scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Helens has a flood risk score of 49/100, while St Leonards scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Helens scores 22/100 for bushfire risk. St Leonards scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Helens scores 26/100 for bushfire risk. St Leonards scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Helens or St Leonards?",
-      "answer": "Both suburbs have climate considerations. St Helens has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. St Leonards has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "St Leonards Should I Buy?",
       "url": "/suburbs/tas/st-leonards/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

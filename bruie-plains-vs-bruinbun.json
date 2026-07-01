@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 56
+      "scoreA": 57,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 55
-    },
-    {
-      "name": "Heat",
-      "scoreA": 71,
+      "scoreA": 19,
       "scoreB": 60
     },
     {
+      "name": "Heat",
+      "scoreA": 77,
+      "scoreB": 58
+    },
+    {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 35
+      "scoreA": 35,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 14
     }
   ],
-  "verdict": "Bruie Plains has a lower overall climate risk score (40/100) compared to Bruinbun (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bruinbun has a lower overall climate risk score (35/100) compared to Bruie Plains (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bruie Plains or Bruinbun safer from flooding?",
-      "answer": "Bruie Plains has a flood risk score of 28/100, while Bruinbun scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bruie Plains has a flood risk score of 57/100, while Bruinbun scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bruie Plains scores 55/100 for bushfire risk. Bruinbun scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bruie Plains scores 19/100 for bushfire risk. Bruinbun scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bruie Plains or Bruinbun?",
-      "answer": "Both suburbs have climate considerations. Bruie Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bruinbun has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bruinbun Should I Buy?",
       "url": "/suburbs/nsw/bruinbun/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

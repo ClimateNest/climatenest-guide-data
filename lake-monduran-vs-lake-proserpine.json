@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 48
+      "scoreA": 47,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 39
+      "scoreA": 43,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 45
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 33
+      "scoreA": 47,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 26
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 19
     }
   ],
-  "verdict": "Lake Proserpine has a lower overall climate risk score (34/100) compared to Lake Monduran (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Proserpine has a lower overall climate risk score (28/100) compared to Lake Monduran (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lake Monduran or Lake Proserpine safer from flooding?",
-      "answer": "Lake Monduran has a flood risk score of 34/100, while Lake Proserpine scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Monduran has a flood risk score of 47/100, while Lake Proserpine scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Monduran scores 49/100 for bushfire risk. Lake Proserpine scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Monduran scores 43/100 for bushfire risk. Lake Proserpine scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Monduran or Lake Proserpine?",
@@ -76,5 +76,15 @@
       "label": "Lake Proserpine Should I Buy?",
       "url": "/suburbs/qld/lake-proserpine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

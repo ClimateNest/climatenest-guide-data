@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 38
+      "scoreA": 44,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 52
+      "scoreA": 58,
+      "scoreB": 42
     },
     {
       "name": "Heat",
       "scoreA": 76,
-      "scoreB": 72
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 20
+      "scoreA": 46,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 30
+      "scoreA": 26,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 24
     }
   ],
-  "verdict": "Goulburn Weir has a lower overall climate risk score (39/100) compared to Goughs Bay (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goulburn Weir has a lower overall climate risk score (39/100) compared to Goughs Bay (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Goughs Bay or Goulburn Weir safer from flooding?",
-      "answer": "Goughs Bay has a flood risk score of 33/100, while Goulburn Weir scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goughs Bay has a flood risk score of 44/100, while Goulburn Weir scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goughs Bay scores 63/100 for bushfire risk. Goulburn Weir scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goughs Bay scores 58/100 for bushfire risk. Goulburn Weir scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goughs Bay or Goulburn Weir?",
@@ -76,5 +76,15 @@
       "label": "Goulburn Weir Should I Buy?",
       "url": "/suburbs/vic/goulburn-weir/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

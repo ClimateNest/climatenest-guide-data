@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 38
+      "scoreA": 35,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 51
+      "scoreA": 61,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 52,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
       "scoreA": 20,
-      "scoreB": 47
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
-  "verdict": "Honeybugle has a lower overall climate risk score (31/100) compared to Hopkins Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Hopkins Creek has a lower overall climate risk score (38/100) compared to Honeybugle (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Honeybugle or Hopkins Creek safer from flooding?",
-      "answer": "Honeybugle has a flood risk score of 28/100, while Hopkins Creek scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Honeybugle has a flood risk score of 35/100, while Hopkins Creek scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Honeybugle scores 33/100 for bushfire risk. Hopkins Creek scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Honeybugle scores 61/100 for bushfire risk. Hopkins Creek scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Honeybugle or Hopkins Creek?",
-      "answer": "Both suburbs have climate considerations. Honeybugle has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hopkins Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hopkins Creek Should I Buy?",
       "url": "/suburbs/nsw/hopkins-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

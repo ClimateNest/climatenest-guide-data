@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 23
+      "scoreA": 34,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 61
+      "scoreA": 68,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 21,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 17,
+      "scoreB": 12
     }
   ],
-  "verdict": "Heywood has a lower overall climate risk score (31/100) compared to Heyfield (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Heyfield has a lower overall climate risk score (33/100) compared to Heywood (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Heyfield or Heywood safer from flooding?",
-      "answer": "Heyfield has a flood risk score of 56/100, while Heywood scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Heyfield has a flood risk score of 32/100, while Heywood scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Heyfield scores 15/100 for bushfire risk. Heywood scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Heyfield scores 34/100 for bushfire risk. Heywood scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Heyfield or Heywood?",
-      "answer": "Both suburbs have climate considerations. Heywood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Heyfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Heywood Should I Buy?",
       "url": "/suburbs/vic/heywood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

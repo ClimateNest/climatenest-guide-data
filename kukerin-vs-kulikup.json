@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 54
+      "scoreA": 22,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 54,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 67
+      "scoreA": 70,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 48,
       "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 16,
+      "scoreB": 27
     }
   ],
-  "verdict": "Kukerin has a lower overall climate risk score (30/100) compared to Kulikup (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kulikup has a lower overall climate risk score (34/100) compared to Kukerin (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kukerin or Kulikup safer from flooding?",
-      "answer": "Kukerin has a flood risk score of 32/100, while Kulikup scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kukerin has a flood risk score of 22/100, while Kulikup scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kukerin scores 16/100 for bushfire risk. Kulikup scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kukerin scores 54/100 for bushfire risk. Kulikup scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kukerin or Kulikup?",
-      "answer": "Both suburbs have climate considerations. Kukerin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kulikup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kulikup Should I Buy?",
       "url": "/suburbs/wa/kulikup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

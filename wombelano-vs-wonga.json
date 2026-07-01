@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 52
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 19
+      "scoreA": 60,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 58
+      "scoreA": 67,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 34,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 19,
+      "scoreB": 11
     }
   ],
-  "verdict": "Wonga has a lower overall climate risk score (32/100) compared to Wombelano (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wombelano has a lower overall climate risk score (35/100) compared to Wonga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wombelano or Wonga safer from flooding?",
-      "answer": "Wombelano has a flood risk score of 56/100, while Wonga scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wombelano has a flood risk score of 20/100, while Wonga scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wombelano scores 29/100 for bushfire risk. Wonga scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wombelano scores 60/100 for bushfire risk. Wonga scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wombelano or Wonga?",
-      "answer": "Both suburbs have climate considerations. Wonga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wombelano has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wonga Should I Buy?",
       "url": "/suburbs/vic/wonga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

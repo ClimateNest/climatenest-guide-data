@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 55
+      "scoreA": 36,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 60
+      "scoreA": 51,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 73
+      "scoreA": 65,
+      "scoreB": 67
     },
     {
       "name": "Storm",
       "scoreA": 36,
-      "scoreB": 27
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 12
+      "scoreA": 45,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 25
     }
   ],
-  "verdict": "Kahibah has a lower overall climate risk score (39/100) compared to Kains Flat (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kahibah has a lower overall climate risk score (42/100) compared to Kains Flat (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Kahibah or Kains Flat safer from flooding?",
-      "answer": "Kahibah has a flood risk score of 33/100, while Kains Flat scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kahibah has a flood risk score of 36/100, while Kains Flat scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kahibah scores 17/100 for bushfire risk. Kains Flat scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kahibah scores 51/100 for bushfire risk. Kains Flat scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kahibah or Kains Flat?",
@@ -76,5 +76,15 @@
       "label": "Kains Flat Should I Buy?",
       "url": "/suburbs/nsw/kains-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

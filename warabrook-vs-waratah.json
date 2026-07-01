@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 56
+      "scoreA": 22,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 32
+      "scoreA": 63,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 69
+      "scoreA": 71,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 22
+      "scoreA": 48,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 49,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 21
     }
   ],
-  "verdict": "Waratah has a lower overall climate risk score (40/100) compared to Warabrook (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Waratah has a lower overall climate risk score (39/100) compared to Warabrook (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warabrook or Waratah safer from flooding?",
-      "answer": "Warabrook has a flood risk score of 51/100, while Waratah scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warabrook has a flood risk score of 22/100, while Waratah scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warabrook scores 60/100 for bushfire risk. Waratah scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warabrook scores 63/100 for bushfire risk. Waratah scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warabrook or Waratah?",
@@ -76,5 +76,15 @@
       "label": "Waratah Should I Buy?",
       "url": "/suburbs/nsw/waratah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4385,
+    "projected2030": 6139,
+    "projected2050": 11400
+  },
+  "valueImpact": {
+    "dragPercent": 2.53,
+    "description": "Properties in this area may face a 2.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 24
+      "scoreA": 48,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 19
+      "scoreA": 32,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 36
+      "scoreA": 77,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 21
+      "scoreA": 44,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 22,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 12
     }
   ],
-  "verdict": "Bulldog has a lower overall climate risk score (27/100) compared to Bullatale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bullatale has a lower overall climate risk score (40/100) compared to Bulldog (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bullatale or Bulldog safer from flooding?",
-      "answer": "Bullatale has a flood risk score of 40/100, while Bulldog scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bullatale has a flood risk score of 48/100, while Bulldog scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bullatale scores 48/100 for bushfire risk. Bulldog scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bullatale scores 32/100 for bushfire risk. Bulldog scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bullatale or Bulldog?",
-      "answer": "Both suburbs have climate considerations. Bulldog has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bullatale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bulldog Should I Buy?",
       "url": "/suburbs/nsw/bulldog/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

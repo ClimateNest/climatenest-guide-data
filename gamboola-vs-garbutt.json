@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 31
+      "scoreA": 39,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 31
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 36,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 8
     }
   ],
-  "verdict": "Gamboola has a lower overall climate risk score (24/100) compared to Garbutt (27/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Garbutt has a lower overall climate risk score (23/100) compared to Gamboola (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gamboola or Garbutt safer from flooding?",
-      "answer": "Gamboola has a flood risk score of 21/100, while Garbutt scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gamboola has a flood risk score of 39/100, while Garbutt scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gamboola scores 24/100 for bushfire risk. Garbutt scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gamboola scores 44/100 for bushfire risk. Garbutt scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gamboola or Garbutt?",
-      "answer": "Both suburbs have climate considerations. Gamboola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Garbutt has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Garbutt Should I Buy?",
       "url": "/suburbs/qld/garbutt/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

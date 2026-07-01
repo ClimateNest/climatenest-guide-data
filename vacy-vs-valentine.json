@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 46
+      "scoreA": 30,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 38
+      "scoreA": 48,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 76
+      "scoreA": 64,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 46
+      "scoreA": 41,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
+      "scoreA": 12,
       "scoreB": 13
     }
   ],
-  "verdict": "Vacy has a lower overall climate risk score (41/100) compared to Valentine (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Vacy has a lower overall climate risk score (38/100) compared to Valentine (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Vacy or Valentine safer from flooding?",
-      "answer": "Vacy has a flood risk score of 48/100, while Valentine scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Vacy has a flood risk score of 30/100, while Valentine scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Vacy scores 38/100 for bushfire risk. Valentine scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Vacy scores 48/100 for bushfire risk. Valentine scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Vacy or Valentine?",
@@ -76,5 +76,15 @@
       "label": "Valentine Should I Buy?",
       "url": "/suburbs/nsw/valentine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

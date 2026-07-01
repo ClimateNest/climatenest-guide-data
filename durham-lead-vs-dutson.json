@@ -14,28 +14,28 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 59
+      "scoreA": 34,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 74
+      "scoreA": 71,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
@@ -43,16 +43,16 @@
       "scoreB": 25
     }
   ],
-  "verdict": "Durham Lead has a lower overall climate risk score (40/100) compared to Dutson (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Durham Lead has a lower overall climate risk score (35/100) compared to Dutson (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Durham Lead or Dutson safer from flooding?",
-      "answer": "Durham Lead has a flood risk score of 32/100, while Dutson scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Durham Lead has a flood risk score of 34/100, while Dutson scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Durham Lead scores 28/100 for bushfire risk. Dutson scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Durham Lead scores 23/100 for bushfire risk. Dutson scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Durham Lead or Dutson?",
@@ -76,5 +76,15 @@
       "label": "Dutson Should I Buy?",
       "url": "/suburbs/vic/dutson/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

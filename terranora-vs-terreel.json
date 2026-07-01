@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 37
+      "scoreA": 35,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 51
+      "scoreA": 36,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 45,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 28
     }
   ],
-  "verdict": "Terranora has a lower overall climate risk score (36/100) compared to Terreel (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Terranora has a lower overall climate risk score (38/100) compared to Terreel (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Terranora or Terreel safer from flooding?",
-      "answer": "Terranora has a flood risk score of 56/100, while Terreel scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Terranora has a flood risk score of 48/100, while Terreel scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Terranora scores 32/100 for bushfire risk. Terreel scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Terranora scores 35/100 for bushfire risk. Terreel scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Terranora or Terreel?",
@@ -76,5 +76,15 @@
       "label": "Terreel Should I Buy?",
       "url": "/suburbs/nsw/terreel/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4373,
+    "projected2030": 6123,
+    "projected2050": 11371
+  },
+  "valueImpact": {
+    "dragPercent": 2.5,
+    "description": "Properties in this area may face a 2.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

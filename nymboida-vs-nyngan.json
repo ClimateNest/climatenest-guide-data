@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 38,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 60
+      "scoreA": 41,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 10
+      "scoreA": 60,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 26
     }
   ],
-  "verdict": "Nyngan has a lower overall climate risk score (30/100) compared to Nymboida (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Nymboida and Nyngan have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nymboida or Nyngan safer from flooding?",
-      "answer": "Nymboida has a flood risk score of 46/100, while Nyngan scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nymboida has a flood risk score of 29/100, while Nyngan scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nymboida scores 17/100 for bushfire risk. Nyngan scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nymboida scores 38/100 for bushfire risk. Nyngan scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nymboida or Nyngan?",
-      "answer": "Both suburbs have climate considerations. Nyngan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Nymboida has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nyngan Should I Buy?",
       "url": "/suburbs/nsw/nyngan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

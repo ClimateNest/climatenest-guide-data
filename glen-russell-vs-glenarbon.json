@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 39,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 45
+      "scoreA": 46,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 31
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 31
+      "scoreA": 17,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 28
+      "scoreA": 6,
+      "scoreB": 20
     }
   ],
-  "verdict": "Glen Russell has a lower overall climate risk score (30/100) compared to Glenarbon (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glen Russell has a lower overall climate risk score (29/100) compared to Glenarbon (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Glen Russell or Glenarbon safer from flooding?",
-      "answer": "Glen Russell has a flood risk score of 35/100, while Glenarbon scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glen Russell has a flood risk score of 39/100, while Glenarbon scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glen Russell scores 32/100 for bushfire risk. Glenarbon scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glen Russell scores 27/100 for bushfire risk. Glenarbon scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glen Russell or Glenarbon?",
@@ -76,5 +76,15 @@
       "label": "Glenarbon Should I Buy?",
       "url": "/suburbs/qld/glenarbon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

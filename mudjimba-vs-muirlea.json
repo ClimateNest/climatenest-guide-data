@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 56
+      "scoreA": 50,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 38
-    },
-    {
-      "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 31
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 47
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 31,
+      "scoreA": 64,
       "scoreB": 48
     },
     {
-      "name": "Cyclone",
-      "scoreA": 26,
+      "name": "Heat",
+      "scoreA": 31,
       "scoreB": 30
+    },
+    {
+      "name": "Storm",
+      "scoreA": 39,
+      "scoreB": 32
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 55,
+      "scoreB": 42
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 27,
+      "scoreB": 28
     }
   ],
-  "verdict": "Mudjimba has a lower overall climate risk score (40/100) compared to Muirlea (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Muirlea has a lower overall climate risk score (39/100) compared to Mudjimba (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mudjimba or Muirlea safer from flooding?",
-      "answer": "Mudjimba has a flood risk score of 44/100, while Muirlea scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mudjimba has a flood risk score of 50/100, while Muirlea scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mudjimba scores 47/100 for bushfire risk. Muirlea scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mudjimba scores 64/100 for bushfire risk. Muirlea scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mudjimba or Muirlea?",
-      "answer": "Both suburbs have climate considerations. Mudjimba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Muirlea has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Muirlea Should I Buy?",
       "url": "/suburbs/qld/muirlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 44
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 21,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 74
+      "scoreA": 54,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 23
     }
   ],
-  "verdict": "Calwell has a lower overall climate risk score (39/100) compared to Bruce (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bruce has a lower overall climate risk score (29/100) compared to Calwell (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bruce or Calwell safer from flooding?",
-      "answer": "Bruce has a flood risk score of 56/100, while Calwell scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bruce has a flood risk score of 26/100, while Calwell scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bruce scores 31/100 for bushfire risk. Calwell scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bruce scores 21/100 for bushfire risk. Calwell scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bruce or Calwell?",
-      "answer": "Both suburbs have climate considerations. Calwell has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bruce has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Calwell Should I Buy?",
       "url": "/suburbs/act/calwell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

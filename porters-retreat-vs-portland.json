@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 52,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 55
+      "scoreA": 30,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 67
+      "scoreA": 69,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 33
+      "scoreA": 40,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 19
     }
   ],
-  "verdict": "Porters Retreat has a lower overall climate risk score (32/100) compared to Portland (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Portland has a lower overall climate risk score (38/100) compared to Porters Retreat (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Porters Retreat or Portland safer from flooding?",
-      "answer": "Porters Retreat has a flood risk score of 24/100, while Portland scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Porters Retreat has a flood risk score of 52/100, while Portland scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Porters Retreat scores 23/100 for bushfire risk. Portland scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Porters Retreat scores 30/100 for bushfire risk. Portland scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Porters Retreat or Portland?",
-      "answer": "Both suburbs have climate considerations. Porters Retreat has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Portland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Portland Should I Buy?",
       "url": "/suburbs/nsw/portland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

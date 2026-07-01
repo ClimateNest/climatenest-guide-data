@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 29
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 50
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
+      "scoreA": 50,
       "scoreB": 44
     },
     {
+      "name": "Heat",
+      "scoreA": 35,
+      "scoreB": 43
+    },
+    {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 19
+      "scoreA": 23,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
+      "scoreA": 12,
       "scoreB": 6
     }
   ],
-  "verdict": "Gunyangara has a lower overall climate risk score (29/100) compared to Gunn (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gunyangara has a lower overall climate risk score (27/100) compared to Gunn (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gunn or Gunyangara safer from flooding?",
-      "answer": "Gunn has a flood risk score of 53/100, while Gunyangara scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gunn has a flood risk score of 33/100, while Gunyangara scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gunn scores 57/100 for bushfire risk. Gunyangara scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gunn scores 50/100 for bushfire risk. Gunyangara scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gunn or Gunyangara?",
@@ -76,5 +76,15 @@
       "label": "Gunyangara Should I Buy?",
       "url": "/suburbs/nt/gunyangara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3206,
+    "projected2030": 4488,
+    "projected2050": 8336
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 55
+      "scoreA": 40,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 62
+      "scoreA": 18,
+      "scoreB": 53
     },
     {
       "name": "Heat",
       "scoreA": 67,
-      "scoreB": 52
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 27
+      "scoreA": 40,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 11
+      "scoreA": 26,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 23
     }
   ],
-  "verdict": "Terang has a lower overall climate risk score (38/100) compared to Tennyson (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Terang has a lower overall climate risk score (34/100) compared to Tennyson (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tennyson or Terang safer from flooding?",
-      "answer": "Tennyson has a flood risk score of 24/100, while Terang scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tennyson has a flood risk score of 40/100, while Terang scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tennyson scores 48/100 for bushfire risk. Terang scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tennyson scores 18/100 for bushfire risk. Terang scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tennyson or Terang?",
@@ -76,5 +76,15 @@
       "label": "Terang Should I Buy?",
       "url": "/suburbs/vic/terang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

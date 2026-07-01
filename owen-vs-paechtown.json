@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 28
+      "scoreA": 41,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 56,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 69
+      "scoreA": 70,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 10
+      "scoreA": 26,
+      "scoreB": 23
     }
   ],
-  "verdict": "Paechtown has a lower overall climate risk score (31/100) compared to Owen (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Paechtown has a lower overall climate risk score (38/100) compared to Owen (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Owen or Paechtown safer from flooding?",
-      "answer": "Owen has a flood risk score of 46/100, while Paechtown scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Owen has a flood risk score of 41/100, while Paechtown scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Owen scores 27/100 for bushfire risk. Paechtown scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Owen scores 56/100 for bushfire risk. Paechtown scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Owen or Paechtown?",
@@ -76,5 +76,15 @@
       "label": "Paechtown Should I Buy?",
       "url": "/suburbs/sa/paechtown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

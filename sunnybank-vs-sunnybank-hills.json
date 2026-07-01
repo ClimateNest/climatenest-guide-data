@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 49
+      "scoreA": 20,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 46
+      "scoreA": 61,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 56
+      "scoreA": 57,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 12
+      "scoreA": 28,
+      "scoreB": 29
     }
   ],
-  "verdict": "Sunnybank Hills has a lower overall climate risk score (38/100) compared to Sunnybank (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Sunnybank has a lower overall climate risk score (38/100) compared to Sunnybank Hills (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sunnybank or Sunnybank Hills safer from flooding?",
-      "answer": "Sunnybank has a flood risk score of 54/100, while Sunnybank Hills scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sunnybank has a flood risk score of 20/100, while Sunnybank Hills scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sunnybank scores 62/100 for bushfire risk. Sunnybank Hills scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sunnybank scores 61/100 for bushfire risk. Sunnybank Hills scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sunnybank or Sunnybank Hills?",
-      "answer": "Both suburbs have climate considerations. Sunnybank Hills has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Sunnybank has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sunnybank Hills Should I Buy?",
       "url": "/suburbs/qld/sunnybank-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

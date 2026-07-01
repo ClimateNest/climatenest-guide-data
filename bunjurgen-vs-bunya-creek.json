@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 54
+      "scoreA": 25,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 53
+      "scoreA": 39,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 45
+      "scoreA": 40,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 37
+      "scoreA": 44,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
       "scoreA": 36,
-      "scoreB": 39
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 22,
+      "scoreB": 26
     }
   ],
-  "verdict": "Bunjurgen has a lower overall climate risk score (39/100) compared to Bunya Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bunjurgen has a lower overall climate risk score (34/100) compared to Bunya Creek (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bunjurgen or Bunya Creek safer from flooding?",
-      "answer": "Bunjurgen has a flood risk score of 49/100, while Bunya Creek scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bunjurgen has a flood risk score of 25/100, while Bunya Creek scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bunjurgen scores 51/100 for bushfire risk. Bunya Creek scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bunjurgen scores 39/100 for bushfire risk. Bunya Creek scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bunjurgen or Bunya Creek?",
@@ -76,5 +76,15 @@
       "label": "Bunya Creek Should I Buy?",
       "url": "/suburbs/qld/bunya-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

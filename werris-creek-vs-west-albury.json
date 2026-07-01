@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 54
+      "scoreA": 20,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 67
+      "scoreA": 65,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 27
+      "scoreA": 36,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
       "scoreA": 38,
-      "scoreB": 26
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 13
     }
   ],
-  "verdict": "West Albury has a lower overall climate risk score (40/100) compared to Werris Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "West Albury has a lower overall climate risk score (35/100) compared to Werris Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Werris Creek or West Albury safer from flooding?",
-      "answer": "Werris Creek has a flood risk score of 40/100, while West Albury scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Werris Creek has a flood risk score of 20/100, while West Albury scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Werris Creek scores 58/100 for bushfire risk. West Albury scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Werris Creek scores 44/100 for bushfire risk. West Albury scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Werris Creek or West Albury?",
@@ -76,5 +76,15 @@
       "label": "West Albury Should I Buy?",
       "url": "/suburbs/nsw/west-albury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

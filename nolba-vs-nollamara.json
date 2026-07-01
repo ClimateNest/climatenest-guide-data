@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 33,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 22
+      "scoreA": 33,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 76
+      "scoreA": 32,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 41
+      "scoreA": 35,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 17
     }
   ],
-  "verdict": "Nolba has a lower overall climate risk score (32/100) compared to Nollamara (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nolba has a lower overall climate risk score (28/100) compared to Nollamara (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nolba or Nollamara safer from flooding?",
-      "answer": "Nolba has a flood risk score of 22/100, while Nollamara scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nolba has a flood risk score of 33/100, while Nollamara scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nolba scores 57/100 for bushfire risk. Nollamara scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nolba scores 33/100 for bushfire risk. Nollamara scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nolba or Nollamara?",
@@ -76,5 +76,15 @@
       "label": "Nollamara Should I Buy?",
       "url": "/suburbs/wa/nollamara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

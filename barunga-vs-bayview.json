@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 40
+      "scoreA": 56,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 41
+      "scoreA": 25,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 48,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 35
+      "scoreA": 38,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 17
+      "scoreA": 10,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 15
+      "scoreA": 5,
+      "scoreB": 5
     }
   ],
-  "verdict": "Bayview has a lower overall climate risk score (33/100) compared to Barunga (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bayview has a lower overall climate risk score (22/100) compared to Barunga (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Barunga or Bayview safer from flooding?",
-      "answer": "Barunga has a flood risk score of 54/100, while Bayview scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barunga has a flood risk score of 56/100, while Bayview scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barunga scores 53/100 for bushfire risk. Bayview scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barunga scores 25/100 for bushfire risk. Bayview scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barunga or Bayview?",
@@ -76,5 +76,15 @@
       "label": "Bayview Should I Buy?",
       "url": "/suburbs/nt/bayview/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3263,
+    "projected2030": 4568,
+    "projected2050": 8483
+  },
+  "valueImpact": {
+    "dragPercent": 0.05,
+    "description": "Properties in this area may face a 0.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

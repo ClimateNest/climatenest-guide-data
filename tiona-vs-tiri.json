@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 50
+      "scoreA": 44,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 53
+      "scoreA": 52,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 75
+      "scoreA": 54,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 53
+      "scoreA": 40,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 21
     }
   ],
-  "verdict": "Tiona has a lower overall climate risk score (42/100) compared to Tiri (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tiona has a lower overall climate risk score (41/100) compared to Tiri (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Tiona or Tiri safer from flooding?",
-      "answer": "Tiona has a flood risk score of 38/100, while Tiri scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tiona has a flood risk score of 44/100, while Tiri scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tiona scores 32/100 for bushfire risk. Tiri scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tiona scores 52/100 for bushfire risk. Tiri scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tiona or Tiri?",
@@ -76,5 +76,15 @@
       "label": "Tiri Should I Buy?",
       "url": "/suburbs/nsw/tiri/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

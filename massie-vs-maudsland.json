@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 55,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 64
+      "scoreA": 29,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
       "scoreA": 36,
-      "scoreB": 51
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 17
     }
   ],
-  "verdict": "Massie has a lower overall climate risk score (37/100) compared to Maudsland (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Maudsland has a lower overall climate risk score (33/100) compared to Massie (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Massie or Maudsland safer from flooding?",
-      "answer": "Massie has a flood risk score of 30/100, while Maudsland scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Massie has a flood risk score of 55/100, while Maudsland scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Massie scores 28/100 for bushfire risk. Maudsland scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Massie scores 29/100 for bushfire risk. Maudsland scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Massie or Maudsland?",
-      "answer": "Both suburbs have climate considerations. Massie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Maudsland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Maudsland Should I Buy?",
       "url": "/suburbs/qld/maudsland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

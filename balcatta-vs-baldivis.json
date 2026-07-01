@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 45
+      "scoreA": 28,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 33
-    },
-    {
-      "name": "Heat",
-      "scoreA": 71,
+      "scoreA": 62,
       "scoreB": 57
     },
     {
+      "name": "Heat",
+      "scoreA": 75,
+      "scoreB": 68
+    },
+    {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 37
+      "scoreA": 20,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 22
+      "scoreA": 16,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 12
     }
   ],
-  "verdict": "Balcatta has a lower overall climate risk score (33/100) compared to Baldivis (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balcatta has a lower overall climate risk score (38/100) compared to Baldivis (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Balcatta or Baldivis safer from flooding?",
-      "answer": "Balcatta has a flood risk score of 36/100, while Baldivis scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balcatta has a flood risk score of 28/100, while Baldivis scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balcatta scores 26/100 for bushfire risk. Baldivis scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balcatta scores 62/100 for bushfire risk. Baldivis scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balcatta or Baldivis?",
@@ -76,5 +76,15 @@
       "label": "Baldivis Should I Buy?",
       "url": "/suburbs/wa/baldivis/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 40
+      "scoreA": 35,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 57
+      "scoreA": 44,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 22
+      "scoreA": 22,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 6
     }
   ],
-  "verdict": "Claravale has a lower overall climate risk score (34/100) compared to Ciccone (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Ciccone has a lower overall climate risk score (31/100) compared to Claravale (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ciccone or Claravale safer from flooding?",
-      "answer": "Ciccone has a flood risk score of 50/100, while Claravale scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ciccone has a flood risk score of 35/100, while Claravale scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ciccone scores 59/100 for bushfire risk. Claravale scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ciccone scores 44/100 for bushfire risk. Claravale scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ciccone or Claravale?",
-      "answer": "Both suburbs have climate considerations. Claravale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ciccone has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Claravale Should I Buy?",
       "url": "/suburbs/nt/claravale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

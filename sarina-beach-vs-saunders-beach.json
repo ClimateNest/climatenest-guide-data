@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 28
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 41
-    },
-    {
-      "name": "Heat",
-      "scoreA": 45,
+      "scoreA": 28,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 52,
+      "scoreB": 50
+    },
+    {
+      "name": "Heat",
+      "scoreA": 43,
+      "scoreB": 46
+    },
+    {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 23
+      "scoreA": 37,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 6
+      "scoreA": 5,
+      "scoreB": 14
     }
   ],
-  "verdict": "Saunders Beach has a lower overall climate risk score (27/100) compared to Sarina Beach (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Sarina Beach has a lower overall climate risk score (32/100) compared to Saunders Beach (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sarina Beach or Saunders Beach safer from flooding?",
-      "answer": "Sarina Beach has a flood risk score of 24/100, while Saunders Beach scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sarina Beach has a flood risk score of 28/100, while Saunders Beach scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sarina Beach scores 27/100 for bushfire risk. Saunders Beach scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sarina Beach scores 52/100 for bushfire risk. Saunders Beach scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sarina Beach or Saunders Beach?",
-      "answer": "Both suburbs have climate considerations. Saunders Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Sarina Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Saunders Beach Should I Buy?",
       "url": "/suburbs/qld/saunders-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 16
-    },
-    {
-      "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 60
-    },
-    {
-      "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 33
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 40,
+      "scoreA": 45,
       "scoreB": 39
     },
     {
+      "name": "Bushfire",
+      "scoreA": 49,
+      "scoreB": 64
+    },
+    {
+      "name": "Heat",
+      "scoreA": 35,
+      "scoreB": 71
+    },
+    {
+      "name": "Storm",
+      "scoreA": 34,
+      "scoreB": 43
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 52,
+      "scoreB": 47
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 15
     }
   ],
-  "verdict": "The Channon has a lower overall climate risk score (33/100) compared to The Devils Wilderness (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Channon has a lower overall climate risk score (39/100) compared to The Devils Wilderness (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Channon or The Devils Wilderness safer from flooding?",
-      "answer": "The Channon has a flood risk score of 49/100, while The Devils Wilderness scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Channon has a flood risk score of 45/100, while The Devils Wilderness scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Channon scores 32/100 for bushfire risk. The Devils Wilderness scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Channon scores 49/100 for bushfire risk. The Devils Wilderness scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Channon or The Devils Wilderness?",
@@ -76,5 +76,15 @@
       "label": "The Devils Wilderness Should I Buy?",
       "url": "/suburbs/nsw/the-devils-wilderness/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

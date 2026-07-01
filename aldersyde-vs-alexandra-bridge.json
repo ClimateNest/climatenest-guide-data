@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 36
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 39
-    },
-    {
-      "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 71
-    },
-    {
-      "name": "Storm",
-      "scoreA": 39,
+      "scoreA": 36,
       "scoreB": 33
     },
     {
+      "name": "Bushfire",
+      "scoreA": 48,
+      "scoreB": 53
+    },
+    {
+      "name": "Heat",
+      "scoreA": 77,
+      "scoreB": 75
+    },
+    {
+      "name": "Storm",
+      "scoreA": 33,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 30
+      "scoreA": 18,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 14,
+      "scoreB": 20
     }
   ],
-  "verdict": "Alexandra Bridge has a lower overall climate risk score (39/100) compared to Aldersyde (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Aldersyde has a lower overall climate risk score (38/100) compared to Alexandra Bridge (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Aldersyde or Alexandra Bridge safer from flooding?",
-      "answer": "Aldersyde has a flood risk score of 54/100, while Alexandra Bridge scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Aldersyde has a flood risk score of 36/100, while Alexandra Bridge scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Aldersyde scores 54/100 for bushfire risk. Alexandra Bridge scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Aldersyde scores 48/100 for bushfire risk. Alexandra Bridge scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Aldersyde or Alexandra Bridge?",
-      "answer": "Both suburbs have climate considerations. Alexandra Bridge has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Aldersyde has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Alexandra Bridge Should I Buy?",
       "url": "/suburbs/wa/alexandra-bridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 39
+      "scoreA": 22,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 57
+      "scoreA": 43,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 50
+      "scoreA": 56,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 14
+      "scoreA": 13,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
+      "scoreA": 17,
       "scoreB": 21
     }
   ],
-  "verdict": "Rheola has a lower overall climate risk score (38/100) compared to Reynard (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Reynard has a lower overall climate risk score (32/100) compared to Rheola (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Reynard or Rheola safer from flooding?",
-      "answer": "Reynard has a flood risk score of 42/100, while Rheola scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Reynard has a flood risk score of 22/100, while Rheola scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Reynard scores 54/100 for bushfire risk. Rheola scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Reynard scores 43/100 for bushfire risk. Rheola scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Reynard or Rheola?",
-      "answer": "Both suburbs have climate considerations. Rheola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Reynard has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rheola Should I Buy?",
       "url": "/suburbs/vic/rheola/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

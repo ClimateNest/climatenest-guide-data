@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 21
+      "scoreA": 57,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 26
+      "scoreA": 29,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 57
+      "scoreA": 67,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 20,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 22
     }
   ],
-  "verdict": "Coobowie has a lower overall climate risk score (32/100) compared to Conmurra (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coobowie has a lower overall climate risk score (29/100) compared to Conmurra (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Conmurra or Coobowie safer from flooding?",
-      "answer": "Conmurra has a flood risk score of 59/100, while Coobowie scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Conmurra has a flood risk score of 57/100, while Coobowie scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Conmurra scores 57/100 for bushfire risk. Coobowie scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Conmurra scores 29/100 for bushfire risk. Coobowie scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Conmurra or Coobowie?",
@@ -76,5 +76,15 @@
       "label": "Coobowie Should I Buy?",
       "url": "/suburbs/sa/coobowie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 60
+      "scoreA": 45,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 24
+      "scoreA": 23,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 44
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 31
+      "scoreA": 20,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
       "scoreA": 5,
-      "scoreB": 12
+      "scoreB": 10
     }
   ],
-  "verdict": "Lyndside has a lower overall climate risk score (28/100) compared to Lyons (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lyndside has a lower overall climate risk score (27/100) compared to Lyons (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lyndside or Lyons safer from flooding?",
-      "answer": "Lyndside has a flood risk score of 25/100, while Lyons scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lyndside has a flood risk score of 45/100, while Lyons scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lyndside scores 55/100 for bushfire risk. Lyons scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lyndside scores 23/100 for bushfire risk. Lyons scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lyndside or Lyons?",
@@ -76,5 +76,15 @@
       "label": "Lyons Should I Buy?",
       "url": "/suburbs/qld/lyons/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

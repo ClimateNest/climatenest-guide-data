@@ -14,13 +14,13 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 49
+      "scoreA": 31,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 24
     },
     {
       "name": "Heat",
@@ -29,34 +29,34 @@
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 49,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 16
+      "scoreA": 13,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 26
     }
   ],
-  "verdict": "Sultana Point has a lower overall climate risk score (33/100) compared to Summertown (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Summertown has a lower overall climate risk score (34/100) compared to Sultana Point (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sultana Point or Summertown safer from flooding?",
-      "answer": "Sultana Point has a flood risk score of 53/100, while Summertown scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sultana Point has a flood risk score of 31/100, while Summertown scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sultana Point scores 20/100 for bushfire risk. Summertown scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sultana Point scores 42/100 for bushfire risk. Summertown scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sultana Point or Summertown?",
-      "answer": "Both suburbs have climate considerations. Sultana Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Summertown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Summertown Should I Buy?",
       "url": "/suburbs/sa/summertown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

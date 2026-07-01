@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 41
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 41
-    },
-    {
-      "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 58
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
+      "scoreA": 56,
       "scoreB": 43
     },
     {
+      "name": "Bushfire",
+      "scoreA": 61,
+      "scoreB": 24
+    },
+    {
+      "name": "Heat",
+      "scoreA": 63,
+      "scoreB": 71
+    },
+    {
+      "name": "Storm",
+      "scoreA": 44,
+      "scoreB": 21
+    },
+    {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 36
+      "scoreA": 39,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 14
     }
   ],
-  "verdict": "North Ryde has a lower overall climate risk score (41/100) compared to North Rocks (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Ryde has a lower overall climate risk score (37/100) compared to North Rocks (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Rocks or North Ryde safer from flooding?",
-      "answer": "North Rocks has a flood risk score of 55/100, while North Ryde scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Rocks has a flood risk score of 56/100, while North Ryde scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Rocks scores 42/100 for bushfire risk. North Ryde scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Rocks scores 61/100 for bushfire risk. North Ryde scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Rocks or North Ryde?",
@@ -76,5 +76,15 @@
       "label": "North Ryde Should I Buy?",
       "url": "/suburbs/nsw/north-ryde/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

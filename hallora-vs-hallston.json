@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 57
+      "scoreA": 40,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 78
+      "scoreA": 78,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 48,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 23
+      "scoreA": 27,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
-  "verdict": "Hallston has a lower overall climate risk score (43/100) compared to Hallora (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hallston has a lower overall climate risk score (36/100) compared to Hallora (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hallora or Hallston safer from flooding?",
-      "answer": "Hallora has a flood risk score of 47/100, while Hallston scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hallora has a flood risk score of 39/100, while Hallston scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hallora scores 64/100 for bushfire risk. Hallston scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hallora scores 40/100 for bushfire risk. Hallston scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hallora or Hallston?",
@@ -76,5 +76,15 @@
       "label": "Hallston Should I Buy?",
       "url": "/suburbs/vic/hallston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

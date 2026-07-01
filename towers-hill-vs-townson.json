@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 47
+      "scoreA": 64,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 41
+      "scoreA": 34,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 40
+      "scoreA": 46,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 38
+      "scoreA": 12,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 13
     }
   ],
-  "verdict": "Towers Hill has a lower overall climate risk score (24/100) compared to Townson (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Towers Hill has a lower overall climate risk score (32/100) compared to Townson (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Towers Hill or Townson safer from flooding?",
-      "answer": "Towers Hill has a flood risk score of 20/100, while Townson scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Towers Hill has a flood risk score of 24/100, while Townson scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Towers Hill scores 31/100 for bushfire risk. Townson scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Towers Hill scores 64/100 for bushfire risk. Townson scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Towers Hill or Townson?",
@@ -76,5 +76,15 @@
       "label": "Townson Should I Buy?",
       "url": "/suburbs/qld/townson/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

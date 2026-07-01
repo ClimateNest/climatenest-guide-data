@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 29
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 40
+      "scoreA": 30,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 76
+      "scoreA": 66,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 48
+      "scoreA": 36,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Callawadda has a lower overall climate risk score (32/100) compared to Callignee (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Callignee has a lower overall climate risk score (31/100) compared to Callawadda (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Callawadda or Callignee safer from flooding?",
-      "answer": "Callawadda has a flood risk score of 47/100, while Callignee scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Callawadda has a flood risk score of 42/100, while Callignee scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Callawadda scores 27/100 for bushfire risk. Callignee scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Callawadda scores 30/100 for bushfire risk. Callignee scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Callawadda or Callignee?",
-      "answer": "Both suburbs have climate considerations. Callawadda has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Callignee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Callignee Should I Buy?",
       "url": "/suburbs/vic/callignee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

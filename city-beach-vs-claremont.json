@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 29
+      "scoreA": 44,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 55,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 60
+      "scoreA": 62,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 11
     }
   ],
-  "verdict": "Claremont has a lower overall climate risk score (29/100) compared to City Beach (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "City Beach has a lower overall climate risk score (37/100) compared to Claremont (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is City Beach or Claremont safer from flooding?",
-      "answer": "City Beach has a flood risk score of 55/100, while Claremont scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "City Beach has a flood risk score of 44/100, while Claremont scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "City Beach scores 27/100 for bushfire risk. Claremont scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "City Beach scores 55/100 for bushfire risk. Claremont scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in City Beach or Claremont?",
-      "answer": "Both suburbs have climate considerations. Claremont has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. City Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Claremont Should I Buy?",
       "url": "/suburbs/wa/claremont/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

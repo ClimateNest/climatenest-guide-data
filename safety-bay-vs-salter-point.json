@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 43
+      "scoreA": 50,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 61
+      "scoreA": 27,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 56
+      "scoreA": 63,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 22
+      "scoreA": 18,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 28
     }
   ],
-  "verdict": "Safety Bay has a lower overall climate risk score (30/100) compared to Salter Point (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Salter Point has a lower overall climate risk score (33/100) compared to Safety Bay (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Safety Bay or Salter Point safer from flooding?",
-      "answer": "Safety Bay has a flood risk score of 35/100, while Salter Point scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Safety Bay has a flood risk score of 50/100, while Salter Point scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Safety Bay scores 20/100 for bushfire risk. Salter Point scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Safety Bay scores 27/100 for bushfire risk. Salter Point scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Safety Bay or Salter Point?",
-      "answer": "Both suburbs have climate considerations. Safety Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Salter Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Salter Point Should I Buy?",
       "url": "/suburbs/wa/salter-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

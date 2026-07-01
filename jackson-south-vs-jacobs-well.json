@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 52
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 46
+      "scoreA": 34,
+      "scoreB": 36
     },
     {
       "name": "Heat",
       "scoreA": 49,
-      "scoreB": 33
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 41
+      "scoreA": 29,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 52
+      "scoreA": 27,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
       "scoreA": 14,
-      "scoreB": 24
+      "scoreB": 30
     }
   ],
-  "verdict": "Jackson South has a lower overall climate risk score (35/100) compared to Jacobs Well (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jackson South has a lower overall climate risk score (30/100) compared to Jacobs Well (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jackson South or Jacobs Well safer from flooding?",
-      "answer": "Jackson South has a flood risk score of 33/100, while Jacobs Well scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jackson South has a flood risk score of 25/100, while Jacobs Well scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jackson South scores 51/100 for bushfire risk. Jacobs Well scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jackson South scores 34/100 for bushfire risk. Jacobs Well scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jackson South or Jacobs Well?",
@@ -76,5 +76,15 @@
       "label": "Jacobs Well Should I Buy?",
       "url": "/suburbs/qld/jacobs-well/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

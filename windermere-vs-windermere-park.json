@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 38
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 64
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 44
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 54,
+      "scoreA": 37,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 41,
+      "scoreB": 48
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 61
+    },
+    {
+      "name": "Storm",
+      "scoreA": 26,
+      "scoreB": 45
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 50,
+      "scoreB": 47
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 18
     }
   ],
-  "verdict": "Windermere has a lower overall climate risk score (37/100) compared to Windermere Park (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Windermere has a lower overall climate risk score (37/100) compared to Windermere Park (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Windermere or Windermere Park safer from flooding?",
-      "answer": "Windermere has a flood risk score of 46/100, while Windermere Park scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Windermere has a flood risk score of 37/100, while Windermere Park scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Windermere scores 28/100 for bushfire risk. Windermere Park scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Windermere scores 41/100 for bushfire risk. Windermere Park scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Windermere or Windermere Park?",
@@ -76,5 +76,15 @@
       "label": "Windermere Park Should I Buy?",
       "url": "/suburbs/nsw/windermere-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

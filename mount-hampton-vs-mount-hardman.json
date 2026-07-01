@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 53,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 48
+      "scoreA": 21,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 49
+      "scoreA": 75,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 11
+      "scoreA": 20,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 5
+      "scoreA": 18,
+      "scoreB": 11
     }
   ],
-  "verdict": "Mount Hardman has a lower overall climate risk score (33/100) compared to Mount Hampton (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Hardman has a lower overall climate risk score (32/100) compared to Mount Hampton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Hampton or Mount Hardman safer from flooding?",
-      "answer": "Mount Hampton has a flood risk score of 38/100, while Mount Hardman scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Hampton has a flood risk score of 53/100, while Mount Hardman scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Hampton scores 18/100 for bushfire risk. Mount Hardman scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Hampton scores 21/100 for bushfire risk. Mount Hardman scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Hampton or Mount Hardman?",
@@ -76,5 +76,15 @@
       "label": "Mount Hardman Should I Buy?",
       "url": "/suburbs/wa/mount-hardman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

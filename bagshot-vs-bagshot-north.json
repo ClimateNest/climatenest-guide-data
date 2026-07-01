@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 54
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 57
+      "scoreA": 69,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 50,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 25,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 24
     }
   ],
-  "verdict": "Bagshot North has a lower overall climate risk score (34/100) compared to Bagshot (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bagshot North has a lower overall climate risk score (36/100) compared to Bagshot (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bagshot or Bagshot North safer from flooding?",
-      "answer": "Bagshot has a flood risk score of 42/100, while Bagshot North scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bagshot has a flood risk score of 36/100, while Bagshot North scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bagshot scores 42/100 for bushfire risk. Bagshot North scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bagshot scores 19/100 for bushfire risk. Bagshot North scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bagshot or Bagshot North?",
@@ -76,5 +76,15 @@
       "label": "Bagshot North Should I Buy?",
       "url": "/suburbs/vic/bagshot-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

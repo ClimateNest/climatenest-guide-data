@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 38
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 44,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 32,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 40
+      "scoreA": 48,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 10,
-      "scoreB": 14
+      "scoreB": 8
     }
   ],
-  "verdict": "Ciccone has a lower overall climate risk score (28/100) compared to Cobourg (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cobourg has a lower overall climate risk score (32/100) compared to Ciccone (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ciccone or Cobourg safer from flooding?",
-      "answer": "Ciccone has a flood risk score of 55/100, while Cobourg scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ciccone has a flood risk score of 48/100, while Cobourg scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ciccone scores 18/100 for bushfire risk. Cobourg scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ciccone scores 44/100 for bushfire risk. Cobourg scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ciccone or Cobourg?",
-      "answer": "Both suburbs have climate considerations. Ciccone has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cobourg has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Cobourg Should I Buy?",
       "url": "/suburbs/nt/cobourg/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

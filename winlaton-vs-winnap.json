@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 36
+      "scoreA": 52,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 30
+      "scoreA": 48,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 71
+      "scoreA": 56,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 36,
+      "scoreA": 35,
       "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
+      "scoreA": 18,
       "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 12
     }
   ],
-  "verdict": "Winlaton has a lower overall climate risk score (37/100) compared to Winnap (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Winnap has a lower overall climate risk score (34/100) compared to Winlaton (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Winlaton or Winnap safer from flooding?",
-      "answer": "Winlaton has a flood risk score of 29/100, while Winnap scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Winlaton has a flood risk score of 52/100, while Winnap scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Winlaton scores 45/100 for bushfire risk. Winnap scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Winlaton scores 48/100 for bushfire risk. Winnap scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Winlaton or Winnap?",
-      "answer": "Both suburbs have climate considerations. Winlaton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Winnap has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Winnap Should I Buy?",
       "url": "/suburbs/vic/winnap/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

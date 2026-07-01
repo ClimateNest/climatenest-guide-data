@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 22
+      "scoreA": 44,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 35
+      "scoreA": 46,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 77
+      "scoreA": 54,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 20
+      "scoreA": 34,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
+      "scoreA": 11,
       "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 21
     }
   ],
-  "verdict": "Mount Moriac has a lower overall climate risk score (32/100) compared to Mount Mercer (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Moriac has a lower overall climate risk score (27/100) compared to Mount Mercer (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Mercer or Mount Moriac safer from flooding?",
-      "answer": "Mount Mercer has a flood risk score of 38/100, while Mount Moriac scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Mercer has a flood risk score of 44/100, while Mount Moriac scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Mercer scores 50/100 for bushfire risk. Mount Moriac scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Mercer scores 46/100 for bushfire risk. Mount Moriac scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Mercer or Mount Moriac?",
@@ -76,5 +76,15 @@
       "label": "Mount Moriac Should I Buy?",
       "url": "/suburbs/vic/mount-moriac/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

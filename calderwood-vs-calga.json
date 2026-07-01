@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 55
+      "scoreA": 44,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 48
+      "scoreA": 18,
+      "scoreB": 27
     },
     {
       "name": "Heat",
       "scoreA": 72,
-      "scoreB": 50
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 47
+      "scoreA": 55,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 18
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Calga has a lower overall climate risk score (44/100) compared to Calderwood (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Calga has a lower overall climate risk score (40/100) compared to Calderwood (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Calderwood or Calga safer from flooding?",
-      "answer": "Calderwood has a flood risk score of 60/100, while Calga scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Calderwood has a flood risk score of 44/100, while Calga scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Calderwood scores 35/100 for bushfire risk. Calga scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Calderwood scores 18/100 for bushfire risk. Calga scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Calderwood or Calga?",
@@ -76,5 +76,15 @@
       "label": "Calga Should I Buy?",
       "url": "/suburbs/nsw/calga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

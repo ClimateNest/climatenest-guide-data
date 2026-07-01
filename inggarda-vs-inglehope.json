@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 35
+      "scoreA": 17,
+      "scoreB": 50
     },
     {
       "name": "Heat",
       "scoreA": 40,
-      "scoreB": 77
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 44,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 8,
+      "scoreB": 19
     }
   ],
-  "verdict": "Inggarda has a lower overall climate risk score (31/100) compared to Inglehope (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Inggarda has a lower overall climate risk score (27/100) compared to Inglehope (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Inggarda or Inglehope safer from flooding?",
-      "answer": "Inggarda has a flood risk score of 33/100, while Inglehope scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Inggarda has a flood risk score of 39/100, while Inglehope scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Inggarda scores 37/100 for bushfire risk. Inglehope scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Inggarda scores 17/100 for bushfire risk. Inglehope scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Inggarda or Inglehope?",
@@ -76,5 +76,15 @@
       "label": "Inglehope Should I Buy?",
       "url": "/suburbs/wa/inglehope/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

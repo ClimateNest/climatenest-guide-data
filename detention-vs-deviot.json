@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 40
+      "scoreA": 54,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 75
+      "scoreA": 77,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 41
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 44,
       "scoreB": 22
     },
     {
+      "name": "Coastal",
+      "scoreA": 14,
+      "scoreB": 24
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 24
     }
   ],
-  "verdict": "Detention has a lower overall climate risk score (34/100) compared to Deviot (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Deviot has a lower overall climate risk score (39/100) compared to Detention (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Detention or Deviot safer from flooding?",
-      "answer": "Detention has a flood risk score of 26/100, while Deviot scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Detention has a flood risk score of 54/100, while Deviot scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Detention scores 28/100 for bushfire risk. Deviot scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Detention scores 33/100 for bushfire risk. Deviot scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Detention or Deviot?",
-      "answer": "Both suburbs have climate considerations. Detention has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Deviot has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Deviot Should I Buy?",
       "url": "/suburbs/tas/deviot/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

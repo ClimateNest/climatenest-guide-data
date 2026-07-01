@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 36
+      "scoreA": 20,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 57
+      "scoreA": 64,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 51
+      "scoreA": 58,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 32
+      "scoreA": 23,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 18,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 24
     }
   ],
-  "verdict": "Yarram has a lower overall climate risk score (36/100) compared to Yarragon (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yarram has a lower overall climate risk score (32/100) compared to Yarragon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yarragon or Yarram safer from flooding?",
-      "answer": "Yarragon has a flood risk score of 60/100, while Yarram scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yarragon has a flood risk score of 20/100, while Yarram scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yarragon scores 43/100 for bushfire risk. Yarram scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yarragon scores 64/100 for bushfire risk. Yarram scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yarragon or Yarram?",
@@ -76,5 +76,15 @@
       "label": "Yarram Should I Buy?",
       "url": "/suburbs/vic/yarram/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 34
+      "scoreA": 50,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 40
+      "scoreA": 52,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 64
+      "scoreA": 52,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 33
+      "scoreA": 21,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 23
+      "scoreA": 12,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 27
     }
   ],
-  "verdict": "Bendoura has a lower overall climate risk score (37/100) compared to Benerembah (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bendoura has a lower overall climate risk score (35/100) compared to Benerembah (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bendoura or Benerembah safer from flooding?",
-      "answer": "Bendoura has a flood risk score of 43/100, while Benerembah scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bendoura has a flood risk score of 50/100, while Benerembah scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bendoura scores 19/100 for bushfire risk. Benerembah scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bendoura scores 52/100 for bushfire risk. Benerembah scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bendoura or Benerembah?",
@@ -76,5 +76,15 @@
       "label": "Benerembah Should I Buy?",
       "url": "/suburbs/nsw/benerembah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

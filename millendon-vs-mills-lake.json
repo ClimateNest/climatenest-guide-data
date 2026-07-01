@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 28
+      "scoreA": 41,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 63
+      "scoreA": 19,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 57
+      "scoreA": 80,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 40
+      "scoreA": 26,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 27
     }
   ],
-  "verdict": "Millendon has a lower overall climate risk score (29/100) compared to Mills Lake (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Millendon has a lower overall climate risk score (35/100) compared to Mills Lake (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Millendon or Mills Lake safer from flooding?",
-      "answer": "Millendon has a flood risk score of 36/100, while Mills Lake scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Millendon has a flood risk score of 41/100, while Mills Lake scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Millendon scores 26/100 for bushfire risk. Mills Lake scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Millendon scores 19/100 for bushfire risk. Mills Lake scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Millendon or Mills Lake?",
@@ -76,5 +76,15 @@
       "label": "Mills Lake Should I Buy?",
       "url": "/suburbs/wa/mills-lake/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

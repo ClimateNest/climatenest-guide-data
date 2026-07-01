@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 54
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 46
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 72
+      "scoreA": 60,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 37
+      "scoreA": 20,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 49
+      "scoreA": 19,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Belanglo has a lower overall climate risk score (41/100) compared to Belfield (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Belanglo has a lower overall climate risk score (32/100) compared to Belfield (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Belanglo or Belfield safer from flooding?",
-      "answer": "Belanglo has a flood risk score of 51/100, while Belfield scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Belanglo has a flood risk score of 41/100, while Belfield scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Belanglo scores 53/100 for bushfire risk. Belfield scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Belanglo scores 27/100 for bushfire risk. Belfield scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Belanglo or Belfield?",
@@ -76,5 +76,15 @@
       "label": "Belfield Should I Buy?",
       "url": "/suburbs/nsw/belfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4373,
+    "projected2030": 6123,
+    "projected2050": 11371
+  },
+  "valueImpact": {
+    "dragPercent": 2.5,
+    "description": "Properties in this area may face a 2.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 29
+      "scoreA": 36,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 64,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 71
+      "scoreA": 43,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 35
+      "scoreA": 28,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 20
     }
   ],
-  "verdict": "South Bathurst has a lower overall climate risk score (34/100) compared to South Ballina (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "South Bathurst has a lower overall climate risk score (32/100) compared to South Ballina (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is South Ballina or South Bathurst safer from flooding?",
-      "answer": "South Ballina has a flood risk score of 50/100, while South Bathurst scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Ballina has a flood risk score of 36/100, while South Bathurst scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Ballina scores 16/100 for bushfire risk. South Bathurst scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Ballina scores 64/100 for bushfire risk. South Bathurst scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Ballina or South Bathurst?",
@@ -76,5 +76,15 @@
       "label": "South Bathurst Should I Buy?",
       "url": "/suburbs/nsw/south-bathurst/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

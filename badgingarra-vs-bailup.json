@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 21,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
       "scoreA": 27,
-      "scoreB": 54
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 73
+      "scoreA": 53,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 33
+      "scoreA": 23,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 22
+      "scoreA": 11,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 24
+      "scoreA": 16,
+      "scoreB": 11
     }
   ],
-  "verdict": "Badgingarra has a lower overall climate risk score (32/100) compared to Bailup (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Badgingarra has a lower overall climate risk score (25/100) compared to Bailup (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Badgingarra or Bailup safer from flooding?",
-      "answer": "Badgingarra has a flood risk score of 34/100, while Bailup scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Badgingarra has a flood risk score of 21/100, while Bailup scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Badgingarra scores 27/100 for bushfire risk. Bailup scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Badgingarra scores 27/100 for bushfire risk. Bailup scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Badgingarra or Bailup?",
@@ -76,5 +76,15 @@
       "label": "Bailup Should I Buy?",
       "url": "/suburbs/wa/bailup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

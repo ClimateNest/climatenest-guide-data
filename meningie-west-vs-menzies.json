@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 59
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 17
-    },
-    {
-      "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 56
-    },
-    {
-      "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 28
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 45,
       "scoreB": 23
     },
     {
+      "name": "Bushfire",
+      "scoreA": 24,
+      "scoreB": 65
+    },
+    {
+      "name": "Heat",
+      "scoreA": 70,
+      "scoreB": 53
+    },
+    {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 45
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 21,
+      "scoreB": 22
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 30,
+      "scoreB": 17
     }
   ],
-  "verdict": "Menzies has a lower overall climate risk score (35/100) compared to Meningie West (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Menzies has a lower overall climate risk score (38/100) compared to Meningie West (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Meningie West or Menzies safer from flooding?",
-      "answer": "Meningie West has a flood risk score of 58/100, while Menzies scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Meningie West has a flood risk score of 45/100, while Menzies scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Meningie West scores 19/100 for bushfire risk. Menzies scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Meningie West scores 24/100 for bushfire risk. Menzies scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Meningie West or Menzies?",
@@ -76,5 +76,15 @@
       "label": "Menzies Should I Buy?",
       "url": "/suburbs/sa/menzies/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

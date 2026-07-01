@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 49
+      "scoreA": 49,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
+      "scoreA": 24,
       "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 55
+      "scoreA": 39,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 29
+      "scoreA": 38,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 16
+      "scoreA": 50,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
       "scoreA": 21,
-      "scoreB": 15
+      "scoreB": 28
     }
   ],
-  "verdict": "Bungarby has a lower overall climate risk score (32/100) compared to Bungalora (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bungarby has a lower overall climate risk score (33/100) compared to Bungalora (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bungalora or Bungarby safer from flooding?",
-      "answer": "Bungalora has a flood risk score of 44/100, while Bungarby scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bungalora has a flood risk score of 49/100, while Bungarby scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bungalora scores 62/100 for bushfire risk. Bungarby scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bungalora scores 24/100 for bushfire risk. Bungarby scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bungalora or Bungarby?",
@@ -76,5 +76,15 @@
       "label": "Bungarby Should I Buy?",
       "url": "/suburbs/nsw/bungarby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

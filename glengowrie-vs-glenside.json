@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 53
+      "scoreA": 48,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 41
+      "scoreA": 53,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 52
+      "scoreA": 54,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 45
+      "scoreA": 26,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Glengowrie has a lower overall climate risk score (29/100) compared to Glenside (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glengowrie has a lower overall climate risk score (37/100) compared to Glenside (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Glengowrie or Glenside safer from flooding?",
-      "answer": "Glengowrie has a flood risk score of 33/100, while Glenside scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glengowrie has a flood risk score of 48/100, while Glenside scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glengowrie scores 16/100 for bushfire risk. Glenside scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glengowrie scores 53/100 for bushfire risk. Glenside scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glengowrie or Glenside?",
@@ -76,5 +76,15 @@
       "label": "Glenside Should I Buy?",
       "url": "/suburbs/sa/glenside/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

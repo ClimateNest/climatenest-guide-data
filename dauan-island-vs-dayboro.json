@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 33
+      "scoreA": 39,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 40
+      "scoreA": 28,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 46
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 52
+      "scoreA": 14,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 11,
+      "scoreB": 14
     }
   ],
-  "verdict": "Dauan Island has a lower overall climate risk score (35/100) compared to Dayboro (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dauan Island has a lower overall climate risk score (28/100) compared to Dayboro (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dauan Island or Dayboro safer from flooding?",
-      "answer": "Dauan Island has a flood risk score of 52/100, while Dayboro scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dauan Island has a flood risk score of 39/100, while Dayboro scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dauan Island scores 54/100 for bushfire risk. Dayboro scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dauan Island scores 28/100 for bushfire risk. Dayboro scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dauan Island or Dayboro?",
@@ -76,5 +76,15 @@
       "label": "Dayboro Should I Buy?",
       "url": "/suburbs/qld/dayboro/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 35
+      "scoreA": 56,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 56,
+      "scoreB": 63
     },
     {
       "name": "Heat",
       "scoreA": 53,
-      "scoreB": 64
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 47
+      "scoreA": 44,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 32
+      "scoreA": 43,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 18
     }
   ],
-  "verdict": "Picketts Valley has a lower overall climate risk score (33/100) compared to Picton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Picton has a lower overall climate risk score (42/100) compared to Picketts Valley (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Picketts Valley or Picton safer from flooding?",
-      "answer": "Picketts Valley has a flood risk score of 22/100, while Picton scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Picketts Valley has a flood risk score of 56/100, while Picton scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Picketts Valley scores 26/100 for bushfire risk. Picton scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Picketts Valley scores 56/100 for bushfire risk. Picton scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Picketts Valley or Picton?",
-      "answer": "Both suburbs have climate considerations. Picketts Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Picton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Picton Should I Buy?",
       "url": "/suburbs/nsw/picton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4373,
+    "projected2030": 6123,
+    "projected2050": 11371
+  },
+  "valueImpact": {
+    "dragPercent": 2.5,
+    "description": "Properties in this area may face a 2.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

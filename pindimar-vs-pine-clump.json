@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 63
+      "scoreA": 55,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 43
+      "scoreA": 47,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 12
+      "scoreA": 51,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 26
     }
   ],
-  "verdict": "Pine Clump has a lower overall climate risk score (33/100) compared to Pindimar (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pine Clump has a lower overall climate risk score (35/100) compared to Pindimar (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pindimar or Pine Clump safer from flooding?",
-      "answer": "Pindimar has a flood risk score of 21/100, while Pine Clump scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pindimar has a flood risk score of 28/100, while Pine Clump scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pindimar scores 40/100 for bushfire risk. Pine Clump scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pindimar scores 50/100 for bushfire risk. Pine Clump scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pindimar or Pine Clump?",
@@ -76,5 +76,15 @@
       "label": "Pine Clump Should I Buy?",
       "url": "/suburbs/nsw/pine-clump/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

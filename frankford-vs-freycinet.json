@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 29
+      "scoreA": 29,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
+      "scoreA": 52,
       "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 76
+      "scoreA": 64,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 12,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 15
     }
   ],
-  "verdict": "Frankford has a lower overall climate risk score (35/100) compared to Freycinet (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Freycinet has a lower overall climate risk score (34/100) compared to Frankford (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Frankford or Freycinet safer from flooding?",
-      "answer": "Frankford has a flood risk score of 44/100, while Freycinet scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Frankford has a flood risk score of 29/100, while Freycinet scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Frankford scores 19/100 for bushfire risk. Freycinet scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Frankford scores 52/100 for bushfire risk. Freycinet scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Frankford or Freycinet?",
-      "answer": "Both suburbs have climate considerations. Frankford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Freycinet has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Freycinet Should I Buy?",
       "url": "/suburbs/tas/freycinet/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

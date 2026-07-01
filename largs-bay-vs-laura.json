@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 51
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 54
+      "scoreA": 33,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 78
+      "scoreA": 57,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 35
+      "scoreA": 36,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 18
     }
   ],
-  "verdict": "Largs Bay has a lower overall climate risk score (31/100) compared to Laura (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Largs Bay has a lower overall climate risk score (32/100) compared to Laura (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Largs Bay or Laura safer from flooding?",
-      "answer": "Largs Bay has a flood risk score of 41/100, while Laura scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Largs Bay has a flood risk score of 23/100, while Laura scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Largs Bay scores 19/100 for bushfire risk. Laura scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Largs Bay scores 33/100 for bushfire risk. Laura scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Largs Bay or Laura?",
@@ -76,5 +76,15 @@
       "label": "Laura Should I Buy?",
       "url": "/suburbs/sa/laura/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

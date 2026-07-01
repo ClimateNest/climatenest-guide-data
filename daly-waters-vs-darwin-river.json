@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 32,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 46
+      "scoreA": 35,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 37,
+      "scoreA": 35,
       "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 42,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 17
+      "scoreA": 9,
+      "scoreB": 7
     }
   ],
-  "verdict": "Daly Waters has a lower overall climate risk score (30/100) compared to Darwin River (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Daly Waters and Darwin River have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Daly Waters or Darwin River safer from flooding?",
-      "answer": "Daly Waters has a flood risk score of 30/100, while Darwin River scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Daly Waters has a flood risk score of 32/100, while Darwin River scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Daly Waters scores 33/100 for bushfire risk. Darwin River scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Daly Waters scores 35/100 for bushfire risk. Darwin River scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Daly Waters or Darwin River?",
@@ -76,5 +76,15 @@
       "label": "Darwin River Should I Buy?",
       "url": "/suburbs/nt/darwin-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3195,
+    "projected2030": 4473,
+    "projected2050": 8306
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

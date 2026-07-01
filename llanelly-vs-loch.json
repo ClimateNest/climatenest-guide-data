@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 27
+      "scoreA": 38,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 64
+      "scoreA": 54,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 71
+      "scoreA": 74,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 25
+      "scoreA": 49,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 13
+      "scoreA": 11,
+      "scoreB": 24
     }
   ],
-  "verdict": "Llanelly has a lower overall climate risk score (31/100) compared to Loch (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Loch has a lower overall climate risk score (32/100) compared to Llanelly (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Llanelly or Loch safer from flooding?",
-      "answer": "Llanelly has a flood risk score of 28/100, while Loch scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Llanelly has a flood risk score of 38/100, while Loch scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Llanelly scores 26/100 for bushfire risk. Loch scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Llanelly scores 54/100 for bushfire risk. Loch scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Llanelly or Loch?",
-      "answer": "Both suburbs have climate considerations. Llanelly has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Loch has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Loch Should I Buy?",
       "url": "/suburbs/vic/loch/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 34
+      "scoreA": 52,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 64
+      "scoreA": 63,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 64
+      "scoreA": 51,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 43
+      "scoreA": 39,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
       "scoreA": 59,
-      "scoreB": 32
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 12,
+      "scoreB": 28
     }
   ],
-  "verdict": "Toronto has a lower overall climate risk score (44/100) compared to Topi Topi (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Toronto has a lower overall climate risk score (40/100) compared to Topi Topi (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Topi Topi or Toronto safer from flooding?",
-      "answer": "Topi Topi has a flood risk score of 50/100, while Toronto scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Topi Topi has a flood risk score of 52/100, while Toronto scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Topi Topi scores 55/100 for bushfire risk. Toronto scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Topi Topi scores 63/100 for bushfire risk. Toronto scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Topi Topi or Toronto?",
@@ -76,5 +76,15 @@
       "label": "Toronto Should I Buy?",
       "url": "/suburbs/nsw/toronto/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4328,
+    "projected2030": 6059,
+    "projected2050": 11253
+  },
+  "valueImpact": {
+    "dragPercent": 2.4,
+    "description": "Properties in this area may face a 2.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

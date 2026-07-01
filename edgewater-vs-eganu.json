@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 24,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 39
+      "scoreA": 26,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 61
+      "scoreA": 51,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 38
+      "scoreA": 35,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 28,
+      "scoreB": 20
     }
   ],
-  "verdict": "Edgewater has a lower overall climate risk score (34/100) compared to Eganu (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Edgewater has a lower overall climate risk score (32/100) compared to Eganu (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Edgewater or Eganu safer from flooding?",
-      "answer": "Edgewater has a flood risk score of 37/100, while Eganu scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Edgewater has a flood risk score of 24/100, while Eganu scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Edgewater scores 20/100 for bushfire risk. Eganu scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Edgewater scores 26/100 for bushfire risk. Eganu scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Edgewater or Eganu?",
@@ -76,5 +76,15 @@
       "label": "Eganu Should I Buy?",
       "url": "/suburbs/wa/eganu/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

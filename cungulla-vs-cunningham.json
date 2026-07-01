@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 52
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
+      "scoreA": 33,
       "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 40
-    },
-    {
-      "name": "Storm",
-      "scoreA": 45,
+      "scoreA": 32,
       "scoreB": 47
     },
     {
+      "name": "Storm",
+      "scoreA": 27,
+      "scoreB": 45
+    },
+    {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 35
+      "scoreA": 24,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 22
     }
   ],
-  "verdict": "Cungulla has a lower overall climate risk score (38/100) compared to Cunningham (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cungulla has a lower overall climate risk score (29/100) compared to Cunningham (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cungulla or Cunningham safer from flooding?",
-      "answer": "Cungulla has a flood risk score of 54/100, while Cunningham scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cungulla has a flood risk score of 44/100, while Cunningham scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cungulla scores 41/100 for bushfire risk. Cunningham scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cungulla scores 33/100 for bushfire risk. Cunningham scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cungulla or Cunningham?",
@@ -76,5 +76,15 @@
       "label": "Cunningham Should I Buy?",
       "url": "/suburbs/qld/cunningham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

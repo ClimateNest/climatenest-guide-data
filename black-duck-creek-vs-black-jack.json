@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 48
+      "scoreA": 27,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 34
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 35,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 29
+      "scoreA": 48,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
       "scoreA": 26,
-      "scoreB": 18
+      "scoreB": 14
     }
   ],
-  "verdict": "Black Jack has a lower overall climate risk score (30/100) compared to Black Duck Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Black Jack has a lower overall climate risk score (30/100) compared to Black Duck Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Black Duck Creek or Black Jack safer from flooding?",
-      "answer": "Black Duck Creek has a flood risk score of 51/100, while Black Jack scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Black Duck Creek has a flood risk score of 29/100, while Black Jack scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Black Duck Creek scores 19/100 for bushfire risk. Black Jack scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Black Duck Creek scores 27/100 for bushfire risk. Black Jack scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Black Duck Creek or Black Jack?",
@@ -76,5 +76,15 @@
       "label": "Black Jack Should I Buy?",
       "url": "/suburbs/qld/black-jack/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

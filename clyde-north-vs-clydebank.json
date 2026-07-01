@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 41
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 62
-    },
-    {
-      "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 36,
+      "scoreA": 49,
       "scoreB": 39
     },
     {
+      "name": "Bushfire",
+      "scoreA": 48,
+      "scoreB": 29
+    },
+    {
+      "name": "Heat",
+      "scoreA": 73,
+      "scoreB": 56
+    },
+    {
+      "name": "Storm",
+      "scoreA": 23,
+      "scoreB": 47
+    },
+    {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 17,
+      "scoreB": 25
     }
   ],
-  "verdict": "Clydebank has a lower overall climate risk score (43/100) compared to Clyde North (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Clydebank has a lower overall climate risk score (34/100) compared to Clyde North (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Clyde North or Clydebank safer from flooding?",
-      "answer": "Clyde North has a flood risk score of 53/100, while Clydebank scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clyde North has a flood risk score of 49/100, while Clydebank scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clyde North scores 57/100 for bushfire risk. Clydebank scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clyde North scores 48/100 for bushfire risk. Clydebank scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clyde North or Clydebank?",
@@ -76,5 +76,15 @@
       "label": "Clydebank Should I Buy?",
       "url": "/suburbs/vic/clydebank/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

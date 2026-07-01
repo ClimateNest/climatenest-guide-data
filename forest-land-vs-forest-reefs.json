@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 58
+      "scoreA": 27,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 22
+      "scoreA": 49,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 71
+      "scoreA": 49,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 12
+      "scoreA": 38,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 22
     }
   ],
-  "verdict": "Forest Reefs has a lower overall climate risk score (34/100) compared to Forest Land (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Forest Land has a lower overall climate risk score (35/100) compared to Forest Reefs (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Forest Land or Forest Reefs safer from flooding?",
-      "answer": "Forest Land has a flood risk score of 41/100, while Forest Reefs scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Forest Land has a flood risk score of 27/100, while Forest Reefs scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Forest Land scores 40/100 for bushfire risk. Forest Reefs scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Forest Land scores 49/100 for bushfire risk. Forest Reefs scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Forest Land or Forest Reefs?",
-      "answer": "Both suburbs have climate considerations. Forest Reefs has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Forest Land has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Forest Reefs Should I Buy?",
       "url": "/suburbs/nsw/forest-reefs/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

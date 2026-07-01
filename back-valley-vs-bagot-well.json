@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 43
+      "scoreA": 41,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 27
+      "scoreA": 37,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 55
+      "scoreA": 75,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 46
+      "scoreA": 45,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Back Valley has a lower overall climate risk score (36/100) compared to Bagot Well (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bagot Well has a lower overall climate risk score (34/100) compared to Back Valley (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Back Valley or Bagot Well safer from flooding?",
-      "answer": "Back Valley has a flood risk score of 43/100, while Bagot Well scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Back Valley has a flood risk score of 41/100, while Bagot Well scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Back Valley scores 63/100 for bushfire risk. Bagot Well scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Back Valley scores 37/100 for bushfire risk. Bagot Well scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Back Valley or Bagot Well?",
-      "answer": "Both suburbs have climate considerations. Back Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bagot Well has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bagot Well Should I Buy?",
       "url": "/suburbs/sa/bagot-well/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

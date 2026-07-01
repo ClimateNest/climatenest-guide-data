@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 59
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 56
+      "scoreA": 39,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 29
+      "scoreA": 25,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 51
+      "scoreA": 34,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 12,
+      "scoreB": 18
     }
   ],
-  "verdict": "Newton Boyd has a lower overall climate risk score (38/100) compared to Newtown (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Newton Boyd has a lower overall climate risk score (31/100) compared to Newtown (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Newton Boyd or Newtown safer from flooding?",
-      "answer": "Newton Boyd has a flood risk score of 43/100, while Newtown scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Newton Boyd has a flood risk score of 37/100, while Newtown scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Newton Boyd scores 22/100 for bushfire risk. Newtown scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Newton Boyd scores 39/100 for bushfire risk. Newtown scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Newton Boyd or Newtown?",
@@ -76,5 +76,15 @@
       "label": "Newtown Should I Buy?",
       "url": "/suburbs/nsw/newtown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

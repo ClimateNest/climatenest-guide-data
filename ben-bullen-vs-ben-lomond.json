@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 53
+      "scoreA": 57,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 64
+      "scoreA": 33,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 57
+      "scoreA": 72,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 31
+      "scoreA": 49,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 58
+      "scoreA": 25,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 15,
+      "scoreB": 25
     }
   ],
-  "verdict": "Ben Bullen has a lower overall climate risk score (35/100) compared to Ben Lomond (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Ben Bullen has a lower overall climate risk score (42/100) compared to Ben Lomond (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Ben Bullen or Ben Lomond safer from flooding?",
-      "answer": "Ben Bullen has a flood risk score of 24/100, while Ben Lomond scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ben Bullen has a flood risk score of 57/100, while Ben Lomond scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ben Bullen scores 48/100 for bushfire risk. Ben Lomond scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ben Bullen scores 33/100 for bushfire risk. Ben Lomond scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ben Bullen or Ben Lomond?",
@@ -76,5 +76,15 @@
       "label": "Ben Lomond Should I Buy?",
       "url": "/suburbs/nsw/ben-lomond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4351,
+    "projected2030": 6091,
+    "projected2050": 11312
+  },
+  "valueImpact": {
+    "dragPercent": 2.45,
+    "description": "Properties in this area may face a 2.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

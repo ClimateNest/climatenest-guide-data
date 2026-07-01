@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 43
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 32
+      "scoreA": 20,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 31
-    },
-    {
-      "name": "Storm",
-      "scoreA": 34,
+      "scoreA": 46,
       "scoreB": 38
     },
     {
+      "name": "Storm",
+      "scoreA": 36,
+      "scoreB": 45
+    },
+    {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 18
+      "scoreA": 31,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Nelly Bay has a lower overall climate risk score (29/100) compared to Neerdie (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nelly Bay has a lower overall climate risk score (31/100) compared to Neerdie (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Neerdie or Nelly Bay safer from flooding?",
-      "answer": "Neerdie has a flood risk score of 21/100, while Nelly Bay scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Neerdie has a flood risk score of 47/100, while Nelly Bay scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Neerdie scores 36/100 for bushfire risk. Nelly Bay scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Neerdie scores 20/100 for bushfire risk. Nelly Bay scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Neerdie or Nelly Bay?",
@@ -76,5 +76,15 @@
       "label": "Nelly Bay Should I Buy?",
       "url": "/suburbs/qld/nelly-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

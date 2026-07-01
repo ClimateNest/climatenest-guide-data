@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 55,
-      "scoreB": 29
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 31
+      "scoreA": 42,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 29,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 15
+      "scoreA": 17,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 10
+      "scoreA": 28,
+      "scoreB": 11
     }
   ],
-  "verdict": "Archer River has a lower overall climate risk score (24/100) compared to Arcadia Valley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Archer River has a lower overall climate risk score (27/100) compared to Arcadia Valley (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Arcadia Valley or Archer River safer from flooding?",
-      "answer": "Arcadia Valley has a flood risk score of 55/100, while Archer River scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Arcadia Valley has a flood risk score of 55/100, while Archer River scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Arcadia Valley scores 47/100 for bushfire risk. Archer River scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Arcadia Valley scores 25/100 for bushfire risk. Archer River scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Arcadia Valley or Archer River?",
@@ -76,5 +76,15 @@
       "label": "Archer River Should I Buy?",
       "url": "/suburbs/qld/archer-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 52
+      "scoreA": 39,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 48
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 23
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 56,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
       "scoreA": 16,
-      "scoreB": 16
+      "scoreB": 10
     }
   ],
-  "verdict": "Dynevor has a lower overall climate risk score (34/100) compared to Dykehead (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dynevor has a lower overall climate risk score (35/100) compared to Dykehead (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dykehead or Dynevor safer from flooding?",
-      "answer": "Dykehead has a flood risk score of 48/100, while Dynevor scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dykehead has a flood risk score of 43/100, while Dynevor scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dykehead scores 34/100 for bushfire risk. Dynevor scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dykehead scores 39/100 for bushfire risk. Dynevor scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dykehead or Dynevor?",
@@ -76,5 +76,15 @@
       "label": "Dynevor Should I Buy?",
       "url": "/suburbs/qld/dynevor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

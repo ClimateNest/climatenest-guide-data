@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 35
+      "scoreA": 24,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 54,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 50
+      "scoreA": 77,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 33
+      "scoreA": 28,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 18,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 26
     }
   ],
-  "verdict": "Preston has a lower overall climate risk score (34/100) compared to Preservation Bay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Preston has a lower overall climate risk score (33/100) compared to Preservation Bay (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Preservation Bay or Preston safer from flooding?",
-      "answer": "Preservation Bay has a flood risk score of 42/100, while Preston scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Preservation Bay has a flood risk score of 24/100, while Preston scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Preservation Bay scores 37/100 for bushfire risk. Preston scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Preservation Bay scores 54/100 for bushfire risk. Preston scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Preservation Bay or Preston?",
@@ -76,5 +76,15 @@
       "label": "Preston Should I Buy?",
       "url": "/suburbs/tas/preston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

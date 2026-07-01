@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 36
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 65
-    },
-    {
-      "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 68
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 29,
       "scoreB": 40
     },
     {
+      "name": "Bushfire",
+      "scoreA": 47,
+      "scoreB": 31
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 66
+    },
+    {
+      "name": "Storm",
+      "scoreA": 24,
+      "scoreB": 49
+    },
+    {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 36
+      "scoreA": 43,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
+      "scoreA": 22,
       "scoreB": 24
     }
   ],
-  "verdict": "Knights Hill has a lower overall climate risk score (38/100) compared to Knorrit Flat (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Knights Hill has a lower overall climate risk score (36/100) compared to Knorrit Flat (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Knights Hill or Knorrit Flat safer from flooding?",
-      "answer": "Knights Hill has a flood risk score of 32/100, while Knorrit Flat scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Knights Hill has a flood risk score of 29/100, while Knorrit Flat scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Knights Hill scores 52/100 for bushfire risk. Knorrit Flat scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Knights Hill scores 47/100 for bushfire risk. Knorrit Flat scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Knights Hill or Knorrit Flat?",
@@ -76,5 +76,15 @@
       "label": "Knorrit Flat Should I Buy?",
       "url": "/suburbs/nsw/knorrit-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

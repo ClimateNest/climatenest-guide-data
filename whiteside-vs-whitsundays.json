@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 43
+      "scoreA": 56,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 29
+      "scoreA": 38,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 31
+      "scoreA": 42,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 36
+      "scoreA": 45,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 16
+      "scoreA": 57,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 24,
+      "scoreB": 11
     }
   ],
-  "verdict": "Whitsundays has a lower overall climate risk score (29/100) compared to Whiteside (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Whitsundays has a lower overall climate risk score (32/100) compared to Whiteside (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Whiteside or Whitsundays safer from flooding?",
-      "answer": "Whiteside has a flood risk score of 33/100, while Whitsundays scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whiteside has a flood risk score of 56/100, while Whitsundays scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whiteside scores 34/100 for bushfire risk. Whitsundays scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whiteside scores 38/100 for bushfire risk. Whitsundays scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whiteside or Whitsundays?",
@@ -76,5 +76,15 @@
       "label": "Whitsundays Should I Buy?",
       "url": "/suburbs/qld/whitsundays/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

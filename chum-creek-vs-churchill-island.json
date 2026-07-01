@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 38
+      "scoreA": 39,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 62
+      "scoreA": 22,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 72,
+      "scoreA": 51,
       "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 47
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 12,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 21
+      "scoreA": 16,
+      "scoreB": 22
     }
   ],
-  "verdict": "Chum Creek has a lower overall climate risk score (35/100) compared to Churchill Island (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Chum Creek has a lower overall climate risk score (28/100) compared to Churchill Island (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Chum Creek or Churchill Island safer from flooding?",
-      "answer": "Chum Creek has a flood risk score of 36/100, while Churchill Island scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Chum Creek has a flood risk score of 39/100, while Churchill Island scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Chum Creek scores 37/100 for bushfire risk. Churchill Island scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Chum Creek scores 22/100 for bushfire risk. Churchill Island scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Chum Creek or Churchill Island?",
@@ -76,5 +76,15 @@
       "label": "Churchill Island Should I Buy?",
       "url": "/suburbs/vic/churchill-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

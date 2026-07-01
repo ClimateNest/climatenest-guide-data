@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 51,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 22
-    },
-    {
-      "name": "Heat",
-      "scoreA": 43,
+      "scoreA": 27,
       "scoreB": 45
     },
     {
+      "name": "Heat",
+      "scoreA": 44,
+      "scoreB": 48
+    },
+    {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 47
+      "scoreA": 39,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 56
+      "scoreA": 39,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 29
     }
   ],
-  "verdict": "Upper Lockyer has a lower overall climate risk score (39/100) compared to Upper Mount Gravatt (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Upper Lockyer has a lower overall climate risk score (36/100) compared to Upper Mount Gravatt (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Upper Lockyer or Upper Mount Gravatt safer from flooding?",
-      "answer": "Upper Lockyer has a flood risk score of 45/100, while Upper Mount Gravatt scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Upper Lockyer has a flood risk score of 51/100, while Upper Mount Gravatt scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Upper Lockyer scores 26/100 for bushfire risk. Upper Mount Gravatt scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Upper Lockyer scores 27/100 for bushfire risk. Upper Mount Gravatt scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Upper Lockyer or Upper Mount Gravatt?",
@@ -76,5 +76,15 @@
       "label": "Upper Mount Gravatt Should I Buy?",
       "url": "/suburbs/qld/upper-mount-gravatt/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

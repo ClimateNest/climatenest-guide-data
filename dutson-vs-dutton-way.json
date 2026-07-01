@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 47
+      "scoreA": 48,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 54
+      "scoreA": 48,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 53
+      "scoreA": 53,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 37
+      "scoreA": 24,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 11
     }
   ],
-  "verdict": "Dutson has a lower overall climate risk score (33/100) compared to Dutton Way (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dutson has a lower overall climate risk score (35/100) compared to Dutton Way (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dutson or Dutton Way safer from flooding?",
-      "answer": "Dutson has a flood risk score of 31/100, while Dutton Way scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dutson has a flood risk score of 48/100, while Dutton Way scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dutson scores 17/100 for bushfire risk. Dutton Way scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dutson scores 48/100 for bushfire risk. Dutton Way scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dutson or Dutton Way?",
@@ -76,5 +76,15 @@
       "label": "Dutton Way Should I Buy?",
       "url": "/suburbs/vic/dutton-way/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

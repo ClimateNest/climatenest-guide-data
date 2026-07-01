@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 51
+      "scoreA": 32,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 18
+      "scoreA": 30,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 72
+      "scoreA": 47,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 32,
+      "scoreA": 28,
       "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 44
+      "scoreA": 53,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 24
+      "scoreA": 16,
+      "scoreB": 14
     }
   ],
-  "verdict": "Eagle Vale has a lower overall climate risk score (38/100) compared to Dyraaba (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Dyraaba has a lower overall climate risk score (34/100) compared to Eagle Vale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dyraaba or Eagle Vale safer from flooding?",
-      "answer": "Dyraaba has a flood risk score of 40/100, while Eagle Vale scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dyraaba has a flood risk score of 32/100, while Eagle Vale scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dyraaba scores 56/100 for bushfire risk. Eagle Vale scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dyraaba scores 30/100 for bushfire risk. Eagle Vale scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dyraaba or Eagle Vale?",
-      "answer": "Both suburbs have climate considerations. Eagle Vale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dyraaba has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eagle Vale Should I Buy?",
       "url": "/suburbs/nsw/eagle-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

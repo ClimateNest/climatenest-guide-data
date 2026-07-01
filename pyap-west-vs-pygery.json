@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 54
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 44,
+      "scoreA": 30,
       "scoreB": 23
     },
     {
+      "name": "Bushfire",
+      "scoreA": 26,
+      "scoreB": 21
+    },
+    {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 58
+      "scoreA": 70,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 33
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 20,
       "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 16
     }
   ],
-  "verdict": "Pygery has a lower overall climate risk score (34/100) compared to Pyap West (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pygery has a lower overall climate risk score (27/100) compared to Pyap West (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pyap West or Pygery safer from flooding?",
-      "answer": "Pyap West has a flood risk score of 45/100, while Pygery scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pyap West has a flood risk score of 30/100, while Pygery scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pyap West scores 44/100 for bushfire risk. Pygery scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pyap West scores 26/100 for bushfire risk. Pygery scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pyap West or Pygery?",
@@ -76,5 +76,15 @@
       "label": "Pygery Should I Buy?",
       "url": "/suburbs/sa/pygery/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

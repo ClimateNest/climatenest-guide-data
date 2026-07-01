@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 34
+      "scoreA": 34,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 62
+      "scoreA": 53,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 36
+      "scoreA": 49,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 38
+      "scoreA": 39,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
+      "scoreA": 46,
       "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 12
     }
   ],
-  "verdict": "Ilbilbie has a lower overall climate risk score (33/100) compared to Ideraway (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ilbilbie has a lower overall climate risk score (33/100) compared to Ideraway (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ideraway or Ilbilbie safer from flooding?",
-      "answer": "Ideraway has a flood risk score of 44/100, while Ilbilbie scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ideraway has a flood risk score of 34/100, while Ilbilbie scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ideraway scores 26/100 for bushfire risk. Ilbilbie scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ideraway scores 53/100 for bushfire risk. Ilbilbie scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ideraway or Ilbilbie?",
@@ -76,5 +76,15 @@
       "label": "Ilbilbie Should I Buy?",
       "url": "/suburbs/qld/ilbilbie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

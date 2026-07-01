@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 33
+      "scoreA": 63,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 46
+      "scoreA": 42,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 24
+      "scoreA": 48,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 17,
+      "scoreB": 17
     }
   ],
-  "verdict": "Carpendale has a lower overall climate risk score (30/100) compared to Carrandotta (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Carrandotta has a lower overall climate risk score (27/100) compared to Carpendale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Carpendale or Carrandotta safer from flooding?",
-      "answer": "Carpendale has a flood risk score of 26/100, while Carrandotta scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carpendale has a flood risk score of 42/100, while Carrandotta scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carpendale scores 30/100 for bushfire risk. Carrandotta scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carpendale scores 63/100 for bushfire risk. Carrandotta scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carpendale or Carrandotta?",
-      "answer": "Both suburbs have climate considerations. Carpendale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Carrandotta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Carrandotta Should I Buy?",
       "url": "/suburbs/qld/carrandotta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

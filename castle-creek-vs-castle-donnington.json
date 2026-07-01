@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 30
+      "scoreA": 21,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 51
+      "scoreA": 65,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 37,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 26
+      "scoreA": 30,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 12
+      "scoreA": 14,
+      "scoreB": 19
     }
   ],
-  "verdict": "Castle Donnington has a lower overall climate risk score (33/100) compared to Castle Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Castle Donnington has a lower overall climate risk score (30/100) compared to Castle Creek (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Castle Creek or Castle Donnington safer from flooding?",
-      "answer": "Castle Creek has a flood risk score of 50/100, while Castle Donnington scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Castle Creek has a flood risk score of 21/100, while Castle Donnington scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Castle Creek scores 39/100 for bushfire risk. Castle Donnington scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Castle Creek scores 21/100 for bushfire risk. Castle Donnington scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Castle Creek or Castle Donnington?",
@@ -76,5 +76,15 @@
       "label": "Castle Donnington Should I Buy?",
       "url": "/suburbs/vic/castle-donnington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3331,
+    "projected2030": 4663,
+    "projected2050": 8660
+  },
+  "valueImpact": {
+    "dragPercent": 0.2,
+    "description": "Properties in this area may face a 0.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

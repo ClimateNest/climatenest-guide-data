@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 32
+      "scoreA": 58,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 41
+      "scoreA": 45,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 57
+      "scoreA": 73,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 31
+      "scoreA": 21,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 56
+      "scoreA": 59,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 18
     }
   ],
-  "verdict": "Kalang has a lower overall climate risk score (40/100) compared to Kahibah (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kalang has a lower overall climate risk score (42/100) compared to Kahibah (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kahibah or Kalang safer from flooding?",
-      "answer": "Kahibah has a flood risk score of 57/100, while Kalang scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kahibah has a flood risk score of 58/100, while Kalang scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kahibah scores 41/100 for bushfire risk. Kalang scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kahibah scores 45/100 for bushfire risk. Kalang scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kahibah or Kalang?",
@@ -76,5 +76,15 @@
       "label": "Kalang Should I Buy?",
       "url": "/suburbs/nsw/kalang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4419,
+    "projected2030": 6186,
+    "projected2050": 11489
+  },
+  "valueImpact": {
+    "dragPercent": 2.6,
+    "description": "Properties in this area may face a 2.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

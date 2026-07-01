@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 31
+      "scoreA": 59,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 63
+      "scoreA": 59,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 75
+      "scoreA": 62,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 32
+      "scoreA": 48,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 56
+      "scoreA": 12,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 22,
+      "scoreB": 20
     }
   ],
-  "verdict": "Pleasant Hills has a lower overall climate risk score (32/100) compared to Plumpton (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Plumpton has a lower overall climate risk score (38/100) compared to Pleasant Hills (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pleasant Hills or Plumpton safer from flooding?",
-      "answer": "Pleasant Hills has a flood risk score of 40/100, while Plumpton scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pleasant Hills has a flood risk score of 59/100, while Plumpton scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pleasant Hills scores 34/100 for bushfire risk. Plumpton scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pleasant Hills scores 59/100 for bushfire risk. Plumpton scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pleasant Hills or Plumpton?",
-      "answer": "Both suburbs have climate considerations. Pleasant Hills has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Plumpton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Plumpton Should I Buy?",
       "url": "/suburbs/nsw/plumpton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

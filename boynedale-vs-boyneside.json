@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 27
+      "scoreA": 32,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 16
+      "scoreA": 65,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 33
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 31
+      "scoreA": 53,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
+      "scoreA": 9,
       "scoreB": 25
     }
   ],
-  "verdict": "Boyneside has a lower overall climate risk score (29/100) compared to Boynedale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boyneside has a lower overall climate risk score (33/100) compared to Boynedale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boynedale or Boyneside safer from flooding?",
-      "answer": "Boynedale has a flood risk score of 44/100, while Boyneside scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boynedale has a flood risk score of 32/100, while Boyneside scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boynedale scores 33/100 for bushfire risk. Boyneside scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boynedale scores 65/100 for bushfire risk. Boyneside scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boynedale or Boyneside?",
@@ -76,5 +76,15 @@
       "label": "Boyneside Should I Buy?",
       "url": "/suburbs/qld/boyneside/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

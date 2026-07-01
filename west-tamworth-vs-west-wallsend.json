@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 40
-    },
-    {
-      "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 63
-    },
-    {
-      "name": "Storm",
-      "scoreA": 34,
+      "scoreA": 20,
       "scoreB": 28
     },
     {
+      "name": "Heat",
+      "scoreA": 60,
+      "scoreB": 68
+    },
+    {
+      "name": "Storm",
+      "scoreA": 32,
+      "scoreB": 46
+    },
+    {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 49
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 14
     }
   ],
-  "verdict": "West Tamworth has a lower overall climate risk score (36/100) compared to West Wallsend (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "West Tamworth has a lower overall climate risk score (37/100) compared to West Wallsend (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is West Tamworth or West Wallsend safer from flooding?",
-      "answer": "West Tamworth has a flood risk score of 31/100, while West Wallsend scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Tamworth has a flood risk score of 46/100, while West Wallsend scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Tamworth scores 38/100 for bushfire risk. West Wallsend scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Tamworth scores 20/100 for bushfire risk. West Wallsend scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Tamworth or West Wallsend?",
@@ -76,5 +76,15 @@
       "label": "West Wallsend Should I Buy?",
       "url": "/suburbs/nsw/west-wallsend/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

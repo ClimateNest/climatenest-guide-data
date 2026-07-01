@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 42
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 50,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 56
+      "scoreA": 52,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 19
+      "scoreA": 34,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 21,
+      "scoreB": 26
     }
   ],
-  "verdict": "Grattai has a lower overall climate risk score (35/100) compared to Grasmere (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Grattai has a lower overall climate risk score (34/100) compared to Grasmere (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Grasmere or Grattai safer from flooding?",
-      "answer": "Grasmere has a flood risk score of 52/100, while Grattai scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Grasmere has a flood risk score of 31/100, while Grattai scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Grasmere scores 21/100 for bushfire risk. Grattai scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Grasmere scores 50/100 for bushfire risk. Grattai scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Grasmere or Grattai?",
@@ -76,5 +76,15 @@
       "label": "Grattai Should I Buy?",
       "url": "/suburbs/nsw/grattai/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

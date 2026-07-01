@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 51
+      "scoreA": 45,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 34
+      "scoreA": 34,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 49
+      "scoreA": 49,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 37,
+      "scoreA": 35,
       "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 32
+      "scoreA": 57,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 14,
+      "scoreB": 14
     }
   ],
-  "verdict": "Churchill has a lower overall climate risk score (36/100) compared to Churchable (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Churchill has a lower overall climate risk score (31/100) compared to Churchable (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Churchable or Churchill safer from flooding?",
-      "answer": "Churchable has a flood risk score of 44/100, while Churchill scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Churchable has a flood risk score of 45/100, while Churchill scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Churchable scores 54/100 for bushfire risk. Churchill scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Churchable scores 34/100 for bushfire risk. Churchill scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Churchable or Churchill?",
@@ -76,5 +76,15 @@
       "label": "Churchill Should I Buy?",
       "url": "/suburbs/qld/churchill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

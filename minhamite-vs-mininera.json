@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 58
+      "scoreA": 32,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 65
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
+      "scoreA": 63,
       "scoreB": 28
     },
     {
+      "name": "Heat",
+      "scoreA": 77,
+      "scoreB": 75
+    },
+    {
+      "name": "Storm",
+      "scoreA": 30,
+      "scoreB": 25
+    },
+    {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 22
     }
   ],
-  "verdict": "Mininera has a lower overall climate risk score (35/100) compared to Minhamite (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mininera has a lower overall climate risk score (37/100) compared to Minhamite (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Minhamite or Mininera safer from flooding?",
-      "answer": "Minhamite has a flood risk score of 25/100, while Mininera scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Minhamite has a flood risk score of 32/100, while Mininera scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Minhamite scores 24/100 for bushfire risk. Mininera scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Minhamite scores 63/100 for bushfire risk. Mininera scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Minhamite or Mininera?",
@@ -76,5 +76,15 @@
       "label": "Mininera Should I Buy?",
       "url": "/suburbs/vic/mininera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

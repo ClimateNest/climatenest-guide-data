@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 33
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 53
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
+      "scoreA": 32,
       "scoreB": 43
     },
     {
+      "name": "Bushfire",
+      "scoreA": 20,
+      "scoreB": 49
+    },
+    {
+      "name": "Heat",
+      "scoreA": 31,
+      "scoreB": 34
+    },
+    {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 48,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 47
+      "scoreA": 12,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 23
     }
   ],
-  "verdict": "Lower Tully has a lower overall climate risk score (29/100) compared to Lower Wonga (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lower Tully has a lower overall climate risk score (27/100) compared to Lower Wonga (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lower Tully or Lower Wonga safer from flooding?",
-      "answer": "Lower Tully has a flood risk score of 36/100, while Lower Wonga scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lower Tully has a flood risk score of 32/100, while Lower Wonga scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lower Tully scores 22/100 for bushfire risk. Lower Wonga scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lower Tully scores 20/100 for bushfire risk. Lower Wonga scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lower Tully or Lower Wonga?",
@@ -76,5 +76,15 @@
       "label": "Lower Wonga Should I Buy?",
       "url": "/suburbs/qld/lower-wonga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

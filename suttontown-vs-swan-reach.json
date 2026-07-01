@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 31
+      "scoreA": 56,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 39
+      "scoreA": 50,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 58
+      "scoreA": 57,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 32,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 21
     }
   ],
-  "verdict": "Swan Reach has a lower overall climate risk score (32/100) compared to Suttontown (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Swan Reach has a lower overall climate risk score (39/100) compared to Suttontown (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Suttontown or Swan Reach safer from flooding?",
-      "answer": "Suttontown has a flood risk score of 41/100, while Swan Reach scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Suttontown has a flood risk score of 56/100, while Swan Reach scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Suttontown scores 62/100 for bushfire risk. Swan Reach scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Suttontown scores 50/100 for bushfire risk. Swan Reach scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Suttontown or Swan Reach?",
@@ -76,5 +76,15 @@
       "label": "Swan Reach Should I Buy?",
       "url": "/suburbs/sa/swan-reach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

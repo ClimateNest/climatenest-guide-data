@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 48
+      "scoreA": 37,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 24
+      "scoreA": 50,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 66
+      "scoreA": 73,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 36
+      "scoreA": 32,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 35
+      "scoreA": 38,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 30
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Valley Heights has a lower overall climate risk score (40/100) compared to Valla Beach (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Valley Heights has a lower overall climate risk score (38/100) compared to Valla Beach (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Valla Beach or Valley Heights safer from flooding?",
-      "answer": "Valla Beach has a flood risk score of 47/100, while Valley Heights scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Valla Beach has a flood risk score of 37/100, while Valley Heights scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Valla Beach scores 63/100 for bushfire risk. Valley Heights scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Valla Beach scores 50/100 for bushfire risk. Valley Heights scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Valla Beach or Valley Heights?",
@@ -76,5 +76,15 @@
       "label": "Valley Heights Should I Buy?",
       "url": "/suburbs/nsw/valley-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

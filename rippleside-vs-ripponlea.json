@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 52,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 43
+      "scoreA": 18,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 73
+      "scoreA": 70,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 25
+      "scoreB": 19
     }
   ],
-  "verdict": "Rippleside has a lower overall climate risk score (34/100) compared to Ripponlea (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rippleside has a lower overall climate risk score (33/100) compared to Ripponlea (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rippleside or Ripponlea safer from flooding?",
-      "answer": "Rippleside has a flood risk score of 24/100, while Ripponlea scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rippleside has a flood risk score of 52/100, while Ripponlea scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rippleside scores 27/100 for bushfire risk. Ripponlea scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rippleside scores 18/100 for bushfire risk. Ripponlea scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rippleside or Ripponlea?",
@@ -76,5 +76,15 @@
       "label": "Ripponlea Should I Buy?",
       "url": "/suburbs/vic/ripponlea/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

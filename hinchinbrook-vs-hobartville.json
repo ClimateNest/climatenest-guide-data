@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 20
+      "scoreA": 37,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 43
+      "scoreA": 18,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 68
+      "scoreA": 65,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
       "scoreA": 54,
-      "scoreB": 56
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 16
     }
   ],
-  "verdict": "Hobartville has a lower overall climate risk score (40/100) compared to Hinchinbrook (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hinchinbrook has a lower overall climate risk score (40/100) compared to Hobartville (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hinchinbrook or Hobartville safer from flooding?",
-      "answer": "Hinchinbrook has a flood risk score of 50/100, while Hobartville scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hinchinbrook has a flood risk score of 37/100, while Hobartville scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hinchinbrook scores 44/100 for bushfire risk. Hobartville scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hinchinbrook scores 18/100 for bushfire risk. Hobartville scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hinchinbrook or Hobartville?",
-      "answer": "Both suburbs have climate considerations. Hobartville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hinchinbrook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hobartville Should I Buy?",
       "url": "/suburbs/nsw/hobartville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4419,
+    "projected2030": 6186,
+    "projected2050": 11489
+  },
+  "valueImpact": {
+    "dragPercent": 2.6,
+    "description": "Properties in this area may face a 2.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

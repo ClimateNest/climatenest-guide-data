@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 42
+      "scoreA": 27,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 48,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 20
+      "scoreA": 49,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 11
+      "scoreA": 7,
+      "scoreB": 13
     }
   ],
-  "verdict": "Blackdown has a lower overall climate risk score (23/100) compared to Blackrock (27/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Blackrock has a lower overall climate risk score (29/100) compared to Blackdown (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blackdown or Blackrock safer from flooding?",
-      "answer": "Blackdown has a flood risk score of 21/100, while Blackrock scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackdown has a flood risk score of 28/100, while Blackrock scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackdown scores 17/100 for bushfire risk. Blackrock scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackdown scores 27/100 for bushfire risk. Blackrock scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackdown or Blackrock?",
-      "answer": "Both suburbs have climate considerations. Blackdown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Blackrock has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Blackrock Should I Buy?",
       "url": "/suburbs/qld/blackrock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3229,
+    "projected2030": 4520,
+    "projected2050": 8395
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

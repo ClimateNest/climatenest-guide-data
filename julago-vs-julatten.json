@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 54
+      "scoreA": 41,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 49
+      "scoreA": 61,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 31
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 5,
-      "scoreB": 11
+      "scoreA": 13,
+      "scoreB": 6
     }
   ],
-  "verdict": "Julago has a lower overall climate risk score (31/100) compared to Julatten (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Julatten has a lower overall climate risk score (26/100) compared to Julago (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Julago or Julatten safer from flooding?",
-      "answer": "Julago has a flood risk score of 42/100, while Julatten scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Julago has a flood risk score of 41/100, while Julatten scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Julago scores 16/100 for bushfire risk. Julatten scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Julago scores 61/100 for bushfire risk. Julatten scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Julago or Julatten?",
-      "answer": "Both suburbs have climate considerations. Julago has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Julatten has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Julatten Should I Buy?",
       "url": "/suburbs/qld/julatten/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

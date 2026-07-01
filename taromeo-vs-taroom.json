@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
+      "scoreA": 34,
       "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 27
+      "scoreA": 39,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 33
+      "scoreA": 42,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
+      "scoreA": 60,
       "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
+      "scoreA": 21,
       "scoreB": 20
     }
   ],
-  "verdict": "Taroom has a lower overall climate risk score (29/100) compared to Taromeo (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Taroom has a lower overall climate risk score (33/100) compared to Taromeo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Taromeo or Taroom safer from flooding?",
-      "answer": "Taromeo has a flood risk score of 25/100, while Taroom scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Taromeo has a flood risk score of 34/100, while Taroom scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Taromeo scores 50/100 for bushfire risk. Taroom scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Taromeo scores 39/100 for bushfire risk. Taroom scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Taromeo or Taroom?",
@@ -76,5 +76,15 @@
       "label": "Taroom Should I Buy?",
       "url": "/suburbs/qld/taroom/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

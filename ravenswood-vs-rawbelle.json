@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 33
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 42
+      "scoreA": 25,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 44
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 44
+      "scoreA": 16,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
       "scoreA": 11,
-      "scoreB": 15
+      "scoreB": 13
     }
   ],
-  "verdict": "Ravenswood has a lower overall climate risk score (27/100) compared to Rawbelle (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ravenswood has a lower overall climate risk score (29/100) compared to Rawbelle (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ravenswood or Rawbelle safer from flooding?",
-      "answer": "Ravenswood has a flood risk score of 41/100, while Rawbelle scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ravenswood has a flood risk score of 40/100, while Rawbelle scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ravenswood scores 26/100 for bushfire risk. Rawbelle scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ravenswood scores 25/100 for bushfire risk. Rawbelle scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ravenswood or Rawbelle?",
@@ -76,5 +76,15 @@
       "label": "Rawbelle Should I Buy?",
       "url": "/suburbs/qld/rawbelle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

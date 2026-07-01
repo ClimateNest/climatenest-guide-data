@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 21,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 59
+      "scoreA": 53,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 49
+      "scoreA": 37,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 53
+      "scoreA": 47,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 16
     }
   ],
-  "verdict": "Taree has a lower overall climate risk score (42/100) compared to Tarbuck Bay (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Tarbuck Bay has a lower overall climate risk score (32/100) compared to Taree (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tarbuck Bay or Taree safer from flooding?",
-      "answer": "Tarbuck Bay has a flood risk score of 49/100, while Taree scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarbuck Bay has a flood risk score of 21/100, while Taree scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarbuck Bay scores 47/100 for bushfire risk. Taree scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarbuck Bay scores 21/100 for bushfire risk. Taree scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarbuck Bay or Taree?",
-      "answer": "Both suburbs have climate considerations. Taree has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tarbuck Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Taree Should I Buy?",
       "url": "/suburbs/nsw/taree/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

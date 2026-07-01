@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 40
+      "scoreA": 52,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 47
+      "scoreA": 18,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 52,
+      "scoreA": 65,
       "scoreB": 75
     },
     {
       "name": "Storm",
       "scoreA": 24,
-      "scoreB": 20
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 14,
+      "scoreB": 19
     }
   ],
-  "verdict": "Quialigo has a lower overall climate risk score (26/100) compared to Quiera (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Quialigo has a lower overall climate risk score (32/100) compared to Quiera (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Quialigo or Quiera safer from flooding?",
-      "answer": "Quialigo has a flood risk score of 39/100, while Quiera scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Quialigo has a flood risk score of 52/100, while Quiera scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Quialigo scores 17/100 for bushfire risk. Quiera scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Quialigo scores 18/100 for bushfire risk. Quiera scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Quialigo or Quiera?",
@@ -76,5 +76,15 @@
       "label": "Quiera Should I Buy?",
       "url": "/suburbs/nsw/quiera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

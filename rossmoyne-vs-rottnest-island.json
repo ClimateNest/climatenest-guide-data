@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 44
+      "scoreA": 50,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 64
+      "scoreA": 40,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 67
+      "scoreA": 61,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 25
+      "scoreA": 37,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 26,
+      "scoreB": 12
     }
   ],
-  "verdict": "Rossmoyne has a lower overall climate risk score (37/100) compared to Rottnest Island (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rottnest Island has a lower overall climate risk score (39/100) compared to Rossmoyne (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rossmoyne or Rottnest Island safer from flooding?",
-      "answer": "Rossmoyne has a flood risk score of 21/100, while Rottnest Island scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rossmoyne has a flood risk score of 50/100, while Rottnest Island scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rossmoyne scores 60/100 for bushfire risk. Rottnest Island scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rossmoyne scores 40/100 for bushfire risk. Rottnest Island scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rossmoyne or Rottnest Island?",
-      "answer": "Both suburbs have climate considerations. Rossmoyne has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rottnest Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rottnest Island Should I Buy?",
       "url": "/suburbs/wa/rottnest-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

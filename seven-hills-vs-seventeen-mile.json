@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 33,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 63
+      "scoreA": 22,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 33
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 52
+      "scoreA": 31,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
+      "scoreA": 14,
       "scoreB": 17
     }
   ],
-  "verdict": "Seven Hills has a lower overall climate risk score (33/100) compared to Seventeen Mile (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Seven Hills has a lower overall climate risk score (27/100) compared to Seventeen Mile (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Seven Hills or Seventeen Mile safer from flooding?",
-      "answer": "Seven Hills has a flood risk score of 24/100, while Seventeen Mile scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Seven Hills has a flood risk score of 33/100, while Seventeen Mile scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Seven Hills scores 44/100 for bushfire risk. Seventeen Mile scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Seven Hills scores 22/100 for bushfire risk. Seventeen Mile scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Seven Hills or Seventeen Mile?",
@@ -76,5 +76,15 @@
       "label": "Seventeen Mile Should I Buy?",
       "url": "/suburbs/qld/seventeen-mile/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

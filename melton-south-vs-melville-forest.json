@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 24,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 74
-    },
-    {
-      "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 22
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 50,
       "scoreB": 26
     },
     {
+      "name": "Heat",
+      "scoreA": 54,
+      "scoreB": 54
+    },
+    {
+      "name": "Storm",
+      "scoreA": 27,
+      "scoreB": 29
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 18,
+      "scoreB": 18
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 17
     }
   ],
-  "verdict": "Melville Forest has a lower overall climate risk score (40/100) compared to Melton South (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Melton South has a lower overall climate risk score (32/100) compared to Melville Forest (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Melton South or Melville Forest safer from flooding?",
-      "answer": "Melton South has a flood risk score of 56/100, while Melville Forest scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Melton South has a flood risk score of 24/100, while Melville Forest scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Melton South scores 49/100 for bushfire risk. Melville Forest scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Melton South scores 50/100 for bushfire risk. Melville Forest scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Melton South or Melville Forest?",
-      "answer": "Both suburbs have climate considerations. Melville Forest has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Melton South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Melville Forest Should I Buy?",
       "url": "/suburbs/vic/melville-forest/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

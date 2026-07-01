@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 59
+      "scoreA": 56,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 56
+      "scoreA": 42,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 72
+      "scoreA": 53,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 32,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 14,
+      "scoreB": 28
     }
   ],
-  "verdict": "Sunshine Bay has a lower overall climate risk score (40/100) compared to Suntop (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sunshine Bay has a lower overall climate risk score (37/100) compared to Suntop (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sunshine Bay or Suntop safer from flooding?",
-      "answer": "Sunshine Bay has a flood risk score of 39/100, while Suntop scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sunshine Bay has a flood risk score of 56/100, while Suntop scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sunshine Bay scores 65/100 for bushfire risk. Suntop scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sunshine Bay scores 42/100 for bushfire risk. Suntop scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sunshine Bay or Suntop?",
@@ -76,5 +76,15 @@
       "label": "Suntop Should I Buy?",
       "url": "/suburbs/nsw/suntop/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 48
+      "scoreA": 31,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 40
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 38
+      "scoreA": 24,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 35
+      "scoreA": 19,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 18
+      "scoreA": 6,
+      "scoreB": 17
     }
   ],
-  "verdict": "Wallaroo has a lower overall climate risk score (32/100) compared to Wallaville (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wallaroo has a lower overall climate risk score (24/100) compared to Wallaville (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wallaroo or Wallaville safer from flooding?",
-      "answer": "Wallaroo has a flood risk score of 25/100, while Wallaville scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wallaroo has a flood risk score of 22/100, while Wallaville scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wallaroo scores 44/100 for bushfire risk. Wallaville scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wallaroo scores 31/100 for bushfire risk. Wallaville scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wallaroo or Wallaville?",
@@ -76,5 +76,15 @@
       "label": "Wallaville Should I Buy?",
       "url": "/suburbs/qld/wallaville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3217,
+    "projected2030": 4504,
+    "projected2050": 8365
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

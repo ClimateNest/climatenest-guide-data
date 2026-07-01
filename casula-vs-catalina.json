@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 22,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 42
+      "scoreA": 24,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 68
+      "scoreA": 65,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 33,
+      "scoreA": 35,
       "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 30
+      "scoreA": 37,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 16
     }
   ],
-  "verdict": "Catalina has a lower overall climate risk score (42/100) compared to Casula (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Casula has a lower overall climate risk score (35/100) compared to Catalina (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Casula or Catalina safer from flooding?",
-      "answer": "Casula has a flood risk score of 56/100, while Catalina scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Casula has a flood risk score of 22/100, while Catalina scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Casula scores 41/100 for bushfire risk. Catalina scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Casula scores 24/100 for bushfire risk. Catalina scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Casula or Catalina?",
-      "answer": "Both suburbs have climate considerations. Catalina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Casula has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Catalina Should I Buy?",
       "url": "/suburbs/nsw/catalina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

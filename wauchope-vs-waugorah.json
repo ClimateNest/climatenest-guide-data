@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 39,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 67,
+      "scoreA": 17,
       "scoreB": 57
     },
     {
+      "name": "Heat",
+      "scoreA": 78,
+      "scoreB": 50
+    },
+    {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 49
+      "scoreA": 25,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
+      "scoreA": 39,
       "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 17
     }
   ],
-  "verdict": "Waugorah has a lower overall climate risk score (39/100) compared to Wauchope (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wauchope has a lower overall climate risk score (37/100) compared to Waugorah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wauchope or Waugorah safer from flooding?",
-      "answer": "Wauchope has a flood risk score of 40/100, while Waugorah scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wauchope has a flood risk score of 39/100, while Waugorah scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wauchope scores 40/100 for bushfire risk. Waugorah scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wauchope scores 17/100 for bushfire risk. Waugorah scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wauchope or Waugorah?",
-      "answer": "Both suburbs have climate considerations. Waugorah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wauchope has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Waugorah Should I Buy?",
       "url": "/suburbs/nsw/waugorah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

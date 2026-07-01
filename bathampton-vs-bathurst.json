@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 49,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 63
+      "scoreA": 53,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 17
     }
   ],
-  "verdict": "Bathurst has a lower overall climate risk score (31/100) compared to Bathampton (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bathampton has a lower overall climate risk score (34/100) compared to Bathurst (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bathampton or Bathurst safer from flooding?",
-      "answer": "Bathampton has a flood risk score of 45/100, while Bathurst scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bathampton has a flood risk score of 49/100, while Bathurst scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bathampton scores 22/100 for bushfire risk. Bathurst scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bathampton scores 27/100 for bushfire risk. Bathurst scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bathampton or Bathurst?",
-      "answer": "Both suburbs have climate considerations. Bathurst has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bathampton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bathurst Should I Buy?",
       "url": "/suburbs/nsw/bathurst/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 55
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 19,
+      "scoreA": 33,
       "scoreB": 47
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 55
+    },
+    {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 36,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 14,
+      "scoreB": 18
     }
   ],
-  "verdict": "Koolpinyah has a lower overall climate risk score (25/100) compared to Kunparrka (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Koolpinyah has a lower overall climate risk score (27/100) compared to Kunparrka (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Koolpinyah or Kunparrka safer from flooding?",
-      "answer": "Koolpinyah has a flood risk score of 26/100, while Kunparrka scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Koolpinyah has a flood risk score of 33/100, while Kunparrka scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Koolpinyah scores 19/100 for bushfire risk. Kunparrka scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Koolpinyah scores 28/100 for bushfire risk. Kunparrka scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Koolpinyah or Kunparrka?",
@@ -76,5 +76,15 @@
       "label": "Kunparrka Should I Buy?",
       "url": "/suburbs/nt/kunparrka/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 60
+      "scoreA": 39,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 37,
+      "scoreB": 23
     },
     {
       "name": "Heat",
       "scoreA": 61,
-      "scoreB": 51
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 24,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 10
+      "scoreA": 16,
+      "scoreB": 17
     }
   ],
-  "verdict": "Weeroona Island has a lower overall climate risk score (40/100) compared to Wedge Island (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wedge Island has a lower overall climate risk score (33/100) compared to Weeroona Island (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wedge Island or Weeroona Island safer from flooding?",
-      "answer": "Wedge Island has a flood risk score of 58/100, while Weeroona Island scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wedge Island has a flood risk score of 39/100, while Weeroona Island scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wedge Island scores 56/100 for bushfire risk. Weeroona Island scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wedge Island scores 37/100 for bushfire risk. Weeroona Island scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wedge Island or Weeroona Island?",
-      "answer": "Both suburbs have climate considerations. Weeroona Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wedge Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Weeroona Island Should I Buy?",
       "url": "/suburbs/sa/weeroona-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

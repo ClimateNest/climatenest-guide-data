@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 34,
-      "scoreB": 49
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 52
+      "scoreA": 64,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 32,
+      "scoreA": 41,
       "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 23
+      "scoreA": 53,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 22
     }
   ],
-  "verdict": "Kinleymore has a lower overall climate risk score (34/100) compared to Kioma (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kioma has a lower overall climate risk score (32/100) compared to Kinleymore (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kinleymore or Kioma safer from flooding?",
-      "answer": "Kinleymore has a flood risk score of 34/100, while Kioma scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kinleymore has a flood risk score of 34/100, while Kioma scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kinleymore scores 36/100 for bushfire risk. Kioma scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kinleymore scores 64/100 for bushfire risk. Kioma scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kinleymore or Kioma?",
-      "answer": "Both suburbs have climate considerations. Kinleymore has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kioma has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kioma Should I Buy?",
       "url": "/suburbs/qld/kioma/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

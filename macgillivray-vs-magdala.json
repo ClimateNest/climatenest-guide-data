@@ -14,32 +14,32 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 47
+      "scoreA": 42,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 23
+      "scoreA": 44,
+      "scoreB": 45
     },
     {
       "name": "Heat",
       "scoreA": 78,
-      "scoreB": 54
+      "scoreB": 65
     },
     {
       "name": "Storm",
       "scoreA": 33,
-      "scoreB": 48
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 30,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
+      "scoreA": 11,
       "scoreB": 15
     }
   ],
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Macgillivray or Magdala safer from flooding?",
-      "answer": "Macgillivray has a flood risk score of 29/100, while Magdala scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Macgillivray has a flood risk score of 42/100, while Magdala scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Macgillivray scores 51/100 for bushfire risk. Magdala scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Macgillivray scores 44/100 for bushfire risk. Magdala scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Macgillivray or Magdala?",
@@ -76,5 +76,15 @@
       "label": "Magdala Should I Buy?",
       "url": "/suburbs/sa/magdala/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

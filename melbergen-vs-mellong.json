@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 55
+      "scoreA": 42,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 72
+      "scoreA": 53,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 44
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 46
+      "scoreA": 22,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 14
     }
   ],
-  "verdict": "Melbergen has a lower overall climate risk score (36/100) compared to Mellong (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Melbergen has a lower overall climate risk score (36/100) compared to Mellong (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Melbergen or Mellong safer from flooding?",
-      "answer": "Melbergen has a flood risk score of 24/100, while Mellong scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Melbergen has a flood risk score of 48/100, while Mellong scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Melbergen scores 63/100 for bushfire risk. Mellong scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Melbergen scores 42/100 for bushfire risk. Mellong scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Melbergen or Mellong?",
@@ -76,5 +76,15 @@
       "label": "Mellong Should I Buy?",
       "url": "/suburbs/nsw/mellong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 52
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 65
+      "scoreA": 50,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 32
+      "scoreA": 35,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 21,
       "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
+      "scoreA": 57,
       "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 27
     }
   ],
-  "verdict": "Evergreen has a lower overall climate risk score (27/100) compared to Everton Hills (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Evergreen has a lower overall climate risk score (35/100) compared to Everton Hills (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Evergreen or Everton Hills safer from flooding?",
-      "answer": "Evergreen has a flood risk score of 22/100, while Everton Hills scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Evergreen has a flood risk score of 32/100, while Everton Hills scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Evergreen scores 16/100 for bushfire risk. Everton Hills scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Evergreen scores 50/100 for bushfire risk. Everton Hills scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Evergreen or Everton Hills?",
@@ -76,5 +76,15 @@
       "label": "Everton Hills Should I Buy?",
       "url": "/suburbs/qld/everton-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

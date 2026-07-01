@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 52
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 37
+      "scoreA": 59,
+      "scoreB": 28
     },
     {
       "name": "Heat",
       "scoreA": 36,
-      "scoreB": 42
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 46
+      "scoreA": 33,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 28
+      "scoreA": 37,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 14,
+      "scoreB": 19
     }
   ],
-  "verdict": "Coominya has a lower overall climate risk score (36/100) compared to Coomrith (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Coomrith has a lower overall climate risk score (25/100) compared to Coominya (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Coominya or Coomrith safer from flooding?",
-      "answer": "Coominya has a flood risk score of 54/100, while Coomrith scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coominya has a flood risk score of 26/100, while Coomrith scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coominya scores 36/100 for bushfire risk. Coomrith scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coominya scores 59/100 for bushfire risk. Coomrith scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coominya or Coomrith?",
-      "answer": "Both suburbs have climate considerations. Coominya has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Coomrith has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Coomrith Should I Buy?",
       "url": "/suburbs/qld/coomrith/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

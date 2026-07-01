@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 39,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 66
+      "scoreA": 54,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 49
+      "scoreA": 44,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
+      "scoreA": 13,
       "scoreB": 23
     }
   ],
-  "verdict": "Clements Gap has a lower overall climate risk score (37/100) compared to Clearview (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Clearview has a lower overall climate risk score (34/100) compared to Clements Gap (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Clearview or Clements Gap safer from flooding?",
-      "answer": "Clearview has a flood risk score of 36/100, while Clements Gap scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clearview has a flood risk score of 39/100, while Clements Gap scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clearview scores 38/100 for bushfire risk. Clements Gap scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clearview scores 28/100 for bushfire risk. Clements Gap scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clearview or Clements Gap?",
-      "answer": "Both suburbs have climate considerations. Clements Gap has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Clearview has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Clements Gap Should I Buy?",
       "url": "/suburbs/sa/clements-gap/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

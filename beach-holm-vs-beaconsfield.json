@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 59
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 22
+      "scoreA": 38,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 50
-    },
-    {
-      "name": "Storm",
-      "scoreA": 21,
+      "scoreA": 46,
       "scoreB": 49
     },
     {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 41
+    },
+    {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 19,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 5,
+      "scoreB": 7
     }
   ],
-  "verdict": "Beach Holm has a lower overall climate risk score (35/100) compared to Beaconsfield (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Beaconsfield has a lower overall climate risk score (32/100) compared to Beach Holm (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beach Holm or Beaconsfield safer from flooding?",
-      "answer": "Beach Holm has a flood risk score of 57/100, while Beaconsfield scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beach Holm has a flood risk score of 46/100, while Beaconsfield scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beach Holm scores 49/100 for bushfire risk. Beaconsfield scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beach Holm scores 38/100 for bushfire risk. Beaconsfield scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beach Holm or Beaconsfield?",
-      "answer": "Both suburbs have climate considerations. Beach Holm has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Beaconsfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Beaconsfield Should I Buy?",
       "url": "/suburbs/qld/beaconsfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

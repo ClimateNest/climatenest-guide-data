@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 21
+      "scoreA": 34,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 65
+      "scoreA": 33,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 75
+      "scoreA": 74,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 28
+      "scoreA": 48,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 24
     }
   ],
-  "verdict": "Cockwhy has a lower overall climate risk score (41/100) compared to Cobbitty (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cockwhy has a lower overall climate risk score (38/100) compared to Cobbitty (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cobbitty or Cockwhy safer from flooding?",
-      "answer": "Cobbitty has a flood risk score of 44/100, while Cockwhy scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cobbitty has a flood risk score of 34/100, while Cockwhy scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cobbitty scores 45/100 for bushfire risk. Cockwhy scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cobbitty scores 33/100 for bushfire risk. Cockwhy scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cobbitty or Cockwhy?",
@@ -76,5 +76,15 @@
       "label": "Cockwhy Should I Buy?",
       "url": "/suburbs/nsw/cockwhy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

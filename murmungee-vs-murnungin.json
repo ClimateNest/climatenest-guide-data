@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 24
+      "scoreA": 32,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 65
+      "scoreA": 50,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 47,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 28,
+      "scoreB": 25
     }
   ],
-  "verdict": "Murnungin has a lower overall climate risk score (30/100) compared to Murmungee (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Murnungin has a lower overall climate risk score (29/100) compared to Murmungee (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Murmungee or Murnungin safer from flooding?",
-      "answer": "Murmungee has a flood risk score of 32/100, while Murnungin scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Murmungee has a flood risk score of 42/100, while Murnungin scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Murmungee scores 64/100 for bushfire risk. Murnungin scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Murmungee scores 32/100 for bushfire risk. Murnungin scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Murmungee or Murnungin?",
@@ -76,5 +76,15 @@
       "label": "Murnungin Should I Buy?",
       "url": "/suburbs/vic/murnungin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

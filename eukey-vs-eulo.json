@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 57
+      "scoreA": 55,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 28
+      "scoreA": 64,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 41
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 10
+      "scoreA": 47,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 15
     }
   ],
-  "verdict": "Eulo has a lower overall climate risk score (35/100) compared to Eukey (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eulo has a lower overall climate risk score (32/100) compared to Eukey (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eukey or Eulo safer from flooding?",
-      "answer": "Eukey has a flood risk score of 47/100, while Eulo scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eukey has a flood risk score of 55/100, while Eulo scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eukey scores 57/100 for bushfire risk. Eulo scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eukey scores 64/100 for bushfire risk. Eulo scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eukey or Eulo?",
@@ -76,5 +76,15 @@
       "label": "Eulo Should I Buy?",
       "url": "/suburbs/qld/eulo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

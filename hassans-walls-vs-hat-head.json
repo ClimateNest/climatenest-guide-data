@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
+      "scoreA": 35,
       "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 49
+      "scoreA": 18,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 58
+      "scoreA": 68,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
       "scoreA": 22,
-      "scoreB": 38
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 12,
+      "scoreB": 12
     }
   ],
-  "verdict": "Hassans Walls has a lower overall climate risk score (35/100) compared to Hat Head (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hassans Walls has a lower overall climate risk score (33/100) compared to Hat Head (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hassans Walls or Hat Head safer from flooding?",
-      "answer": "Hassans Walls has a flood risk score of 23/100, while Hat Head scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hassans Walls has a flood risk score of 35/100, while Hat Head scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hassans Walls scores 35/100 for bushfire risk. Hat Head scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hassans Walls scores 18/100 for bushfire risk. Hat Head scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hassans Walls or Hat Head?",
@@ -76,5 +76,15 @@
       "label": "Hat Head Should I Buy?",
       "url": "/suburbs/nsw/hat-head/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

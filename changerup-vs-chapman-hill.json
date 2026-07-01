@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 31
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 45
-    },
-    {
-      "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 65
-    },
-    {
-      "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 49
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 29,
+      "scoreA": 51,
       "scoreB": 30
     },
     {
+      "name": "Bushfire",
+      "scoreA": 24,
+      "scoreB": 44
+    },
+    {
+      "name": "Heat",
+      "scoreA": 80,
+      "scoreB": 74
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 44
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 25,
+      "scoreB": 14
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 26,
       "scoreB": 23
     }
   ],
-  "verdict": "Chapman Hill has a lower overall climate risk score (41/100) compared to Changerup (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Chapman Hill has a lower overall climate risk score (38/100) compared to Changerup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Changerup or Chapman Hill safer from flooding?",
-      "answer": "Changerup has a flood risk score of 42/100, while Chapman Hill scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Changerup has a flood risk score of 51/100, while Chapman Hill scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Changerup scores 57/100 for bushfire risk. Chapman Hill scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Changerup scores 24/100 for bushfire risk. Chapman Hill scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Changerup or Chapman Hill?",
@@ -76,5 +76,15 @@
       "label": "Chapman Hill Should I Buy?",
       "url": "/suburbs/wa/chapman-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

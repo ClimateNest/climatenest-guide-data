@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 55
+      "scoreA": 39,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 58
+      "scoreA": 32,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 50
+      "scoreA": 26,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 16
     }
   ],
-  "verdict": "Ellendale has a lower overall climate risk score (32/100) compared to Embleton (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ellendale has a lower overall climate risk score (30/100) compared to Embleton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ellendale or Embleton safer from flooding?",
-      "answer": "Ellendale has a flood risk score of 43/100, while Embleton scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ellendale has a flood risk score of 39/100, while Embleton scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ellendale scores 40/100 for bushfire risk. Embleton scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ellendale scores 36/100 for bushfire risk. Embleton scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ellendale or Embleton?",
@@ -76,5 +76,15 @@
       "label": "Embleton Should I Buy?",
       "url": "/suburbs/wa/embleton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

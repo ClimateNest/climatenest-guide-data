@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 33
+      "scoreA": 21,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 73
+      "scoreA": 68,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
       "scoreA": 28,
-      "scoreB": 22
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 22,
+      "scoreB": 22
     }
   ],
-  "verdict": "Three Bridges has a lower overall climate risk score (39/100) compared to Thowgla Valley (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Thowgla Valley has a lower overall climate risk score (31/100) compared to Three Bridges (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Thowgla Valley or Three Bridges safer from flooding?",
-      "answer": "Thowgla Valley has a flood risk score of 53/100, while Three Bridges scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Thowgla Valley has a flood risk score of 24/100, while Three Bridges scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Thowgla Valley scores 58/100 for bushfire risk. Three Bridges scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Thowgla Valley scores 21/100 for bushfire risk. Three Bridges scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Thowgla Valley or Three Bridges?",
-      "answer": "Both suburbs have climate considerations. Three Bridges has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Thowgla Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Three Bridges Should I Buy?",
       "url": "/suburbs/vic/three-bridges/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

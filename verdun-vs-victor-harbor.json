@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 38
+      "scoreA": 44,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 61
+      "scoreA": 43,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 70
+      "scoreA": 52,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Verdun has a lower overall climate risk score (36/100) compared to Victor Harbor (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Victor Harbor has a lower overall climate risk score (31/100) compared to Verdun (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Verdun or Victor Harbor safer from flooding?",
-      "answer": "Verdun has a flood risk score of 51/100, while Victor Harbor scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Verdun has a flood risk score of 44/100, while Victor Harbor scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Verdun scores 29/100 for bushfire risk. Victor Harbor scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Verdun scores 43/100 for bushfire risk. Victor Harbor scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Verdun or Victor Harbor?",
-      "answer": "Both suburbs have climate considerations. Verdun has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Victor Harbor has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Victor Harbor Should I Buy?",
       "url": "/suburbs/sa/victor-harbor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

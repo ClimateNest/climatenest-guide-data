@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 35,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 41
+      "scoreA": 34,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 67
+      "scoreA": 65,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 49
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 29
     }
   ],
-  "verdict": "Violet Town has a lower overall climate risk score (33/100) compared to Vite Vite (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Violet Town has a lower overall climate risk score (31/100) compared to Vite Vite (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Violet Town or Vite Vite safer from flooding?",
-      "answer": "Violet Town has a flood risk score of 37/100, while Vite Vite scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Violet Town has a flood risk score of 35/100, while Vite Vite scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Violet Town scores 17/100 for bushfire risk. Vite Vite scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Violet Town scores 34/100 for bushfire risk. Vite Vite scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Violet Town or Vite Vite?",
@@ -76,5 +76,15 @@
       "label": "Vite Vite Should I Buy?",
       "url": "/suburbs/vic/vite-vite/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

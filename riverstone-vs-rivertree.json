@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 28
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 25
+      "scoreA": 59,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 33
+      "scoreA": 79,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 36
+      "scoreA": 25,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 55
+      "scoreA": 43,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 21
     }
   ],
-  "verdict": "Riverstone has a lower overall climate risk score (29/100) compared to Rivertree (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rivertree has a lower overall climate risk score (35/100) compared to Riverstone (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Riverstone or Rivertree safer from flooding?",
-      "answer": "Riverstone has a flood risk score of 35/100, while Rivertree scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Riverstone has a flood risk score of 27/100, while Rivertree scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Riverstone scores 15/100 for bushfire risk. Rivertree scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Riverstone scores 59/100 for bushfire risk. Rivertree scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Riverstone or Rivertree?",
-      "answer": "Both suburbs have climate considerations. Riverstone has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rivertree has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rivertree Should I Buy?",
       "url": "/suburbs/nsw/rivertree/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

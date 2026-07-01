@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 39
+      "scoreA": 26,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 57
+      "scoreA": 72,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 49
+      "scoreA": 44,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 14,
       "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 27,
+      "scoreB": 15
     }
   ],
-  "verdict": "Musk Vale has a lower overall climate risk score (36/100) compared to Musk (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Musk Vale has a lower overall climate risk score (35/100) compared to Musk (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Musk or Musk Vale safer from flooding?",
-      "answer": "Musk has a flood risk score of 47/100, while Musk Vale scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Musk has a flood risk score of 27/100, while Musk Vale scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Musk scores 57/100 for bushfire risk. Musk Vale scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Musk scores 26/100 for bushfire risk. Musk Vale scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Musk or Musk Vale?",
@@ -76,5 +76,15 @@
       "label": "Musk Vale Should I Buy?",
       "url": "/suburbs/vic/musk-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

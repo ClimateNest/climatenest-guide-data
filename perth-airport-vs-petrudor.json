@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 30
+      "scoreA": 60,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 29
+      "scoreA": 57,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 66
+      "scoreA": 78,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 30
+      "scoreA": 39,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 13,
+      "scoreB": 24
     }
   ],
-  "verdict": "Petrudor has a lower overall climate risk score (31/100) compared to Perth Airport (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Petrudor has a lower overall climate risk score (38/100) compared to Perth Airport (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Perth Airport or Petrudor safer from flooding?",
-      "answer": "Perth Airport has a flood risk score of 56/100, while Petrudor scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Perth Airport has a flood risk score of 60/100, while Petrudor scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Perth Airport scores 56/100 for bushfire risk. Petrudor scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Perth Airport scores 57/100 for bushfire risk. Petrudor scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Perth Airport or Petrudor?",
@@ -76,5 +76,15 @@
       "label": "Petrudor Should I Buy?",
       "url": "/suburbs/wa/petrudor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

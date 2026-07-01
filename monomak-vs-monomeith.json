@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 59
+      "scoreA": 30,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 55
+      "scoreA": 20,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 66
+      "scoreA": 67,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 13
+      "scoreA": 18,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 15
     }
   ],
-  "verdict": "Monomak has a lower overall climate risk score (34/100) compared to Monomeith (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Monomeith has a lower overall climate risk score (33/100) compared to Monomak (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Monomak or Monomeith safer from flooding?",
-      "answer": "Monomak has a flood risk score of 37/100, while Monomeith scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Monomak has a flood risk score of 30/100, while Monomeith scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Monomak scores 27/100 for bushfire risk. Monomeith scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Monomak scores 20/100 for bushfire risk. Monomeith scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Monomak or Monomeith?",
-      "answer": "Both suburbs have climate considerations. Monomak has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Monomeith has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Monomeith Should I Buy?",
       "url": "/suburbs/vic/monomeith/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

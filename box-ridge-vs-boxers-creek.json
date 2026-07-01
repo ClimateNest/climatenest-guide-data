@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 55
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 63,
+      "scoreA": 34,
       "scoreB": 46
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 24
+    },
+    {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 79
+      "scoreA": 79,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 50
+      "scoreA": 36,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 29,
       "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 30
     }
   ],
-  "verdict": "Boxers Creek has a lower overall climate risk score (45/100) compared to Box Ridge (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boxers Creek has a lower overall climate risk score (34/100) compared to Box Ridge (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Box Ridge or Boxers Creek safer from flooding?",
-      "answer": "Box Ridge has a flood risk score of 54/100, while Boxers Creek scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Box Ridge has a flood risk score of 34/100, while Boxers Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Box Ridge scores 63/100 for bushfire risk. Boxers Creek scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Box Ridge scores 28/100 for bushfire risk. Boxers Creek scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Box Ridge or Boxers Creek?",
@@ -76,5 +76,15 @@
       "label": "Boxers Creek Should I Buy?",
       "url": "/suburbs/nsw/boxers-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

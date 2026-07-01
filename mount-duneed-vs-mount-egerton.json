@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 30
+      "scoreA": 43,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 31,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 50
+      "scoreA": 73,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 26
+      "scoreA": 49,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 28,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 12
     }
   ],
-  "verdict": "Mount Egerton has a lower overall climate risk score (28/100) compared to Mount Duneed (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Egerton has a lower overall climate risk score (39/100) compared to Mount Duneed (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Duneed or Mount Egerton safer from flooding?",
-      "answer": "Mount Duneed has a flood risk score of 58/100, while Mount Egerton scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Duneed has a flood risk score of 43/100, while Mount Egerton scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Duneed scores 36/100 for bushfire risk. Mount Egerton scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Duneed scores 31/100 for bushfire risk. Mount Egerton scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Duneed or Mount Egerton?",
@@ -76,5 +76,15 @@
       "label": "Mount Egerton Should I Buy?",
       "url": "/suburbs/vic/mount-egerton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

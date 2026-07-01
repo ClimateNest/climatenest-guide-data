@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 58
+      "scoreA": 18,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 34
+      "scoreA": 44,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 37,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 53
+      "scoreA": 20,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 13
     }
   ],
-  "verdict": "Lanskey has a lower overall climate risk score (32/100) compared to Laravale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lanskey has a lower overall climate risk score (29/100) compared to Laravale (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lanskey or Laravale safer from flooding?",
-      "answer": "Lanskey has a flood risk score of 31/100, while Laravale scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lanskey has a flood risk score of 33/100, while Laravale scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lanskey scores 58/100 for bushfire risk. Laravale scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lanskey scores 18/100 for bushfire risk. Laravale scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lanskey or Laravale?",
@@ -76,5 +76,15 @@
       "label": "Laravale Should I Buy?",
       "url": "/suburbs/qld/laravale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

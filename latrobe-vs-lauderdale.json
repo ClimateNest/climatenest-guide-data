@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 33
+      "scoreA": 36,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 71
+      "scoreA": 65,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 23,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 15
+      "scoreA": 28,
+      "scoreB": 24
     }
   ],
-  "verdict": "Lauderdale has a lower overall climate risk score (34/100) compared to Latrobe (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Latrobe has a lower overall climate risk score (32/100) compared to Lauderdale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Latrobe or Lauderdale safer from flooding?",
-      "answer": "Latrobe has a flood risk score of 42/100, while Lauderdale scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Latrobe has a flood risk score of 21/100, while Lauderdale scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Latrobe scores 57/100 for bushfire risk. Lauderdale scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Latrobe scores 36/100 for bushfire risk. Lauderdale scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Latrobe or Lauderdale?",
-      "answer": "Both suburbs have climate considerations. Lauderdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Latrobe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lauderdale Should I Buy?",
       "url": "/suburbs/tas/lauderdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 40
+      "scoreA": 38,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 31,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 29
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 56
+      "scoreA": 15,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
+      "scoreA": 10,
       "scoreB": 20
     }
   ],
-  "verdict": "Shelburne has a lower overall climate risk score (32/100) compared to Sheldon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shelburne has a lower overall climate risk score (27/100) compared to Sheldon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Shelburne or Sheldon safer from flooding?",
-      "answer": "Shelburne has a flood risk score of 34/100, while Sheldon scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shelburne has a flood risk score of 25/100, while Sheldon scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shelburne scores 58/100 for bushfire risk. Sheldon scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shelburne scores 38/100 for bushfire risk. Sheldon scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shelburne or Sheldon?",
@@ -76,5 +76,15 @@
       "label": "Sheldon Should I Buy?",
       "url": "/suburbs/qld/sheldon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

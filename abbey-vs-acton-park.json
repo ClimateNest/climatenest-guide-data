@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 56
+      "scoreA": 45,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 53
+      "scoreA": 57,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 11
     }
   ],
-  "verdict": "Abbey has a lower overall climate risk score (31/100) compared to Acton Park (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Abbey has a lower overall climate risk score (35/100) compared to Acton Park (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Abbey or Acton Park safer from flooding?",
-      "answer": "Abbey has a flood risk score of 34/100, while Acton Park scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Abbey has a flood risk score of 42/100, while Acton Park scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Abbey scores 18/100 for bushfire risk. Acton Park scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Abbey scores 45/100 for bushfire risk. Acton Park scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Abbey or Acton Park?",
@@ -76,5 +76,15 @@
       "label": "Acton Park Should I Buy?",
       "url": "/suburbs/wa/acton-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

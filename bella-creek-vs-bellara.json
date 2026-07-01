@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 40
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 20
-    },
-    {
-      "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 49
-    },
-    {
-      "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 55,
       "scoreB": 41
     },
     {
+      "name": "Bushfire",
+      "scoreA": 63,
+      "scoreB": 33
+    },
+    {
+      "name": "Heat",
+      "scoreA": 37,
+      "scoreB": 40
+    },
+    {
+      "name": "Storm",
+      "scoreA": 33,
+      "scoreB": 21
+    },
+    {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 31,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 29
     }
   ],
-  "verdict": "Bellara has a lower overall climate risk score (36/100) compared to Bella Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bellara has a lower overall climate risk score (36/100) compared to Bella Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bella Creek or Bellara safer from flooding?",
-      "answer": "Bella Creek has a flood risk score of 27/100, while Bellara scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bella Creek has a flood risk score of 55/100, while Bellara scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bella Creek scores 64/100 for bushfire risk. Bellara scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bella Creek scores 63/100 for bushfire risk. Bellara scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bella Creek or Bellara?",
@@ -76,5 +76,15 @@
       "label": "Bellara Should I Buy?",
       "url": "/suburbs/qld/bellara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

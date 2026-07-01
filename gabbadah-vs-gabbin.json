@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 41
+      "scoreA": 25,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 39
+      "scoreA": 28,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 50
+      "scoreA": 58,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 18,
+      "scoreB": 13
     }
   ],
-  "verdict": "Gabbin has a lower overall climate risk score (35/100) compared to Gabbadah (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Gabbadah has a lower overall climate risk score (29/100) compared to Gabbin (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gabbadah or Gabbin safer from flooding?",
-      "answer": "Gabbadah has a flood risk score of 29/100, while Gabbin scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gabbadah has a flood risk score of 25/100, while Gabbin scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gabbadah scores 56/100 for bushfire risk. Gabbin scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gabbadah scores 28/100 for bushfire risk. Gabbin scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gabbadah or Gabbin?",
-      "answer": "Both suburbs have climate considerations. Gabbin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gabbadah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gabbin Should I Buy?",
       "url": "/suburbs/wa/gabbin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

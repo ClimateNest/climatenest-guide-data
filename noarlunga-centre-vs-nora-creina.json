@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 55
+      "scoreA": 36,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 61
+      "scoreA": 60,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 49
+      "scoreA": 20,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 20,
+      "scoreB": 14
     }
   ],
-  "verdict": "Noarlunga Centre has a lower overall climate risk score (35/100) compared to Nora Creina (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Noarlunga Centre has a lower overall climate risk score (33/100) compared to Nora Creina (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Noarlunga Centre or Nora Creina safer from flooding?",
-      "answer": "Noarlunga Centre has a flood risk score of 47/100, while Nora Creina scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Noarlunga Centre has a flood risk score of 36/100, while Nora Creina scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Noarlunga Centre scores 41/100 for bushfire risk. Nora Creina scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Noarlunga Centre scores 36/100 for bushfire risk. Nora Creina scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Noarlunga Centre or Nora Creina?",
@@ -76,5 +76,15 @@
       "label": "Nora Creina Should I Buy?",
       "url": "/suburbs/sa/nora-creina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

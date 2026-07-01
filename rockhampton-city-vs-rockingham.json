@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 24
+      "scoreA": 33,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 56
+      "scoreA": 53,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 35
+      "scoreA": 34,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 44,
+      "scoreA": 43,
       "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 26
+      "scoreA": 56,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 6
     }
   ],
-  "verdict": "Rockingham has a lower overall climate risk score (35/100) compared to Rockhampton City (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rockingham has a lower overall climate risk score (31/100) compared to Rockhampton City (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rockhampton City or Rockingham safer from flooding?",
-      "answer": "Rockhampton City has a flood risk score of 53/100, while Rockingham scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rockhampton City has a flood risk score of 33/100, while Rockingham scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rockhampton City scores 24/100 for bushfire risk. Rockingham scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rockhampton City scores 53/100 for bushfire risk. Rockingham scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rockhampton City or Rockingham?",
@@ -76,5 +76,15 @@
       "label": "Rockingham Should I Buy?",
       "url": "/suburbs/qld/rockingham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

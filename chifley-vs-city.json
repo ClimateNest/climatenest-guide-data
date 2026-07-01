@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 44
+      "scoreA": 21,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 80
+      "scoreA": 76,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 45
+      "scoreA": 42,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
       "scoreA": 29,
-      "scoreB": 28
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 19
     }
   ],
-  "verdict": "Chifley has a lower overall climate risk score (35/100) compared to City (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "City has a lower overall climate risk score (32/100) compared to Chifley (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Chifley or City safer from flooding?",
-      "answer": "Chifley has a flood risk score of 24/100, while City scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Chifley has a flood risk score of 21/100, while City scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Chifley scores 28/100 for bushfire risk. City scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Chifley scores 17/100 for bushfire risk. City scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Chifley or City?",
-      "answer": "Both suburbs have climate considerations. Chifley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. City has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "City Should I Buy?",
       "url": "/suburbs/act/city/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

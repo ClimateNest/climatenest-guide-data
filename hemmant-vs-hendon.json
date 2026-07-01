@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 39
+      "scoreA": 26,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 43
+      "scoreA": 20,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 40
+      "scoreA": 46,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 48
+      "scoreA": 53,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 26,
+      "scoreB": 24
     }
   ],
-  "verdict": "Hendon has a lower overall climate risk score (37/100) compared to Hemmant (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hemmant has a lower overall climate risk score (34/100) compared to Hendon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hemmant or Hendon safer from flooding?",
-      "answer": "Hemmant has a flood risk score of 57/100, while Hendon scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hemmant has a flood risk score of 26/100, while Hendon scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hemmant scores 59/100 for bushfire risk. Hendon scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hemmant scores 20/100 for bushfire risk. Hendon scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hemmant or Hendon?",
-      "answer": "Both suburbs have climate considerations. Hendon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hemmant has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hendon Should I Buy?",
       "url": "/suburbs/qld/hendon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

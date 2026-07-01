@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 59
+      "scoreA": 38,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 64
+      "scoreA": 18,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 60
+      "scoreA": 69,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 32
+      "scoreA": 29,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 14
     }
   ],
-  "verdict": "Nambeelup has a lower overall climate risk score (43/100) compared to Namban (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Namban has a lower overall climate risk score (33/100) compared to Nambeelup (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Namban or Nambeelup safer from flooding?",
-      "answer": "Namban has a flood risk score of 60/100, while Nambeelup scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Namban has a flood risk score of 38/100, while Nambeelup scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Namban scores 58/100 for bushfire risk. Nambeelup scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Namban scores 18/100 for bushfire risk. Nambeelup scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Namban or Nambeelup?",
-      "answer": "Both suburbs have climate considerations. Nambeelup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Namban has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nambeelup Should I Buy?",
       "url": "/suburbs/wa/nambeelup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

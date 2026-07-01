@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 21
+      "scoreA": 51,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 78
-    },
-    {
-      "name": "Storm",
-      "scoreA": 49,
+      "scoreA": 17,
       "scoreB": 48
     },
     {
+      "name": "Heat",
+      "scoreA": 68,
+      "scoreB": 56
+    },
+    {
+      "name": "Storm",
+      "scoreA": 28,
+      "scoreB": 25
+    },
+    {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 18,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 20
     }
   ],
-  "verdict": "Boolarra has a lower overall climate risk score (37/100) compared to Boolarong (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Boolarong has a lower overall climate risk score (33/100) compared to Boolarra (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boolarong or Boolarra safer from flooding?",
-      "answer": "Boolarong has a flood risk score of 59/100, while Boolarra scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boolarong has a flood risk score of 51/100, while Boolarra scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boolarong scores 42/100 for bushfire risk. Boolarra scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boolarong scores 17/100 for bushfire risk. Boolarra scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boolarong or Boolarra?",
-      "answer": "Both suburbs have climate considerations. Boolarra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boolarong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boolarra Should I Buy?",
       "url": "/suburbs/vic/boolarra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

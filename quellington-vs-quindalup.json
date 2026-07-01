@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 22
+      "scoreA": 45,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 42
+      "scoreA": 60,
+      "scoreB": 60
     },
     {
       "name": "Heat",
       "scoreA": 66,
-      "scoreB": 51
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 45
+      "scoreA": 24,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 22
+      "scoreA": 12,
+      "scoreB": 18
     }
   ],
-  "verdict": "Quellington has a lower overall climate risk score (33/100) compared to Quindalup (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Quellington has a lower overall climate risk score (38/100) compared to Quindalup (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Quellington or Quindalup safer from flooding?",
-      "answer": "Quellington has a flood risk score of 59/100, while Quindalup scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Quellington has a flood risk score of 45/100, while Quindalup scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Quellington scores 23/100 for bushfire risk. Quindalup scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Quellington scores 60/100 for bushfire risk. Quindalup scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Quellington or Quindalup?",
@@ -76,5 +76,15 @@
       "label": "Quindalup Should I Buy?",
       "url": "/suburbs/wa/quindalup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,8 +14,8 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 28,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
@@ -24,31 +24,31 @@
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 57
+      "scoreA": 74,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 16
     }
   ],
-  "verdict": "Bullock Hills has a lower overall climate risk score (32/100) compared to Bullfinch (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bullock Hills has a lower overall climate risk score (35/100) compared to Bullfinch (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bullfinch or Bullock Hills safer from flooding?",
-      "answer": "Bullfinch has a flood risk score of 45/100, while Bullock Hills scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bullfinch has a flood risk score of 28/100, while Bullock Hills scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
@@ -76,5 +76,15 @@
       "label": "Bullock Hills Should I Buy?",
       "url": "/suburbs/wa/bullock-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

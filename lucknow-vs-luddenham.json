@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 55
+      "scoreA": 29,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 52
-    },
-    {
-      "name": "Heat",
-      "scoreA": 61,
+      "scoreA": 15,
       "scoreB": 63
     },
     {
+      "name": "Heat",
+      "scoreA": 62,
+      "scoreB": 61
+    },
+    {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 50,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 44
+      "scoreA": 29,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 24,
+      "scoreB": 28
     }
   ],
-  "verdict": "Lucknow has a lower overall climate risk score (38/100) compared to Luddenham (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lucknow has a lower overall climate risk score (35/100) compared to Luddenham (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lucknow or Luddenham safer from flooding?",
-      "answer": "Lucknow has a flood risk score of 44/100, while Luddenham scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lucknow has a flood risk score of 29/100, while Luddenham scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lucknow scores 26/100 for bushfire risk. Luddenham scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lucknow scores 15/100 for bushfire risk. Luddenham scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lucknow or Luddenham?",
@@ -76,5 +76,15 @@
       "label": "Luddenham Should I Buy?",
       "url": "/suburbs/nsw/luddenham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4453,
+    "projected2030": 6234,
+    "projected2050": 11577
+  },
+  "valueImpact": {
+    "dragPercent": 2.68,
+    "description": "Properties in this area may face a 2.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

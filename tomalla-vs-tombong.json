@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 23
+      "scoreA": 47,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 55,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 58
+      "scoreA": 72,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 19
+      "scoreA": 51,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Tombong has a lower overall climate risk score (32/100) compared to Tomalla (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tombong has a lower overall climate risk score (34/100) compared to Tomalla (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tomalla or Tombong safer from flooding?",
-      "answer": "Tomalla has a flood risk score of 58/100, while Tombong scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tomalla has a flood risk score of 47/100, while Tombong scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tomalla scores 22/100 for bushfire risk. Tombong scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tomalla scores 55/100 for bushfire risk. Tombong scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tomalla or Tombong?",
@@ -76,5 +76,15 @@
       "label": "Tombong Should I Buy?",
       "url": "/suburbs/nsw/tombong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4555,
+    "projected2030": 6377,
+    "projected2050": 11842
+  },
+  "valueImpact": {
+    "dragPercent": 2.9,
+    "description": "Properties in this area may face a 2.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

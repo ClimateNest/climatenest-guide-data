@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 56
+      "scoreA": 25,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 40
+      "scoreA": 60,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 40
+      "scoreA": 41,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 34,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 53
+      "scoreA": 27,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Abergowrie has a lower overall climate risk score (25/100) compared to Abington (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Abington has a lower overall climate risk score (28/100) compared to Abergowrie (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Abergowrie or Abington safer from flooding?",
-      "answer": "Abergowrie has a flood risk score of 29/100, while Abington scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Abergowrie has a flood risk score of 25/100, while Abington scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Abergowrie scores 20/100 for bushfire risk. Abington scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Abergowrie scores 60/100 for bushfire risk. Abington scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Abergowrie or Abington?",
-      "answer": "Both suburbs have climate considerations. Abergowrie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Abington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Abington Should I Buy?",
       "url": "/suburbs/qld/abington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3467,
+    "projected2030": 4853,
+    "projected2050": 9013
+  },
+  "valueImpact": {
+    "dragPercent": 0.5,
+    "description": "Properties in this area may face a 0.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

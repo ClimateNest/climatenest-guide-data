@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 44
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 34
+      "scoreA": 21,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 57
+      "scoreA": 79,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 22
+      "scoreA": 41,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 47
+      "scoreA": 33,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 24
     }
   ],
-  "verdict": "Eastwood has a lower overall climate risk score (37/100) compared to Eastlakes (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Eastlakes has a lower overall climate risk score (37/100) compared to Eastwood (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eastlakes or Eastwood safer from flooding?",
-      "answer": "Eastlakes has a flood risk score of 47/100, while Eastwood scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eastlakes has a flood risk score of 38/100, while Eastwood scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eastlakes scores 25/100 for bushfire risk. Eastwood scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eastlakes scores 21/100 for bushfire risk. Eastwood scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eastlakes or Eastwood?",
-      "answer": "Both suburbs have climate considerations. Eastwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eastlakes has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eastwood Should I Buy?",
       "url": "/suburbs/nsw/eastwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 59
+      "scoreA": 53,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 22
+      "scoreA": 19,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 39,
+      "scoreA": 38,
       "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 55,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 25
     }
   ],
-  "verdict": "Possum Creek has a lower overall climate risk score (35/100) compared to Pottery Estate (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Pottery Estate has a lower overall climate risk score (35/100) compared to Possum Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Possum Creek or Pottery Estate safer from flooding?",
-      "answer": "Possum Creek has a flood risk score of 34/100, while Pottery Estate scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Possum Creek has a flood risk score of 53/100, while Pottery Estate scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Possum Creek scores 55/100 for bushfire risk. Pottery Estate scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Possum Creek scores 19/100 for bushfire risk. Pottery Estate scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Possum Creek or Pottery Estate?",
-      "answer": "Both suburbs have climate considerations. Possum Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pottery Estate has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pottery Estate Should I Buy?",
       "url": "/suburbs/nsw/pottery-estate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

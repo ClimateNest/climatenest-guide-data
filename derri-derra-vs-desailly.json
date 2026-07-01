@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 35
+      "scoreA": 39,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 26
+      "scoreA": 63,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 31
+      "scoreA": 38,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 46
+      "scoreA": 22,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 16
+      "scoreA": 52,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 12
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Desailly has a lower overall climate risk score (28/100) compared to Derri Derra (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Desailly has a lower overall climate risk score (31/100) compared to Derri Derra (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Derri Derra or Desailly safer from flooding?",
-      "answer": "Derri Derra has a flood risk score of 56/100, while Desailly scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Derri Derra has a flood risk score of 39/100, while Desailly scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Derri Derra scores 56/100 for bushfire risk. Desailly scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Derri Derra scores 63/100 for bushfire risk. Desailly scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Derri Derra or Desailly?",
@@ -76,5 +76,15 @@
       "label": "Desailly Should I Buy?",
       "url": "/suburbs/qld/desailly/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

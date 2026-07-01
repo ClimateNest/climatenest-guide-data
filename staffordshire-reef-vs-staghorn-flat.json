@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 54
+      "scoreA": 48,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 64
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 71
+      "scoreA": 71,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 27
+      "scoreA": 50,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 16
+      "scoreA": 27,
+      "scoreB": 17
     }
   ],
-  "verdict": "Staghorn Flat has a lower overall climate risk score (43/100) compared to Staffordshire Reef (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Staghorn Flat has a lower overall climate risk score (32/100) compared to Staffordshire Reef (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Staffordshire Reef or Staghorn Flat safer from flooding?",
-      "answer": "Staffordshire Reef has a flood risk score of 55/100, while Staghorn Flat scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Staffordshire Reef has a flood risk score of 48/100, while Staghorn Flat scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Staffordshire Reef scores 58/100 for bushfire risk. Staghorn Flat scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Staffordshire Reef scores 26/100 for bushfire risk. Staghorn Flat scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Staffordshire Reef or Staghorn Flat?",
@@ -76,5 +76,15 @@
       "label": "Staghorn Flat Should I Buy?",
       "url": "/suburbs/vic/staghorn-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

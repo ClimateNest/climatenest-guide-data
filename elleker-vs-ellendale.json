@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 30
+      "scoreA": 44,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 48
+      "scoreA": 63,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 41
+      "scoreA": 74,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 50
+      "scoreA": 39,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 22,
+      "scoreB": 15
     }
   ],
-  "verdict": "Ellendale has a lower overall climate risk score (35/100) compared to Elleker (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ellendale has a lower overall climate risk score (34/100) compared to Elleker (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Elleker or Ellendale safer from flooding?",
-      "answer": "Elleker has a flood risk score of 38/100, while Ellendale scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elleker has a flood risk score of 44/100, while Ellendale scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elleker scores 48/100 for bushfire risk. Ellendale scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elleker scores 63/100 for bushfire risk. Ellendale scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elleker or Ellendale?",
@@ -76,5 +76,15 @@
       "label": "Ellendale Should I Buy?",
       "url": "/suburbs/wa/ellendale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

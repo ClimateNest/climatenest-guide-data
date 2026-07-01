@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 61
+      "scoreA": 55,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 51,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 23
+      "scoreA": 45,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 22
     }
   ],
-  "verdict": "Barwang has a lower overall climate risk score (36/100) compared to Barry (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Barwang has a lower overall climate risk score (36/100) compared to Barry (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Barry or Barwang safer from flooding?",
-      "answer": "Barry has a flood risk score of 26/100, while Barwang scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Barry has a flood risk score of 29/100, while Barwang scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Barry scores 30/100 for bushfire risk. Barwang scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Barry scores 55/100 for bushfire risk. Barwang scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Barry or Barwang?",
@@ -76,5 +76,15 @@
       "label": "Barwang Should I Buy?",
       "url": "/suburbs/nsw/barwang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

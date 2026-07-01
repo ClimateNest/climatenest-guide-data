@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 39
+      "scoreA": 50,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 52
+      "scoreA": 49,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 34,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 39
+      "scoreA": 34,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 12
+      "scoreA": 10,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 7
     }
   ],
-  "verdict": "Blue Mountain has a lower overall climate risk score (30/100) compared to Bluewater (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blue Mountain has a lower overall climate risk score (32/100) compared to Bluewater (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Blue Mountain or Bluewater safer from flooding?",
-      "answer": "Blue Mountain has a flood risk score of 32/100, while Bluewater scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blue Mountain has a flood risk score of 50/100, while Bluewater scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blue Mountain scores 40/100 for bushfire risk. Bluewater scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blue Mountain scores 49/100 for bushfire risk. Bluewater scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blue Mountain or Bluewater?",
@@ -76,5 +76,15 @@
       "label": "Bluewater Should I Buy?",
       "url": "/suburbs/qld/bluewater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

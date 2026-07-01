@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 31,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
+      "scoreA": 58,
       "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 57
+      "scoreA": 52,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 30
+      "scoreA": 31,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 51
+      "scoreA": 38,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 19
     }
   ],
-  "verdict": "Owens Gap and Oxford Falls have similar overall climate risk scores.",
+  "verdict": "Owens Gap has a lower overall climate risk score (39/100) compared to Oxford Falls (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Owens Gap or Oxford Falls safer from flooding?",
-      "answer": "Owens Gap has a flood risk score of 22/100, while Oxford Falls scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Owens Gap has a flood risk score of 31/100, while Oxford Falls scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Owens Gap scores 31/100 for bushfire risk. Oxford Falls scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Owens Gap scores 58/100 for bushfire risk. Oxford Falls scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Owens Gap or Oxford Falls?",
@@ -76,5 +76,15 @@
       "label": "Oxford Falls Should I Buy?",
       "url": "/suburbs/nsw/oxford-falls/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

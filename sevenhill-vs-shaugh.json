@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 48
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 63
+      "scoreA": 67,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 40,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 29,
+      "scoreB": 16
     }
   ],
-  "verdict": "Shaugh has a lower overall climate risk score (36/100) compared to Sevenhill (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shaugh has a lower overall climate risk score (35/100) compared to Sevenhill (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sevenhill or Shaugh safer from flooding?",
-      "answer": "Sevenhill has a flood risk score of 55/100, while Shaugh scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sevenhill has a flood risk score of 43/100, while Shaugh scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sevenhill scores 63/100 for bushfire risk. Shaugh scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sevenhill scores 32/100 for bushfire risk. Shaugh scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sevenhill or Shaugh?",
@@ -76,5 +76,15 @@
       "label": "Shaugh Should I Buy?",
       "url": "/suburbs/sa/shaugh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

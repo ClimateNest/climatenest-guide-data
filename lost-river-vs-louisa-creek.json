@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 44
+      "scoreA": 24,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 45
+      "scoreA": 50,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 45
+      "scoreA": 63,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 50
+      "scoreA": 35,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 51
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Lost River has a lower overall climate risk score (40/100) compared to Louisa Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Louisa Creek has a lower overall climate risk score (33/100) compared to Lost River (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lost River or Louisa Creek safer from flooding?",
-      "answer": "Lost River has a flood risk score of 27/100, while Louisa Creek scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lost River has a flood risk score of 24/100, while Louisa Creek scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lost River scores 58/100 for bushfire risk. Louisa Creek scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lost River scores 50/100 for bushfire risk. Louisa Creek scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lost River or Louisa Creek?",
-      "answer": "Both suburbs have climate considerations. Lost River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Louisa Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Louisa Creek Should I Buy?",
       "url": "/suburbs/nsw/louisa-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

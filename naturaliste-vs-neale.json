@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 41,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 16
+      "scoreA": 41,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 43
+      "scoreA": 50,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 28,
+      "scoreB": 23
     }
   ],
-  "verdict": "Neale has a lower overall climate risk score (25/100) compared to Naturaliste (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Neale has a lower overall climate risk score (31/100) compared to Naturaliste (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Naturaliste or Neale safer from flooding?",
-      "answer": "Naturaliste has a flood risk score of 38/100, while Neale scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Naturaliste has a flood risk score of 41/100, while Neale scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Naturaliste scores 58/100 for bushfire risk. Neale scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Naturaliste scores 41/100 for bushfire risk. Neale scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Naturaliste or Neale?",
@@ -76,5 +76,15 @@
       "label": "Neale Should I Buy?",
       "url": "/suburbs/wa/neale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

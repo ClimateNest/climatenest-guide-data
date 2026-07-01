@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 25
+      "scoreA": 36,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 53
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 55
+      "scoreA": 73,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 30
+      "scoreA": 43,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 16
     }
   ],
-  "verdict": "Avon Plains has a lower overall climate risk score (34/100) compared to Avoca (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Avon Plains has a lower overall climate risk score (33/100) compared to Avoca (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Avoca or Avon Plains safer from flooding?",
-      "answer": "Avoca has a flood risk score of 39/100, while Avon Plains scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Avoca has a flood risk score of 36/100, while Avon Plains scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Avoca scores 26/100 for bushfire risk. Avon Plains scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Avoca scores 40/100 for bushfire risk. Avon Plains scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Avoca or Avon Plains?",
@@ -76,5 +76,15 @@
       "label": "Avon Plains Should I Buy?",
       "url": "/suburbs/vic/avon-plains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

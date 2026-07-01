@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 45
+      "scoreA": 56,
+      "scoreB": 31
     },
     {
       "name": "Heat",
       "scoreA": 44,
-      "scoreB": 41
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 57
+      "scoreA": 51,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 10
+      "scoreA": 24,
+      "scoreB": 9
     }
   ],
-  "verdict": "Boyland has a lower overall climate risk score (34/100) compared to Boyne Island (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Boyne Island has a lower overall climate risk score (35/100) compared to Boyland (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boyland or Boyne Island safer from flooding?",
-      "answer": "Boyland has a flood risk score of 50/100, while Boyne Island scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boyland has a flood risk score of 48/100, while Boyne Island scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boyland scores 18/100 for bushfire risk. Boyne Island scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boyland scores 56/100 for bushfire risk. Boyne Island scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boyland or Boyne Island?",
-      "answer": "Both suburbs have climate considerations. Boyland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boyne Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boyne Island Should I Buy?",
       "url": "/suburbs/qld/boyne-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

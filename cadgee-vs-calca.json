@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 56
+      "scoreA": 56,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 35
+      "scoreA": 52,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 73
+      "scoreA": 64,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 26
+      "scoreA": 47,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 21
+      "scoreA": 10,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 11,
+      "scoreB": 26
     }
   ],
-  "verdict": "Cadgee has a lower overall climate risk score (35/100) compared to Calca (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Cadgee has a lower overall climate risk score (40/100) compared to Calca (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Cadgee or Calca safer from flooding?",
-      "answer": "Cadgee has a flood risk score of 28/100, while Calca scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cadgee has a flood risk score of 56/100, while Calca scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cadgee scores 57/100 for bushfire risk. Calca scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cadgee scores 52/100 for bushfire risk. Calca scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cadgee or Calca?",
@@ -76,5 +76,15 @@
       "label": "Calca Should I Buy?",
       "url": "/suburbs/sa/calca/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

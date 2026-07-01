@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 52
+      "scoreA": 55,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 38
+      "scoreA": 57,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 52
+      "scoreA": 72,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 29
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 46,
       "scoreB": 21
     },
     {
+      "name": "Coastal",
+      "scoreA": 22,
+      "scoreB": 20
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Sheaoak Flat has a lower overall climate risk score (35/100) compared to Shaugh (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sheaoak Flat has a lower overall climate risk score (32/100) compared to Shaugh (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Shaugh or Sheaoak Flat safer from flooding?",
-      "answer": "Shaugh has a flood risk score of 43/100, while Sheaoak Flat scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shaugh has a flood risk score of 55/100, while Sheaoak Flat scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shaugh scores 26/100 for bushfire risk. Sheaoak Flat scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shaugh scores 57/100 for bushfire risk. Sheaoak Flat scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shaugh or Sheaoak Flat?",
@@ -76,5 +76,15 @@
       "label": "Sheaoak Flat Should I Buy?",
       "url": "/suburbs/sa/sheaoak-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

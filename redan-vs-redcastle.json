@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 22
+      "scoreA": 43,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 57
+      "scoreA": 46,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 56
+      "scoreA": 72,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 15,
+      "scoreB": 16
     }
   ],
-  "verdict": "Redcastle has a lower overall climate risk score (34/100) compared to Redan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Redan has a lower overall climate risk score (39/100) compared to Redcastle (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Redan or Redcastle safer from flooding?",
-      "answer": "Redan has a flood risk score of 35/100, while Redcastle scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Redan has a flood risk score of 43/100, while Redcastle scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Redan scores 60/100 for bushfire risk. Redcastle scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Redan scores 46/100 for bushfire risk. Redcastle scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Redan or Redcastle?",
-      "answer": "Both suburbs have climate considerations. Redcastle has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Redan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Redcastle Should I Buy?",
       "url": "/suburbs/vic/redcastle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

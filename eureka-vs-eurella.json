@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 58
+      "scoreA": 21,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 55
+      "scoreA": 65,
+      "scoreB": 35
     },
     {
       "name": "Heat",
       "scoreA": 37,
-      "scoreB": 38
-    },
-    {
-      "name": "Storm",
-      "scoreA": 31,
       "scoreB": 48
     },
     {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 21
+    },
+    {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 13
+      "scoreA": 37,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 21
+      "scoreA": 21,
+      "scoreB": 18
     }
   ],
-  "verdict": "Eureka has a lower overall climate risk score (29/100) compared to Eurella (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Eurella has a lower overall climate risk score (30/100) compared to Eureka (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eureka or Eurella safer from flooding?",
-      "answer": "Eureka has a flood risk score of 26/100, while Eurella scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eureka has a flood risk score of 21/100, while Eurella scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eureka scores 35/100 for bushfire risk. Eurella scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eureka scores 65/100 for bushfire risk. Eurella scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eureka or Eurella?",
-      "answer": "Both suburbs have climate considerations. Eureka has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eurella has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eurella Should I Buy?",
       "url": "/suburbs/qld/eurella/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

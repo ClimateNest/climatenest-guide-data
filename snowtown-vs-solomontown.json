@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 33
+      "scoreA": 32,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 50
+      "scoreA": 33,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 68
+      "scoreA": 64,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 38
+      "scoreA": 46,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 26
     }
   ],
-  "verdict": "Solomontown has a lower overall climate risk score (38/100) compared to Snowtown (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Solomontown has a lower overall climate risk score (35/100) compared to Snowtown (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Snowtown or Solomontown safer from flooding?",
-      "answer": "Snowtown has a flood risk score of 37/100, while Solomontown scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Snowtown has a flood risk score of 32/100, while Solomontown scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Snowtown scores 53/100 for bushfire risk. Solomontown scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Snowtown scores 33/100 for bushfire risk. Solomontown scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Snowtown or Solomontown?",
@@ -76,5 +76,15 @@
       "label": "Solomontown Should I Buy?",
       "url": "/suburbs/sa/solomontown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

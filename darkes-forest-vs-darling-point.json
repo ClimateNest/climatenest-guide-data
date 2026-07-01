@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 58
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 28
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 69
-    },
-    {
-      "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 38
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 51,
+      "scoreA": 61,
       "scoreB": 40
     },
     {
+      "name": "Heat",
+      "scoreA": 51,
+      "scoreB": 57
+    },
+    {
+      "name": "Storm",
+      "scoreA": 27,
+      "scoreB": 31
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 45,
+      "scoreB": 31
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 29
     }
   ],
-  "verdict": "Darling Point has a lower overall climate risk score (41/100) compared to Darkes Forest (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Darling Point has a lower overall climate risk score (35/100) compared to Darkes Forest (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Darkes Forest or Darling Point safer from flooding?",
-      "answer": "Darkes Forest has a flood risk score of 56/100, while Darling Point scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Darkes Forest has a flood risk score of 29/100, while Darling Point scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Darkes Forest scores 29/100 for bushfire risk. Darling Point scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Darkes Forest scores 61/100 for bushfire risk. Darling Point scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Darkes Forest or Darling Point?",
@@ -76,5 +76,15 @@
       "label": "Darling Point Should I Buy?",
       "url": "/suburbs/nsw/darling-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

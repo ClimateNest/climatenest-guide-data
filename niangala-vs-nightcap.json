@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 55,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 48
+      "scoreA": 62,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 42
+      "scoreA": 64,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 32
+      "scoreA": 56,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 22,
+      "scoreB": 23
     }
   ],
-  "verdict": "Nightcap has a lower overall climate risk score (35/100) compared to Niangala (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nightcap has a lower overall climate risk score (35/100) compared to Niangala (51/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Niangala or Nightcap safer from flooding?",
-      "answer": "Niangala has a flood risk score of 51/100, while Nightcap scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Niangala has a flood risk score of 55/100, while Nightcap scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Niangala scores 52/100 for bushfire risk. Nightcap scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Niangala scores 62/100 for bushfire risk. Nightcap scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Niangala or Nightcap?",
@@ -76,5 +76,15 @@
       "label": "Nightcap Should I Buy?",
       "url": "/suburbs/nsw/nightcap/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4679,
+    "projected2030": 6551,
+    "projected2050": 12166
+  },
+  "valueImpact": {
+    "dragPercent": 3.18,
+    "description": "Properties in this area may face a 3.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Elevated"
 }

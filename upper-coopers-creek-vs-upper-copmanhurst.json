@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 64
+      "scoreA": 22,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 48
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 34
+      "scoreA": 21,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 24
+      "scoreA": 12,
+      "scoreB": 22
     }
   ],
-  "verdict": "Upper Coopers Creek has a lower overall climate risk score (34/100) compared to Upper Copmanhurst (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Upper Coopers Creek has a lower overall climate risk score (30/100) compared to Upper Copmanhurst (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Upper Coopers Creek or Upper Copmanhurst safer from flooding?",
-      "answer": "Upper Coopers Creek has a flood risk score of 31/100, while Upper Copmanhurst scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Upper Coopers Creek has a flood risk score of 28/100, while Upper Copmanhurst scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Upper Coopers Creek scores 39/100 for bushfire risk. Upper Copmanhurst scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Upper Coopers Creek scores 22/100 for bushfire risk. Upper Copmanhurst scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Upper Coopers Creek or Upper Copmanhurst?",
@@ -76,5 +76,15 @@
       "label": "Upper Copmanhurst Should I Buy?",
       "url": "/suburbs/nsw/upper-copmanhurst/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

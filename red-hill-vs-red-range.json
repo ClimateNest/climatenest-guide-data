@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 53
+      "scoreA": 54,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 61
+      "scoreA": 16,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 48
+      "scoreA": 53,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
       "scoreA": 27,
-      "scoreB": 53
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
+      "scoreA": 13,
       "scoreB": 22
     }
   ],
-  "verdict": "Red Hill has a lower overall climate risk score (36/100) compared to Red Range (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Red Hill has a lower overall climate risk score (34/100) compared to Red Range (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Red Hill or Red Range safer from flooding?",
-      "answer": "Red Hill has a flood risk score of 26/100, while Red Range scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Red Hill has a flood risk score of 54/100, while Red Range scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Red Hill scores 49/100 for bushfire risk. Red Range scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Red Hill scores 16/100 for bushfire risk. Red Range scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Red Hill or Red Range?",
@@ -76,5 +76,15 @@
       "label": "Red Range Should I Buy?",
       "url": "/suburbs/nsw/red-range/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

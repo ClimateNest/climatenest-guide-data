@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 21
+      "scoreA": 50,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 36,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 47
+      "scoreA": 37,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 30
+      "scoreA": 40,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 37
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 5,
-      "scoreB": 22
+      "scoreA": 11,
+      "scoreB": 27
     }
   ],
-  "verdict": "Passchendaele has a lower overall climate risk score (30/100) compared to Pasha (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Passchendaele has a lower overall climate risk score (32/100) compared to Pasha (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pasha or Passchendaele safer from flooding?",
-      "answer": "Pasha has a flood risk score of 54/100, while Passchendaele scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pasha has a flood risk score of 50/100, while Passchendaele scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pasha scores 16/100 for bushfire risk. Passchendaele scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pasha scores 36/100 for bushfire risk. Passchendaele scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pasha or Passchendaele?",
@@ -76,5 +76,15 @@
       "label": "Passchendaele Should I Buy?",
       "url": "/suburbs/qld/passchendaele/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

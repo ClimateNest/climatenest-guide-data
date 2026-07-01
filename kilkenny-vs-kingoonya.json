@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 58
+      "scoreA": 60,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 64
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 36
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 26,
+      "scoreA": 37,
       "scoreB": 23
     },
     {
+      "name": "Heat",
+      "scoreA": 73,
+      "scoreB": 65
+    },
+    {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 35
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 27,
+      "scoreB": 14
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 18
     }
   ],
-  "verdict": "Kingoonya has a lower overall climate risk score (40/100) compared to Kilkenny (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kingoonya has a lower overall climate risk score (33/100) compared to Kilkenny (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kilkenny or Kingoonya safer from flooding?",
-      "answer": "Kilkenny has a flood risk score of 50/100, while Kingoonya scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kilkenny has a flood risk score of 60/100, while Kingoonya scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kilkenny scores 43/100 for bushfire risk. Kingoonya scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kilkenny scores 37/100 for bushfire risk. Kingoonya scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kilkenny or Kingoonya?",
@@ -76,5 +76,15 @@
       "label": "Kingoonya Should I Buy?",
       "url": "/suburbs/sa/kingoonya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

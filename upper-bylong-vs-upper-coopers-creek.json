@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 32
+      "scoreA": 52,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 37
-    },
-    {
-      "name": "Storm",
-      "scoreA": 28,
+      "scoreA": 62,
       "scoreB": 32
     },
     {
+      "name": "Storm",
+      "scoreA": 29,
+      "scoreB": 44
+    },
+    {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 59
+      "scoreA": 22,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 26
     }
   ],
-  "verdict": "Upper Coopers Creek has a lower overall climate risk score (35/100) compared to Upper Bylong (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Upper Bylong has a lower overall climate risk score (37/100) compared to Upper Coopers Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Upper Bylong or Upper Coopers Creek safer from flooding?",
-      "answer": "Upper Bylong has a flood risk score of 46/100, while Upper Coopers Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Upper Bylong has a flood risk score of 40/100, while Upper Coopers Creek scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Upper Bylong scores 42/100 for bushfire risk. Upper Coopers Creek scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Upper Bylong scores 52/100 for bushfire risk. Upper Coopers Creek scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Upper Bylong or Upper Coopers Creek?",
-      "answer": "Both suburbs have climate considerations. Upper Coopers Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Upper Bylong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Upper Coopers Creek Should I Buy?",
       "url": "/suburbs/nsw/upper-coopers-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

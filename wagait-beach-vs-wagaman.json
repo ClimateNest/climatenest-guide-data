@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 51
+      "scoreA": 58,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 17
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 43
-    },
-    {
-      "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 28
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 42,
       "scoreB": 20
     },
     {
+      "name": "Heat",
+      "scoreA": 47,
+      "scoreB": 30
+    },
+    {
+      "name": "Storm",
+      "scoreA": 23,
+      "scoreB": 45
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 20,
+      "scoreB": 23
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 16
+      "scoreA": 12,
+      "scoreB": 14
     }
   ],
-  "verdict": "Wagaman has a lower overall climate risk score (29/100) compared to Wagait Beach (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wagaman has a lower overall climate risk score (30/100) compared to Wagait Beach (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wagait Beach or Wagaman safer from flooding?",
-      "answer": "Wagait Beach has a flood risk score of 56/100, while Wagaman scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wagait Beach has a flood risk score of 58/100, while Wagaman scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wagait Beach scores 35/100 for bushfire risk. Wagaman scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wagait Beach scores 42/100 for bushfire risk. Wagaman scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wagait Beach or Wagaman?",
@@ -76,5 +76,15 @@
       "label": "Wagaman Should I Buy?",
       "url": "/suburbs/nt/wagaman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 34
+      "scoreA": 47,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 42
+      "scoreA": 54,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 65
+      "scoreA": 52,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 37
+      "scoreA": 22,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 47
+      "scoreA": 50,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 11
+      "scoreA": 12,
+      "scoreB": 13
     }
   ],
-  "verdict": "Brombin and Bronte have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Bronte has a lower overall climate risk score (38/100) compared to Brombin (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Brombin or Bronte safer from flooding?",
-      "answer": "Brombin has a flood risk score of 37/100, while Bronte scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brombin has a flood risk score of 47/100, while Bronte scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brombin scores 15/100 for bushfire risk. Bronte scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brombin scores 54/100 for bushfire risk. Bronte scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brombin or Bronte?",
-      "answer": "Both suburbs have climate considerations. Brombin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bronte has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bronte Should I Buy?",
       "url": "/suburbs/nsw/bronte/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

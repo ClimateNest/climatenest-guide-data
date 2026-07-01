@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 39
+      "scoreA": 26,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 56
+      "scoreA": 20,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 56
+      "scoreA": 74,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 42
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 18
+      "scoreA": 60,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 19
     }
   ],
-  "verdict": "Avalon Beach has a lower overall climate risk score (37/100) compared to Avisford (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Avalon Beach has a lower overall climate risk score (39/100) compared to Avisford (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Avalon Beach or Avisford safer from flooding?",
-      "answer": "Avalon Beach has a flood risk score of 29/100, while Avisford scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Avalon Beach has a flood risk score of 26/100, while Avisford scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Avalon Beach scores 42/100 for bushfire risk. Avisford scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Avalon Beach scores 20/100 for bushfire risk. Avisford scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Avalon Beach or Avisford?",
@@ -76,5 +76,15 @@
       "label": "Avisford Should I Buy?",
       "url": "/suburbs/nsw/avisford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

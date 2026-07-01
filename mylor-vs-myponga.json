@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 65
+      "scoreA": 79,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Myponga has a lower overall climate risk score (33/100) compared to Mylor (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Myponga has a lower overall climate risk score (33/100) compared to Mylor (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mylor or Myponga safer from flooding?",
-      "answer": "Mylor has a flood risk score of 49/100, while Myponga scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mylor has a flood risk score of 26/100, while Myponga scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mylor scores 33/100 for bushfire risk. Myponga scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mylor scores 58/100 for bushfire risk. Myponga scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mylor or Myponga?",
@@ -76,5 +76,15 @@
       "label": "Myponga Should I Buy?",
       "url": "/suburbs/sa/myponga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

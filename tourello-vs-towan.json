@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 32
+      "scoreA": 20,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 38
+      "scoreA": 43,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 80
+      "scoreA": 61,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 32
+      "scoreA": 28,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 19
     }
   ],
-  "verdict": "Towan has a lower overall climate risk score (36/100) compared to Tourello (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Tourello has a lower overall climate risk score (33/100) compared to Towan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tourello or Towan safer from flooding?",
-      "answer": "Tourello has a flood risk score of 54/100, while Towan scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tourello has a flood risk score of 20/100, while Towan scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tourello scores 27/100 for bushfire risk. Towan scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tourello scores 43/100 for bushfire risk. Towan scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tourello or Towan?",
-      "answer": "Both suburbs have climate considerations. Towan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tourello has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Towan Should I Buy?",
       "url": "/suburbs/vic/towan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

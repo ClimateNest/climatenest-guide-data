@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 54,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 46
+      "scoreA": 23,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 52
+      "scoreA": 80,
+      "scoreB": 59
     },
     {
       "name": "Storm",
       "scoreA": 27,
-      "scoreB": 25
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
+      "scoreA": 19,
       "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 16
     }
   ],
-  "verdict": "Kiara has a lower overall climate risk score (30/100) compared to Kewdale (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kiara has a lower overall climate risk score (37/100) compared to Kewdale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kewdale or Kiara safer from flooding?",
-      "answer": "Kewdale has a flood risk score of 23/100, while Kiara scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kewdale has a flood risk score of 54/100, while Kiara scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kewdale scores 50/100 for bushfire risk. Kiara scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kewdale scores 23/100 for bushfire risk. Kiara scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kewdale or Kiara?",
@@ -76,5 +76,15 @@
       "label": "Kiara Should I Buy?",
       "url": "/suburbs/wa/kiara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

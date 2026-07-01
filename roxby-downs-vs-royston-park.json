@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 57
+      "scoreA": 41,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 31
+      "scoreA": 36,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 72
+      "scoreA": 78,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 17,
+      "scoreB": 13
     }
   ],
-  "verdict": "Royston Park has a lower overall climate risk score (39/100) compared to Roxby Downs (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Royston Park has a lower overall climate risk score (33/100) compared to Roxby Downs (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Roxby Downs or Royston Park safer from flooding?",
-      "answer": "Roxby Downs has a flood risk score of 56/100, while Royston Park scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Roxby Downs has a flood risk score of 41/100, while Royston Park scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Roxby Downs scores 53/100 for bushfire risk. Royston Park scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Roxby Downs scores 36/100 for bushfire risk. Royston Park scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Roxby Downs or Royston Park?",
@@ -76,5 +76,15 @@
       "label": "Royston Park Should I Buy?",
       "url": "/suburbs/sa/royston-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

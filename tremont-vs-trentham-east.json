@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 51,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 44
+      "scoreA": 28,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 57,
+      "scoreA": 76,
       "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 50
+      "scoreA": 48,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
       "scoreA": 15,
-      "scoreB": 16
+      "scoreB": 22
     }
   ],
-  "verdict": "Tremont has a lower overall climate risk score (37/100) compared to Trentham East (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tremont has a lower overall climate risk score (39/100) compared to Trentham East (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tremont or Trentham East safer from flooding?",
-      "answer": "Tremont has a flood risk score of 43/100, while Trentham East scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tremont has a flood risk score of 51/100, while Trentham East scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tremont scores 62/100 for bushfire risk. Trentham East scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tremont scores 28/100 for bushfire risk. Trentham East scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tremont or Trentham East?",
@@ -76,5 +76,15 @@
       "label": "Trentham East Should I Buy?",
       "url": "/suburbs/vic/trentham-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

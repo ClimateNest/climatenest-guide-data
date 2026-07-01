@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 43
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 52,
+      "scoreA": 21,
       "scoreB": 58
     },
     {
+      "name": "Bushfire",
+      "scoreA": 38,
+      "scoreB": 18
+    },
+    {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 72
+      "scoreA": 76,
+      "scoreB": 66
     },
     {
       "name": "Storm",
       "scoreA": 32,
-      "scoreB": 37
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 14,
+      "scoreB": 17
     }
   ],
-  "verdict": "Mount Emu has a lower overall climate risk score (38/100) compared to Mount Franklin (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Emu has a lower overall climate risk score (33/100) compared to Mount Franklin (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Emu or Mount Franklin safer from flooding?",
-      "answer": "Mount Emu has a flood risk score of 44/100, while Mount Franklin scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Emu has a flood risk score of 21/100, while Mount Franklin scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Emu scores 52/100 for bushfire risk. Mount Franklin scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Emu scores 38/100 for bushfire risk. Mount Franklin scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Emu or Mount Franklin?",
@@ -76,5 +76,15 @@
       "label": "Mount Franklin Should I Buy?",
       "url": "/suburbs/vic/mount-franklin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3467,
+    "projected2030": 4853,
+    "projected2050": 9013
+  },
+  "valueImpact": {
+    "dragPercent": 0.5,
+    "description": "Properties in this area may face a 0.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

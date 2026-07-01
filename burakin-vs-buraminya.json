@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 37
+      "scoreA": 32,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 75
+      "scoreA": 51,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 18,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 18
+      "scoreA": 26,
+      "scoreB": 26
     }
   ],
-  "verdict": "Burakin has a lower overall climate risk score (33/100) compared to Buraminya (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Burakin has a lower overall climate risk score (36/100) compared to Buraminya (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burakin or Buraminya safer from flooding?",
-      "answer": "Burakin has a flood risk score of 35/100, while Buraminya scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burakin has a flood risk score of 32/100, while Buraminya scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burakin scores 18/100 for bushfire risk. Buraminya scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burakin scores 41/100 for bushfire risk. Buraminya scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burakin or Buraminya?",
@@ -76,5 +76,15 @@
       "label": "Buraminya Should I Buy?",
       "url": "/suburbs/wa/buraminya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

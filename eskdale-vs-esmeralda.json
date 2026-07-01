@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 32,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 62
+      "scoreA": 64,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 32,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 29
+      "scoreA": 40,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 7
+      "scoreA": 15,
+      "scoreB": 17
     }
   ],
-  "verdict": "Esmeralda has a lower overall climate risk score (38/100) compared to Eskdale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Esmeralda has a lower overall climate risk score (35/100) compared to Eskdale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eskdale or Esmeralda safer from flooding?",
-      "answer": "Eskdale has a flood risk score of 41/100, while Esmeralda scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eskdale has a flood risk score of 32/100, while Esmeralda scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eskdale scores 59/100 for bushfire risk. Esmeralda scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eskdale scores 64/100 for bushfire risk. Esmeralda scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eskdale or Esmeralda?",
@@ -76,5 +76,15 @@
       "label": "Esmeralda Should I Buy?",
       "url": "/suburbs/qld/esmeralda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 43
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 35,
+      "scoreA": 57,
       "scoreB": 34
     },
     {
+      "name": "Bushfire",
+      "scoreA": 21,
+      "scoreB": 63
+    },
+    {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 59
+      "scoreA": 67,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 16
     }
   ],
-  "verdict": "Huon has a lower overall climate risk score (36/100) compared to Hurstbridge (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Huon has a lower overall climate risk score (38/100) compared to Hurstbridge (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Huon or Hurstbridge safer from flooding?",
-      "answer": "Huon has a flood risk score of 33/100, while Hurstbridge scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Huon has a flood risk score of 57/100, while Hurstbridge scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Huon scores 35/100 for bushfire risk. Hurstbridge scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Huon scores 21/100 for bushfire risk. Hurstbridge scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Huon or Hurstbridge?",
@@ -76,5 +76,15 @@
       "label": "Hurstbridge Should I Buy?",
       "url": "/suburbs/vic/hurstbridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

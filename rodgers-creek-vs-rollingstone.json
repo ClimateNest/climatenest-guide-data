@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 59
+      "scoreA": 35,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 52
+      "scoreA": 45,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 48
+      "scoreA": 36,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 47,
+      "scoreA": 26,
       "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 18
+      "scoreA": 34,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Rodgers Creek has a lower overall climate risk score (33/100) compared to Rollingstone (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rollingstone has a lower overall climate risk score (28/100) compared to Rodgers Creek (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rodgers Creek or Rollingstone safer from flooding?",
-      "answer": "Rodgers Creek has a flood risk score of 28/100, while Rollingstone scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rodgers Creek has a flood risk score of 35/100, while Rollingstone scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rodgers Creek scores 28/100 for bushfire risk. Rollingstone scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rodgers Creek scores 45/100 for bushfire risk. Rollingstone scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rodgers Creek or Rollingstone?",
-      "answer": "Both suburbs have climate considerations. Rodgers Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rollingstone has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rollingstone Should I Buy?",
       "url": "/suburbs/qld/rollingstone/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

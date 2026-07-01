@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 28
+      "scoreA": 24,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 29
+      "scoreA": 38,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 64
+      "scoreA": 51,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 48
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 12,
+      "scoreA": 32,
       "scoreB": 20
     },
     {
+      "name": "Coastal",
+      "scoreA": 20,
+      "scoreB": 14
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 10
+      "scoreA": 24,
+      "scoreB": 23
     }
   ],
-  "verdict": "St George has a lower overall climate risk score (33/100) compared to St Fillans (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "St Fillans has a lower overall climate risk score (32/100) compared to St George (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is St Fillans or St George safer from flooding?",
-      "answer": "St Fillans has a flood risk score of 49/100, while St George scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Fillans has a flood risk score of 24/100, while St George scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Fillans scores 33/100 for bushfire risk. St George scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Fillans scores 38/100 for bushfire risk. St George scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Fillans or St George?",
-      "answer": "Both suburbs have climate considerations. St George has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. St Fillans has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "St George Should I Buy?",
       "url": "/suburbs/nsw/st-george/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

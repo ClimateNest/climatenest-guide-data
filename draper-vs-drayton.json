@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 36
+      "scoreA": 50,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 54
+      "scoreA": 52,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 36
+      "scoreA": 42,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 40
+      "scoreA": 23,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 53
+      "scoreA": 47,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 26,
+      "scoreB": 14
     }
   ],
-  "verdict": "Draper has a lower overall climate risk score (34/100) compared to Drayton (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Drayton has a lower overall climate risk score (33/100) compared to Draper (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Draper or Drayton safer from flooding?",
-      "answer": "Draper has a flood risk score of 23/100, while Drayton scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Draper has a flood risk score of 50/100, while Drayton scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Draper scores 42/100 for bushfire risk. Drayton scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Draper scores 52/100 for bushfire risk. Drayton scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Draper or Drayton?",
-      "answer": "Both suburbs have climate considerations. Draper has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Drayton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Drayton Should I Buy?",
       "url": "/suburbs/qld/drayton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

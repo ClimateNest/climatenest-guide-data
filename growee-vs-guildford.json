@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 67
+      "scoreA": 69,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 37
+      "scoreA": 27,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 18,
+      "scoreB": 26
     }
   ],
-  "verdict": "Growee has a lower overall climate risk score (31/100) compared to Guildford (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Growee has a lower overall climate risk score (40/100) compared to Guildford (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Growee or Guildford safer from flooding?",
-      "answer": "Growee has a flood risk score of 20/100, while Guildford scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Growee has a flood risk score of 44/100, while Guildford scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Growee scores 32/100 for bushfire risk. Guildford scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Growee scores 40/100 for bushfire risk. Guildford scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Growee or Guildford?",
@@ -76,5 +76,15 @@
       "label": "Guildford Should I Buy?",
       "url": "/suburbs/nsw/guildford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4407,
+    "projected2030": 6170,
+    "projected2050": 11459
+  },
+  "valueImpact": {
+    "dragPercent": 2.57,
+    "description": "Properties in this area may face a 2.57% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 30
+      "scoreA": 58,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 17,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 71
+      "scoreA": 37,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 22,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 19
     }
   ],
-  "verdict": "Marree has a lower overall climate risk score (29/100) compared to Maryvale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marree has a lower overall climate risk score (28/100) compared to Maryvale (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Marree or Maryvale safer from flooding?",
-      "answer": "Marree has a flood risk score of 26/100, while Maryvale scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marree has a flood risk score of 58/100, while Maryvale scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marree scores 25/100 for bushfire risk. Maryvale scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marree scores 17/100 for bushfire risk. Maryvale scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marree or Maryvale?",
@@ -76,5 +76,15 @@
       "label": "Maryvale Should I Buy?",
       "url": "/suburbs/sa/maryvale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

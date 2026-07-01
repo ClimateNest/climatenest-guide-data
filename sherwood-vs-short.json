@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 33
+      "scoreA": 53,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 59
+      "scoreA": 51,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 62
+      "scoreA": 66,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 24
+      "scoreA": 48,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 11
+      "scoreA": 22,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 19
     }
   ],
-  "verdict": "Short has a lower overall climate risk score (36/100) compared to Sherwood (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Short has a lower overall climate risk score (39/100) compared to Sherwood (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sherwood or Short safer from flooding?",
-      "answer": "Sherwood has a flood risk score of 54/100, while Short scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sherwood has a flood risk score of 53/100, while Short scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sherwood scores 39/100 for bushfire risk. Short scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sherwood scores 51/100 for bushfire risk. Short scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sherwood or Short?",
@@ -76,5 +76,15 @@
       "label": "Short Should I Buy?",
       "url": "/suburbs/sa/short/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

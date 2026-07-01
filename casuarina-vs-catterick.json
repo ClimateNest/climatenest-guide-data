@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 29
+      "scoreA": 51,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 20
+      "scoreA": 22,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 68
+      "scoreA": 72,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 42
+      "scoreA": 35,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 24,
       "scoreB": 19
     }
   ],
-  "verdict": "Catterick has a lower overall climate risk score (33/100) compared to Casuarina (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Catterick has a lower overall climate risk score (35/100) compared to Casuarina (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Casuarina or Catterick safer from flooding?",
-      "answer": "Casuarina has a flood risk score of 37/100, while Catterick scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Casuarina has a flood risk score of 51/100, while Catterick scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Casuarina scores 50/100 for bushfire risk. Catterick scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Casuarina scores 22/100 for bushfire risk. Catterick scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Casuarina or Catterick?",
@@ -76,5 +76,15 @@
       "label": "Catterick Should I Buy?",
       "url": "/suburbs/wa/catterick/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

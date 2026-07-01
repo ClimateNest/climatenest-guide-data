@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 53
+      "scoreA": 31,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 52
+      "scoreA": 51,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 31,
+      "scoreA": 45,
       "scoreB": 39
     },
     {
       "name": "Storm",
       "scoreA": 23,
-      "scoreB": 33
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 26,
       "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 6
     }
   ],
-  "verdict": "North Bungunya has a lower overall climate risk score (26/100) compared to North Eton (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Bungunya has a lower overall climate risk score (32/100) compared to North Eton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Bungunya or North Eton safer from flooding?",
-      "answer": "North Bungunya has a flood risk score of 25/100, while North Eton scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Bungunya has a flood risk score of 31/100, while North Eton scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Bungunya scores 39/100 for bushfire risk. North Eton scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Bungunya scores 51/100 for bushfire risk. North Eton scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Bungunya or North Eton?",
@@ -76,5 +76,15 @@
       "label": "North Eton Should I Buy?",
       "url": "/suburbs/qld/north-eton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

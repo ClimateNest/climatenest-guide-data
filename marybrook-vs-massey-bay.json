@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 52
+      "scoreA": 35,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 39
+      "scoreA": 64,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 47
+      "scoreA": 39,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 13,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 9
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Massey Bay has a lower overall climate risk score (32/100) compared to Marybrook (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Massey Bay has a lower overall climate risk score (25/100) compared to Marybrook (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marybrook or Massey Bay safer from flooding?",
-      "answer": "Marybrook has a flood risk score of 38/100, while Massey Bay scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marybrook has a flood risk score of 35/100, while Massey Bay scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marybrook scores 26/100 for bushfire risk. Massey Bay scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marybrook scores 40/100 for bushfire risk. Massey Bay scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marybrook or Massey Bay?",
@@ -76,5 +76,15 @@
       "label": "Massey Bay Should I Buy?",
       "url": "/suburbs/wa/massey-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

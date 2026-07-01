@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 56
+      "scoreA": 50,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 59
+      "scoreA": 20,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 69
+      "scoreA": 72,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Stirling has a lower overall climate risk score (38/100) compared to Tharwa (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Stirling has a lower overall climate risk score (34/100) compared to Tharwa (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stirling or Tharwa safer from flooding?",
-      "answer": "Stirling has a flood risk score of 44/100, while Tharwa scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stirling has a flood risk score of 50/100, while Tharwa scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stirling scores 52/100 for bushfire risk. Tharwa scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stirling scores 20/100 for bushfire risk. Tharwa scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stirling or Tharwa?",
@@ -76,5 +76,15 @@
       "label": "Tharwa Should I Buy?",
       "url": "/suburbs/act/tharwa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

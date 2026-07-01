@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 52
+      "scoreA": 19,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 37
+      "scoreA": 78,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 16,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 20
     }
   ],
-  "verdict": "Nerramyne has a lower overall climate risk score (36/100) compared to Neridup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nerramyne has a lower overall climate risk score (33/100) compared to Neridup (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Neridup or Nerramyne safer from flooding?",
-      "answer": "Neridup has a flood risk score of 59/100, while Nerramyne scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Neridup has a flood risk score of 27/100, while Nerramyne scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Neridup scores 60/100 for bushfire risk. Nerramyne scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Neridup scores 19/100 for bushfire risk. Nerramyne scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Neridup or Nerramyne?",
@@ -76,5 +76,15 @@
       "label": "Nerramyne Should I Buy?",
       "url": "/suburbs/wa/nerramyne/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

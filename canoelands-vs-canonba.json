@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 51
+      "scoreA": 45,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 49
+      "scoreA": 36,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 58
+      "scoreA": 54,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 36
+      "scoreA": 33,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 24
+      "scoreA": 48,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
       "scoreA": 18,
-      "scoreB": 19
+      "scoreB": 29
     }
   ],
-  "verdict": "Canonba has a lower overall climate risk score (40/100) compared to Canoelands (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Canonba has a lower overall climate risk score (37/100) compared to Canoelands (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Canoelands or Canonba safer from flooding?",
-      "answer": "Canoelands has a flood risk score of 40/100, while Canonba scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Canoelands has a flood risk score of 45/100, while Canonba scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Canoelands scores 56/100 for bushfire risk. Canonba scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Canoelands scores 36/100 for bushfire risk. Canonba scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Canoelands or Canonba?",
@@ -76,5 +76,15 @@
       "label": "Canonba Should I Buy?",
       "url": "/suburbs/nsw/canonba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

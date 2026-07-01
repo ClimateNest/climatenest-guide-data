@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 35
+      "scoreA": 50,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 36,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 68
+      "scoreA": 55,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 35
+      "scoreA": 36,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 14
+      "scoreA": 13,
+      "scoreB": 26
     }
   ],
-  "verdict": "Somerville has a lower overall climate risk score (36/100) compared to South Bodallin (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Somerville has a lower overall climate risk score (35/100) compared to South Bodallin (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Somerville or South Bodallin safer from flooding?",
-      "answer": "Somerville has a flood risk score of 21/100, while South Bodallin scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Somerville has a flood risk score of 50/100, while South Bodallin scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Somerville scores 56/100 for bushfire risk. South Bodallin scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Somerville scores 36/100 for bushfire risk. South Bodallin scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Somerville or South Bodallin?",
@@ -76,5 +76,15 @@
       "label": "South Bodallin Should I Buy?",
       "url": "/suburbs/wa/south-bodallin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

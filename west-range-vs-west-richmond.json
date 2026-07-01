@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 37
+      "scoreA": 35,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 34
+      "scoreA": 60,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 62
+      "scoreA": 51,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 30,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 22
+      "scoreA": 29,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 19
     }
   ],
-  "verdict": "West Richmond has a lower overall climate risk score (38/100) compared to West Range (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "West Richmond has a lower overall climate risk score (35/100) compared to West Range (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is West Range or West Richmond safer from flooding?",
-      "answer": "West Range has a flood risk score of 48/100, while West Richmond scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Range has a flood risk score of 35/100, while West Richmond scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Range scores 54/100 for bushfire risk. West Richmond scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Range scores 60/100 for bushfire risk. West Richmond scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Range or West Richmond?",
@@ -76,5 +76,15 @@
       "label": "West Richmond Should I Buy?",
       "url": "/suburbs/sa/west-richmond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 22
+      "scoreA": 42,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
+      "scoreA": 57,
       "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 45
+      "scoreA": 45,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 35,
+      "scoreA": 21,
       "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 59,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 9
     }
   ],
-  "verdict": "Lizard has a lower overall climate risk score (28/100) compared to Little Mountain (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lizard has a lower overall climate risk score (27/100) compared to Little Mountain (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Little Mountain or Lizard safer from flooding?",
-      "answer": "Little Mountain has a flood risk score of 49/100, while Lizard scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Little Mountain has a flood risk score of 42/100, while Lizard scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Little Mountain scores 40/100 for bushfire risk. Lizard scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Little Mountain scores 57/100 for bushfire risk. Lizard scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Little Mountain or Lizard?",
@@ -76,5 +76,15 @@
       "label": "Lizard Should I Buy?",
       "url": "/suburbs/qld/lizard/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

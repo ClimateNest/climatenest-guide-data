@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 38
+      "scoreA": 52,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 59,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 63
+      "scoreA": 43,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 36,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 26
+      "scoreA": 19,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "Coburn has a lower overall climate risk score (30/100) compared to Cocklebiddy (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coburn has a lower overall climate risk score (40/100) compared to Cocklebiddy (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coburn or Cocklebiddy safer from flooding?",
-      "answer": "Coburn has a flood risk score of 45/100, while Cocklebiddy scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coburn has a flood risk score of 52/100, while Cocklebiddy scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coburn scores 29/100 for bushfire risk. Cocklebiddy scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coburn scores 59/100 for bushfire risk. Cocklebiddy scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coburn or Cocklebiddy?",
@@ -76,5 +76,15 @@
       "label": "Cocklebiddy Should I Buy?",
       "url": "/suburbs/wa/cocklebiddy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

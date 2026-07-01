@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 55
+      "scoreA": 54,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 75
+      "scoreA": 52,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 31
+      "scoreA": 36,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 25
+      "scoreA": 15,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 13
     }
   ],
-  "verdict": "Jolimont has a lower overall climate risk score (39/100) compared to Joondalup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Joondalup has a lower overall climate risk score (33/100) compared to Jolimont (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jolimont or Joondalup safer from flooding?",
-      "answer": "Jolimont has a flood risk score of 55/100, while Joondalup scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jolimont has a flood risk score of 31/100, while Joondalup scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jolimont scores 36/100 for bushfire risk. Joondalup scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jolimont scores 54/100 for bushfire risk. Joondalup scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jolimont or Joondalup?",
-      "answer": "Both suburbs have climate considerations. Jolimont has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Joondalup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Joondalup Should I Buy?",
       "url": "/suburbs/wa/joondalup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

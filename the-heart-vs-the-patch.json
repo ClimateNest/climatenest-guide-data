@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 33
+      "scoreA": 30,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
       "scoreA": 22,
-      "scoreB": 20
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 80
+      "scoreA": 74,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 44,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 10
+      "scoreA": 16,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 14
     }
   ],
-  "verdict": "The Patch has a lower overall climate risk score (31/100) compared to The Heart (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "The Heart has a lower overall climate risk score (34/100) compared to The Patch (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Heart or The Patch safer from flooding?",
-      "answer": "The Heart has a flood risk score of 42/100, while The Patch scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Heart has a flood risk score of 30/100, while The Patch scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Heart scores 22/100 for bushfire risk. The Patch scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Heart scores 22/100 for bushfire risk. The Patch scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Heart or The Patch?",
-      "answer": "Both suburbs have climate considerations. The Patch has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. The Heart has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "The Patch Should I Buy?",
       "url": "/suburbs/vic/the-patch/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

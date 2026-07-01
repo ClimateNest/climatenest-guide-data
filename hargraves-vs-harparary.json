@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 36
+      "scoreA": 28,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 58
+      "scoreA": 22,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 76
+      "scoreA": 53,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 25
     }
   ],
-  "verdict": "Hargraves has a lower overall climate risk score (37/100) compared to Harparary (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hargraves has a lower overall climate risk score (27/100) compared to Harparary (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hargraves or Harparary safer from flooding?",
-      "answer": "Hargraves has a flood risk score of 41/100, while Harparary scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hargraves has a flood risk score of 28/100, while Harparary scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hargraves scores 38/100 for bushfire risk. Harparary scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hargraves scores 22/100 for bushfire risk. Harparary scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hargraves or Harparary?",
@@ -76,5 +76,15 @@
       "label": "Harparary Should I Buy?",
       "url": "/suburbs/nsw/harparary/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 52
+      "scoreA": 26,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 42,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 76
+      "scoreA": 51,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 20
+      "scoreA": 32,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 39,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
       "scoreA": 14,
-      "scoreB": 30
+      "scoreB": 18
     }
   ],
-  "verdict": "Mount Royal has a lower overall climate risk score (37/100) compared to Mount Saint Thomas (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Saint Thomas has a lower overall climate risk score (33/100) compared to Mount Royal (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Royal or Mount Saint Thomas safer from flooding?",
-      "answer": "Mount Royal has a flood risk score of 44/100, while Mount Saint Thomas scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Royal has a flood risk score of 26/100, while Mount Saint Thomas scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Royal scores 27/100 for bushfire risk. Mount Saint Thomas scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Royal scores 42/100 for bushfire risk. Mount Saint Thomas scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Royal or Mount Saint Thomas?",
-      "answer": "Both suburbs have climate considerations. Mount Royal has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Saint Thomas has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Saint Thomas Should I Buy?",
       "url": "/suburbs/nsw/mount-saint-thomas/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

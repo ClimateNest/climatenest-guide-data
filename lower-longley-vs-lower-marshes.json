@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 41,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 34
+      "scoreA": 61,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 76
+      "scoreA": 54,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 36
+      "scoreA": 26,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 14,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 14
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Lower Marshes has a lower overall climate risk score (36/100) compared to Lower Longley (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lower Marshes has a lower overall climate risk score (34/100) compared to Lower Longley (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lower Longley or Lower Marshes safer from flooding?",
-      "answer": "Lower Longley has a flood risk score of 43/100, while Lower Marshes scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lower Longley has a flood risk score of 41/100, while Lower Marshes scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lower Longley scores 59/100 for bushfire risk. Lower Marshes scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lower Longley scores 61/100 for bushfire risk. Lower Marshes scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lower Longley or Lower Marshes?",
@@ -76,5 +76,15 @@
       "label": "Lower Marshes Should I Buy?",
       "url": "/suburbs/tas/lower-marshes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

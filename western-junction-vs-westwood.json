@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 59
+      "scoreA": 34,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 61
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 14
+      "scoreA": 21,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 13
     }
   ],
-  "verdict": "Western Junction has a lower overall climate risk score (31/100) compared to Westwood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Western Junction has a lower overall climate risk score (35/100) compared to Westwood (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Western Junction or Westwood safer from flooding?",
-      "answer": "Western Junction has a flood risk score of 30/100, while Westwood scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Western Junction has a flood risk score of 34/100, while Westwood scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Western Junction scores 17/100 for bushfire risk. Westwood scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Western Junction scores 28/100 for bushfire risk. Westwood scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Western Junction or Westwood?",
@@ -76,5 +76,15 @@
       "label": "Westwood Should I Buy?",
       "url": "/suburbs/tas/westwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

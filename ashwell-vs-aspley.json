@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 30,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 40
+      "scoreA": 17,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 50
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 49
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 50
+      "scoreA": 56,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 15,
       "scoreB": 29
     }
   ],
-  "verdict": "Ashwell has a lower overall climate risk score (32/100) compared to Aspley (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ashwell has a lower overall climate risk score (35/100) compared to Aspley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ashwell or Aspley safer from flooding?",
-      "answer": "Ashwell has a flood risk score of 20/100, while Aspley scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ashwell has a flood risk score of 30/100, while Aspley scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ashwell scores 52/100 for bushfire risk. Aspley scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ashwell scores 17/100 for bushfire risk. Aspley scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ashwell or Aspley?",
@@ -76,5 +76,15 @@
       "label": "Aspley Should I Buy?",
       "url": "/suburbs/qld/aspley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

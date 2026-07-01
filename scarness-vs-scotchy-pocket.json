@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 40,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 27
+      "scoreA": 38,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 36
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 43
+      "scoreA": 31,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 16
     }
   ],
-  "verdict": "Scotchy Pocket has a lower overall climate risk score (34/100) compared to Scarness (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Scotchy Pocket has a lower overall climate risk score (34/100) compared to Scarness (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Scarness or Scotchy Pocket safer from flooding?",
-      "answer": "Scarness has a flood risk score of 35/100, while Scotchy Pocket scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Scarness has a flood risk score of 40/100, while Scotchy Pocket scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Scarness scores 58/100 for bushfire risk. Scotchy Pocket scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Scarness scores 38/100 for bushfire risk. Scotchy Pocket scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Scarness or Scotchy Pocket?",
@@ -76,5 +76,15 @@
       "label": "Scotchy Pocket Should I Buy?",
       "url": "/suburbs/qld/scotchy-pocket/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

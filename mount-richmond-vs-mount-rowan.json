@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 47
+      "scoreA": 35,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 75
+      "scoreA": 66,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 36
+      "scoreA": 45,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 22,
+      "scoreB": 19
     }
   ],
-  "verdict": "Mount Richmond has a lower overall climate risk score (28/100) compared to Mount Rowan (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Rowan has a lower overall climate risk score (26/100) compared to Mount Richmond (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Richmond or Mount Rowan safer from flooding?",
-      "answer": "Mount Richmond has a flood risk score of 23/100, while Mount Rowan scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Richmond has a flood risk score of 35/100, while Mount Rowan scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Richmond scores 23/100 for bushfire risk. Mount Rowan scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Richmond scores 19/100 for bushfire risk. Mount Rowan scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Richmond or Mount Rowan?",
-      "answer": "Both suburbs have climate considerations. Mount Richmond has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Rowan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Rowan Should I Buy?",
       "url": "/suburbs/vic/mount-rowan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

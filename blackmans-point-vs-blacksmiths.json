@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 52
+      "scoreA": 35,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
+      "scoreA": 28,
       "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 72
+      "scoreA": 67,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 24,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 44
+      "scoreA": 55,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Blackmans Point has a lower overall climate risk score (44/100) compared to Blacksmiths (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Blackmans Point has a lower overall climate risk score (37/100) compared to Blacksmiths (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Blackmans Point or Blacksmiths safer from flooding?",
-      "answer": "Blackmans Point has a flood risk score of 23/100, while Blacksmiths scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackmans Point has a flood risk score of 35/100, while Blacksmiths scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackmans Point scores 56/100 for bushfire risk. Blacksmiths scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackmans Point scores 28/100 for bushfire risk. Blacksmiths scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackmans Point or Blacksmiths?",
@@ -76,5 +76,15 @@
       "label": "Blacksmiths Should I Buy?",
       "url": "/suburbs/nsw/blacksmiths/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

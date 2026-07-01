@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 44
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 65,
+      "scoreA": 43,
       "scoreB": 35
     },
     {
+      "name": "Bushfire",
+      "scoreA": 59,
+      "scoreB": 51
+    },
+    {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 80
+      "scoreA": 69,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 21
+      "scoreA": 34,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 58
+      "scoreA": 12,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 26
+      "scoreA": 19,
+      "scoreB": 15
     }
   ],
-  "verdict": "South Littleton has a lower overall climate risk score (42/100) compared to South Maitland (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "South Littleton has a lower overall climate risk score (39/100) compared to South Maitland (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is South Littleton or South Maitland safer from flooding?",
-      "answer": "South Littleton has a flood risk score of 24/100, while South Maitland scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Littleton has a flood risk score of 43/100, while South Maitland scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Littleton scores 65/100 for bushfire risk. South Maitland scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Littleton scores 59/100 for bushfire risk. South Maitland scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Littleton or South Maitland?",
@@ -76,5 +76,15 @@
       "label": "South Maitland Should I Buy?",
       "url": "/suburbs/nsw/south-maitland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

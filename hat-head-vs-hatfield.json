@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 28,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 17
+      "scoreA": 36,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 64,
+      "scoreA": 66,
       "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 20
+      "scoreA": 40,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 18,
+      "scoreB": 27
     }
   ],
-  "verdict": "Hatfield has a lower overall climate risk score (30/100) compared to Hat Head (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hatfield has a lower overall climate risk score (34/100) compared to Hat Head (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hat Head or Hatfield safer from flooding?",
-      "answer": "Hat Head has a flood risk score of 51/100, while Hatfield scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hat Head has a flood risk score of 28/100, while Hatfield scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hat Head scores 65/100 for bushfire risk. Hatfield scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hat Head scores 36/100 for bushfire risk. Hatfield scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hat Head or Hatfield?",
@@ -76,5 +76,15 @@
       "label": "Hatfield Should I Buy?",
       "url": "/suburbs/nsw/hatfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

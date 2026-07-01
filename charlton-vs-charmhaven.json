@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 51
+      "scoreA": 37,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 57
+      "scoreA": 76,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 31,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 45
+      "scoreA": 27,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 25
     }
   ],
-  "verdict": "Charlton has a lower overall climate risk score (41/100) compared to Charmhaven (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Charlton has a lower overall climate risk score (40/100) compared to Charmhaven (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Charlton or Charmhaven safer from flooding?",
-      "answer": "Charlton has a flood risk score of 47/100, while Charmhaven scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Charlton has a flood risk score of 58/100, while Charmhaven scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Charlton scores 41/100 for bushfire risk. Charmhaven scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Charlton scores 37/100 for bushfire risk. Charmhaven scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Charlton or Charmhaven?",
@@ -76,5 +76,15 @@
       "label": "Charmhaven Should I Buy?",
       "url": "/suburbs/nsw/charmhaven/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4339,
+    "projected2030": 6075,
+    "projected2050": 11282
+  },
+  "valueImpact": {
+    "dragPercent": 2.42,
+    "description": "Properties in this area may face a 2.42% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

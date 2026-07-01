@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 49
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 16
-    },
-    {
-      "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 57
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
+      "scoreA": 20,
       "scoreB": 24
     },
     {
+      "name": "Bushfire",
+      "scoreA": 48,
+      "scoreB": 50
+    },
+    {
+      "name": "Heat",
+      "scoreA": 74,
+      "scoreB": 64
+    },
+    {
+      "name": "Storm",
+      "scoreA": 34,
+      "scoreB": 47
+    },
+    {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 20
+      "scoreA": 14,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 12
     }
   ],
-  "verdict": "Strathfieldsaye has a lower overall climate risk score (32/100) compared to Strathewen (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Strathewen has a lower overall climate risk score (34/100) compared to Strathfieldsaye (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Strathewen or Strathfieldsaye safer from flooding?",
-      "answer": "Strathewen has a flood risk score of 58/100, while Strathfieldsaye scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Strathewen has a flood risk score of 20/100, while Strathfieldsaye scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Strathewen scores 25/100 for bushfire risk. Strathfieldsaye scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Strathewen scores 48/100 for bushfire risk. Strathfieldsaye scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Strathewen or Strathfieldsaye?",
-      "answer": "Both suburbs have climate considerations. Strathfieldsaye has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Strathewen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Strathfieldsaye Should I Buy?",
       "url": "/suburbs/vic/strathfieldsaye/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

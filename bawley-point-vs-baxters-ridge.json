@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 44
+      "scoreA": 20,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
+      "scoreA": 58,
       "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 79
+      "scoreA": 60,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 40
+      "scoreA": 43,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 56
+      "scoreA": 20,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
+      "scoreA": 24,
       "scoreB": 25
     }
   ],
-  "verdict": "Bawley Point has a lower overall climate risk score (34/100) compared to Baxters Ridge (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Baxters Ridge has a lower overall climate risk score (35/100) compared to Bawley Point (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bawley Point or Baxters Ridge safer from flooding?",
-      "answer": "Bawley Point has a flood risk score of 29/100, while Baxters Ridge scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bawley Point has a flood risk score of 20/100, while Baxters Ridge scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bawley Point scores 50/100 for bushfire risk. Baxters Ridge scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bawley Point scores 58/100 for bushfire risk. Baxters Ridge scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bawley Point or Baxters Ridge?",
-      "answer": "Both suburbs have climate considerations. Bawley Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Baxters Ridge has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Baxters Ridge Should I Buy?",
       "url": "/suburbs/nsw/baxters-ridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

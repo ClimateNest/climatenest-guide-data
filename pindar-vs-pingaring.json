@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 42
+      "scoreA": 51,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 52
+      "scoreA": 57,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 72
+      "scoreA": 46,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 42
+      "scoreA": 27,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
       "scoreA": 16,
-      "scoreB": 19
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 17
+      "scoreA": 11,
+      "scoreB": 20
     }
   ],
-  "verdict": "Pindar has a lower overall climate risk score (26/100) compared to Pingaring (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Pingaring has a lower overall climate risk score (33/100) compared to Pindar (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pindar or Pingaring safer from flooding?",
-      "answer": "Pindar has a flood risk score of 49/100, while Pingaring scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pindar has a flood risk score of 51/100, while Pingaring scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pindar scores 17/100 for bushfire risk. Pingaring scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pindar scores 57/100 for bushfire risk. Pingaring scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pindar or Pingaring?",
-      "answer": "Both suburbs have climate considerations. Pindar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pingaring has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pingaring Should I Buy?",
       "url": "/suburbs/wa/pingaring/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

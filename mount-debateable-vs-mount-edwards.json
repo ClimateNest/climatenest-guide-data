@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 50,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 35
+      "scoreA": 64,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 32
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 37,
       "scoreB": 33
     },
     {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 26
+    },
+    {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 43,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 23
+      "scoreA": 14,
+      "scoreB": 29
     }
   ],
-  "verdict": "Mount Debateable has a lower overall climate risk score (32/100) compared to Mount Edwards (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Edwards has a lower overall climate risk score (39/100) compared to Mount Debateable (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Debateable or Mount Edwards safer from flooding?",
-      "answer": "Mount Debateable has a flood risk score of 24/100, while Mount Edwards scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Debateable has a flood risk score of 50/100, while Mount Edwards scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Debateable scores 43/100 for bushfire risk. Mount Edwards scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Debateable scores 64/100 for bushfire risk. Mount Edwards scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Debateable or Mount Edwards?",
-      "answer": "Both suburbs have climate considerations. Mount Debateable has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Edwards has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Edwards Should I Buy?",
       "url": "/suburbs/qld/mount-edwards/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

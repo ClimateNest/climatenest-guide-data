@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 35
+      "scoreA": 46,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 51
+      "scoreA": 52,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 74
+      "scoreA": 69,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 47
+      "scoreA": 44,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 25
     }
   ],
-  "verdict": "Neuarpurr has a lower overall climate risk score (34/100) compared to Newborough (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Neuarpurr has a lower overall climate risk score (42/100) compared to Newborough (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Neuarpurr or Newborough safer from flooding?",
-      "answer": "Neuarpurr has a flood risk score of 56/100, while Newborough scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Neuarpurr has a flood risk score of 46/100, while Newborough scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Neuarpurr scores 16/100 for bushfire risk. Newborough scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Neuarpurr scores 52/100 for bushfire risk. Newborough scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Neuarpurr or Newborough?",
@@ -76,5 +76,15 @@
       "label": "Newborough Should I Buy?",
       "url": "/suburbs/vic/newborough/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

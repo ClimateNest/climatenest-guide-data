@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 42
+      "scoreA": 58,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 46
+      "scoreA": 45,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 34
+      "scoreA": 47,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 22,
+      "scoreB": 29
     }
   ],
-  "verdict": "Woodbine has a lower overall climate risk score (34/100) compared to Wonglepong (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woodbine has a lower overall climate risk score (35/100) compared to Wonglepong (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wonglepong or Woodbine safer from flooding?",
-      "answer": "Wonglepong has a flood risk score of 28/100, while Woodbine scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wonglepong has a flood risk score of 58/100, while Woodbine scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wonglepong scores 58/100 for bushfire risk. Woodbine scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wonglepong scores 45/100 for bushfire risk. Woodbine scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wonglepong or Woodbine?",
@@ -76,5 +76,15 @@
       "label": "Woodbine Should I Buy?",
       "url": "/suburbs/qld/woodbine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

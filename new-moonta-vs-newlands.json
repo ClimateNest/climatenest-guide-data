@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
+      "scoreA": 21,
       "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 30
+      "scoreA": 35,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 32
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 39,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 25
+      "scoreA": 59,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 10
+      "scoreA": 20,
+      "scoreB": 19
     }
   ],
-  "verdict": "Newlands has a lower overall climate risk score (28/100) compared to New Moonta (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "New Moonta has a lower overall climate risk score (36/100) compared to Newlands (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is New Moonta or Newlands safer from flooding?",
-      "answer": "New Moonta has a flood risk score of 42/100, while Newlands scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "New Moonta has a flood risk score of 21/100, while Newlands scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "New Moonta scores 19/100 for bushfire risk. Newlands scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "New Moonta scores 35/100 for bushfire risk. Newlands scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in New Moonta or Newlands?",
-      "answer": "Both suburbs have climate considerations. Newlands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. New Moonta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Newlands Should I Buy?",
       "url": "/suburbs/qld/newlands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

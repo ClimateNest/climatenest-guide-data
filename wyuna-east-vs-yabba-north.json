@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 34
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 27
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 57
+      "scoreA": 69,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 21
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Yabba North has a lower overall climate risk score (28/100) compared to Wyuna East (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wyuna East has a lower overall climate risk score (31/100) compared to Yabba North (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wyuna East or Yabba North safer from flooding?",
-      "answer": "Wyuna East has a flood risk score of 49/100, while Yabba North scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wyuna East has a flood risk score of 20/100, while Yabba North scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wyuna East scores 17/100 for bushfire risk. Yabba North scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wyuna East scores 46/100 for bushfire risk. Yabba North scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wyuna East or Yabba North?",
-      "answer": "Both suburbs have climate considerations. Yabba North has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wyuna East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yabba North Should I Buy?",
       "url": "/suburbs/vic/yabba-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3399,
+    "projected2030": 4758,
+    "projected2050": 8837
+  },
+  "valueImpact": {
+    "dragPercent": 0.35,
+    "description": "Properties in this area may face a 0.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

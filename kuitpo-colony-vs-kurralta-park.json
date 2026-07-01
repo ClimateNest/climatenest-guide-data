@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 60
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 30
+      "scoreA": 39,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 50
+      "scoreA": 52,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 23,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 26,
       "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Kurralta Park has a lower overall climate risk score (38/100) compared to Kuitpo Colony (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kuitpo Colony has a lower overall climate risk score (34/100) compared to Kurralta Park (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kuitpo Colony or Kurralta Park safer from flooding?",
-      "answer": "Kuitpo Colony has a flood risk score of 60/100, while Kurralta Park scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kuitpo Colony has a flood risk score of 44/100, while Kurralta Park scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kuitpo Colony scores 64/100 for bushfire risk. Kurralta Park scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kuitpo Colony scores 39/100 for bushfire risk. Kurralta Park scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kuitpo Colony or Kurralta Park?",
-      "answer": "Both suburbs have climate considerations. Kurralta Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kuitpo Colony has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kurralta Park Should I Buy?",
       "url": "/suburbs/sa/kurralta-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

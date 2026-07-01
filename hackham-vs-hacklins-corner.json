@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 36
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
+      "scoreA": 62,
       "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 51
+      "scoreA": 62,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 11,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 10
     }
   ],
-  "verdict": "Hackham has a lower overall climate risk score (34/100) compared to Hacklins Corner (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Hacklins Corner has a lower overall climate risk score (32/100) compared to Hackham (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hackham or Hacklins Corner safer from flooding?",
-      "answer": "Hackham has a flood risk score of 26/100, while Hacklins Corner scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hackham has a flood risk score of 32/100, while Hacklins Corner scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hackham scores 33/100 for bushfire risk. Hacklins Corner scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hackham scores 62/100 for bushfire risk. Hacklins Corner scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hackham or Hacklins Corner?",
-      "answer": "Both suburbs have climate considerations. Hackham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hacklins Corner has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hacklins Corner Should I Buy?",
       "url": "/suburbs/sa/hacklins-corner/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

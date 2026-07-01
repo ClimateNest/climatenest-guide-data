@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
+      "scoreA": 24,
       "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 64
+      "scoreA": 25,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 73
+      "scoreA": 74,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 31
+      "scoreA": 36,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 12
     }
   ],
-  "verdict": "Kareela has a lower overall climate risk score (37/100) compared to Kariong (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kareela has a lower overall climate risk score (34/100) compared to Kariong (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kareela or Kariong safer from flooding?",
-      "answer": "Kareela has a flood risk score of 48/100, while Kariong scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kareela has a flood risk score of 24/100, while Kariong scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kareela scores 16/100 for bushfire risk. Kariong scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kareela scores 25/100 for bushfire risk. Kariong scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kareela or Kariong?",
@@ -76,5 +76,15 @@
       "label": "Kariong Should I Buy?",
       "url": "/suburbs/nsw/kariong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

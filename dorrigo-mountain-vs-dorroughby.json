@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 42
+      "scoreA": 38,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 48
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 31
+      "scoreA": 64,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 53
+      "scoreA": 42,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Dorroughby has a lower overall climate risk score (38/100) compared to Dorrigo Mountain (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dorroughby has a lower overall climate risk score (37/100) compared to Dorrigo Mountain (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dorrigo Mountain or Dorroughby safer from flooding?",
-      "answer": "Dorrigo Mountain has a flood risk score of 49/100, while Dorroughby scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dorrigo Mountain has a flood risk score of 38/100, while Dorroughby scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dorrigo Mountain scores 57/100 for bushfire risk. Dorroughby scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dorrigo Mountain scores 18/100 for bushfire risk. Dorroughby scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dorrigo Mountain or Dorroughby?",
@@ -76,5 +76,15 @@
       "label": "Dorroughby Should I Buy?",
       "url": "/suburbs/nsw/dorroughby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

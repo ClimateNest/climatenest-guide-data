@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 35
+      "scoreA": 38,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 61,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 52
+      "scoreA": 63,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 34,
       "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 11,
-      "scoreB": 11
+      "scoreB": 30
     }
   ],
-  "verdict": "Nelson has a lower overall climate risk score (29/100) compared to Nelligen (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Nelligen has a lower overall climate risk score (38/100) compared to Nelson (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nelligen or Nelson safer from flooding?",
-      "answer": "Nelligen has a flood risk score of 52/100, while Nelson scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nelligen has a flood risk score of 38/100, while Nelson scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nelligen scores 29/100 for bushfire risk. Nelson scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nelligen scores 61/100 for bushfire risk. Nelson scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nelligen or Nelson?",
-      "answer": "Both suburbs have climate considerations. Nelson has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Nelligen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nelson Should I Buy?",
       "url": "/suburbs/nsw/nelson/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

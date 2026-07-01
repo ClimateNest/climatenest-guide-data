@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 53
+      "scoreA": 48,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 41
+      "scoreA": 63,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 47
+      "scoreA": 68,
+      "scoreB": 44
     },
     {
       "name": "Storm",
       "scoreA": 23,
-      "scoreB": 30
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 26
+      "scoreA": 11,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 7
     }
   ],
-  "verdict": "North Plantations has a lower overall climate risk score (35/100) compared to North Moulyinning (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Plantations has a lower overall climate risk score (36/100) compared to North Moulyinning (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Moulyinning or North Plantations safer from flooding?",
-      "answer": "North Moulyinning has a flood risk score of 56/100, while North Plantations scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Moulyinning has a flood risk score of 48/100, while North Plantations scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Moulyinning scores 64/100 for bushfire risk. North Plantations scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Moulyinning scores 63/100 for bushfire risk. North Plantations scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Moulyinning or North Plantations?",
@@ -76,5 +76,15 @@
       "label": "North Plantations Should I Buy?",
       "url": "/suburbs/wa/north-plantations/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

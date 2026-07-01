@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 60
+      "scoreA": 50,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 56
+      "scoreA": 44,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 70
+      "scoreA": 42,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 22
+      "scoreA": 33,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 46
+      "scoreA": 11,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
       "scoreA": 27,
-      "scoreB": 11
+      "scoreB": 20
     }
   ],
-  "verdict": "Pallamallawa has a lower overall climate risk score (30/100) compared to Palm Beach (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pallamallawa has a lower overall climate risk score (35/100) compared to Palm Beach (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pallamallawa or Palm Beach safer from flooding?",
-      "answer": "Pallamallawa has a flood risk score of 21/100, while Palm Beach scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pallamallawa has a flood risk score of 50/100, while Palm Beach scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pallamallawa scores 29/100 for bushfire risk. Palm Beach scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pallamallawa scores 44/100 for bushfire risk. Palm Beach scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pallamallawa or Palm Beach?",
@@ -76,5 +76,15 @@
       "label": "Palm Beach Should I Buy?",
       "url": "/suburbs/nsw/palm-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

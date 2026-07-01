@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 32
+      "scoreA": 25,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 42
+      "scoreA": 38,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 26
+      "scoreA": 30,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 44
+      "scoreA": 49,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Upper Coomera has a lower overall climate risk score (35/100) compared to Upper Caboolture (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Upper Coomera has a lower overall climate risk score (32/100) compared to Upper Caboolture (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Upper Caboolture or Upper Coomera safer from flooding?",
-      "answer": "Upper Caboolture has a flood risk score of 40/100, while Upper Coomera scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Upper Caboolture has a flood risk score of 44/100, while Upper Coomera scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Upper Caboolture scores 54/100 for bushfire risk. Upper Coomera scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Upper Caboolture scores 25/100 for bushfire risk. Upper Coomera scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Upper Caboolture or Upper Coomera?",
@@ -76,5 +76,15 @@
       "label": "Upper Coomera Should I Buy?",
       "url": "/suburbs/qld/upper-coomera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

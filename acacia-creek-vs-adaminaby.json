@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 57
+      "scoreA": 55,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 50
+      "scoreA": 16,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 50
+      "scoreA": 43,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 27
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 27
+      "scoreA": 37,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 15,
-      "scoreB": 13
+      "scoreB": 12
     }
   ],
-  "verdict": "Acacia Creek has a lower overall climate risk score (33/100) compared to Adaminaby (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Adaminaby has a lower overall climate risk score (30/100) compared to Acacia Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Acacia Creek or Adaminaby safer from flooding?",
-      "answer": "Acacia Creek has a flood risk score of 24/100, while Adaminaby scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Acacia Creek has a flood risk score of 55/100, while Adaminaby scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Acacia Creek scores 33/100 for bushfire risk. Adaminaby scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Acacia Creek scores 16/100 for bushfire risk. Adaminaby scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Acacia Creek or Adaminaby?",
-      "answer": "Both suburbs have climate considerations. Acacia Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Adaminaby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Adaminaby Should I Buy?",
       "url": "/suburbs/nsw/adaminaby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

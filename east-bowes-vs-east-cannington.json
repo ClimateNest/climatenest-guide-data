@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 31
+      "scoreA": 55,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 18
+      "scoreA": 65,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 73
+      "scoreA": 50,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 37
+      "scoreA": 29,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 29,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 20
     }
   ],
-  "verdict": "East Cannington has a lower overall climate risk score (34/100) compared to East Bowes (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "East Bowes and East Cannington have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is East Bowes or East Cannington safer from flooding?",
-      "answer": "East Bowes has a flood risk score of 51/100, while East Cannington scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Bowes has a flood risk score of 55/100, while East Cannington scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Bowes scores 39/100 for bushfire risk. East Cannington scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Bowes scores 65/100 for bushfire risk. East Cannington scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Bowes or East Cannington?",
-      "answer": "Both suburbs have climate considerations. East Cannington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. East Bowes has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "East Cannington Should I Buy?",
       "url": "/suburbs/wa/east-cannington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

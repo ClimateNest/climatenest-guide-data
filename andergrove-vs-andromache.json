@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 38,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 34
-    },
-    {
-      "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 45
-    },
-    {
-      "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 45
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 29,
+      "scoreA": 63,
       "scoreB": 21
     },
     {
+      "name": "Heat",
+      "scoreA": 44,
+      "scoreB": 33
+    },
+    {
+      "name": "Storm",
+      "scoreA": 36,
+      "scoreB": 29
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 12,
+      "scoreB": 26
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 6
+      "scoreA": 8,
+      "scoreB": 15
     }
   ],
-  "verdict": "Andromache has a lower overall climate risk score (29/100) compared to Andergrove (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Andromache has a lower overall climate risk score (25/100) compared to Andergrove (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Andergrove or Andromache safer from flooding?",
-      "answer": "Andergrove has a flood risk score of 23/100, while Andromache scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Andergrove has a flood risk score of 38/100, while Andromache scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Andergrove scores 48/100 for bushfire risk. Andromache scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Andergrove scores 63/100 for bushfire risk. Andromache scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Andergrove or Andromache?",
@@ -76,5 +76,15 @@
       "label": "Andromache Should I Buy?",
       "url": "/suburbs/qld/andromache/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

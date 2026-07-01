@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 59
+      "scoreA": 31,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 57
+      "scoreA": 25,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 52
+      "scoreA": 56,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 33
+      "scoreA": 24,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 27
+      "scoreA": 14,
+      "scoreB": 22
     }
   ],
-  "verdict": "Boggabri has a lower overall climate risk score (36/100) compared to Bohena Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boggabri has a lower overall climate risk score (27/100) compared to Bohena Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boggabri or Bohena Creek safer from flooding?",
-      "answer": "Boggabri has a flood risk score of 57/100, while Bohena Creek scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boggabri has a flood risk score of 31/100, while Bohena Creek scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boggabri scores 23/100 for bushfire risk. Bohena Creek scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boggabri scores 25/100 for bushfire risk. Bohena Creek scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boggabri or Bohena Creek?",
@@ -76,5 +76,15 @@
       "label": "Bohena Creek Should I Buy?",
       "url": "/suburbs/nsw/bohena-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

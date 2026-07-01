@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 40
+      "scoreA": 44,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
       "scoreA": 44,
-      "scoreB": 43
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 79
+      "scoreA": 79,
+      "scoreB": 67
     },
     {
       "name": "Storm",
       "scoreA": 24,
-      "scoreB": 41
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 21
     }
   ],
-  "verdict": "Acton has a lower overall climate risk score (39/100) compared to Acton Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Acton Park has a lower overall climate risk score (37/100) compared to Acton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Acton or Acton Park safer from flooding?",
-      "answer": "Acton has a flood risk score of 60/100, while Acton Park scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Acton has a flood risk score of 44/100, while Acton Park scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Acton scores 44/100 for bushfire risk. Acton Park scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Acton scores 44/100 for bushfire risk. Acton Park scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Acton or Acton Park?",
-      "answer": "Both suburbs have climate considerations. Acton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Acton Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Acton Park Should I Buy?",
       "url": "/suburbs/tas/acton-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

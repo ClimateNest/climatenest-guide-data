@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 44
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 50
+      "scoreA": 49,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 26,
+      "scoreB": 20
     }
   ],
-  "verdict": "Marcus Beach has a lower overall climate risk score (38/100) compared to Margate (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marcus Beach has a lower overall climate risk score (35/100) compared to Margate (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Marcus Beach or Margate safer from flooding?",
-      "answer": "Marcus Beach has a flood risk score of 38/100, while Margate scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marcus Beach has a flood risk score of 29/100, while Margate scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marcus Beach scores 61/100 for bushfire risk. Margate scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marcus Beach scores 40/100 for bushfire risk. Margate scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marcus Beach or Margate?",
@@ -76,5 +76,15 @@
       "label": "Margate Should I Buy?",
       "url": "/suburbs/qld/margate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 29,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 64
+      "scoreA": 37,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 66
+      "scoreA": 64,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 27,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 18,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 27
+      "scoreA": 21,
+      "scoreB": 14
     }
   ],
-  "verdict": "Mirranatwa has a lower overall climate risk score (37/100) compared to Mitcham (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mirranatwa has a lower overall climate risk score (33/100) compared to Mitcham (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mirranatwa or Mitcham safer from flooding?",
-      "answer": "Mirranatwa has a flood risk score of 40/100, while Mitcham scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mirranatwa has a flood risk score of 29/100, while Mitcham scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mirranatwa scores 31/100 for bushfire risk. Mitcham scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mirranatwa scores 37/100 for bushfire risk. Mitcham scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mirranatwa or Mitcham?",
@@ -76,5 +76,15 @@
       "label": "Mitcham Should I Buy?",
       "url": "/suburbs/vic/mitcham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

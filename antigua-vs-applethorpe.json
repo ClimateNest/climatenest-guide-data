@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 53
+      "scoreA": 38,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 58
+      "scoreA": 24,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 49
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
+      "scoreA": 37,
       "scoreB": 35
     },
     {
+      "name": "Storm",
+      "scoreA": 44,
+      "scoreB": 48
+    },
+    {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 39
+      "scoreA": 48,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Antigua has a lower overall climate risk score (38/100) compared to Applethorpe (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Antigua has a lower overall climate risk score (34/100) compared to Applethorpe (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Antigua or Applethorpe safer from flooding?",
-      "answer": "Antigua has a flood risk score of 21/100, while Applethorpe scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Antigua has a flood risk score of 38/100, while Applethorpe scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Antigua scores 34/100 for bushfire risk. Applethorpe scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Antigua scores 24/100 for bushfire risk. Applethorpe scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Antigua or Applethorpe?",
@@ -76,5 +76,15 @@
       "label": "Applethorpe Should I Buy?",
       "url": "/suburbs/qld/applethorpe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

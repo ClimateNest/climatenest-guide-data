@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 19
-    },
-    {
-      "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 68
-    },
-    {
-      "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 18,
       "scoreB": 34
     },
     {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 58
+    },
+    {
+      "name": "Storm",
+      "scoreA": 33,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 29
     }
   ],
-  "verdict": "Millers Point has a lower overall climate risk score (35/100) compared to Miller (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Miller has a lower overall climate risk score (33/100) compared to Millers Point (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Miller or Millers Point safer from flooding?",
-      "answer": "Miller has a flood risk score of 41/100, while Millers Point scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miller has a flood risk score of 25/100, while Millers Point scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miller scores 52/100 for bushfire risk. Millers Point scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miller scores 18/100 for bushfire risk. Millers Point scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miller or Millers Point?",
-      "answer": "Both suburbs have climate considerations. Millers Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Miller has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Millers Point Should I Buy?",
       "url": "/suburbs/nsw/millers-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

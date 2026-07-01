@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 30
+      "scoreA": 31,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 65
+      "scoreA": 36,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 52
+      "scoreA": 73,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 16
+      "scoreA": 28,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
       "scoreA": 13,
-      "scoreB": 16
+      "scoreB": 21
     }
   ],
-  "verdict": "Ridgeway has a lower overall climate risk score (33/100) compared to Riana (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Riana has a lower overall climate risk score (34/100) compared to Ridgeway (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Riana or Ridgeway safer from flooding?",
-      "answer": "Riana has a flood risk score of 50/100, while Ridgeway scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Riana has a flood risk score of 31/100, while Ridgeway scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Riana scores 56/100 for bushfire risk. Ridgeway scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Riana scores 36/100 for bushfire risk. Ridgeway scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Riana or Ridgeway?",
-      "answer": "Both suburbs have climate considerations. Ridgeway has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Riana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ridgeway Should I Buy?",
       "url": "/suburbs/tas/ridgeway/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

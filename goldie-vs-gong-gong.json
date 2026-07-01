@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
+      "scoreA": 57,
       "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 55
+      "scoreA": 18,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 69
+      "scoreA": 75,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 46
+      "scoreA": 50,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
       "scoreA": 28,
-      "scoreB": 12
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 27
+      "scoreA": 20,
+      "scoreB": 11
     }
   ],
-  "verdict": "Goldie has a lower overall climate risk score (38/100) compared to Gong Gong (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gong Gong has a lower overall climate risk score (34/100) compared to Goldie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Goldie or Gong Gong safer from flooding?",
-      "answer": "Goldie has a flood risk score of 38/100, while Gong Gong scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goldie has a flood risk score of 57/100, while Gong Gong scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goldie scores 31/100 for bushfire risk. Gong Gong scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goldie scores 18/100 for bushfire risk. Gong Gong scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goldie or Gong Gong?",
-      "answer": "Both suburbs have climate considerations. Goldie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gong Gong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gong Gong Should I Buy?",
       "url": "/suburbs/vic/gong-gong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

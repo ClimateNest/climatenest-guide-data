@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 48
+      "scoreA": 30,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 52
+      "scoreA": 25,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 70
+      "scoreA": 67,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 14
+      "scoreA": 60,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 10
+      "scoreA": 15,
+      "scoreB": 23
     }
   ],
-  "verdict": "Yeoval has a lower overall climate risk score (39/100) compared to Yennora (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yeoval has a lower overall climate risk score (33/100) compared to Yennora (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yennora or Yeoval safer from flooding?",
-      "answer": "Yennora has a flood risk score of 42/100, while Yeoval scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yennora has a flood risk score of 30/100, while Yeoval scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yennora scores 65/100 for bushfire risk. Yeoval scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yennora scores 25/100 for bushfire risk. Yeoval scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yennora or Yeoval?",
@@ -76,5 +76,15 @@
       "label": "Yeoval Should I Buy?",
       "url": "/suburbs/nsw/yeoval/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

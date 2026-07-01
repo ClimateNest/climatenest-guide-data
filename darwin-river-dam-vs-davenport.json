@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 50,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
       "scoreA": 17,
-      "scoreB": 63
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 33,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 33
+      "scoreA": 35,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 6
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Darwin River Dam has a lower overall climate risk score (31/100) compared to Davenport (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Darwin River Dam has a lower overall climate risk score (29/100) compared to Davenport (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Darwin River Dam or Davenport safer from flooding?",
-      "answer": "Darwin River Dam has a flood risk score of 56/100, while Davenport scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Darwin River Dam has a flood risk score of 50/100, while Davenport scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Darwin River Dam scores 17/100 for bushfire risk. Davenport scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Darwin River Dam scores 17/100 for bushfire risk. Davenport scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Darwin River Dam or Davenport?",
@@ -76,5 +76,15 @@
       "label": "Davenport Should I Buy?",
       "url": "/suburbs/nt/davenport/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

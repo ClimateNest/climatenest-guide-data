@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 48
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 46
-    },
-    {
-      "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 62
-    },
-    {
-      "name": "Storm",
-      "scoreA": 36,
+      "scoreA": 45,
       "scoreB": 43
     },
     {
+      "name": "Bushfire",
+      "scoreA": 57,
+      "scoreB": 57
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 63
+    },
+    {
+      "name": "Storm",
+      "scoreA": 33,
+      "scoreB": 25
+    },
+    {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 39
+      "scoreA": 24,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Blackmans Flat has a lower overall climate risk score (32/100) compared to Blacksmiths (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blackmans Flat has a lower overall climate risk score (38/100) compared to Blacksmiths (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Blackmans Flat or Blacksmiths safer from flooding?",
-      "answer": "Blackmans Flat has a flood risk score of 39/100, while Blacksmiths scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackmans Flat has a flood risk score of 45/100, while Blacksmiths scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackmans Flat scores 18/100 for bushfire risk. Blacksmiths scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackmans Flat scores 57/100 for bushfire risk. Blacksmiths scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackmans Flat or Blacksmiths?",
@@ -76,5 +76,15 @@
       "label": "Blacksmiths Should I Buy?",
       "url": "/suburbs/nsw/blacksmiths/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

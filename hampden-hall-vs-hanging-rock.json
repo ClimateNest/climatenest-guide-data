@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 56
+      "scoreA": 36,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 48
+      "scoreA": 54,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 69
+      "scoreA": 60,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 37
+      "scoreA": 21,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 35
+      "scoreA": 50,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 11
     }
   ],
-  "verdict": "Hanging Rock has a lower overall climate risk score (43/100) compared to Hampden Hall (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hanging Rock has a lower overall climate risk score (37/100) compared to Hampden Hall (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hampden Hall or Hanging Rock safer from flooding?",
-      "answer": "Hampden Hall has a flood risk score of 55/100, while Hanging Rock scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hampden Hall has a flood risk score of 36/100, while Hanging Rock scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hampden Hall scores 62/100 for bushfire risk. Hanging Rock scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hampden Hall scores 54/100 for bushfire risk. Hanging Rock scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hampden Hall or Hanging Rock?",
@@ -76,5 +76,15 @@
       "label": "Hanging Rock Should I Buy?",
       "url": "/suburbs/nsw/hanging-rock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

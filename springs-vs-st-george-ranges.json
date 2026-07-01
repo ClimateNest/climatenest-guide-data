@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 57
+      "scoreA": 35,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 29
+      "scoreA": 55,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 36
+      "scoreA": 70,
+      "scoreB": 49
     },
     {
       "name": "Storm",
       "scoreA": 23,
-      "scoreB": 25
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 29
+      "scoreA": 16,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 10
     }
   ],
-  "verdict": "St George Ranges has a lower overall climate risk score (31/100) compared to Springs (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "St George Ranges has a lower overall climate risk score (35/100) compared to Springs (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Springs or St George Ranges safer from flooding?",
-      "answer": "Springs has a flood risk score of 36/100, while St George Ranges scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Springs has a flood risk score of 35/100, while St George Ranges scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Springs scores 33/100 for bushfire risk. St George Ranges scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Springs scores 55/100 for bushfire risk. St George Ranges scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Springs or St George Ranges?",
@@ -76,5 +76,15 @@
       "label": "St George Ranges Should I Buy?",
       "url": "/suburbs/wa/st-george-ranges/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 57
+      "scoreA": 26,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 37,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 80
+      "scoreA": 71,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 42,
       "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 27
+      "scoreA": 10,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 27
     }
   ],
-  "verdict": "Ouse has a lower overall climate risk score (42/100) compared to Otago (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Otago has a lower overall climate risk score (34/100) compared to Ouse (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Otago or Ouse safer from flooding?",
-      "answer": "Otago has a flood risk score of 58/100, while Ouse scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Otago has a flood risk score of 26/100, while Ouse scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Otago scores 47/100 for bushfire risk. Ouse scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Otago scores 37/100 for bushfire risk. Ouse scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Otago or Ouse?",
-      "answer": "Both suburbs have climate considerations. Ouse has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Otago has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ouse Should I Buy?",
       "url": "/suburbs/tas/ouse/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
+      "scoreA": 63,
       "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 52
+      "scoreA": 31,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 48
+      "scoreA": 38,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 15
     }
   ],
-  "verdict": "Clovelly has a lower overall climate risk score (33/100) compared to Clothiers Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Clovelly has a lower overall climate risk score (33/100) compared to Clothiers Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Clothiers Creek or Clovelly safer from flooding?",
-      "answer": "Clothiers Creek has a flood risk score of 27/100, while Clovelly scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clothiers Creek has a flood risk score of 48/100, while Clovelly scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clothiers Creek scores 38/100 for bushfire risk. Clovelly scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clothiers Creek scores 63/100 for bushfire risk. Clovelly scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clothiers Creek or Clovelly?",
@@ -76,5 +76,15 @@
       "label": "Clovelly Should I Buy?",
       "url": "/suburbs/nsw/clovelly/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

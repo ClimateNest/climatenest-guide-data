@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 29
+      "scoreA": 48,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 19
+      "scoreA": 36,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 56
+      "scoreA": 75,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 48
+      "scoreA": 48,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 24
+      "scoreB": 10
     }
   ],
-  "verdict": "Mount Clarence has a lower overall climate risk score (32/100) compared to Mount Claremont (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Clarence has a lower overall climate risk score (36/100) compared to Mount Claremont (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Claremont or Mount Clarence safer from flooding?",
-      "answer": "Mount Claremont has a flood risk score of 49/100, while Mount Clarence scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Claremont has a flood risk score of 48/100, while Mount Clarence scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Claremont scores 42/100 for bushfire risk. Mount Clarence scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Claremont scores 36/100 for bushfire risk. Mount Clarence scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Claremont or Mount Clarence?",
@@ -76,5 +76,15 @@
       "label": "Mount Clarence Should I Buy?",
       "url": "/suburbs/wa/mount-clarence/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

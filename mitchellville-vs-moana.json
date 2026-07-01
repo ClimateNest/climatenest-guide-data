@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 72
+      "scoreA": 57,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 35
+      "scoreA": 34,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
       "scoreA": 23,
-      "scoreB": 26
+      "scoreB": 12
     }
   ],
-  "verdict": "Mitchellville has a lower overall climate risk score (34/100) compared to Moana (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Moana has a lower overall climate risk score (28/100) compared to Mitchellville (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mitchellville or Moana safer from flooding?",
-      "answer": "Mitchellville has a flood risk score of 36/100, while Moana scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mitchellville has a flood risk score of 44/100, while Moana scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mitchellville scores 19/100 for bushfire risk. Moana scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mitchellville scores 17/100 for bushfire risk. Moana scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mitchellville or Moana?",
-      "answer": "Both suburbs have climate considerations. Mitchellville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Moana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Moana Should I Buy?",
       "url": "/suburbs/sa/moana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

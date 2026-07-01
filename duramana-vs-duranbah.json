@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 47
+      "scoreA": 52,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 55
+      "scoreA": 17,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 45
+      "scoreA": 51,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 37
+      "scoreA": 50,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
+      "scoreA": 26,
       "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 16,
+      "scoreB": 21
     }
   ],
-  "verdict": "Duramana has a lower overall climate risk score (41/100) compared to Duranbah (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Duramana has a lower overall climate risk score (35/100) compared to Duranbah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Duramana or Duranbah safer from flooding?",
-      "answer": "Duramana has a flood risk score of 56/100, while Duranbah scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Duramana has a flood risk score of 52/100, while Duranbah scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Duramana scores 48/100 for bushfire risk. Duranbah scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Duramana scores 17/100 for bushfire risk. Duranbah scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Duramana or Duranbah?",
@@ -76,5 +76,15 @@
       "label": "Duranbah Should I Buy?",
       "url": "/suburbs/nsw/duranbah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 60
+      "scoreA": 35,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 79
+      "scoreA": 56,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 37,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 16,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 23
     }
   ],
-  "verdict": "Lower King has a lower overall climate risk score (39/100) compared to Lowlands (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lower King has a lower overall climate risk score (30/100) compared to Lowlands (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lower King or Lowlands safer from flooding?",
-      "answer": "Lower King has a flood risk score of 35/100, while Lowlands scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lower King has a flood risk score of 20/100, while Lowlands scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lower King scores 54/100 for bushfire risk. Lowlands scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lower King scores 35/100 for bushfire risk. Lowlands scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lower King or Lowlands?",
@@ -76,5 +76,15 @@
       "label": "Lowlands Should I Buy?",
       "url": "/suburbs/wa/lowlands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

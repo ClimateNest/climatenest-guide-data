@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 50,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 36
+      "scoreA": 50,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 77
+      "scoreA": 38,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 53
+      "scoreA": 38,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 29
     }
   ],
-  "verdict": "Roseberry has a lower overall climate risk score (31/100) compared to Rosebery (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Roseberry has a lower overall climate risk score (40/100) compared to Rosebery (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Roseberry or Rosebery safer from flooding?",
-      "answer": "Roseberry has a flood risk score of 22/100, while Rosebery scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Roseberry has a flood risk score of 50/100, while Rosebery scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Roseberry scores 16/100 for bushfire risk. Rosebery scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Roseberry scores 50/100 for bushfire risk. Rosebery scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Roseberry or Rosebery?",
@@ -76,5 +76,15 @@
       "label": "Rosebery Should I Buy?",
       "url": "/suburbs/nsw/rosebery/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

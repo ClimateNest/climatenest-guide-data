@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 55
+      "scoreA": 55,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 51
+      "scoreA": 51,
+      "scoreB": 58
     },
     {
       "name": "Heat",
       "scoreA": 54,
-      "scoreB": 65
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 44
+      "scoreA": 37,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 50
+      "scoreA": 15,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 19
     }
   ],
-  "verdict": "Beloka has a lower overall climate risk score (39/100) compared to Belrose (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beloka has a lower overall climate risk score (39/100) compared to Belrose (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Beloka or Belrose safer from flooding?",
-      "answer": "Beloka has a flood risk score of 22/100, while Belrose scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beloka has a flood risk score of 55/100, while Belrose scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beloka scores 62/100 for bushfire risk. Belrose scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beloka scores 51/100 for bushfire risk. Belrose scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beloka or Belrose?",
@@ -76,5 +76,15 @@
       "label": "Belrose Should I Buy?",
       "url": "/suburbs/nsw/belrose/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

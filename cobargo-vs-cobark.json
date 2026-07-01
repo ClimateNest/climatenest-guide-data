@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 47
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 24,
+      "scoreA": 53,
       "scoreB": 29
     },
     {
+      "name": "Bushfire",
+      "scoreA": 26,
+      "scoreB": 40
+    },
+    {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 50
+      "scoreA": 70,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 39
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 38,
       "scoreB": 47
     },
     {
+      "name": "Coastal",
+      "scoreA": 24,
+      "scoreB": 54
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 27,
+      "scoreB": 22
     }
   ],
-  "verdict": "Cobargo has a lower overall climate risk score (36/100) compared to Cobark (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cobargo has a lower overall climate risk score (40/100) compared to Cobark (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cobargo or Cobark safer from flooding?",
-      "answer": "Cobargo has a flood risk score of 47/100, while Cobark scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cobargo has a flood risk score of 53/100, while Cobark scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cobargo scores 24/100 for bushfire risk. Cobark scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cobargo scores 26/100 for bushfire risk. Cobark scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cobargo or Cobark?",
@@ -76,5 +76,15 @@
       "label": "Cobark Should I Buy?",
       "url": "/suburbs/nsw/cobark/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

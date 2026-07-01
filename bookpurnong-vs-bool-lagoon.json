@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 41,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 51
+      "scoreA": 48,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 29
+      "scoreA": 27,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Bookpurnong has a lower overall climate risk score (31/100) compared to Bool Lagoon (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bool Lagoon has a lower overall climate risk score (31/100) compared to Bookpurnong (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bookpurnong or Bool Lagoon safer from flooding?",
-      "answer": "Bookpurnong has a flood risk score of 28/100, while Bool Lagoon scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bookpurnong has a flood risk score of 41/100, while Bool Lagoon scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bookpurnong scores 36/100 for bushfire risk. Bool Lagoon scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bookpurnong scores 48/100 for bushfire risk. Bool Lagoon scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bookpurnong or Bool Lagoon?",
-      "answer": "Both suburbs have climate considerations. Bookpurnong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bool Lagoon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bool Lagoon Should I Buy?",
       "url": "/suburbs/sa/bool-lagoon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

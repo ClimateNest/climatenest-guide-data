@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 47
+      "scoreA": 58,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 51
+      "scoreA": 58,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 17
+      "scoreA": 37,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
+      "scoreA": 18,
       "scoreB": 14
     }
   ],
-  "verdict": "Ogmore has a lower overall climate risk score (34/100) compared to Ocean View (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ogmore has a lower overall climate risk score (31/100) compared to Ocean View (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ocean View or Ogmore safer from flooding?",
-      "answer": "Ocean View has a flood risk score of 55/100, while Ogmore scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ocean View has a flood risk score of 58/100, while Ogmore scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ocean View scores 28/100 for bushfire risk. Ogmore scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ocean View scores 58/100 for bushfire risk. Ogmore scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ocean View or Ogmore?",
@@ -76,5 +76,15 @@
       "label": "Ogmore Should I Buy?",
       "url": "/suburbs/qld/ogmore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

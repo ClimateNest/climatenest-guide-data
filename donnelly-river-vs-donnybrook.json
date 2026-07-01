@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 38
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 48
-    },
-    {
-      "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 64
-    },
-    {
-      "name": "Storm",
-      "scoreA": 48,
+      "scoreA": 27,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 46,
+      "scoreB": 54
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 70
+    },
+    {
+      "name": "Storm",
+      "scoreA": 38,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 13
     }
   ],
-  "verdict": "Donnybrook has a lower overall climate risk score (37/100) compared to Donnelly River (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Donnelly River has a lower overall climate risk score (35/100) compared to Donnybrook (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Donnelly River or Donnybrook safer from flooding?",
-      "answer": "Donnelly River has a flood risk score of 47/100, while Donnybrook scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Donnelly River has a flood risk score of 27/100, while Donnybrook scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Donnelly River scores 60/100 for bushfire risk. Donnybrook scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Donnelly River scores 46/100 for bushfire risk. Donnybrook scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Donnelly River or Donnybrook?",
-      "answer": "Both suburbs have climate considerations. Donnybrook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Donnelly River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Donnybrook Should I Buy?",
       "url": "/suburbs/wa/donnybrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

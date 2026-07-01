@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 44
+      "scoreA": 58,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 51,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 60
+      "scoreA": 76,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 44
+      "scoreA": 36,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 23,
       "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 25
     }
   ],
-  "verdict": "Bendoc has a lower overall climate risk score (34/100) compared to Benjeroop (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Benjeroop has a lower overall climate risk score (40/100) compared to Bendoc (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bendoc or Benjeroop safer from flooding?",
-      "answer": "Bendoc has a flood risk score of 53/100, while Benjeroop scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bendoc has a flood risk score of 58/100, while Benjeroop scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bendoc scores 35/100 for bushfire risk. Benjeroop scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bendoc scores 51/100 for bushfire risk. Benjeroop scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bendoc or Benjeroop?",
-      "answer": "Both suburbs have climate considerations. Bendoc has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Benjeroop has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Benjeroop Should I Buy?",
       "url": "/suburbs/vic/benjeroop/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

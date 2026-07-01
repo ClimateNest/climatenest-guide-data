@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 28
+      "scoreA": 40,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 76
+      "scoreA": 60,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 38
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 14,
+      "scoreB": 28
     }
   ],
-  "verdict": "Bulla has a lower overall climate risk score (35/100) compared to Bulga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bulga has a lower overall climate risk score (39/100) compared to Bulla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bulga or Bulla safer from flooding?",
-      "answer": "Bulga has a flood risk score of 43/100, while Bulla scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bulga has a flood risk score of 40/100, while Bulla scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bulga scores 49/100 for bushfire risk. Bulla scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bulga scores 45/100 for bushfire risk. Bulla scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bulga or Bulla?",
-      "answer": "Both suburbs have climate considerations. Bulla has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bulga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bulla Should I Buy?",
       "url": "/suburbs/vic/bulla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

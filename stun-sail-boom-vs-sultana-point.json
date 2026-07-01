@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 22
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 58,
+      "scoreA": 33,
       "scoreB": 35
     },
     {
+      "name": "Bushfire",
+      "scoreA": 20,
+      "scoreB": 17
+    },
+    {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 55
+      "scoreA": 53,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 30
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 24
+      "scoreA": 18,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 22
     }
   ],
-  "verdict": "Sultana Point has a lower overall climate risk score (31/100) compared to Stun'Sail Boom (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Stun'Sail Boom has a lower overall climate risk score (28/100) compared to Sultana Point (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stun'Sail Boom or Sultana Point safer from flooding?",
-      "answer": "Stun'Sail Boom has a flood risk score of 58/100, while Sultana Point scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stun'Sail Boom has a flood risk score of 33/100, while Sultana Point scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stun'Sail Boom scores 58/100 for bushfire risk. Sultana Point scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stun'Sail Boom scores 20/100 for bushfire risk. Sultana Point scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stun'Sail Boom or Sultana Point?",
-      "answer": "Both suburbs have climate considerations. Sultana Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Stun'Sail Boom has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sultana Point Should I Buy?",
       "url": "/suburbs/sa/sultana-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

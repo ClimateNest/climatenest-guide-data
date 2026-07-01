@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 44
+      "scoreA": 35,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 33
+      "scoreA": 52,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 40
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 14
+      "scoreA": 55,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 10
     }
   ],
-  "verdict": "Bluewater has a lower overall climate risk score (30/100) compared to Blue Mountain Heights (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bluewater has a lower overall climate risk score (37/100) compared to Blue Mountain Heights (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blue Mountain Heights or Bluewater safer from flooding?",
-      "answer": "Blue Mountain Heights has a flood risk score of 27/100, while Bluewater scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blue Mountain Heights has a flood risk score of 35/100, while Bluewater scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blue Mountain Heights scores 25/100 for bushfire risk. Bluewater scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blue Mountain Heights scores 52/100 for bushfire risk. Bluewater scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blue Mountain Heights or Bluewater?",
@@ -76,5 +76,15 @@
       "label": "Bluewater Should I Buy?",
       "url": "/suburbs/qld/bluewater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

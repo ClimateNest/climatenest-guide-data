@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 33
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 79,
+      "scoreA": 34,
       "scoreB": 56
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 21
+    },
+    {
+      "name": "Heat",
+      "scoreA": 59,
+      "scoreB": 64
+    },
+    {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 25
     }
   ],
-  "verdict": "Somerville has a lower overall climate risk score (34/100) compared to Somerton (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Somerton has a lower overall climate risk score (33/100) compared to Somerville (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Somerton or Somerville safer from flooding?",
-      "answer": "Somerton has a flood risk score of 36/100, while Somerville scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Somerton has a flood risk score of 34/100, while Somerville scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Somerton scores 50/100 for bushfire risk. Somerville scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Somerton scores 28/100 for bushfire risk. Somerville scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Somerton or Somerville?",
-      "answer": "Both suburbs have climate considerations. Somerville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Somerton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Somerville Should I Buy?",
       "url": "/suburbs/vic/somerville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

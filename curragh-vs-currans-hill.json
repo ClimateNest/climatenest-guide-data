@@ -14,23 +14,23 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 60
+      "scoreA": 46,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 71
+      "scoreA": 52,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
@@ -39,24 +39,24 @@
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Curragh has a lower overall climate risk score (39/100) compared to Currans Hill (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Currans Hill has a lower overall climate risk score (32/100) compared to Curragh (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Curragh or Currans Hill safer from flooding?",
-      "answer": "Curragh has a flood risk score of 60/100, while Currans Hill scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Curragh has a flood risk score of 55/100, while Currans Hill scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Curragh scores 25/100 for bushfire risk. Currans Hill scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Curragh scores 46/100 for bushfire risk. Currans Hill scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Curragh or Currans Hill?",
-      "answer": "Both suburbs have climate considerations. Curragh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Currans Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Currans Hill Should I Buy?",
       "url": "/suburbs/nsw/currans-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

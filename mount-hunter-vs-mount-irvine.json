@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 21,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 48
+      "scoreA": 60,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 68
+      "scoreA": 78,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 18
+      "scoreA": 55,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 26
     }
   ],
-  "verdict": "Mount Hunter has a lower overall climate risk score (34/100) compared to Mount Irvine (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Irvine has a lower overall climate risk score (39/100) compared to Mount Hunter (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Hunter or Mount Irvine safer from flooding?",
-      "answer": "Mount Hunter has a flood risk score of 38/100, while Mount Irvine scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Hunter has a flood risk score of 21/100, while Mount Irvine scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Hunter scores 30/100 for bushfire risk. Mount Irvine scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Hunter scores 60/100 for bushfire risk. Mount Irvine scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Hunter or Mount Irvine?",
-      "answer": "Both suburbs have climate considerations. Mount Hunter has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Irvine has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Irvine Should I Buy?",
       "url": "/suburbs/nsw/mount-irvine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4475,
+    "projected2030": 6265,
+    "projected2050": 11636
+  },
+  "valueImpact": {
+    "dragPercent": 2.72,
+    "description": "Properties in this area may face a 2.72% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

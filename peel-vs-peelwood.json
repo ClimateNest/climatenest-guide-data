@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 58
+      "scoreA": 29,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 28
-    },
-    {
-      "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 79
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 47
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 18,
+      "scoreA": 38,
       "scoreB": 22
     },
     {
+      "name": "Heat",
+      "scoreA": 78,
+      "scoreB": 69
+    },
+    {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 26
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 20,
+      "scoreB": 14
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 14
     }
   ],
-  "verdict": "Peel has a lower overall climate risk score (33/100) compared to Peelwood (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Peelwood has a lower overall climate risk score (30/100) compared to Peel (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Peel or Peelwood safer from flooding?",
-      "answer": "Peel has a flood risk score of 46/100, while Peelwood scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Peel has a flood risk score of 29/100, while Peelwood scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Peel scores 36/100 for bushfire risk. Peelwood scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Peel scores 38/100 for bushfire risk. Peelwood scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Peel or Peelwood?",
-      "answer": "Both suburbs have climate considerations. Peel has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Peelwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Peelwood Should I Buy?",
       "url": "/suburbs/nsw/peelwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

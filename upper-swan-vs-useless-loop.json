@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 28
+      "scoreA": 51,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 64
+      "scoreA": 62,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 68,
+      "scoreA": 73,
       "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 34
+      "scoreA": 22,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Useless Loop has a lower overall climate risk score (31/100) compared to Upper Swan (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Useless Loop has a lower overall climate risk score (32/100) compared to Upper Swan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Upper Swan or Useless Loop safer from flooding?",
-      "answer": "Upper Swan has a flood risk score of 48/100, while Useless Loop scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Upper Swan has a flood risk score of 51/100, while Useless Loop scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Upper Swan scores 37/100 for bushfire risk. Useless Loop scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Upper Swan scores 62/100 for bushfire risk. Useless Loop scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Upper Swan or Useless Loop?",
@@ -76,5 +76,15 @@
       "label": "Useless Loop Should I Buy?",
       "url": "/suburbs/wa/useless-loop/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

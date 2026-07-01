@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 40
+      "scoreA": 31,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 52
+      "scoreA": 63,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 42
+      "scoreA": 40,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 22
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 17
     }
   ],
-  "verdict": "Humeburn has a lower overall climate risk score (34/100) compared to Hull Heads (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Humeburn has a lower overall climate risk score (34/100) compared to Hull Heads (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hull Heads or Humeburn safer from flooding?",
-      "answer": "Hull Heads has a flood risk score of 44/100, while Humeburn scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hull Heads has a flood risk score of 31/100, while Humeburn scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hull Heads scores 59/100 for bushfire risk. Humeburn scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hull Heads scores 63/100 for bushfire risk. Humeburn scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hull Heads or Humeburn?",
@@ -76,5 +76,15 @@
       "label": "Humeburn Should I Buy?",
       "url": "/suburbs/qld/humeburn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

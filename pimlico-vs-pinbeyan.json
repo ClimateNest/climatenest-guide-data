@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 23
+      "scoreA": 33,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 45
+      "scoreA": 36,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 80
+      "scoreA": 44,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 22
+      "scoreA": 45,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 19
     }
   ],
-  "verdict": "Pimlico has a lower overall climate risk score (33/100) compared to Pinbeyan (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Pinbeyan has a lower overall climate risk score (29/100) compared to Pimlico (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pimlico or Pinbeyan safer from flooding?",
-      "answer": "Pimlico has a flood risk score of 32/100, while Pinbeyan scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pimlico has a flood risk score of 33/100, while Pinbeyan scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pimlico scores 24/100 for bushfire risk. Pinbeyan scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pimlico scores 36/100 for bushfire risk. Pinbeyan scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pimlico or Pinbeyan?",
-      "answer": "Both suburbs have climate considerations. Pimlico has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pinbeyan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pinbeyan Should I Buy?",
       "url": "/suburbs/nsw/pinbeyan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

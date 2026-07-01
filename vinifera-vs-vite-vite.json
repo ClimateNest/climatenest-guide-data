@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 59
+      "scoreA": 27,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 78
+      "scoreA": 62,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 43
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 23,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
+      "scoreA": 15,
       "scoreB": 23
     }
   ],
-  "verdict": "Vinifera has a lower overall climate risk score (38/100) compared to Vite Vite (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Vinifera has a lower overall climate risk score (32/100) compared to Vite Vite (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Vinifera or Vite Vite safer from flooding?",
-      "answer": "Vinifera has a flood risk score of 24/100, while Vite Vite scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Vinifera has a flood risk score of 25/100, while Vite Vite scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Vinifera scores 51/100 for bushfire risk. Vite Vite scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Vinifera scores 27/100 for bushfire risk. Vite Vite scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Vinifera or Vite Vite?",
@@ -76,5 +76,15 @@
       "label": "Vite Vite Should I Buy?",
       "url": "/suburbs/vic/vite-vite/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

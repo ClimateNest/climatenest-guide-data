@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 54
+      "scoreA": 20,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 52
+      "scoreA": 36,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 71,
+      "scoreA": 76,
       "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 14
     }
   ],
-  "verdict": "Boulder has a lower overall climate risk score (41/100) compared to Bouvard (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Boulder has a lower overall climate risk score (39/100) compared to Bouvard (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boulder or Bouvard safer from flooding?",
-      "answer": "Boulder has a flood risk score of 60/100, while Bouvard scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boulder has a flood risk score of 20/100, while Bouvard scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boulder scores 49/100 for bushfire risk. Bouvard scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boulder scores 36/100 for bushfire risk. Bouvard scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boulder or Bouvard?",
@@ -76,5 +76,15 @@
       "label": "Bouvard Should I Buy?",
       "url": "/suburbs/wa/bouvard/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

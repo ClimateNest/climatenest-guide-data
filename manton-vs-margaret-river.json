@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 52
+      "scoreA": 44,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 53
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 42
+      "scoreA": 42,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 44
+      "scoreA": 32,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 15
+      "scoreA": 12,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 17
+      "scoreA": 18,
+      "scoreB": 20
     }
   ],
-  "verdict": "Manton has a lower overall climate risk score (36/100) compared to Margaret River (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Margaret River has a lower overall climate risk score (29/100) compared to Manton (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Manton or Margaret River safer from flooding?",
-      "answer": "Manton has a flood risk score of 37/100, while Margaret River scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Manton has a flood risk score of 44/100, while Margaret River scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Manton scores 40/100 for bushfire risk. Margaret River scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Manton scores 34/100 for bushfire risk. Margaret River scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Manton or Margaret River?",
-      "answer": "Both suburbs have climate considerations. Manton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Margaret River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Margaret River Should I Buy?",
       "url": "/suburbs/nt/margaret-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3263,
+    "projected2030": 4568,
+    "projected2050": 8483
+  },
+  "valueImpact": {
+    "dragPercent": 0.05,
+    "description": "Properties in this area may face a 0.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

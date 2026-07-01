@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 31
+      "scoreA": 44,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 18
+      "scoreA": 52,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 56
+      "scoreA": 72,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 28
+      "scoreA": 57,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Panuara has a lower overall climate risk score (31/100) compared to Panania (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Panuara has a lower overall climate risk score (36/100) compared to Panania (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Panania or Panuara safer from flooding?",
-      "answer": "Panania has a flood risk score of 51/100, while Panuara scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Panania has a flood risk score of 44/100, while Panuara scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Panania scores 15/100 for bushfire risk. Panuara scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Panania scores 52/100 for bushfire risk. Panuara scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Panania or Panuara?",
@@ -76,5 +76,15 @@
       "label": "Panuara Should I Buy?",
       "url": "/suburbs/nsw/panuara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

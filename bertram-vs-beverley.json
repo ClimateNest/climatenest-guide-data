@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 41
+      "scoreA": 51,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 48
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 64
+      "scoreA": 59,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 20
+      "scoreA": 22,
+      "scoreB": 12
     }
   ],
-  "verdict": "Bertram has a lower overall climate risk score (29/100) compared to Beverley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Beverley has a lower overall climate risk score (36/100) compared to Bertram (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bertram or Beverley safer from flooding?",
-      "answer": "Bertram has a flood risk score of 25/100, while Beverley scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bertram has a flood risk score of 51/100, while Beverley scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bertram scores 19/100 for bushfire risk. Beverley scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bertram scores 34/100 for bushfire risk. Beverley scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bertram or Beverley?",
-      "answer": "Both suburbs have climate considerations. Bertram has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Beverley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Beverley Should I Buy?",
       "url": "/suburbs/wa/beverley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

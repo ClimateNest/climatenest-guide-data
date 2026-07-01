@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 27
+      "scoreA": 51,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 59
+      "scoreA": 32,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 39
+      "scoreA": 60,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 40
+      "scoreA": 43,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 20
+      "scoreA": 36,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 29
+      "scoreA": 10,
+      "scoreB": 22
     }
   ],
-  "verdict": "Bellata has a lower overall climate risk score (36/100) compared to Bellambi (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bellata has a lower overall climate risk score (33/100) compared to Bellambi (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bellambi or Bellata safer from flooding?",
-      "answer": "Bellambi has a flood risk score of 45/100, while Bellata scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellambi has a flood risk score of 51/100, while Bellata scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellambi scores 57/100 for bushfire risk. Bellata scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellambi scores 32/100 for bushfire risk. Bellata scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellambi or Bellata?",
@@ -76,5 +76,15 @@
       "label": "Bellata Should I Buy?",
       "url": "/suburbs/nsw/bellata/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

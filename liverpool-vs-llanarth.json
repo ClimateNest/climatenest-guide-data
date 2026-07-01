@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 32
+      "scoreA": 54,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 16
+      "scoreA": 55,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 72
+      "scoreA": 80,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 27
+      "scoreA": 45,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 46,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 22,
+      "scoreB": 17
     }
   ],
-  "verdict": "Llanarth has a lower overall climate risk score (31/100) compared to Liverpool (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Llanarth has a lower overall climate risk score (36/100) compared to Liverpool (50/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Liverpool or Llanarth safer from flooding?",
-      "answer": "Liverpool has a flood risk score of 42/100, while Llanarth scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Liverpool has a flood risk score of 54/100, while Llanarth scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Liverpool scores 42/100 for bushfire risk. Llanarth scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Liverpool scores 55/100 for bushfire risk. Llanarth scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Liverpool or Llanarth?",
@@ -76,5 +76,15 @@
       "label": "Llanarth Should I Buy?",
       "url": "/suburbs/nsw/llanarth/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4623,
+    "projected2030": 6472,
+    "projected2050": 12019
+  },
+  "valueImpact": {
+    "dragPercent": 3.05,
+    "description": "Properties in this area may face a 3.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

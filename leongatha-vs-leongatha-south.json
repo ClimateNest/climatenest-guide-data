@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 60
+      "scoreA": 60,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 25
+      "scoreA": 61,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 73
+      "scoreA": 61,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 40,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 10
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 11,
+      "scoreB": 22
     }
   ],
-  "verdict": "Leongatha South has a lower overall climate risk score (34/100) compared to Leongatha (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Leongatha South has a lower overall climate risk score (41/100) compared to Leongatha (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Leongatha or Leongatha South safer from flooding?",
-      "answer": "Leongatha has a flood risk score of 21/100, while Leongatha South scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Leongatha has a flood risk score of 60/100, while Leongatha South scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Leongatha scores 59/100 for bushfire risk. Leongatha South scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Leongatha scores 61/100 for bushfire risk. Leongatha South scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Leongatha or Leongatha South?",
@@ -76,5 +76,15 @@
       "label": "Leongatha South Should I Buy?",
       "url": "/suburbs/vic/leongatha-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

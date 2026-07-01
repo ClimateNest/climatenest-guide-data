@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 49
+      "scoreA": 24,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 39
+      "scoreA": 16,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 47
+      "scoreA": 44,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 48
+      "scoreA": 38,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 29
     }
   ],
-  "verdict": "Bunya has a lower overall climate risk score (33/100) compared to Bunya Mountains (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bunya has a lower overall climate risk score (30/100) compared to Bunya Mountains (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bunya or Bunya Mountains safer from flooding?",
-      "answer": "Bunya has a flood risk score of 22/100, while Bunya Mountains scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bunya has a flood risk score of 24/100, while Bunya Mountains scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bunya scores 44/100 for bushfire risk. Bunya Mountains scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bunya scores 16/100 for bushfire risk. Bunya Mountains scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bunya or Bunya Mountains?",
@@ -76,5 +76,15 @@
       "label": "Bunya Mountains Should I Buy?",
       "url": "/suburbs/qld/bunya-mountains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

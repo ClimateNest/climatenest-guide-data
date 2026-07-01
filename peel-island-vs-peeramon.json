@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 40
+      "scoreA": 48,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
       "scoreA": 57,
-      "scoreB": 21
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 37,
+      "scoreA": 44,
       "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 27
+      "scoreA": 48,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 19
+      "scoreA": 35,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 9
+      "scoreA": 13,
+      "scoreB": 7
     }
   ],
-  "verdict": "Peeramon has a lower overall climate risk score (24/100) compared to Peel Island (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Peeramon has a lower overall climate risk score (25/100) compared to Peel Island (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Peel Island or Peeramon safer from flooding?",
-      "answer": "Peel Island has a flood risk score of 42/100, while Peeramon scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Peel Island has a flood risk score of 48/100, while Peeramon scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Peel Island scores 57/100 for bushfire risk. Peeramon scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Peel Island scores 57/100 for bushfire risk. Peeramon scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Peel Island or Peeramon?",
@@ -76,5 +76,15 @@
       "label": "Peeramon Should I Buy?",
       "url": "/suburbs/qld/peeramon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

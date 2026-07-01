@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 44
+      "scoreA": 33,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 42
+      "scoreA": 16,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 63
+      "scoreA": 69,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 40,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 17
+      "scoreB": 29
     }
   ],
-  "verdict": "Underdale has a lower overall climate risk score (36/100) compared to Ulyerra (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Ulyerra has a lower overall climate risk score (33/100) compared to Underdale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ulyerra or Underdale safer from flooding?",
-      "answer": "Ulyerra has a flood risk score of 30/100, while Underdale scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ulyerra has a flood risk score of 33/100, while Underdale scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ulyerra scores 34/100 for bushfire risk. Underdale scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ulyerra scores 16/100 for bushfire risk. Underdale scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ulyerra or Underdale?",
-      "answer": "Both suburbs have climate considerations. Underdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ulyerra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Underdale Should I Buy?",
       "url": "/suburbs/sa/underdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

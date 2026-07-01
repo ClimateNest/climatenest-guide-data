@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 32
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 26,
+      "scoreA": 44,
       "scoreB": 48
     },
     {
-      "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 61
-    },
-    {
-      "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 23
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 24,
+      "name": "Bushfire",
+      "scoreA": 55,
       "scoreB": 20
     },
     {
+      "name": "Heat",
+      "scoreA": 61,
+      "scoreB": 52
+    },
+    {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 33
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 29,
+      "scoreB": 23
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 14
     }
   ],
-  "verdict": "Balwyn has a lower overall climate risk score (33/100) compared to Balnarring Beach (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balwyn has a lower overall climate risk score (32/100) compared to Balnarring Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Balnarring Beach or Balwyn safer from flooding?",
-      "answer": "Balnarring Beach has a flood risk score of 41/100, while Balwyn scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balnarring Beach has a flood risk score of 44/100, while Balwyn scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balnarring Beach scores 26/100 for bushfire risk. Balwyn scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balnarring Beach scores 55/100 for bushfire risk. Balwyn scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balnarring Beach or Balwyn?",
@@ -76,5 +76,15 @@
       "label": "Balwyn Should I Buy?",
       "url": "/suburbs/vic/balwyn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

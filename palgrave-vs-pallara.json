@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 37
+      "scoreA": 25,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 38
+      "scoreA": 28,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 47
+      "scoreA": 49,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 42
+      "scoreA": 45,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 30
     }
   ],
-  "verdict": "Palgrave and Pallara have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Pallara has a lower overall climate risk score (34/100) compared to Palgrave (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Palgrave or Pallara safer from flooding?",
-      "answer": "Palgrave has a flood risk score of 60/100, while Pallara scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palgrave has a flood risk score of 25/100, while Pallara scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palgrave scores 39/100 for bushfire risk. Pallara scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palgrave scores 28/100 for bushfire risk. Pallara scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palgrave or Pallara?",
-      "answer": "Both suburbs have climate considerations. Palgrave has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Pallara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pallara Should I Buy?",
       "url": "/suburbs/qld/pallara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

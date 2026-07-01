@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 40
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 21
-    },
-    {
-      "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 31
-    },
-    {
-      "name": "Storm",
-      "scoreA": 48,
+      "scoreA": 39,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 27,
+      "scoreB": 28
+    },
+    {
+      "name": "Heat",
+      "scoreA": 36,
+      "scoreB": 35
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 41
+    },
+    {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 12,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 8
+      "scoreA": 18,
+      "scoreB": 9
     }
   ],
-  "verdict": "Gunyarra has a lower overall climate risk score (25/100) compared to Gunnewin (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gunyarra has a lower overall climate risk score (26/100) compared to Gunnewin (28/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gunnewin or Gunyarra safer from flooding?",
-      "answer": "Gunnewin has a flood risk score of 31/100, while Gunyarra scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gunnewin has a flood risk score of 39/100, while Gunyarra scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gunnewin scores 64/100 for bushfire risk. Gunyarra scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gunnewin scores 27/100 for bushfire risk. Gunyarra scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gunnewin or Gunyarra?",
@@ -76,5 +76,15 @@
       "label": "Gunyarra Should I Buy?",
       "url": "/suburbs/qld/gunyarra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3115,
+    "projected2030": 4361,
+    "projected2050": 8100
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 59
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 54
+      "scoreA": 49,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 47
+      "scoreA": 38,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 30
+      "scoreA": 30,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 25
     }
   ],
-  "verdict": "Jaggan has a lower overall climate risk score (24/100) compared to Jamboree Heights (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jaggan has a lower overall climate risk score (31/100) compared to Jamboree Heights (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jaggan or Jamboree Heights safer from flooding?",
-      "answer": "Jaggan has a flood risk score of 32/100, while Jamboree Heights scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jaggan has a flood risk score of 27/100, while Jamboree Heights scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jaggan scores 17/100 for bushfire risk. Jamboree Heights scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jaggan scores 49/100 for bushfire risk. Jamboree Heights scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jaggan or Jamboree Heights?",
@@ -76,5 +76,15 @@
       "label": "Jamboree Heights Should I Buy?",
       "url": "/suburbs/qld/jamboree-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

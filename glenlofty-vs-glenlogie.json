@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 50
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 48,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 68
+      "scoreA": 57,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 21
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
+      "scoreA": 26,
       "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Glenlogie has a lower overall climate risk score (33/100) compared to Glenlofty (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glenlogie has a lower overall climate risk score (41/100) compared to Glenlofty (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glenlofty or Glenlogie safer from flooding?",
-      "answer": "Glenlofty has a flood risk score of 44/100, while Glenlogie scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenlofty has a flood risk score of 48/100, while Glenlogie scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenlofty scores 28/100 for bushfire risk. Glenlogie scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenlofty scores 48/100 for bushfire risk. Glenlogie scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenlofty or Glenlogie?",
@@ -76,5 +76,15 @@
       "label": "Glenlogie Should I Buy?",
       "url": "/suburbs/vic/glenlogie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

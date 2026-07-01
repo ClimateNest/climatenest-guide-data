@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 51
+      "scoreA": 47,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 19
+      "scoreA": 48,
+      "scoreB": 60
     },
     {
       "name": "Heat",
       "scoreA": 77,
-      "scoreB": 37
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 35
+      "scoreA": 37,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 57
+      "scoreA": 43,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 12
     }
   ],
-  "verdict": "Tooloom has a lower overall climate risk score (36/100) compared to Toolijooa (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tooloom has a lower overall climate risk score (38/100) compared to Toolijooa (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Toolijooa or Tooloom safer from flooding?",
-      "answer": "Toolijooa has a flood risk score of 30/100, while Tooloom scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Toolijooa has a flood risk score of 47/100, while Tooloom scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Toolijooa scores 31/100 for bushfire risk. Tooloom scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Toolijooa scores 48/100 for bushfire risk. Tooloom scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Toolijooa or Tooloom?",
@@ -76,5 +76,15 @@
       "label": "Tooloom Should I Buy?",
       "url": "/suburbs/nsw/tooloom/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

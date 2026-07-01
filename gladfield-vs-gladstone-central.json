@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 44
+      "scoreA": 49,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 45
+      "scoreA": 60,
+      "scoreB": 40
     },
     {
       "name": "Heat",
       "scoreA": 45,
-      "scoreB": 47
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 36
+      "scoreA": 40,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 48
+      "scoreA": 36,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 19
     }
   ],
-  "verdict": "Gladstone Central has a lower overall climate risk score (39/100) compared to Gladfield (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gladstone Central has a lower overall climate risk score (34/100) compared to Gladfield (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gladfield or Gladstone Central safer from flooding?",
-      "answer": "Gladfield has a flood risk score of 59/100, while Gladstone Central scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gladfield has a flood risk score of 49/100, while Gladstone Central scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gladfield scores 62/100 for bushfire risk. Gladstone Central scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gladfield scores 60/100 for bushfire risk. Gladstone Central scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gladfield or Gladstone Central?",
@@ -76,5 +76,15 @@
       "label": "Gladstone Central Should I Buy?",
       "url": "/suburbs/qld/gladstone-central/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

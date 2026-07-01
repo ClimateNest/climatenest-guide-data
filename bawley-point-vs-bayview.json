@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 53
+      "scoreA": 51,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 65
+      "scoreA": 44,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 57
+      "scoreA": 67,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 40
+      "scoreA": 23,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 55
+      "scoreA": 24,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 30
     }
   ],
-  "verdict": "Bawley Point has a lower overall climate risk score (32/100) compared to Bayview (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bayview has a lower overall climate risk score (37/100) compared to Bawley Point (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bawley Point or Bayview safer from flooding?",
-      "answer": "Bawley Point has a flood risk score of 33/100, while Bayview scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bawley Point has a flood risk score of 51/100, while Bayview scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bawley Point scores 32/100 for bushfire risk. Bayview scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bawley Point scores 44/100 for bushfire risk. Bayview scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bawley Point or Bayview?",
-      "answer": "Both suburbs have climate considerations. Bawley Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bayview has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bayview Should I Buy?",
       "url": "/suburbs/nsw/bayview/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

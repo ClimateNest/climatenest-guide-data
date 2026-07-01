@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 59
+      "scoreA": 47,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 49
+      "scoreA": 64,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 55
+      "scoreA": 77,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 46
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
+      "scoreA": 13,
       "scoreB": 27
     }
   ],
-  "verdict": "Napier Lane has a lower overall climate risk score (37/100) compared to Napoleon Reef (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Napoleon Reef has a lower overall climate risk score (36/100) compared to Napier Lane (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Napier Lane or Napoleon Reef safer from flooding?",
-      "answer": "Napier Lane has a flood risk score of 48/100, while Napoleon Reef scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Napier Lane has a flood risk score of 47/100, while Napoleon Reef scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Napier Lane scores 22/100 for bushfire risk. Napoleon Reef scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Napier Lane scores 64/100 for bushfire risk. Napoleon Reef scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Napier Lane or Napoleon Reef?",
-      "answer": "Both suburbs have climate considerations. Napier Lane has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Napoleon Reef has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Napoleon Reef Should I Buy?",
       "url": "/suburbs/nsw/napoleon-reef/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

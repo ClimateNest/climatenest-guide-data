@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 22,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 47
+      "scoreA": 16,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 61
+      "scoreA": 76,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 42
+      "scoreA": 40,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 23,
+      "scoreB": 29
     }
   ],
-  "verdict": "Hayes has a lower overall climate risk score (38/100) compared to Henrietta (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hayes has a lower overall climate risk score (32/100) compared to Henrietta (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hayes or Henrietta safer from flooding?",
-      "answer": "Hayes has a flood risk score of 49/100, while Henrietta scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hayes has a flood risk score of 22/100, while Henrietta scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hayes scores 28/100 for bushfire risk. Henrietta scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hayes scores 16/100 for bushfire risk. Henrietta scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hayes or Henrietta?",
@@ -76,5 +76,15 @@
       "label": "Henrietta Should I Buy?",
       "url": "/suburbs/tas/henrietta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

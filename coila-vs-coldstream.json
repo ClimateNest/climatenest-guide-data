@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 57,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 54
+      "scoreA": 27,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 32
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
+      "scoreA": 75,
       "scoreB": 47
     },
     {
+      "name": "Storm",
+      "scoreA": 38,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 46
+      "scoreA": 24,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 12
+      "scoreA": 21,
+      "scoreB": 25
     }
   ],
-  "verdict": "Coila has a lower overall climate risk score (35/100) compared to Coldstream (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Coila has a lower overall climate risk score (40/100) compared to Coldstream (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Coila or Coldstream safer from flooding?",
-      "answer": "Coila has a flood risk score of 36/100, while Coldstream scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coila has a flood risk score of 57/100, while Coldstream scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coila scores 23/100 for bushfire risk. Coldstream scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coila scores 27/100 for bushfire risk. Coldstream scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coila or Coldstream?",
@@ -76,5 +76,15 @@
       "label": "Coldstream Should I Buy?",
       "url": "/suburbs/nsw/coldstream/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

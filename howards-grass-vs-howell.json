@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 31
+      "scoreA": 62,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 35,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 50
+      "scoreA": 51,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 16
     }
   ],
-  "verdict": "Howell has a lower overall climate risk score (32/100) compared to Howards Grass (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Howell has a lower overall climate risk score (38/100) compared to Howards Grass (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Howards Grass or Howell safer from flooding?",
-      "answer": "Howards Grass has a flood risk score of 49/100, while Howell scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Howards Grass has a flood risk score of 42/100, while Howell scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Howards Grass scores 59/100 for bushfire risk. Howell scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Howards Grass scores 62/100 for bushfire risk. Howell scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Howards Grass or Howell?",
@@ -76,5 +76,15 @@
       "label": "Howell Should I Buy?",
       "url": "/suburbs/nsw/howell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

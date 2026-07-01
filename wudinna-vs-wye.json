@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 44
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 48
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 62
+      "scoreA": 75,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 18
+      "scoreA": 29,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 24
     }
   ],
-  "verdict": "Wudinna has a lower overall climate risk score (31/100) compared to Wye (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wudinna has a lower overall climate risk score (33/100) compared to Wye (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wudinna or Wye safer from flooding?",
-      "answer": "Wudinna has a flood risk score of 31/100, while Wye scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wudinna has a flood risk score of 20/100, while Wye scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wudinna scores 24/100 for bushfire risk. Wye scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wudinna scores 26/100 for bushfire risk. Wye scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wudinna or Wye?",
@@ -76,5 +76,15 @@
       "label": "Wye Should I Buy?",
       "url": "/suburbs/sa/wye/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

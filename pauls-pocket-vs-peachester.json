@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 17,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 35
+      "scoreA": 45,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 38
+      "scoreA": 47,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 42
+      "scoreA": 30,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 12
+      "scoreA": 8,
+      "scoreB": 29
     }
   ],
-  "verdict": "Pauls Pocket has a lower overall climate risk score (29/100) compared to Peachester (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pauls Pocket has a lower overall climate risk score (31/100) compared to Peachester (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pauls Pocket or Peachester safer from flooding?",
-      "answer": "Pauls Pocket has a flood risk score of 36/100, while Peachester scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pauls Pocket has a flood risk score of 39/100, while Peachester scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pauls Pocket scores 38/100 for bushfire risk. Peachester scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pauls Pocket scores 17/100 for bushfire risk. Peachester scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pauls Pocket or Peachester?",
@@ -76,5 +76,15 @@
       "label": "Peachester Should I Buy?",
       "url": "/suburbs/qld/peachester/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 48
+      "scoreA": 27,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 48
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 55
+      "scoreA": 65,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 32
+      "scoreA": 30,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 35
+      "scoreA": 16,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 11,
+      "scoreB": 21
     }
   ],
-  "verdict": "North Wagga Wagga has a lower overall climate risk score (33/100) compared to North Willoughby (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Wagga Wagga has a lower overall climate risk score (34/100) compared to North Willoughby (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Wagga Wagga or North Willoughby safer from flooding?",
-      "answer": "North Wagga Wagga has a flood risk score of 30/100, while North Willoughby scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Wagga Wagga has a flood risk score of 27/100, while North Willoughby scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Wagga Wagga scores 29/100 for bushfire risk. North Willoughby scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Wagga Wagga scores 54/100 for bushfire risk. North Willoughby scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Wagga Wagga or North Willoughby?",
@@ -76,5 +76,15 @@
       "label": "North Willoughby Should I Buy?",
       "url": "/suburbs/nsw/north-willoughby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4521,
+    "projected2030": 6329,
+    "projected2050": 11754
+  },
+  "valueImpact": {
+    "dragPercent": 2.83,
+    "description": "Properties in this area may face a 2.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

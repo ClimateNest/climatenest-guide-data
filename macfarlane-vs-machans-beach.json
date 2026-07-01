@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 28
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 21,
+      "scoreA": 39,
       "scoreB": 60
     },
     {
+      "name": "Bushfire",
+      "scoreA": 33,
+      "scoreB": 26
+    },
+    {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 50,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
       "scoreA": 11,
-      "scoreB": 28
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 18
+      "scoreA": 18,
+      "scoreB": 10
     }
   ],
-  "verdict": "Macfarlane has a lower overall climate risk score (26/100) compared to Machans Beach (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Macfarlane has a lower overall climate risk score (31/100) compared to Machans Beach (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Macfarlane or Machans Beach safer from flooding?",
-      "answer": "Macfarlane has a flood risk score of 55/100, while Machans Beach scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Macfarlane has a flood risk score of 39/100, while Machans Beach scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Macfarlane scores 21/100 for bushfire risk. Machans Beach scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Macfarlane scores 33/100 for bushfire risk. Machans Beach scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Macfarlane or Machans Beach?",
@@ -76,5 +76,15 @@
       "label": "Machans Beach Should I Buy?",
       "url": "/suburbs/qld/machans-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

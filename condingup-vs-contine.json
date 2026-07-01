@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 35,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 61
+      "scoreA": 43,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 61
+      "scoreA": 69,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 34
+      "scoreA": 42,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 14
+      "scoreA": 27,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 22,
+      "scoreB": 12
     }
   ],
-  "verdict": "Condingup has a lower overall climate risk score (31/100) compared to Contine (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Condingup has a lower overall climate risk score (40/100) compared to Contine (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Condingup or Contine safer from flooding?",
-      "answer": "Condingup has a flood risk score of 21/100, while Contine scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Condingup has a flood risk score of 35/100, while Contine scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Condingup scores 27/100 for bushfire risk. Contine scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Condingup scores 43/100 for bushfire risk. Contine scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Condingup or Contine?",
@@ -76,5 +76,15 @@
       "label": "Contine Should I Buy?",
       "url": "/suburbs/wa/contine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

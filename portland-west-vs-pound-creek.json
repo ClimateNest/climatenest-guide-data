@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 37,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 23
+      "scoreA": 39,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 76
+      "scoreA": 56,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 23,
+      "scoreB": 28
     }
   ],
-  "verdict": "Pound Creek has a lower overall climate risk score (36/100) compared to Portland West (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Portland West has a lower overall climate risk score (38/100) compared to Pound Creek (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Portland West or Pound Creek safer from flooding?",
-      "answer": "Portland West has a flood risk score of 28/100, while Pound Creek scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Portland West has a flood risk score of 37/100, while Pound Creek scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Portland West scores 50/100 for bushfire risk. Pound Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Portland West scores 39/100 for bushfire risk. Pound Creek scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Portland West or Pound Creek?",
-      "answer": "Both suburbs have climate considerations. Pound Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Portland West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pound Creek Should I Buy?",
       "url": "/suburbs/vic/pound-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

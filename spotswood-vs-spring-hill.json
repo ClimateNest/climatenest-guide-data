@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 21
+      "scoreA": 37,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 54
+      "scoreA": 21,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 66
+      "scoreA": 63,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 46
+      "scoreA": 37,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 19
     }
   ],
-  "verdict": "Spotswood has a lower overall climate risk score (31/100) compared to Spring Hill (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Spotswood has a lower overall climate risk score (34/100) compared to Spring Hill (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Spotswood or Spring Hill safer from flooding?",
-      "answer": "Spotswood has a flood risk score of 41/100, while Spring Hill scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Spotswood has a flood risk score of 37/100, while Spring Hill scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Spotswood scores 22/100 for bushfire risk. Spring Hill scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Spotswood scores 21/100 for bushfire risk. Spring Hill scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Spotswood or Spring Hill?",
@@ -76,5 +76,15 @@
       "label": "Spring Hill Should I Buy?",
       "url": "/suburbs/vic/spring-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

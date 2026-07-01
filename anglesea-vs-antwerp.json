@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 23
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 61
+      "scoreA": 28,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 71
+      "scoreA": 56,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 11,
+      "scoreB": 15
     }
   ],
-  "verdict": "Anglesea has a lower overall climate risk score (39/100) compared to Antwerp (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Anglesea has a lower overall climate risk score (33/100) compared to Antwerp (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Anglesea or Antwerp safer from flooding?",
-      "answer": "Anglesea has a flood risk score of 44/100, while Antwerp scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Anglesea has a flood risk score of 40/100, while Antwerp scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Anglesea scores 63/100 for bushfire risk. Antwerp scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Anglesea scores 28/100 for bushfire risk. Antwerp scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Anglesea or Antwerp?",
@@ -76,5 +76,15 @@
       "label": "Antwerp Should I Buy?",
       "url": "/suburbs/vic/antwerp/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

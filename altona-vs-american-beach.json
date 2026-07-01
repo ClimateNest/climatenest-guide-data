@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 57
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 55
-    },
-    {
-      "name": "Heat",
-      "scoreA": 61,
+      "scoreA": 47,
       "scoreB": 51
     },
     {
+      "name": "Heat",
+      "scoreA": 64,
+      "scoreB": 52
+    },
+    {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 46
+      "scoreA": 22,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Altona has a lower overall climate risk score (30/100) compared to American Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "American Beach has a lower overall climate risk score (33/100) compared to Altona (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Altona or American Beach safer from flooding?",
-      "answer": "Altona has a flood risk score of 36/100, while American Beach scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Altona has a flood risk score of 27/100, while American Beach scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Altona scores 28/100 for bushfire risk. American Beach scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Altona scores 47/100 for bushfire risk. American Beach scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Altona or American Beach?",
-      "answer": "Both suburbs have climate considerations. Altona has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. American Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "American Beach Should I Buy?",
       "url": "/suburbs/sa/american-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 35
+      "scoreA": 38,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 52
+      "scoreA": 35,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 37
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 12,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 8
     }
   ],
-  "verdict": "Noonamah has a lower overall climate risk score (30/100) compared to Nitmiluk (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Nitmiluk has a lower overall climate risk score (28/100) compared to Noonamah (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nitmiluk or Noonamah safer from flooding?",
-      "answer": "Nitmiluk has a flood risk score of 22/100, while Noonamah scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nitmiluk has a flood risk score of 38/100, while Noonamah scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nitmiluk scores 58/100 for bushfire risk. Noonamah scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nitmiluk scores 35/100 for bushfire risk. Noonamah scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nitmiluk or Noonamah?",
-      "answer": "Both suburbs have climate considerations. Noonamah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Nitmiluk has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Noonamah Should I Buy?",
       "url": "/suburbs/nt/noonamah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

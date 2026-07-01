@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 24
+      "scoreA": 35,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 16
+      "scoreA": 61,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 53,
+      "scoreA": 52,
       "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 33
+      "scoreA": 29,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 15
     }
   ],
-  "verdict": "Coombe has a lower overall climate risk score (30/100) compared to Cooltong (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coombe has a lower overall climate risk score (36/100) compared to Cooltong (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cooltong or Coombe safer from flooding?",
-      "answer": "Cooltong has a flood risk score of 30/100, while Coombe scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cooltong has a flood risk score of 35/100, while Coombe scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cooltong scores 40/100 for bushfire risk. Coombe scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cooltong scores 61/100 for bushfire risk. Coombe scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cooltong or Coombe?",
@@ -76,5 +76,15 @@
       "label": "Coombe Should I Buy?",
       "url": "/suburbs/sa/coombe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

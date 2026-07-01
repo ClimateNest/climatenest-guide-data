@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 34
+      "scoreA": 46,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 18
+      "scoreA": 54,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 63
+      "scoreA": 69,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 45
+      "scoreA": 45,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 20
     }
   ],
-  "verdict": "Lake Torrens has a lower overall climate risk score (35/100) compared to Lake Plains (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Torrens has a lower overall climate risk score (41/100) compared to Lake Plains (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lake Plains or Lake Torrens safer from flooding?",
-      "answer": "Lake Plains has a flood risk score of 56/100, while Lake Torrens scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Plains has a flood risk score of 46/100, while Lake Torrens scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Plains scores 45/100 for bushfire risk. Lake Torrens scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Plains scores 54/100 for bushfire risk. Lake Torrens scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Plains or Lake Torrens?",
@@ -76,5 +76,15 @@
       "label": "Lake Torrens Should I Buy?",
       "url": "/suburbs/sa/lake-torrens/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

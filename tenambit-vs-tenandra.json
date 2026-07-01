@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 58
+      "scoreA": 37,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 39
+      "scoreA": 53,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 57
+      "scoreA": 78,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 40,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
+      "scoreA": 36,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 10
     }
   ],
-  "verdict": "Tenambit has a lower overall climate risk score (38/100) compared to Tenandra (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tenandra has a lower overall climate risk score (35/100) compared to Tenambit (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tenambit or Tenandra safer from flooding?",
-      "answer": "Tenambit has a flood risk score of 20/100, while Tenandra scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tenambit has a flood risk score of 37/100, while Tenandra scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tenambit scores 28/100 for bushfire risk. Tenandra scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tenambit scores 53/100 for bushfire risk. Tenandra scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tenambit or Tenandra?",
-      "answer": "Both suburbs have climate considerations. Tenambit has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tenandra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tenandra Should I Buy?",
       "url": "/suburbs/nsw/tenandra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

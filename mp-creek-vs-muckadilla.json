@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 44
+      "scoreA": 41,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 20
+      "scoreA": 54,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 38
+      "scoreA": 48,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 47
+      "scoreA": 39,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 16
+      "scoreA": 42,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 12,
+      "scoreB": 26
     }
   ],
-  "verdict": "Muckadilla has a lower overall climate risk score (30/100) compared to Mp Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Muckadilla has a lower overall climate risk score (31/100) compared to Mp Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mp Creek or Muckadilla safer from flooding?",
-      "answer": "Mp Creek has a flood risk score of 21/100, while Muckadilla scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mp Creek has a flood risk score of 41/100, while Muckadilla scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mp Creek scores 47/100 for bushfire risk. Muckadilla scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mp Creek scores 54/100 for bushfire risk. Muckadilla scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mp Creek or Muckadilla?",
@@ -76,5 +76,15 @@
       "label": "Muckadilla Should I Buy?",
       "url": "/suburbs/qld/muckadilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

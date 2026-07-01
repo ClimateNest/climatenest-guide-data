@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 25,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 18
-    },
-    {
-      "name": "Heat",
-      "scoreA": 45,
+      "scoreA": 34,
       "scoreB": 48
     },
     {
+      "name": "Heat",
+      "scoreA": 38,
+      "scoreB": 37
+    },
+    {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 40
+      "scoreA": 23,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 26
+      "scoreA": 49,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 11
     }
   ],
-  "verdict": "Kalapa has a lower overall climate risk score (29/100) compared to Kairabah (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kairabah has a lower overall climate risk score (31/100) compared to Kalapa (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kairabah or Kalapa safer from flooding?",
-      "answer": "Kairabah has a flood risk score of 36/100, while Kalapa scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kairabah has a flood risk score of 25/100, while Kalapa scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kairabah scores 51/100 for bushfire risk. Kalapa scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kairabah scores 34/100 for bushfire risk. Kalapa scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kairabah or Kalapa?",
-      "answer": "Both suburbs have climate considerations. Kalapa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kairabah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kalapa Should I Buy?",
       "url": "/suburbs/qld/kalapa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

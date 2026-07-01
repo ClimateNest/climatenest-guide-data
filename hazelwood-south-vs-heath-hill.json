@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 29
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 64
+      "scoreA": 17,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 54
+      "scoreA": 70,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 20
+      "scoreA": 34,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 15,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
       "scoreA": 10,
-      "scoreB": 14
+      "scoreB": 29
     }
   ],
-  "verdict": "Heath Hill has a lower overall climate risk score (34/100) compared to Hazelwood South (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hazelwood South has a lower overall climate risk score (31/100) compared to Heath Hill (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hazelwood South or Heath Hill safer from flooding?",
-      "answer": "Hazelwood South has a flood risk score of 46/100, while Heath Hill scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hazelwood South has a flood risk score of 42/100, while Heath Hill scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hazelwood South scores 51/100 for bushfire risk. Heath Hill scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hazelwood South scores 17/100 for bushfire risk. Heath Hill scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hazelwood South or Heath Hill?",
-      "answer": "Both suburbs have climate considerations. Heath Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hazelwood South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Heath Hill Should I Buy?",
       "url": "/suburbs/vic/heath-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

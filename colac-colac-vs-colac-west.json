@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 50
+      "scoreA": 31,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 20
+      "scoreA": 38,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 76
+      "scoreA": 71,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 41
+      "scoreA": 38,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 13,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 20,
+      "scoreB": 17
     }
   ],
-  "verdict": "Colac West has a lower overall climate risk score (39/100) compared to Colac Colac (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Colac West has a lower overall climate risk score (33/100) compared to Colac Colac (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Colac Colac or Colac West safer from flooding?",
-      "answer": "Colac Colac has a flood risk score of 52/100, while Colac West scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Colac Colac has a flood risk score of 31/100, while Colac West scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Colac Colac scores 42/100 for bushfire risk. Colac West scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Colac Colac scores 38/100 for bushfire risk. Colac West scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Colac Colac or Colac West?",
@@ -76,5 +76,15 @@
       "label": "Colac West Should I Buy?",
       "url": "/suburbs/vic/colac-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

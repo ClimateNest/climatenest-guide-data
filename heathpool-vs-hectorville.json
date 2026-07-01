@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 47
+      "scoreA": 29,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 23
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 79
+      "scoreA": 78,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 30,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 18
+      "scoreA": 22,
+      "scoreB": 20
     }
   ],
-  "verdict": "Heathpool has a lower overall climate risk score (32/100) compared to Hectorville (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Hectorville has a lower overall climate risk score (35/100) compared to Heathpool (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Heathpool or Hectorville safer from flooding?",
-      "answer": "Heathpool has a flood risk score of 58/100, while Hectorville scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Heathpool has a flood risk score of 29/100, while Hectorville scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Heathpool scores 21/100 for bushfire risk. Hectorville scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Heathpool scores 46/100 for bushfire risk. Hectorville scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Heathpool or Hectorville?",
-      "answer": "Both suburbs have climate considerations. Heathpool has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hectorville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hectorville Should I Buy?",
       "url": "/suburbs/sa/hectorville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 46
     },
     {
       "name": "Storm",
       "scoreA": 31,
-      "scoreB": 23
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 54,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 10,
+      "scoreB": 10
     }
   ],
-  "verdict": "Marmor has a lower overall climate risk score (30/100) compared to Maroochy River (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Maroochy River has a lower overall climate risk score (31/100) compared to Marmor (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marmor or Maroochy River safer from flooding?",
-      "answer": "Marmor has a flood risk score of 20/100, while Maroochy River scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marmor has a flood risk score of 30/100, while Maroochy River scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marmor scores 35/100 for bushfire risk. Maroochy River scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marmor scores 25/100 for bushfire risk. Maroochy River scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marmor or Maroochy River?",
-      "answer": "Both suburbs have climate considerations. Marmor has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Maroochy River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Maroochy River Should I Buy?",
       "url": "/suburbs/qld/maroochy-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 35
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 57
+      "scoreA": 43,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 54
+      "scoreA": 75,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 33
+      "scoreA": 29,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 17
     }
   ],
-  "verdict": "Nar Nar Goon North has a lower overall climate risk score (37/100) compared to Nar Nar Goon (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nar Nar Goon North has a lower overall climate risk score (32/100) compared to Nar Nar Goon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nar Nar Goon or Nar Nar Goon North safer from flooding?",
-      "answer": "Nar Nar Goon has a flood risk score of 42/100, while Nar Nar Goon North scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nar Nar Goon has a flood risk score of 23/100, while Nar Nar Goon North scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nar Nar Goon scores 51/100 for bushfire risk. Nar Nar Goon North scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nar Nar Goon scores 43/100 for bushfire risk. Nar Nar Goon North scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nar Nar Goon or Nar Nar Goon North?",
@@ -76,5 +76,15 @@
       "label": "Nar Nar Goon North Should I Buy?",
       "url": "/suburbs/vic/nar-nar-goon-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

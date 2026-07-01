@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 41
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 54
-    },
-    {
-      "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 56
-    },
-    {
-      "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 20
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 46,
       "scoreB": 29
     },
     {
-      "name": "Cyclone",
+      "name": "Heat",
+      "scoreA": 65,
+      "scoreB": 80
+    },
+    {
+      "name": "Storm",
+      "scoreA": 26,
+      "scoreB": 31
+    },
+    {
+      "name": "Coastal",
       "scoreA": 19,
-      "scoreB": 21
+      "scoreB": 23
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Wonwondah has a lower overall climate risk score (37/100) compared to Wonnangatta (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wonnangatta has a lower overall climate risk score (35/100) compared to Wonwondah (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wonnangatta or Wonwondah safer from flooding?",
-      "answer": "Wonnangatta has a flood risk score of 51/100, while Wonwondah scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wonnangatta has a flood risk score of 27/100, while Wonwondah scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wonnangatta scores 42/100 for bushfire risk. Wonwondah scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wonnangatta scores 46/100 for bushfire risk. Wonwondah scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wonnangatta or Wonwondah?",
-      "answer": "Both suburbs have climate considerations. Wonwondah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wonnangatta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wonwondah Should I Buy?",
       "url": "/suburbs/vic/wonwondah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 44
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 50
+      "scoreA": 21,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 44
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 45,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
+      "scoreA": 38,
       "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 14
+      "scoreA": 23,
+      "scoreB": 13
     }
   ],
-  "verdict": "Pentland has a lower overall climate risk score (34/100) compared to Pelican Waters (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pentland has a lower overall climate risk score (29/100) compared to Pelican Waters (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pelican Waters or Pentland safer from flooding?",
-      "answer": "Pelican Waters has a flood risk score of 56/100, while Pentland scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pelican Waters has a flood risk score of 36/100, while Pentland scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pelican Waters scores 51/100 for bushfire risk. Pentland scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pelican Waters scores 21/100 for bushfire risk. Pentland scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pelican Waters or Pentland?",
@@ -76,5 +76,15 @@
       "label": "Pentland Should I Buy?",
       "url": "/suburbs/qld/pentland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

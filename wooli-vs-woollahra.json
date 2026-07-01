@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 20
+      "scoreA": 25,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 61
+      "scoreA": 34,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 57
+      "scoreA": 39,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 31
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 48
+      "scoreA": 53,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 18
+      "scoreA": 26,
+      "scoreB": 24
     }
   ],
-  "verdict": "Wooli has a lower overall climate risk score (33/100) compared to Woollahra (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wooli has a lower overall climate risk score (33/100) compared to Woollahra (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wooli or Woollahra safer from flooding?",
-      "answer": "Wooli has a flood risk score of 37/100, while Woollahra scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wooli has a flood risk score of 25/100, while Woollahra scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wooli scores 25/100 for bushfire risk. Woollahra scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wooli scores 34/100 for bushfire risk. Woollahra scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wooli or Woollahra?",
@@ -76,5 +76,15 @@
       "label": "Woollahra Should I Buy?",
       "url": "/suburbs/nsw/woollahra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

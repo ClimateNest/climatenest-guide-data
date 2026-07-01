@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 60
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 64
-    },
-    {
-      "name": "Heat",
-      "scoreA": 70,
+      "scoreA": 23,
       "scoreB": 52
     },
     {
+      "name": "Bushfire",
+      "scoreA": 45,
+      "scoreB": 58
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 74
+    },
+    {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 44
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 33
+      "scoreA": 20,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 26
     }
   ],
-  "verdict": "Napoleon Reef has a lower overall climate risk score (31/100) compared to Narara (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Napoleon Reef has a lower overall climate risk score (35/100) compared to Narara (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Napoleon Reef or Narara safer from flooding?",
-      "answer": "Napoleon Reef has a flood risk score of 32/100, while Narara scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Napoleon Reef has a flood risk score of 23/100, while Narara scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Napoleon Reef scores 28/100 for bushfire risk. Narara scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Napoleon Reef scores 45/100 for bushfire risk. Narara scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Napoleon Reef or Narara?",
@@ -76,5 +76,15 @@
       "label": "Narara Should I Buy?",
       "url": "/suburbs/nsw/narara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

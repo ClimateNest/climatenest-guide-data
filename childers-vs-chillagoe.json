@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 45
+      "scoreA": 21,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 62
+      "scoreA": 61,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 49
+      "scoreA": 48,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 31,
+      "scoreA": 42,
       "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 14
+      "scoreA": 46,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 22,
+      "scoreB": 8
     }
   ],
-  "verdict": "Childers has a lower overall climate risk score (32/100) compared to Chillagoe (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Chillagoe has a lower overall climate risk score (27/100) compared to Childers (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Childers or Chillagoe safer from flooding?",
-      "answer": "Childers has a flood risk score of 29/100, while Chillagoe scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Childers has a flood risk score of 21/100, while Chillagoe scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Childers scores 34/100 for bushfire risk. Chillagoe scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Childers scores 61/100 for bushfire risk. Chillagoe scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Childers or Chillagoe?",
-      "answer": "Both suburbs have climate considerations. Childers has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Chillagoe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Chillagoe Should I Buy?",
       "url": "/suburbs/qld/chillagoe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

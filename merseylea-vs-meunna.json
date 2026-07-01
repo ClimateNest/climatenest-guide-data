@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 60
+      "scoreA": 31,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
+      "scoreA": 49,
       "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 51
+      "scoreA": 66,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 48
+      "scoreA": 34,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 10
+      "scoreA": 21,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 29
     }
   ],
-  "verdict": "Meunna has a lower overall climate risk score (38/100) compared to Merseylea (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Merseylea has a lower overall climate risk score (36/100) compared to Meunna (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Merseylea or Meunna safer from flooding?",
-      "answer": "Merseylea has a flood risk score of 54/100, while Meunna scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Merseylea has a flood risk score of 31/100, while Meunna scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Merseylea scores 50/100 for bushfire risk. Meunna scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Merseylea scores 49/100 for bushfire risk. Meunna scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Merseylea or Meunna?",
-      "answer": "Both suburbs have climate considerations. Meunna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Merseylea has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Meunna Should I Buy?",
       "url": "/suburbs/tas/meunna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

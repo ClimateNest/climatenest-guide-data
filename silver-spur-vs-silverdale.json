@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 32
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 25
+      "scoreA": 24,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 34
+      "scoreA": 46,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 19
     }
   ],
-  "verdict": "Silverdale has a lower overall climate risk score (34/100) compared to Silver Spur (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Silver Spur has a lower overall climate risk score (29/100) compared to Silverdale (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Silver Spur or Silverdale safer from flooding?",
-      "answer": "Silver Spur has a flood risk score of 43/100, while Silverdale scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Silver Spur has a flood risk score of 22/100, while Silverdale scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Silver Spur scores 26/100 for bushfire risk. Silverdale scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Silver Spur scores 18/100 for bushfire risk. Silverdale scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Silver Spur or Silverdale?",
-      "answer": "Both suburbs have climate considerations. Silverdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Silver Spur has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Silverdale Should I Buy?",
       "url": "/suburbs/qld/silverdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

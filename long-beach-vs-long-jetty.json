@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 20
+      "scoreA": 45,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 44
+      "scoreA": 24,
+      "scoreB": 21
     },
     {
       "name": "Heat",
       "scoreA": 64,
-      "scoreB": 78
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 27
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 46
+      "scoreA": 20,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 24
     }
   ],
-  "verdict": "Long Jetty has a lower overall climate risk score (39/100) compared to Long Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Long Beach has a lower overall climate risk score (37/100) compared to Long Jetty (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Long Beach or Long Jetty safer from flooding?",
-      "answer": "Long Beach has a flood risk score of 55/100, while Long Jetty scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Long Beach has a flood risk score of 45/100, while Long Jetty scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Long Beach scores 44/100 for bushfire risk. Long Jetty scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Long Beach scores 24/100 for bushfire risk. Long Jetty scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Long Beach or Long Jetty?",
-      "answer": "Both suburbs have climate considerations. Long Jetty has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Long Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Long Jetty Should I Buy?",
       "url": "/suburbs/nsw/long-jetty/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

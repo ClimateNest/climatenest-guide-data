@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 27
+      "scoreA": 54,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 51
+      "scoreA": 27,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 46
+      "scoreA": 40,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
       "scoreA": 58,
-      "scoreB": 18
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 26
     }
   ],
-  "verdict": "Broadmere has a lower overall climate risk score (33/100) compared to Broadbeach Waters (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Broadmere has a lower overall climate risk score (31/100) compared to Broadbeach Waters (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Broadbeach Waters or Broadmere safer from flooding?",
-      "answer": "Broadbeach Waters has a flood risk score of 40/100, while Broadmere scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Broadbeach Waters has a flood risk score of 54/100, while Broadmere scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Broadbeach Waters scores 34/100 for bushfire risk. Broadmere scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Broadbeach Waters scores 27/100 for bushfire risk. Broadmere scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Broadbeach Waters or Broadmere?",
@@ -76,5 +76,15 @@
       "label": "Broadmere Should I Buy?",
       "url": "/suburbs/qld/broadmere/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

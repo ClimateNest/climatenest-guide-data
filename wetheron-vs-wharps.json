@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 20
+      "scoreA": 24,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 39
+      "scoreA": 46,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 40
+      "scoreA": 34,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 14
+      "scoreA": 57,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 12
     }
   ],
-  "verdict": "Wharps has a lower overall climate risk score (28/100) compared to Wetheron (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wharps has a lower overall climate risk score (36/100) compared to Wetheron (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wetheron or Wharps safer from flooding?",
-      "answer": "Wetheron has a flood risk score of 60/100, while Wharps scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wetheron has a flood risk score of 40/100, while Wharps scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wetheron scores 50/100 for bushfire risk. Wharps scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wetheron scores 24/100 for bushfire risk. Wharps scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wetheron or Wharps?",
@@ -76,5 +76,15 @@
       "label": "Wharps Should I Buy?",
       "url": "/suburbs/qld/wharps/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

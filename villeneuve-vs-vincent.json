@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 25
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 34,
+      "scoreA": 33,
       "scoreB": 43
     },
     {
+      "name": "Bushfire",
+      "scoreA": 27,
+      "scoreB": 60
+    },
+    {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 44
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 15
+      "scoreA": 37,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 29,
+      "scoreB": 18
     }
   ],
-  "verdict": "Vincent has a lower overall climate risk score (31/100) compared to Villeneuve (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Vincent has a lower overall climate risk score (35/100) compared to Villeneuve (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Villeneuve or Vincent safer from flooding?",
-      "answer": "Villeneuve has a flood risk score of 38/100, while Vincent scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Villeneuve has a flood risk score of 33/100, while Vincent scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Villeneuve scores 34/100 for bushfire risk. Vincent scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Villeneuve scores 27/100 for bushfire risk. Vincent scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Villeneuve or Vincent?",
@@ -76,5 +76,15 @@
       "label": "Vincent Should I Buy?",
       "url": "/suburbs/qld/vincent/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

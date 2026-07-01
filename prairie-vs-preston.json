@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 59
+      "scoreA": 64,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 32,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 10,
+      "scoreB": 23
     }
   ],
-  "verdict": "Preston has a lower overall climate risk score (38/100) compared to Prairie (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Prairie has a lower overall climate risk score (31/100) compared to Preston (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Prairie or Preston safer from flooding?",
-      "answer": "Prairie has a flood risk score of 56/100, while Preston scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Prairie has a flood risk score of 22/100, while Preston scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Prairie scores 58/100 for bushfire risk. Preston scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Prairie scores 34/100 for bushfire risk. Preston scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Prairie or Preston?",
-      "answer": "Both suburbs have climate considerations. Preston has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Prairie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Preston Should I Buy?",
       "url": "/suburbs/vic/preston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

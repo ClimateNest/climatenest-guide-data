@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 45
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 64,
+      "scoreA": 36,
       "scoreB": 57
     },
     {
+      "name": "Bushfire",
+      "scoreA": 32,
+      "scoreB": 17
+    },
+    {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 54
+      "scoreA": 73,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 36
+      "scoreA": 26,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 29
+      "scoreA": 41,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 14,
+      "scoreB": 19
     }
   ],
-  "verdict": "Verges Creek has a lower overall climate risk score (39/100) compared to Verona (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Verona has a lower overall climate risk score (33/100) compared to Verges Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Verges Creek or Verona safer from flooding?",
-      "answer": "Verges Creek has a flood risk score of 26/100, while Verona scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Verges Creek has a flood risk score of 36/100, while Verona scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Verges Creek scores 64/100 for bushfire risk. Verona scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Verges Creek scores 32/100 for bushfire risk. Verona scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Verges Creek or Verona?",
-      "answer": "Both suburbs have climate considerations. Verges Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Verona has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Verona Should I Buy?",
       "url": "/suburbs/nsw/verona/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 34
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 45
-    },
-    {
-      "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 49
-    },
-    {
-      "name": "Storm",
-      "scoreA": 50,
+      "scoreA": 52,
       "scoreB": 47
     },
     {
+      "name": "Bushfire",
+      "scoreA": 65,
+      "scoreB": 17
+    },
+    {
+      "name": "Heat",
+      "scoreA": 37,
+      "scoreB": 42
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 25
+    },
+    {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 15,
       "scoreB": 6
     }
   ],
-  "verdict": "Belcong has a lower overall climate risk score (33/100) compared to Begonia (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Belcong has a lower overall climate risk score (26/100) compared to Begonia (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Begonia or Belcong safer from flooding?",
-      "answer": "Begonia has a flood risk score of 43/100, while Belcong scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Begonia has a flood risk score of 52/100, while Belcong scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Begonia scores 51/100 for bushfire risk. Belcong scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Begonia scores 65/100 for bushfire risk. Belcong scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Begonia or Belcong?",
@@ -76,5 +76,15 @@
       "label": "Belcong Should I Buy?",
       "url": "/suburbs/qld/belcong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 59
+      "scoreA": 24,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 47
+      "scoreA": 45,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 59
+      "scoreA": 65,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 45
+      "scoreA": 23,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
+      "scoreA": 30,
       "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 27,
+      "scoreB": 27
     }
   ],
-  "verdict": "Sugarloaf has a lower overall climate risk score (30/100) compared to Suggan Buggan (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sugarloaf has a lower overall climate risk score (36/100) compared to Suggan Buggan (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sugarloaf or Suggan Buggan safer from flooding?",
-      "answer": "Sugarloaf has a flood risk score of 34/100, while Suggan Buggan scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sugarloaf has a flood risk score of 24/100, while Suggan Buggan scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sugarloaf scores 29/100 for bushfire risk. Suggan Buggan scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sugarloaf scores 45/100 for bushfire risk. Suggan Buggan scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sugarloaf or Suggan Buggan?",
@@ -76,5 +76,15 @@
       "label": "Suggan Buggan Should I Buy?",
       "url": "/suburbs/vic/suggan-buggan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

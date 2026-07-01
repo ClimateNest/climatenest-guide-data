@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 51,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 62
+      "scoreA": 17,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 64
+      "scoreA": 77,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 26
+      "scoreA": 39,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 17
     }
   ],
-  "verdict": "Snowball has a lower overall climate risk score (41/100) compared to Smithtown (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Snowball has a lower overall climate risk score (34/100) compared to Smithtown (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Smithtown or Snowball safer from flooding?",
-      "answer": "Smithtown has a flood risk score of 49/100, while Snowball scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Smithtown has a flood risk score of 51/100, while Snowball scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Smithtown scores 23/100 for bushfire risk. Snowball scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Smithtown scores 17/100 for bushfire risk. Snowball scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Smithtown or Snowball?",
@@ -76,5 +76,15 @@
       "label": "Snowball Should I Buy?",
       "url": "/suburbs/nsw/snowball/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

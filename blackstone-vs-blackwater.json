@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 27
+      "scoreA": 53,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 33
+      "scoreA": 56,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 46
+      "scoreA": 50,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 29
+      "scoreA": 48,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 17
+      "scoreA": 10,
+      "scoreB": 18
     }
   ],
-  "verdict": "Blackwater has a lower overall climate risk score (32/100) compared to Blackstone (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blackwater has a lower overall climate risk score (30/100) compared to Blackstone (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blackstone or Blackwater safer from flooding?",
-      "answer": "Blackstone has a flood risk score of 49/100, while Blackwater scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackstone has a flood risk score of 53/100, while Blackwater scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackstone scores 43/100 for bushfire risk. Blackwater scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackstone scores 56/100 for bushfire risk. Blackwater scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackstone or Blackwater?",
@@ -76,5 +76,15 @@
       "label": "Blackwater Should I Buy?",
       "url": "/suburbs/qld/blackwater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

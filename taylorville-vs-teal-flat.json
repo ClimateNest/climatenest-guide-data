@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 42,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 30
+      "scoreA": 52,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 60
+      "scoreA": 51,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 31
+      "scoreA": 30,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 30
+      "scoreA": 29,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 15
     }
   ],
-  "verdict": "Taylorville has a lower overall climate risk score (30/100) compared to Teal Flat (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Teal Flat has a lower overall climate risk score (37/100) compared to Taylorville (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Taylorville or Teal Flat safer from flooding?",
-      "answer": "Taylorville has a flood risk score of 49/100, while Teal Flat scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Taylorville has a flood risk score of 42/100, while Teal Flat scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Taylorville scores 16/100 for bushfire risk. Teal Flat scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Taylorville scores 52/100 for bushfire risk. Teal Flat scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Taylorville or Teal Flat?",
-      "answer": "Both suburbs have climate considerations. Taylorville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Teal Flat has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Teal Flat Should I Buy?",
       "url": "/suburbs/sa/teal-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

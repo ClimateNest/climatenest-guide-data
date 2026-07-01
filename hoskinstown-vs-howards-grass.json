@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 29
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 21
-    },
-    {
-      "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 39
-    },
-    {
-      "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 45
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 15,
+      "scoreA": 32,
       "scoreB": 49
     },
     {
+      "name": "Bushfire",
+      "scoreA": 16,
+      "scoreB": 33
+    },
+    {
+      "name": "Heat",
+      "scoreA": 58,
+      "scoreB": 36
+    },
+    {
+      "name": "Storm",
+      "scoreA": 21,
+      "scoreB": 38
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 25,
+      "scoreB": 38
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 29
+      "scoreA": 29,
+      "scoreB": 20
     }
   ],
-  "verdict": "Hoskinstown has a lower overall climate risk score (33/100) compared to Howards Grass (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hoskinstown has a lower overall climate risk score (30/100) compared to Howards Grass (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hoskinstown or Howards Grass safer from flooding?",
-      "answer": "Hoskinstown has a flood risk score of 29/100, while Howards Grass scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hoskinstown has a flood risk score of 32/100, while Howards Grass scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hoskinstown scores 37/100 for bushfire risk. Howards Grass scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hoskinstown scores 16/100 for bushfire risk. Howards Grass scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hoskinstown or Howards Grass?",
@@ -76,5 +76,15 @@
       "label": "Howards Grass Should I Buy?",
       "url": "/suburbs/nsw/howards-grass/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

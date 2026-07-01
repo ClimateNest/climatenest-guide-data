@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 45,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 54
+      "scoreA": 16,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 49,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 50
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 56
+      "scoreA": 33,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 14
     }
   ],
-  "verdict": "Newport has a lower overall climate risk score (37/100) compared to Newtown (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Newport has a lower overall climate risk score (34/100) compared to Newtown (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Newport or Newtown safer from flooding?",
-      "answer": "Newport has a flood risk score of 43/100, while Newtown scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Newport has a flood risk score of 45/100, while Newtown scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Newport scores 24/100 for bushfire risk. Newtown scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Newport scores 16/100 for bushfire risk. Newtown scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Newport or Newtown?",
@@ -76,5 +76,15 @@
       "label": "Newtown Should I Buy?",
       "url": "/suburbs/qld/newtown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

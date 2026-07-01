@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 27
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 55
+      "scoreA": 33,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 57
+      "scoreA": 74,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 37
+      "scoreA": 45,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
       "scoreA": 25,
-      "scoreB": 25
+      "scoreB": 28
     }
   ],
-  "verdict": "Tatura has a lower overall climate risk score (38/100) compared to Tatong (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Tatong has a lower overall climate risk score (42/100) compared to Tatura (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Tatong or Tatura safer from flooding?",
-      "answer": "Tatong has a flood risk score of 40/100, while Tatura scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tatong has a flood risk score of 55/100, while Tatura scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tatong scores 48/100 for bushfire risk. Tatura scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tatong scores 33/100 for bushfire risk. Tatura scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tatong or Tatura?",
-      "answer": "Both suburbs have climate considerations. Tatura has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tatong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tatura Should I Buy?",
       "url": "/suburbs/vic/tatura/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4339,
+    "projected2030": 6075,
+    "projected2050": 11282
+  },
+  "valueImpact": {
+    "dragPercent": 2.42,
+    "description": "Properties in this area may face a 2.42% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

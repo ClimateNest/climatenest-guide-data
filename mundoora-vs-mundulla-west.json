@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 28
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 38
-    },
-    {
-      "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 51
-    },
-    {
-      "name": "Storm",
-      "scoreA": 22,
+      "scoreA": 50,
       "scoreB": 44
     },
     {
+      "name": "Bushfire",
+      "scoreA": 55,
+      "scoreB": 54
+    },
+    {
+      "name": "Heat",
+      "scoreA": 72,
+      "scoreB": 60
+    },
+    {
+      "name": "Storm",
+      "scoreA": 47,
+      "scoreB": 41
+    },
+    {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 22
     }
   ],
-  "verdict": "Mundoora and Mundulla West have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Mundulla West has a lower overall climate risk score (42/100) compared to Mundoora (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mundoora or Mundulla West safer from flooding?",
-      "answer": "Mundoora has a flood risk score of 31/100, while Mundulla West scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mundoora has a flood risk score of 50/100, while Mundulla West scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mundoora scores 36/100 for bushfire risk. Mundulla West scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mundoora scores 55/100 for bushfire risk. Mundulla West scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mundoora or Mundulla West?",
-      "answer": "Both suburbs have climate considerations. Mundoora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mundulla West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mundulla West Should I Buy?",
       "url": "/suburbs/sa/mundulla-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

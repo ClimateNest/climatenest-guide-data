@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 59
+      "scoreA": 45,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 61
+      "scoreA": 75,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 36
+      "scoreA": 21,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 21,
+      "scoreB": 16
     }
   ],
-  "verdict": "Woodville has a lower overall climate risk score (36/100) compared to Woodville North (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woodville has a lower overall climate risk score (35/100) compared to Woodville North (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woodville or Woodville North safer from flooding?",
-      "answer": "Woodville has a flood risk score of 40/100, while Woodville North scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodville has a flood risk score of 45/100, while Woodville North scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodville scores 42/100 for bushfire risk. Woodville North scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodville scores 34/100 for bushfire risk. Woodville North scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodville or Woodville North?",
@@ -76,5 +76,15 @@
       "label": "Woodville North Should I Buy?",
       "url": "/suburbs/sa/woodville-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

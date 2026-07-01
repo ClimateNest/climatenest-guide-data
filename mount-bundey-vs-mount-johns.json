@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 31
+      "scoreA": 28,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 22
+      "scoreA": 48,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 42,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 22
+      "scoreA": 13,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 8,
+      "scoreB": 6
     }
   ],
-  "verdict": "Mount Johns has a lower overall climate risk score (30/100) compared to Mount Bundey (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mount Bundey has a lower overall climate risk score (31/100) compared to Mount Johns (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Bundey or Mount Johns safer from flooding?",
-      "answer": "Mount Bundey has a flood risk score of 20/100, while Mount Johns scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Bundey has a flood risk score of 28/100, while Mount Johns scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Bundey scores 62/100 for bushfire risk. Mount Johns scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Bundey scores 48/100 for bushfire risk. Mount Johns scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Bundey or Mount Johns?",
-      "answer": "Both suburbs have climate considerations. Mount Johns has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Bundey has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Johns Should I Buy?",
       "url": "/suburbs/nt/mount-johns/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

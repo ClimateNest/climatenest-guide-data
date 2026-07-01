@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 42
+      "scoreA": 58,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 59
+      "scoreA": 23,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 77
+      "scoreA": 64,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 36
+      "scoreA": 29,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 56
+      "scoreA": 41,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 23,
+      "scoreB": 24
     }
   ],
-  "verdict": "Kayuga has a lower overall climate risk score (34/100) compared to Kearns (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kayuga has a lower overall climate risk score (40/100) compared to Kearns (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kayuga or Kearns safer from flooding?",
-      "answer": "Kayuga has a flood risk score of 24/100, while Kearns scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kayuga has a flood risk score of 58/100, while Kearns scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kayuga scores 22/100 for bushfire risk. Kearns scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kayuga scores 23/100 for bushfire risk. Kearns scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kayuga or Kearns?",
@@ -76,5 +76,15 @@
       "label": "Kearns Should I Buy?",
       "url": "/suburbs/nsw/kearns/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 40
+      "scoreA": 48,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 18
+      "scoreA": 58,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 34,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 39
+      "scoreA": 33,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 59
+      "scoreA": 32,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 23
+      "scoreA": 7,
+      "scoreB": 25
     }
   ],
-  "verdict": "Norwell has a lower overall climate risk score (36/100) compared to Norville (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Norville has a lower overall climate risk score (35/100) compared to Norwell (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Norville or Norwell safer from flooding?",
-      "answer": "Norville has a flood risk score of 55/100, while Norwell scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Norville has a flood risk score of 48/100, while Norwell scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Norville scores 26/100 for bushfire risk. Norwell scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Norville scores 58/100 for bushfire risk. Norwell scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Norville or Norwell?",
-      "answer": "Both suburbs have climate considerations. Norwell has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Norville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Norwell Should I Buy?",
       "url": "/suburbs/qld/norwell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

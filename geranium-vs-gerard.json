@@ -19,31 +19,31 @@
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 34
+      "scoreA": 59,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 76
+      "scoreA": 57,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 21
+      "scoreA": 46,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 28
     }
   ],
-  "verdict": "Gerard has a lower overall climate risk score (37/100) compared to Geranium (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gerard has a lower overall climate risk score (35/100) compared to Geranium (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Geranium scores 52/100 for bushfire risk. Gerard scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Geranium scores 59/100 for bushfire risk. Gerard scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Geranium or Gerard?",
@@ -76,5 +76,15 @@
       "label": "Gerard Should I Buy?",
       "url": "/suburbs/sa/gerard/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

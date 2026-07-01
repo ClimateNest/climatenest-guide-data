@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 52
+      "scoreA": 57,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 29
+      "scoreA": 54,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 51
+      "scoreA": 53,
+      "scoreB": 56
     },
     {
       "name": "Storm",
       "scoreA": 49,
-      "scoreB": 28
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 11
+      "scoreA": 30,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 25
     }
   ],
-  "verdict": "Bourke has a lower overall climate risk score (31/100) compared to Bourbah (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bourke has a lower overall climate risk score (36/100) compared to Bourbah (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bourbah or Bourke safer from flooding?",
-      "answer": "Bourbah has a flood risk score of 30/100, while Bourke scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bourbah has a flood risk score of 57/100, while Bourke scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bourbah scores 24/100 for bushfire risk. Bourke scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bourbah scores 54/100 for bushfire risk. Bourke scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bourbah or Bourke?",
@@ -76,5 +76,15 @@
       "label": "Bourke Should I Buy?",
       "url": "/suburbs/nsw/bourke/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

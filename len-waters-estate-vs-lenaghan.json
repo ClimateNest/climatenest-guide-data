@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 53
+      "scoreA": 45,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 35
+      "scoreA": 39,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 52
+      "scoreA": 72,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 27
+      "scoreA": 37,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 52
+      "scoreA": 38,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 16,
+      "scoreB": 24
     }
   ],
-  "verdict": "Len Waters Estate has a lower overall climate risk score (40/100) compared to Lenaghan (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Len Waters Estate has a lower overall climate risk score (41/100) compared to Lenaghan (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Len Waters Estate or Lenaghan safer from flooding?",
-      "answer": "Len Waters Estate has a flood risk score of 53/100, while Lenaghan scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Len Waters Estate has a flood risk score of 45/100, while Lenaghan scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Len Waters Estate scores 22/100 for bushfire risk. Lenaghan scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Len Waters Estate scores 39/100 for bushfire risk. Lenaghan scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Len Waters Estate or Lenaghan?",
@@ -76,5 +76,15 @@
       "label": "Lenaghan Should I Buy?",
       "url": "/suburbs/nsw/lenaghan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4385,
+    "projected2030": 6139,
+    "projected2050": 11400
+  },
+  "valueImpact": {
+    "dragPercent": 2.53,
+    "description": "Properties in this area may face a 2.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 55
+      "scoreA": 22,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 45
+      "scoreA": 50,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 50
+      "scoreA": 58,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 43
+      "scoreA": 30,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 20
+      "scoreA": 14,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 18
     }
   ],
-  "verdict": "Yatala Vale has a lower overall climate risk score (36/100) compared to Yatina (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yatala Vale has a lower overall climate risk score (31/100) compared to Yatina (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yatala Vale or Yatina safer from flooding?",
-      "answer": "Yatala Vale has a flood risk score of 59/100, while Yatina scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yatala Vale has a flood risk score of 22/100, while Yatina scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yatala Vale scores 24/100 for bushfire risk. Yatina scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yatala Vale scores 50/100 for bushfire risk. Yatina scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yatala Vale or Yatina?",
@@ -76,5 +76,15 @@
       "label": "Yatina Should I Buy?",
       "url": "/suburbs/sa/yatina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

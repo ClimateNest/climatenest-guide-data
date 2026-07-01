@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 59
+      "scoreA": 46,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 73
+      "scoreA": 67,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 40,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 14
     }
   ],
-  "verdict": "Lilydale has a lower overall climate risk score (31/100) compared to Lisle (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Lisle has a lower overall climate risk score (34/100) compared to Lilydale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lilydale or Lisle safer from flooding?",
-      "answer": "Lilydale has a flood risk score of 31/100, while Lisle scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lilydale has a flood risk score of 20/100, while Lisle scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lilydale scores 17/100 for bushfire risk. Lisle scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lilydale scores 46/100 for bushfire risk. Lisle scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lilydale or Lisle?",
-      "answer": "Both suburbs have climate considerations. Lilydale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lisle has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lisle Should I Buy?",
       "url": "/suburbs/tas/lisle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

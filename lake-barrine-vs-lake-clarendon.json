@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 56
+      "scoreA": 28,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 45
+      "scoreA": 48,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 34
+      "scoreA": 26,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 51
+      "scoreA": 21,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 21
+      "scoreA": 6,
+      "scoreB": 27
     }
   ],
-  "verdict": "Lake Barrine has a lower overall climate risk score (33/100) compared to Lake Clarendon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Barrine has a lower overall climate risk score (24/100) compared to Lake Clarendon (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lake Barrine or Lake Clarendon safer from flooding?",
-      "answer": "Lake Barrine has a flood risk score of 40/100, while Lake Clarendon scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Barrine has a flood risk score of 28/100, while Lake Clarendon scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Barrine scores 34/100 for bushfire risk. Lake Clarendon scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Barrine scores 16/100 for bushfire risk. Lake Clarendon scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Barrine or Lake Clarendon?",
@@ -76,5 +76,15 @@
       "label": "Lake Clarendon Should I Buy?",
       "url": "/suburbs/qld/lake-clarendon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

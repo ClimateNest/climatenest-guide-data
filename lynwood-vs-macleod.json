@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 40
+      "scoreA": 50,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 22
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 35
+      "scoreA": 57,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 40
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 8
+      "scoreA": 16,
+      "scoreB": 7
     }
   ],
-  "verdict": "Macleod has a lower overall climate risk score (27/100) compared to Lynwood (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Macleod has a lower overall climate risk score (30/100) compared to Lynwood (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lynwood or Macleod safer from flooding?",
-      "answer": "Lynwood has a flood risk score of 20/100, while Macleod scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lynwood has a flood risk score of 50/100, while Macleod scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lynwood scores 17/100 for bushfire risk. Macleod scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lynwood scores 48/100 for bushfire risk. Macleod scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lynwood or Macleod?",
@@ -76,5 +76,15 @@
       "label": "Macleod Should I Buy?",
       "url": "/suburbs/wa/macleod/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 27
+      "scoreA": 39,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 35
+      "scoreA": 39,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 77
+      "scoreA": 71,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 41
+      "scoreA": 21,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 23
+      "scoreA": 13,
+      "scoreB": 21
     }
   ],
-  "verdict": "Lower King has a lower overall climate risk score (36/100) compared to Lower Hotham (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lower Hotham has a lower overall climate risk score (33/100) compared to Lower King (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lower Hotham or Lower King safer from flooding?",
-      "answer": "Lower Hotham has a flood risk score of 31/100, while Lower King scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lower Hotham has a flood risk score of 39/100, while Lower King scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lower Hotham scores 41/100 for bushfire risk. Lower King scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lower Hotham scores 39/100 for bushfire risk. Lower King scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lower Hotham or Lower King?",
-      "answer": "Both suburbs have climate considerations. Lower King has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lower Hotham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lower King Should I Buy?",
       "url": "/suburbs/wa/lower-king/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

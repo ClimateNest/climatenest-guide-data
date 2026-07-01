@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 60
+      "scoreA": 36,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 48
+      "scoreA": 19,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 32,
+      "scoreA": 38,
       "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 29
+      "scoreA": 35,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 29
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 11
+      "scoreA": 10,
+      "scoreB": 7
     }
   ],
-  "verdict": "Richmond Hill has a lower overall climate risk score (26/100) compared to Ridgelands (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Richmond Hill has a lower overall climate risk score (28/100) compared to Ridgelands (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Richmond Hill or Ridgelands safer from flooding?",
-      "answer": "Richmond Hill has a flood risk score of 46/100, while Ridgelands scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Richmond Hill has a flood risk score of 36/100, while Ridgelands scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Richmond Hill scores 28/100 for bushfire risk. Ridgelands scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Richmond Hill scores 19/100 for bushfire risk. Ridgelands scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Richmond Hill or Ridgelands?",
@@ -76,5 +76,15 @@
       "label": "Ridgelands Should I Buy?",
       "url": "/suburbs/qld/ridgelands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 22
+      "scoreA": 49,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 19
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 65
+      "scoreA": 77,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 40,
+      "scoreA": 27,
       "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 25
+      "scoreA": 19,
+      "scoreB": 10
     }
   ],
-  "verdict": "Coolumburra has a lower overall climate risk score (34/100) compared to Coolumbooka (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coolumburra has a lower overall climate risk score (36/100) compared to Coolumbooka (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Coolumbooka or Coolumburra safer from flooding?",
-      "answer": "Coolumbooka has a flood risk score of 53/100, while Coolumburra scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coolumbooka has a flood risk score of 49/100, while Coolumburra scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coolumbooka scores 58/100 for bushfire risk. Coolumburra scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coolumbooka scores 36/100 for bushfire risk. Coolumburra scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coolumbooka or Coolumburra?",
@@ -76,5 +76,15 @@
       "label": "Coolumburra Should I Buy?",
       "url": "/suburbs/nsw/coolumburra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 52
+      "scoreA": 25,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 52
+      "scoreA": 44,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 28
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 33
+      "scoreA": 40,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 30
     }
   ],
-  "verdict": "Kenilworth has a lower overall climate risk score (39/100) compared to Kelvinhaugh (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kelvinhaugh has a lower overall climate risk score (31/100) compared to Kenilworth (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kelvinhaugh or Kenilworth safer from flooding?",
-      "answer": "Kelvinhaugh has a flood risk score of 49/100, while Kenilworth scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kelvinhaugh has a flood risk score of 25/100, while Kenilworth scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kelvinhaugh scores 59/100 for bushfire risk. Kenilworth scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kelvinhaugh scores 44/100 for bushfire risk. Kenilworth scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kelvinhaugh or Kenilworth?",
-      "answer": "Both suburbs have climate considerations. Kenilworth has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kelvinhaugh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kenilworth Should I Buy?",
       "url": "/suburbs/qld/kenilworth/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

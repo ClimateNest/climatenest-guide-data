@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 38
+      "scoreA": 52,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
+      "scoreA": 32,
       "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 39
+      "scoreA": 33,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 31
+      "scoreA": 49,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 34
+      "scoreA": 27,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 23
+      "scoreA": 8,
+      "scoreB": 15
     }
   ],
-  "verdict": "Inskip has a lower overall climate risk score (33/100) compared to Innot Hot Springs (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Inskip has a lower overall climate risk score (31/100) compared to Innot Hot Springs (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Innot Hot Springs or Inskip safer from flooding?",
-      "answer": "Innot Hot Springs has a flood risk score of 43/100, while Inskip scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Innot Hot Springs has a flood risk score of 52/100, while Inskip scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Innot Hot Springs scores 50/100 for bushfire risk. Inskip scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Innot Hot Springs scores 32/100 for bushfire risk. Inskip scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Innot Hot Springs or Inskip?",
@@ -76,5 +76,15 @@
       "label": "Inskip Should I Buy?",
       "url": "/suburbs/qld/inskip/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 39
+      "scoreA": 48,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 42
+      "scoreA": 22,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 54
+      "scoreA": 77,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 29
+      "scoreA": 44,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 26,
       "scoreB": 27
     }
   ],
-  "verdict": "Lefroy has a lower overall climate risk score (32/100) compared to Legerwood (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Legerwood has a lower overall climate risk score (34/100) compared to Lefroy (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lefroy or Legerwood safer from flooding?",
-      "answer": "Lefroy has a flood risk score of 24/100, while Legerwood scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lefroy has a flood risk score of 48/100, while Legerwood scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lefroy scores 32/100 for bushfire risk. Legerwood scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lefroy scores 22/100 for bushfire risk. Legerwood scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lefroy or Legerwood?",
-      "answer": "Both suburbs have climate considerations. Lefroy has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Legerwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Legerwood Should I Buy?",
       "url": "/suburbs/tas/legerwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

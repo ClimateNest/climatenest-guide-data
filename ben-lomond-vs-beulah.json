@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 21
+      "scoreA": 39,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 30
-    },
-    {
-      "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 70
-    },
-    {
-      "name": "Storm",
-      "scoreA": 46,
+      "scoreA": 50,
       "scoreB": 38
     },
     {
+      "name": "Heat",
+      "scoreA": 80,
+      "scoreB": 58
+    },
+    {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "Beulah has a lower overall climate risk score (32/100) compared to Ben Lomond (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beulah has a lower overall climate risk score (34/100) compared to Ben Lomond (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ben Lomond or Beulah safer from flooding?",
-      "answer": "Ben Lomond has a flood risk score of 56/100, while Beulah scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ben Lomond has a flood risk score of 39/100, while Beulah scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ben Lomond scores 16/100 for bushfire risk. Beulah scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ben Lomond scores 50/100 for bushfire risk. Beulah scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ben Lomond or Beulah?",
@@ -76,5 +76,15 @@
       "label": "Beulah Should I Buy?",
       "url": "/suburbs/tas/beulah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

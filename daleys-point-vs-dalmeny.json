@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 43
+      "scoreA": 30,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 19
+      "scoreA": 61,
+      "scoreB": 29
     },
     {
       "name": "Heat",
       "scoreA": 60,
-      "scoreB": 73
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 37,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 14
+      "scoreA": 56,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 13,
+      "scoreB": 25
     }
   ],
-  "verdict": "Daleys Point has a lower overall climate risk score (32/100) compared to Dalmeny (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dalmeny has a lower overall climate risk score (37/100) compared to Daleys Point (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Daleys Point or Dalmeny safer from flooding?",
-      "answer": "Daleys Point has a flood risk score of 26/100, while Dalmeny scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Daleys Point has a flood risk score of 30/100, while Dalmeny scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Daleys Point scores 34/100 for bushfire risk. Dalmeny scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Daleys Point scores 61/100 for bushfire risk. Dalmeny scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Daleys Point or Dalmeny?",
-      "answer": "Both suburbs have climate considerations. Daleys Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dalmeny has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dalmeny Should I Buy?",
       "url": "/suburbs/nsw/dalmeny/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

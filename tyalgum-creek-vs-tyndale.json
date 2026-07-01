@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 25,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 27
+      "scoreA": 59,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 31,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 36
+      "scoreA": 38,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 12
+      "scoreA": 11,
+      "scoreB": 20
     }
   ],
-  "verdict": "Tyndale has a lower overall climate risk score (30/100) compared to Tyalgum Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Tyalgum Creek has a lower overall climate risk score (32/100) compared to Tyndale (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Tyalgum Creek or Tyndale safer from flooding?",
-      "answer": "Tyalgum Creek has a flood risk score of 21/100, while Tyndale scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tyalgum Creek has a flood risk score of 25/100, while Tyndale scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tyalgum Creek scores 47/100 for bushfire risk. Tyndale scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tyalgum Creek scores 59/100 for bushfire risk. Tyndale scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tyalgum Creek or Tyndale?",
-      "answer": "Both suburbs have climate considerations. Tyndale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tyalgum Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tyndale Should I Buy?",
       "url": "/suburbs/nsw/tyndale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

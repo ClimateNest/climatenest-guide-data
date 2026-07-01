@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 31
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 19
-    },
-    {
-      "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 71
-    },
-    {
-      "name": "Storm",
-      "scoreA": 21,
+      "scoreA": 32,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 23,
+      "scoreB": 24
+    },
+    {
+      "name": "Heat",
+      "scoreA": 49,
+      "scoreB": 57
+    },
+    {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 50
+    },
+    {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 21
+      "scoreA": 37,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 27
     }
   ],
-  "verdict": "Pinkett has a lower overall climate risk score (30/100) compared to Pinnacle Swamp (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pinkett and Pinnacle Swamp have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pinkett or Pinnacle Swamp safer from flooding?",
-      "answer": "Pinkett has a flood risk score of 26/100, while Pinnacle Swamp scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pinkett has a flood risk score of 32/100, while Pinnacle Swamp scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pinkett scores 53/100 for bushfire risk. Pinnacle Swamp scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pinkett scores 23/100 for bushfire risk. Pinnacle Swamp scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pinkett or Pinnacle Swamp?",
@@ -76,5 +76,15 @@
       "label": "Pinnacle Swamp Should I Buy?",
       "url": "/suburbs/nsw/pinnacle-swamp/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
+      "scoreA": 64,
       "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 36
+      "scoreA": 40,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 26
+      "scoreA": 12,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 20
+      "scoreA": 30,
+      "scoreB": 19
     }
   ],
-  "verdict": "North Moonta has a lower overall climate risk score (31/100) compared to North Plympton (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "North Plympton has a lower overall climate risk score (31/100) compared to North Moonta (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is North Moonta or North Plympton safer from flooding?",
-      "answer": "North Moonta has a flood risk score of 32/100, while North Plympton scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Moonta has a flood risk score of 43/100, while North Plympton scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Moonta scores 19/100 for bushfire risk. North Plympton scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Moonta scores 64/100 for bushfire risk. North Plympton scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Moonta or North Plympton?",
-      "answer": "Both suburbs have climate considerations. North Moonta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. North Plympton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "North Plympton Should I Buy?",
       "url": "/suburbs/sa/north-plympton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

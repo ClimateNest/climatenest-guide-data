@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 48
+      "scoreA": 45,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 30
+      "scoreA": 35,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 50
+      "scoreA": 31,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 41
+      "scoreA": 53,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 24
+      "scoreA": 10,
+      "scoreB": 28
     }
   ],
-  "verdict": "Darling Heights has a lower overall climate risk score (32/100) compared to Darr Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Darling Heights has a lower overall climate risk score (35/100) compared to Darr Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Darling Heights or Darr Creek safer from flooding?",
-      "answer": "Darling Heights has a flood risk score of 37/100, while Darr Creek scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Darling Heights has a flood risk score of 33/100, while Darr Creek scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Darling Heights scores 24/100 for bushfire risk. Darr Creek scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Darling Heights scores 45/100 for bushfire risk. Darr Creek scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Darling Heights or Darr Creek?",
@@ -76,5 +76,15 @@
       "label": "Darr Creek Should I Buy?",
       "url": "/suburbs/qld/darr-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

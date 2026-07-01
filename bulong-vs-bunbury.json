@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 44,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 45
+      "scoreA": 52,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 78
+      "scoreA": 56,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 20
     }
   ],
-  "verdict": "Bunbury has a lower overall climate risk score (37/100) compared to Bulong (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bunbury has a lower overall climate risk score (40/100) compared to Bulong (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bulong or Bunbury safer from flooding?",
-      "answer": "Bulong has a flood risk score of 45/100, while Bunbury scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bulong has a flood risk score of 44/100, while Bunbury scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bulong scores 64/100 for bushfire risk. Bunbury scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bulong scores 52/100 for bushfire risk. Bunbury scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bulong or Bunbury?",
@@ -76,5 +76,15 @@
       "label": "Bunbury Should I Buy?",
       "url": "/suburbs/wa/bunbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

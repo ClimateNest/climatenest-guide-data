@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 48
+      "scoreA": 36,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 33
+      "scoreA": 19,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 39
+      "scoreA": 63,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 24
+      "scoreA": 21,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 33
+      "scoreA": 52,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 19
     }
   ],
-  "verdict": "Eatonsville has a lower overall climate risk score (32/100) compared to Eastlakes (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Eastlakes has a lower overall climate risk score (34/100) compared to Eatonsville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eastlakes or Eatonsville safer from flooding?",
-      "answer": "Eastlakes has a flood risk score of 32/100, while Eatonsville scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eastlakes has a flood risk score of 36/100, while Eatonsville scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eastlakes scores 55/100 for bushfire risk. Eatonsville scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eastlakes scores 19/100 for bushfire risk. Eatonsville scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eastlakes or Eatonsville?",
-      "answer": "Both suburbs have climate considerations. Eatonsville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eastlakes has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eatonsville Should I Buy?",
       "url": "/suburbs/nsw/eatonsville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

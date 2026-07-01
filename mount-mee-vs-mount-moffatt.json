@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 43
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 22
-    },
-    {
-      "name": "Heat",
-      "scoreA": 49,
+      "scoreA": 31,
       "scoreB": 31
     },
     {
+      "name": "Bushfire",
+      "scoreA": 29,
+      "scoreB": 50
+    },
+    {
+      "name": "Heat",
+      "scoreA": 31,
+      "scoreB": 36
+    },
+    {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 10
+      "scoreA": 38,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mount Moffatt has a lower overall climate risk score (29/100) compared to Mount Mee (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Moffatt has a lower overall climate risk score (31/100) compared to Mount Mee (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Mee or Mount Moffatt safer from flooding?",
-      "answer": "Mount Mee has a flood risk score of 29/100, while Mount Moffatt scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Mee has a flood risk score of 31/100, while Mount Moffatt scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Mee scores 57/100 for bushfire risk. Mount Moffatt scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Mee scores 29/100 for bushfire risk. Mount Moffatt scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Mee or Mount Moffatt?",
@@ -76,5 +76,15 @@
       "label": "Mount Moffatt Should I Buy?",
       "url": "/suburbs/qld/mount-moffatt/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3331,
+    "projected2030": 4663,
+    "projected2050": 8660
+  },
+  "valueImpact": {
+    "dragPercent": 0.2,
+    "description": "Properties in this area may face a 0.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

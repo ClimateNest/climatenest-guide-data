@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 32
+      "scoreA": 59,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 52
+      "scoreA": 54,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 22
     }
   ],
-  "verdict": "Greenwoods Valley has a lower overall climate risk score (32/100) compared to Grey (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Greenwoods Valley has a lower overall climate risk score (38/100) compared to Grey (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Greenwoods Valley or Grey safer from flooding?",
-      "answer": "Greenwoods Valley has a flood risk score of 25/100, while Grey scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greenwoods Valley has a flood risk score of 27/100, while Grey scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greenwoods Valley scores 39/100 for bushfire risk. Grey scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greenwoods Valley scores 59/100 for bushfire risk. Grey scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greenwoods Valley or Grey?",
@@ -76,5 +76,15 @@
       "label": "Grey Should I Buy?",
       "url": "/suburbs/wa/grey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

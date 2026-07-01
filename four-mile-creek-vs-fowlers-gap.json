@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 40
+      "scoreA": 35,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 32
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 67
+      "scoreA": 58,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 29,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
+      "scoreA": 19,
       "scoreB": 19
     }
   ],
-  "verdict": "Fowlers Gap has a lower overall climate risk score (37/100) compared to Four Mile Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Four Mile Creek has a lower overall climate risk score (33/100) compared to Fowlers Gap (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Four Mile Creek or Fowlers Gap safer from flooding?",
-      "answer": "Four Mile Creek has a flood risk score of 23/100, while Fowlers Gap scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Four Mile Creek has a flood risk score of 35/100, while Fowlers Gap scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Four Mile Creek scores 61/100 for bushfire risk. Fowlers Gap scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Four Mile Creek scores 46/100 for bushfire risk. Fowlers Gap scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Four Mile Creek or Fowlers Gap?",
-      "answer": "Both suburbs have climate considerations. Fowlers Gap has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Four Mile Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Fowlers Gap Should I Buy?",
       "url": "/suburbs/nsw/fowlers-gap/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 39
+      "scoreA": 53,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 28
+      "scoreA": 31,
+      "scoreB": 62
     },
     {
       "name": "Heat",
       "scoreA": 62,
-      "scoreB": 67
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 42,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 28,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 25
+      "scoreA": 30,
+      "scoreB": 28
     }
   ],
-  "verdict": "Fernbank has a lower overall climate risk score (35/100) compared to Ferndale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Fernbank has a lower overall climate risk score (41/100) compared to Ferndale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Fernbank or Ferndale safer from flooding?",
-      "answer": "Fernbank has a flood risk score of 27/100, while Ferndale scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fernbank has a flood risk score of 53/100, while Ferndale scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fernbank scores 36/100 for bushfire risk. Ferndale scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fernbank scores 31/100 for bushfire risk. Ferndale scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fernbank or Ferndale?",
@@ -76,5 +76,15 @@
       "label": "Ferndale Should I Buy?",
       "url": "/suburbs/vic/ferndale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

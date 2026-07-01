@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 49
+      "scoreA": 50,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 77
+      "scoreA": 60,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 32
+      "scoreA": 27,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Moliagul has a lower overall climate risk score (35/100) compared to Mollongghip (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moliagul has a lower overall climate risk score (34/100) compared to Mollongghip (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Moliagul or Mollongghip safer from flooding?",
-      "answer": "Moliagul has a flood risk score of 59/100, while Mollongghip scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moliagul has a flood risk score of 50/100, while Mollongghip scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moliagul scores 26/100 for bushfire risk. Mollongghip scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moliagul scores 18/100 for bushfire risk. Mollongghip scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moliagul or Mollongghip?",
@@ -76,5 +76,15 @@
       "label": "Mollongghip Should I Buy?",
       "url": "/suburbs/vic/mollongghip/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

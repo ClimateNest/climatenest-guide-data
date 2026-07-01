@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 48
+      "scoreA": 38,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 61
+      "scoreA": 16,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 51
+      "scoreA": 58,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 20
+      "scoreA": 33,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 27,
       "scoreB": 27
     },
     {
       "name": "Cyclone",
       "scoreA": 11,
-      "scoreB": 21
+      "scoreB": 26
     }
   ],
-  "verdict": "Banca has a lower overall climate risk score (38/100) compared to Barnes Bay (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Banca has a lower overall climate risk score (31/100) compared to Barnes Bay (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Banca or Barnes Bay safer from flooding?",
-      "answer": "Banca has a flood risk score of 35/100, while Barnes Bay scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Banca has a flood risk score of 38/100, while Barnes Bay scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Banca scores 62/100 for bushfire risk. Barnes Bay scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Banca scores 16/100 for bushfire risk. Barnes Bay scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Banca or Barnes Bay?",
@@ -76,5 +76,15 @@
       "label": "Barnes Bay Should I Buy?",
       "url": "/suburbs/tas/barnes-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

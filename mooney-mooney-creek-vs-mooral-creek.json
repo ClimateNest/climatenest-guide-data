@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 24
+      "scoreA": 31,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 50
+      "scoreA": 25,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 72
+      "scoreA": 60,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 25,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 40
+      "scoreA": 30,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 15,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mooney Mooney Creek has a lower overall climate risk score (41/100) compared to Mooral Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Mooney Mooney Creek has a lower overall climate risk score (31/100) compared to Mooral Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mooney Mooney Creek or Mooral Creek safer from flooding?",
-      "answer": "Mooney Mooney Creek has a flood risk score of 48/100, while Mooral Creek scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mooney Mooney Creek has a flood risk score of 31/100, while Mooral Creek scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mooney Mooney Creek scores 21/100 for bushfire risk. Mooral Creek scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mooney Mooney Creek scores 25/100 for bushfire risk. Mooral Creek scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mooney Mooney Creek or Mooral Creek?",
@@ -76,5 +76,15 @@
       "label": "Mooral Creek Should I Buy?",
       "url": "/suburbs/nsw/mooral-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

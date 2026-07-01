@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 38
+      "scoreA": 40,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 40
+      "scoreA": 48,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 53
+      "scoreA": 75,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 21
+      "scoreA": 18,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 27,
+      "scoreB": 17
     }
   ],
-  "verdict": "Kunjin has a lower overall climate risk score (34/100) compared to Kulja (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kunjin has a lower overall climate risk score (36/100) compared to Kulja (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kulja or Kunjin safer from flooding?",
-      "answer": "Kulja has a flood risk score of 48/100, while Kunjin scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kulja has a flood risk score of 40/100, while Kunjin scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kulja scores 28/100 for bushfire risk. Kunjin scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kulja scores 48/100 for bushfire risk. Kunjin scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kulja or Kunjin?",
@@ -76,5 +76,15 @@
       "label": "Kunjin Should I Buy?",
       "url": "/suburbs/wa/kunjin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

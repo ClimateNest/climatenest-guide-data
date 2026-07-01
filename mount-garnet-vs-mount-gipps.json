@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 33
+      "scoreA": 42,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 42
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 33,
+      "scoreA": 48,
       "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 34
+      "scoreA": 42,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 35
+      "scoreA": 18,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 27
     }
   ],
-  "verdict": "Mount Gipps has a lower overall climate risk score (34/100) compared to Mount Garnet (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mount Garnet has a lower overall climate risk score (35/100) compared to Mount Gipps (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Garnet or Mount Gipps safer from flooding?",
-      "answer": "Mount Garnet has a flood risk score of 31/100, while Mount Gipps scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Garnet has a flood risk score of 42/100, while Mount Gipps scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Garnet scores 65/100 for bushfire risk. Mount Gipps scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Garnet scores 47/100 for bushfire risk. Mount Gipps scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Garnet or Mount Gipps?",
-      "answer": "Both suburbs have climate considerations. Mount Gipps has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Garnet has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Gipps Should I Buy?",
       "url": "/suburbs/qld/mount-gipps/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

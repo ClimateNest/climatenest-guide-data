@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 33,
-      "scoreB": 55
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 42
+      "scoreA": 60,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 70
+      "scoreA": 65,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 42,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 18,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 11
+      "scoreA": 27,
+      "scoreB": 14
     }
   ],
-  "verdict": "Mallacoota has a lower overall climate risk score (32/100) compared to Malmsbury (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mallacoota has a lower overall climate risk score (41/100) compared to Malmsbury (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Mallacoota or Malmsbury safer from flooding?",
-      "answer": "Mallacoota has a flood risk score of 33/100, while Malmsbury scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mallacoota has a flood risk score of 33/100, while Malmsbury scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mallacoota scores 19/100 for bushfire risk. Malmsbury scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mallacoota scores 60/100 for bushfire risk. Malmsbury scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mallacoota or Malmsbury?",
@@ -76,5 +76,15 @@
       "label": "Malmsbury Should I Buy?",
       "url": "/suburbs/vic/malmsbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

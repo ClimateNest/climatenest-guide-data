@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 51
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 35
+      "scoreA": 63,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 42
+      "scoreA": 41,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 21,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 14
+      "scoreA": 21,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 14
     }
   ],
-  "verdict": "Minjilang has a lower overall climate risk score (25/100) compared to Mitchell (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mitchell has a lower overall climate risk score (27/100) compared to Minjilang (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Minjilang or Mitchell safer from flooding?",
-      "answer": "Minjilang has a flood risk score of 53/100, while Mitchell scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Minjilang has a flood risk score of 29/100, while Mitchell scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Minjilang scores 16/100 for bushfire risk. Mitchell scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Minjilang scores 63/100 for bushfire risk. Mitchell scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Minjilang or Mitchell?",
-      "answer": "Both suburbs have climate considerations. Minjilang has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mitchell has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mitchell Should I Buy?",
       "url": "/suburbs/nt/mitchell/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3331,
+    "projected2030": 4663,
+    "projected2050": 8660
+  },
+  "valueImpact": {
+    "dragPercent": 0.2,
+    "description": "Properties in this area may face a 0.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

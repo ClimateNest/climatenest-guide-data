@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 29
+      "scoreA": 39,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 54
+      "scoreA": 22,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 44
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 15,
+      "scoreB": 16
     }
   ],
-  "verdict": "Woodstock has a lower overall climate risk score (33/100) compared to Woodwark (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woodstock has a lower overall climate risk score (27/100) compared to Woodwark (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Woodstock or Woodwark safer from flooding?",
-      "answer": "Woodstock has a flood risk score of 36/100, while Woodwark scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woodstock has a flood risk score of 39/100, while Woodwark scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woodstock scores 34/100 for bushfire risk. Woodwark scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woodstock scores 22/100 for bushfire risk. Woodwark scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woodstock or Woodwark?",
@@ -76,5 +76,15 @@
       "label": "Woodwark Should I Buy?",
       "url": "/suburbs/qld/woodwark/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

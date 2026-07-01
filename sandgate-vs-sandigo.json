@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 46
+      "scoreA": 51,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 54
+      "scoreA": 35,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 60
+      "scoreA": 58,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 36
+      "scoreA": 37,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
+      "scoreA": 43,
       "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 23
     }
   ],
-  "verdict": "Sandigo has a lower overall climate risk score (39/100) compared to Sandgate (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sandigo has a lower overall climate risk score (40/100) compared to Sandgate (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sandgate or Sandigo safer from flooding?",
-      "answer": "Sandgate has a flood risk score of 45/100, while Sandigo scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandgate has a flood risk score of 51/100, while Sandigo scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandgate scores 62/100 for bushfire risk. Sandigo scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandgate scores 35/100 for bushfire risk. Sandigo scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandgate or Sandigo?",
@@ -76,5 +76,15 @@
       "label": "Sandigo Should I Buy?",
       "url": "/suburbs/nsw/sandigo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

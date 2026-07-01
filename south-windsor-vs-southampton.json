@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 52
+      "scoreA": 34,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 55
+      "scoreA": 22,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 39
+      "scoreA": 73,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 57
+      "scoreA": 37,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 14
+      "scoreA": 16,
+      "scoreB": 15
     }
   ],
-  "verdict": "South Windsor has a lower overall climate risk score (41/100) compared to Southampton (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "South Windsor has a lower overall climate risk score (35/100) compared to Southampton (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is South Windsor or Southampton safer from flooding?",
-      "answer": "South Windsor has a flood risk score of 58/100, while Southampton scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Windsor has a flood risk score of 34/100, while Southampton scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Windsor scores 30/100 for bushfire risk. Southampton scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Windsor scores 22/100 for bushfire risk. Southampton scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Windsor or Southampton?",
@@ -76,5 +76,15 @@
       "label": "Southampton Should I Buy?",
       "url": "/suburbs/nsw/southampton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

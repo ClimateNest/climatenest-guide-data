@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 32,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 41
+      "scoreA": 16,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 59
+      "scoreA": 71,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 41
+      "scoreA": 37,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 20
     }
   ],
-  "verdict": "Mount Olive has a lower overall climate risk score (40/100) compared to Mount Ousley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Olive has a lower overall climate risk score (34/100) compared to Mount Ousley (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Olive or Mount Ousley safer from flooding?",
-      "answer": "Mount Olive has a flood risk score of 24/100, while Mount Ousley scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Olive has a flood risk score of 32/100, while Mount Ousley scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Olive scores 52/100 for bushfire risk. Mount Ousley scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Olive scores 16/100 for bushfire risk. Mount Ousley scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Olive or Mount Ousley?",
@@ -76,5 +76,15 @@
       "label": "Mount Ousley Should I Buy?",
       "url": "/suburbs/nsw/mount-ousley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

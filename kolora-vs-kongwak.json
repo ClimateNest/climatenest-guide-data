@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 59
+      "scoreA": 51,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 76
+      "scoreA": 63,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 10
     }
   ],
-  "verdict": "Kolora has a lower overall climate risk score (34/100) compared to Kongwak (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kongwak has a lower overall climate risk score (29/100) compared to Kolora (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kolora or Kongwak safer from flooding?",
-      "answer": "Kolora has a flood risk score of 35/100, while Kongwak scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kolora has a flood risk score of 46/100, while Kongwak scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kolora scores 24/100 for bushfire risk. Kongwak scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kolora scores 51/100 for bushfire risk. Kongwak scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kolora or Kongwak?",
-      "answer": "Both suburbs have climate considerations. Kolora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kongwak has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kongwak Should I Buy?",
       "url": "/suburbs/vic/kongwak/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

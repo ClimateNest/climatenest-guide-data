@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 33
+      "scoreA": 36,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 26
+      "scoreA": 54,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 52
+      "scoreA": 69,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 30
+      "scoreA": 30,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 24,
+      "scoreB": 29
     }
   ],
-  "verdict": "Goobarragandra has a lower overall climate risk score (31/100) compared to Gonn (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goobarragandra has a lower overall climate risk score (33/100) compared to Gonn (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gonn or Goobarragandra safer from flooding?",
-      "answer": "Gonn has a flood risk score of 26/100, while Goobarragandra scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gonn has a flood risk score of 36/100, while Goobarragandra scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gonn scores 38/100 for bushfire risk. Goobarragandra scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gonn scores 54/100 for bushfire risk. Goobarragandra scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gonn or Goobarragandra?",
@@ -76,5 +76,15 @@
       "label": "Goobarragandra Should I Buy?",
       "url": "/suburbs/nsw/goobarragandra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

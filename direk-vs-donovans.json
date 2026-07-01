@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 28
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 25
-    },
-    {
-      "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 74
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 50,
       "scoreB": 34
     },
     {
-      "name": "Coastal",
+      "name": "Bushfire",
       "scoreA": 17,
-      "scoreB": 20
+      "scoreB": 56
+    },
+    {
+      "name": "Heat",
+      "scoreA": 73,
+      "scoreB": 57
+    },
+    {
+      "name": "Storm",
+      "scoreA": 27,
+      "scoreB": 48
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 16,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 23
+      "scoreA": 22,
+      "scoreB": 26
     }
   ],
-  "verdict": "Direk has a lower overall climate risk score (28/100) compared to Donovans (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Direk has a lower overall climate risk score (34/100) compared to Donovans (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Direk or Donovans safer from flooding?",
-      "answer": "Direk has a flood risk score of 28/100, while Donovans scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Direk has a flood risk score of 50/100, while Donovans scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Direk scores 31/100 for bushfire risk. Donovans scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Direk scores 17/100 for bushfire risk. Donovans scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Direk or Donovans?",
@@ -76,5 +76,15 @@
       "label": "Donovans Should I Buy?",
       "url": "/suburbs/sa/donovans/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

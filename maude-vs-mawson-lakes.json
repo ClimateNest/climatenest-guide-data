@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 53
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 45
-    },
-    {
-      "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 57
-    },
-    {
-      "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 56,
       "scoreB": 33
     },
     {
+      "name": "Bushfire",
+      "scoreA": 32,
+      "scoreB": 22
+    },
+    {
+      "name": "Heat",
+      "scoreA": 77,
+      "scoreB": 67
+    },
+    {
+      "name": "Storm",
+      "scoreA": 26,
+      "scoreB": 26
+    },
+    {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 21,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 27
     }
   ],
-  "verdict": "Mawson Lakes has a lower overall climate risk score (38/100) compared to Maude (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mawson Lakes has a lower overall climate risk score (32/100) compared to Maude (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Maude or Mawson Lakes safer from flooding?",
-      "answer": "Maude has a flood risk score of 60/100, while Mawson Lakes scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Maude has a flood risk score of 56/100, while Mawson Lakes scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Maude scores 58/100 for bushfire risk. Mawson Lakes scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Maude scores 32/100 for bushfire risk. Mawson Lakes scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Maude or Mawson Lakes?",
@@ -76,5 +76,15 @@
       "label": "Mawson Lakes Should I Buy?",
       "url": "/suburbs/sa/mawson-lakes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

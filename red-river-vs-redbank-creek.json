@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 42
+      "scoreA": 47,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
+      "scoreA": 38,
       "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 41
+      "scoreA": 47,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 41
+      "scoreA": 13,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 24
     }
   ],
-  "verdict": "Red River has a lower overall climate risk score (30/100) compared to Redbank Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Red River has a lower overall climate risk score (30/100) compared to Redbank Creek (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Red River or Redbank Creek safer from flooding?",
-      "answer": "Red River has a flood risk score of 51/100, while Redbank Creek scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Red River has a flood risk score of 47/100, while Redbank Creek scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Red River scores 20/100 for bushfire risk. Redbank Creek scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Red River scores 38/100 for bushfire risk. Redbank Creek scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Red River or Redbank Creek?",
@@ -76,5 +76,15 @@
       "label": "Redbank Creek Should I Buy?",
       "url": "/suburbs/qld/redbank-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

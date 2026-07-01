@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 59
+      "scoreA": 33,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 29
+      "scoreA": 61,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 69
+      "scoreA": 66,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 35,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 10
+      "scoreA": 27,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 30,
+      "scoreB": 22
     }
   ],
-  "verdict": "Deptford has a lower overall climate risk score (32/100) compared to Dereel (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dereel has a lower overall climate risk score (32/100) compared to Deptford (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Deptford or Dereel safer from flooding?",
-      "answer": "Deptford has a flood risk score of 21/100, while Dereel scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Deptford has a flood risk score of 33/100, while Dereel scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Deptford scores 53/100 for bushfire risk. Dereel scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Deptford scores 61/100 for bushfire risk. Dereel scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Deptford or Dereel?",
-      "answer": "Both suburbs have climate considerations. Deptford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dereel has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dereel Should I Buy?",
       "url": "/suburbs/vic/dereel/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

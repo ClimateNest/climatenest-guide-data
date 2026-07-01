@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 27
+      "scoreA": 28,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 60
+      "scoreA": 67,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 17
+      "scoreA": 14,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 28
     }
   ],
-  "verdict": "Eden Park has a lower overall climate risk score (32/100) compared to Eddington (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Eddington has a lower overall climate risk score (39/100) compared to Eden Park (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eddington or Eden Park safer from flooding?",
-      "answer": "Eddington has a flood risk score of 50/100, while Eden Park scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eddington has a flood risk score of 58/100, while Eden Park scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eddington scores 44/100 for bushfire risk. Eden Park scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eddington scores 28/100 for bushfire risk. Eden Park scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eddington or Eden Park?",
-      "answer": "Both suburbs have climate considerations. Eden Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eddington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eden Park Should I Buy?",
       "url": "/suburbs/vic/eden-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 33
+      "scoreA": 25,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 52
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 50
+      "scoreA": 35,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 20
+      "scoreA": 49,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Glenaubyn has a lower overall climate risk score (33/100) compared to Glen Ruth (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glenaubyn has a lower overall climate risk score (30/100) compared to Glen Ruth (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glen Ruth or Glenaubyn safer from flooding?",
-      "answer": "Glen Ruth has a flood risk score of 52/100, while Glenaubyn scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glen Ruth has a flood risk score of 25/100, while Glenaubyn scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glen Ruth scores 49/100 for bushfire risk. Glenaubyn scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glen Ruth scores 43/100 for bushfire risk. Glenaubyn scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glen Ruth or Glenaubyn?",
@@ -76,5 +76,15 @@
       "label": "Glenaubyn Should I Buy?",
       "url": "/suburbs/qld/glenaubyn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3365,
+    "projected2030": 4711,
+    "projected2050": 8748
+  },
+  "valueImpact": {
+    "dragPercent": 0.27,
+    "description": "Properties in this area may face a 0.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

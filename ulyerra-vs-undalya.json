@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 56
+      "scoreA": 22,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 52
+      "scoreA": 20,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 64
+      "scoreA": 53,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 24,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 12
+      "scoreA": 30,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 15
     }
   ],
-  "verdict": "Ulyerra has a lower overall climate risk score (37/100) compared to Undalya (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ulyerra has a lower overall climate risk score (29/100) compared to Undalya (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ulyerra or Undalya safer from flooding?",
-      "answer": "Ulyerra has a flood risk score of 39/100, while Undalya scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ulyerra has a flood risk score of 22/100, while Undalya scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ulyerra scores 27/100 for bushfire risk. Undalya scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ulyerra scores 20/100 for bushfire risk. Undalya scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ulyerra or Undalya?",
@@ -76,5 +76,15 @@
       "label": "Undalya Should I Buy?",
       "url": "/suburbs/sa/undalya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

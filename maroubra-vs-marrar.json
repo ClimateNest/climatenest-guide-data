@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 32
+      "scoreA": 52,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 65
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 75
+      "scoreA": 59,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 31,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 24
+      "scoreA": 47,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 14
     }
   ],
-  "verdict": "Marrar has a lower overall climate risk score (39/100) compared to Maroubra (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marrar has a lower overall climate risk score (37/100) compared to Maroubra (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Maroubra or Marrar safer from flooding?",
-      "answer": "Maroubra has a flood risk score of 54/100, while Marrar scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Maroubra has a flood risk score of 52/100, while Marrar scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Maroubra scores 55/100 for bushfire risk. Marrar scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Maroubra scores 50/100 for bushfire risk. Marrar scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Maroubra or Marrar?",
@@ -76,5 +76,15 @@
       "label": "Marrar Should I Buy?",
       "url": "/suburbs/nsw/marrar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

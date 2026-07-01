@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 33
+      "scoreA": 34,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 63
+      "scoreA": 37,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 60
+      "scoreA": 56,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 23,
       "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 17
     }
   ],
-  "verdict": "Lowther has a lower overall climate risk score (36/100) compared to Lowesdale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lowesdale has a lower overall climate risk score (33/100) compared to Lowther (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lowesdale or Lowther safer from flooding?",
-      "answer": "Lowesdale has a flood risk score of 22/100, while Lowther scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lowesdale has a flood risk score of 34/100, while Lowther scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lowesdale scores 59/100 for bushfire risk. Lowther scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lowesdale scores 37/100 for bushfire risk. Lowther scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lowesdale or Lowther?",
-      "answer": "Both suburbs have climate considerations. Lowther has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lowesdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lowther Should I Buy?",
       "url": "/suburbs/nsw/lowther/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

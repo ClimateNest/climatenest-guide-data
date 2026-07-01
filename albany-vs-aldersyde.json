@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 58,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 50,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 54
+      "scoreA": 80,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 20
+      "scoreA": 18,
+      "scoreB": 17
     }
   ],
-  "verdict": "Aldersyde has a lower overall climate risk score (26/100) compared to Albany (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Aldersyde has a lower overall climate risk score (40/100) compared to Albany (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Albany or Aldersyde safer from flooding?",
-      "answer": "Albany has a flood risk score of 34/100, while Aldersyde scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Albany has a flood risk score of 58/100, while Aldersyde scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Albany scores 29/100 for bushfire risk. Aldersyde scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Albany scores 50/100 for bushfire risk. Aldersyde scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Albany or Aldersyde?",
@@ -76,5 +76,15 @@
       "label": "Aldersyde Should I Buy?",
       "url": "/suburbs/wa/aldersyde/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

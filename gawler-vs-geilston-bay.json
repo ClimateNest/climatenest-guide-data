@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 38
+      "scoreA": 25,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 25
+      "scoreA": 50,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 52
+      "scoreA": 62,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 27
+      "scoreA": 15,
+      "scoreB": 23
     }
   ],
-  "verdict": "Geilston Bay has a lower overall climate risk score (31/100) compared to Gawler (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Gawler has a lower overall climate risk score (36/100) compared to Geilston Bay (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gawler or Geilston Bay safer from flooding?",
-      "answer": "Gawler has a flood risk score of 41/100, while Geilston Bay scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gawler has a flood risk score of 25/100, while Geilston Bay scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gawler scores 58/100 for bushfire risk. Geilston Bay scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gawler scores 50/100 for bushfire risk. Geilston Bay scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gawler or Geilston Bay?",
-      "answer": "Both suburbs have climate considerations. Geilston Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gawler has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Geilston Bay Should I Buy?",
       "url": "/suburbs/tas/geilston-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 50
+      "scoreA": 45,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 38,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 73
+      "scoreA": 69,
+      "scoreB": 67
     },
     {
       "name": "Storm",
       "scoreA": 33,
-      "scoreB": 38
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 12
+      "scoreA": 11,
+      "scoreB": 24
     }
   ],
-  "verdict": "Tower Hill has a lower overall climate risk score (30/100) compared to Towong Upper (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Towong Upper has a lower overall climate risk score (34/100) compared to Tower Hill (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tower Hill or Towong Upper safer from flooding?",
-      "answer": "Tower Hill has a flood risk score of 28/100, while Towong Upper scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tower Hill has a flood risk score of 45/100, while Towong Upper scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tower Hill scores 17/100 for bushfire risk. Towong Upper scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tower Hill scores 38/100 for bushfire risk. Towong Upper scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tower Hill or Towong Upper?",
-      "answer": "Both suburbs have climate considerations. Tower Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Towong Upper has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Towong Upper Should I Buy?",
       "url": "/suburbs/vic/towong-upper/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 56
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 55,
+      "scoreA": 44,
       "scoreB": 21
     },
     {
-      "name": "Heat",
-      "scoreA": 56,
+      "name": "Bushfire",
+      "scoreA": 49,
       "scoreB": 45
     },
     {
+      "name": "Heat",
+      "scoreA": 75,
+      "scoreB": 38
+    },
+    {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 48
+      "scoreA": 39,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 26,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 22
     }
   ],
-  "verdict": "Beachlands has a lower overall climate risk score (35/100) compared to Bayonet Head (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beachlands has a lower overall climate risk score (28/100) compared to Bayonet Head (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bayonet Head or Beachlands safer from flooding?",
-      "answer": "Bayonet Head has a flood risk score of 42/100, while Beachlands scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bayonet Head has a flood risk score of 44/100, while Beachlands scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bayonet Head scores 55/100 for bushfire risk. Beachlands scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bayonet Head scores 49/100 for bushfire risk. Beachlands scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bayonet Head or Beachlands?",
@@ -76,5 +76,15 @@
       "label": "Beachlands Should I Buy?",
       "url": "/suburbs/wa/beachlands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

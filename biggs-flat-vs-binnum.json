@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 59
+      "scoreA": 52,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 20
+      "scoreA": 40,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 53
+      "scoreA": 71,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 13
+      "scoreA": 30,
+      "scoreB": 12
     }
   ],
-  "verdict": "Binnum has a lower overall climate risk score (30/100) compared to Biggs Flat (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Binnum has a lower overall climate risk score (38/100) compared to Biggs Flat (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Biggs Flat or Binnum safer from flooding?",
-      "answer": "Biggs Flat has a flood risk score of 53/100, while Binnum scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Biggs Flat has a flood risk score of 52/100, while Binnum scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Biggs Flat scores 49/100 for bushfire risk. Binnum scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Biggs Flat scores 40/100 for bushfire risk. Binnum scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Biggs Flat or Binnum?",
@@ -76,5 +76,15 @@
       "label": "Binnum Should I Buy?",
       "url": "/suburbs/sa/binnum/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

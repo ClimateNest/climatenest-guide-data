@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 58
+      "scoreA": 30,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 56
+      "scoreA": 45,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 56
+      "scoreA": 63,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 26
+      "scoreA": 16,
+      "scoreB": 17
     }
   ],
-  "verdict": "Calwell has a lower overall climate risk score (39/100) compared to Canberra Airport (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Canberra Airport has a lower overall climate risk score (35/100) compared to Calwell (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Calwell or Canberra Airport safer from flooding?",
-      "answer": "Calwell has a flood risk score of 48/100, while Canberra Airport scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Calwell has a flood risk score of 30/100, while Canberra Airport scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Calwell scores 46/100 for bushfire risk. Canberra Airport scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Calwell scores 45/100 for bushfire risk. Canberra Airport scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Calwell or Canberra Airport?",
-      "answer": "Both suburbs have climate considerations. Calwell has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Canberra Airport has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Canberra Airport Should I Buy?",
       "url": "/suburbs/act/canberra-airport/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 35
+      "scoreA": 26,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 26
+      "scoreA": 56,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 69
+      "scoreA": 76,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 19
+      "scoreA": 57,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
+      "scoreA": 21,
       "scoreB": 11
     }
   ],
-  "verdict": "Henty has a lower overall climate risk score (33/100) compared to Henley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Henty has a lower overall climate risk score (33/100) compared to Henley (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Henley or Henty safer from flooding?",
-      "answer": "Henley has a flood risk score of 52/100, while Henty scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Henley has a flood risk score of 26/100, while Henty scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Henley scores 54/100 for bushfire risk. Henty scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Henley scores 56/100 for bushfire risk. Henty scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Henley or Henty?",
@@ -76,5 +76,15 @@
       "label": "Henty Should I Buy?",
       "url": "/suburbs/nsw/henty/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

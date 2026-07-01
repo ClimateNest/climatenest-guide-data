@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 34
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 71
+      "scoreA": 62,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 40
+      "scoreA": 31,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 12,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 12,
+      "scoreB": 12
     }
   ],
-  "verdict": "Petina has a lower overall climate risk score (38/100) compared to Petherick (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Petherick has a lower overall climate risk score (34/100) compared to Petina (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Petherick or Petina safer from flooding?",
-      "answer": "Petherick has a flood risk score of 45/100, while Petina scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Petherick has a flood risk score of 40/100, while Petina scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Petherick scores 51/100 for bushfire risk. Petina scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Petherick scores 47/100 for bushfire risk. Petina scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Petherick or Petina?",
-      "answer": "Both suburbs have climate considerations. Petina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Petherick has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Petina Should I Buy?",
       "url": "/suburbs/sa/petina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

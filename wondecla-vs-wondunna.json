@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 32
+      "scoreA": 40,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 63
+      "scoreA": 54,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 35
     },
     {
       "name": "Storm",
       "scoreA": 24,
-      "scoreB": 23
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 46
+      "scoreA": 20,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 12,
+      "scoreB": 21
     }
   ],
-  "verdict": "Wondecla has a lower overall climate risk score (25/100) compared to Wondunna (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wondecla has a lower overall climate risk score (31/100) compared to Wondunna (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wondecla or Wondunna safer from flooding?",
-      "answer": "Wondecla has a flood risk score of 31/100, while Wondunna scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wondecla has a flood risk score of 40/100, while Wondunna scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wondecla scores 30/100 for bushfire risk. Wondunna scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wondecla scores 54/100 for bushfire risk. Wondunna scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wondecla or Wondunna?",
@@ -76,5 +76,15 @@
       "label": "Wondunna Should I Buy?",
       "url": "/suburbs/qld/wondunna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

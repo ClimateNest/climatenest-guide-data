@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 40,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
       "scoreA": 49,
-      "scoreB": 42
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 67
+      "scoreA": 58,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 17
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 23
     }
   ],
-  "verdict": "Invergordon has a lower overall climate risk score (40/100) compared to Inverloch (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Invergordon has a lower overall climate risk score (39/100) compared to Inverloch (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Invergordon or Inverloch safer from flooding?",
-      "answer": "Invergordon has a flood risk score of 49/100, while Inverloch scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Invergordon has a flood risk score of 40/100, while Inverloch scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Invergordon scores 49/100 for bushfire risk. Inverloch scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Invergordon scores 49/100 for bushfire risk. Inverloch scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Invergordon or Inverloch?",
@@ -76,5 +76,15 @@
       "label": "Inverloch Should I Buy?",
       "url": "/suburbs/vic/inverloch/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4169,
+    "projected2030": 5837,
+    "projected2050": 10840
+  },
+  "valueImpact": {
+    "dragPercent": 2.05,
+    "description": "Properties in this area may face a 2.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

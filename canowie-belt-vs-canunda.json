@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 57
+      "scoreA": 56,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 62
+      "scoreA": 53,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 70
+      "scoreA": 65,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 30
+      "scoreA": 34,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 28
     }
   ],
-  "verdict": "Canowie Belt has a lower overall climate risk score (40/100) compared to Canunda (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Canowie Belt has a lower overall climate risk score (40/100) compared to Canunda (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Canowie Belt or Canunda safer from flooding?",
-      "answer": "Canowie Belt has a flood risk score of 33/100, while Canunda scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Canowie Belt has a flood risk score of 56/100, while Canunda scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Canowie Belt scores 40/100 for bushfire risk. Canunda scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Canowie Belt scores 53/100 for bushfire risk. Canunda scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Canowie Belt or Canunda?",
@@ -76,5 +76,15 @@
       "label": "Canunda Should I Buy?",
       "url": "/suburbs/sa/canunda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

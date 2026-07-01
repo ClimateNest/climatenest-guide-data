@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 23
+      "scoreA": 60,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 24
+      "scoreA": 37,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 46,
+      "scoreA": 41,
       "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 28
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 43
+      "scoreA": 18,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 13
     }
   ],
-  "verdict": "Mosman Park has a lower overall climate risk score (27/100) compared to Mosquito Creek (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mosman Park and Mosquito Creek have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mosman Park or Mosquito Creek safer from flooding?",
-      "answer": "Mosman Park has a flood risk score of 23/100, while Mosquito Creek scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mosman Park has a flood risk score of 60/100, while Mosquito Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mosman Park scores 31/100 for bushfire risk. Mosquito Creek scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mosman Park scores 37/100 for bushfire risk. Mosquito Creek scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mosman Park or Mosquito Creek?",
@@ -76,5 +76,15 @@
       "label": "Mosquito Creek Should I Buy?",
       "url": "/suburbs/qld/mosquito-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

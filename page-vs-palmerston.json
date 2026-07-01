@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 44
+      "scoreA": 20,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 53
+      "scoreA": 40,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 75
+      "scoreA": 74,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 15
     }
   ],
-  "verdict": "Page has a lower overall climate risk score (37/100) compared to Palmerston (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Page has a lower overall climate risk score (36/100) compared to Palmerston (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Page or Palmerston safer from flooding?",
-      "answer": "Page has a flood risk score of 47/100, while Palmerston scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Page has a flood risk score of 20/100, while Palmerston scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Page scores 30/100 for bushfire risk. Palmerston scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Page scores 40/100 for bushfire risk. Palmerston scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Page or Palmerston?",
@@ -76,5 +76,15 @@
       "label": "Palmerston Should I Buy?",
       "url": "/suburbs/act/palmerston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

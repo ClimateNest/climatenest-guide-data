@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 38,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 38
+      "scoreA": 19,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 49,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 10
+      "scoreA": 10,
+      "scoreB": 14
     }
   ],
-  "verdict": "Smithfield has a lower overall climate risk score (27/100) compared to Slade Point (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Slade Point has a lower overall climate risk score (26/100) compared to Smithfield (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Slade Point or Smithfield safer from flooding?",
-      "answer": "Slade Point has a flood risk score of 25/100, while Smithfield scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Slade Point has a flood risk score of 38/100, while Smithfield scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Slade Point scores 64/100 for bushfire risk. Smithfield scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Slade Point scores 19/100 for bushfire risk. Smithfield scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Slade Point or Smithfield?",
-      "answer": "Both suburbs have climate considerations. Smithfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Slade Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Smithfield Should I Buy?",
       "url": "/suburbs/qld/smithfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

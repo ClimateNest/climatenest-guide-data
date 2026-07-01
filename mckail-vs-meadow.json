@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 37
+      "scoreA": 31,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 34
+      "scoreA": 42,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 72,
+      "scoreA": 56,
       "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 43
+      "scoreA": 49,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 19,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 15
     }
   ],
-  "verdict": "Meadow has a lower overall climate risk score (33/100) compared to McKail (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Meadow has a lower overall climate risk score (33/100) compared to McKail (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is McKail or Meadow safer from flooding?",
-      "answer": "McKail has a flood risk score of 27/100, while Meadow scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "McKail has a flood risk score of 31/100, while Meadow scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "McKail scores 26/100 for bushfire risk. Meadow scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "McKail scores 42/100 for bushfire risk. Meadow scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in McKail or Meadow?",
@@ -76,5 +76,15 @@
       "label": "Meadow Should I Buy?",
       "url": "/suburbs/wa/meadow/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

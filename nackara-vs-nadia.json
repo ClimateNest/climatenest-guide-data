@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 23
+      "scoreA": 27,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 74
+      "scoreA": 58,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 11,
       "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 21
     }
   ],
-  "verdict": "Nadia has a lower overall climate risk score (37/100) compared to Nackara (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Nackara has a lower overall climate risk score (32/100) compared to Nadia (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nackara or Nadia safer from flooding?",
-      "answer": "Nackara has a flood risk score of 57/100, while Nadia scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nackara has a flood risk score of 39/100, while Nadia scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nackara scores 36/100 for bushfire risk. Nadia scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nackara scores 27/100 for bushfire risk. Nadia scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nackara or Nadia?",
-      "answer": "Both suburbs have climate considerations. Nadia has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Nackara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nadia Should I Buy?",
       "url": "/suburbs/sa/nadia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 55
+      "scoreA": 54,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 42
     },
     {
       "name": "Heat",
       "scoreA": 47,
-      "scoreB": 39
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 21
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 10
+      "scoreA": 19,
+      "scoreB": 7
     }
   ],
-  "verdict": "Barunga has a lower overall climate risk score (32/100) compared to Bakewell (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Barunga has a lower overall climate risk score (29/100) compared to Bakewell (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bakewell or Barunga safer from flooding?",
-      "answer": "Bakewell has a flood risk score of 42/100, while Barunga scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bakewell has a flood risk score of 54/100, while Barunga scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bakewell scores 37/100 for bushfire risk. Barunga scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bakewell scores 22/100 for bushfire risk. Barunga scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bakewell or Barunga?",
@@ -76,5 +76,15 @@
       "label": "Barunga Should I Buy?",
       "url": "/suburbs/nt/barunga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

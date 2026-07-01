@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 38,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 34
+      "scoreA": 27,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 63,
+      "scoreA": 72,
       "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 29
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 18
     }
   ],
-  "verdict": "Gawler River has a lower overall climate risk score (32/100) compared to Gawler East (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gawler River has a lower overall climate risk score (30/100) compared to Gawler East (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gawler East or Gawler River safer from flooding?",
-      "answer": "Gawler East has a flood risk score of 30/100, while Gawler River scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gawler East has a flood risk score of 38/100, while Gawler River scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gawler East scores 28/100 for bushfire risk. Gawler River scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gawler East scores 27/100 for bushfire risk. Gawler River scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gawler East or Gawler River?",
@@ -76,5 +76,15 @@
       "label": "Gawler River Should I Buy?",
       "url": "/suburbs/sa/gawler-river/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

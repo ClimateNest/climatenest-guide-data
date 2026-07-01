@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 41
+      "scoreA": 52,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 58
+      "scoreA": 48,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 76
+      "scoreA": 60,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 45
+      "scoreA": 34,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 18
     }
   ],
-  "verdict": "Lindley has a lower overall climate risk score (40/100) compared to Linden Park (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lindley has a lower overall climate risk score (34/100) compared to Linden Park (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Linden Park or Lindley safer from flooding?",
-      "answer": "Linden Park has a flood risk score of 60/100, while Lindley scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Linden Park has a flood risk score of 52/100, while Lindley scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Linden Park scores 44/100 for bushfire risk. Lindley scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Linden Park scores 48/100 for bushfire risk. Lindley scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Linden Park or Lindley?",
@@ -76,5 +76,15 @@
       "label": "Lindley Should I Buy?",
       "url": "/suburbs/sa/lindley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

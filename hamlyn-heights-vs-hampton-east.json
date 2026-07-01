@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 24
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 56
-    },
-    {
-      "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 28,
+      "scoreA": 20,
       "scoreB": 46
     },
     {
+      "name": "Bushfire",
+      "scoreA": 48,
+      "scoreB": 58
+    },
+    {
+      "name": "Heat",
+      "scoreA": 59,
+      "scoreB": 72
+    },
+    {
+      "name": "Storm",
+      "scoreA": 30,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 17
+      "scoreA": 30,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 29
+      "scoreA": 12,
+      "scoreB": 11
     }
   ],
-  "verdict": "Hampton East has a lower overall climate risk score (42/100) compared to Hamlyn Heights (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hamlyn Heights has a lower overall climate risk score (33/100) compared to Hampton East (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hamlyn Heights or Hampton East safer from flooding?",
-      "answer": "Hamlyn Heights has a flood risk score of 56/100, while Hampton East scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hamlyn Heights has a flood risk score of 20/100, while Hampton East scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hamlyn Heights scores 56/100 for bushfire risk. Hampton East scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hamlyn Heights scores 48/100 for bushfire risk. Hampton East scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hamlyn Heights or Hampton East?",
-      "answer": "Both suburbs have climate considerations. Hampton East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hamlyn Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hampton East Should I Buy?",
       "url": "/suburbs/vic/hampton-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

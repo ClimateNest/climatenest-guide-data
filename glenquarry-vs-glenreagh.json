@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 57,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 49
+      "scoreA": 56,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 51
+      "scoreA": 74,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 33
+      "scoreA": 14,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Glenreagh has a lower overall climate risk score (38/100) compared to Glenquarry (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glenreagh has a lower overall climate risk score (38/100) compared to Glenquarry (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glenquarry or Glenreagh safer from flooding?",
-      "answer": "Glenquarry has a flood risk score of 41/100, while Glenreagh scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenquarry has a flood risk score of 57/100, while Glenreagh scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenquarry scores 65/100 for bushfire risk. Glenreagh scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenquarry scores 56/100 for bushfire risk. Glenreagh scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenquarry or Glenreagh?",
@@ -76,5 +76,15 @@
       "label": "Glenreagh Should I Buy?",
       "url": "/suburbs/nsw/glenreagh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

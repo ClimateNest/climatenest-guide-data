@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 51,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 18,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 67
+      "scoreA": 51,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 49
+      "scoreA": 36,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 36
+      "scoreA": 51,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 20
     }
   ],
-  "verdict": "Warrabah has a lower overall climate risk score (37/100) compared to Warners Bay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Warrabah has a lower overall climate risk score (38/100) compared to Warners Bay (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warners Bay or Warrabah safer from flooding?",
-      "answer": "Warners Bay has a flood risk score of 33/100, while Warrabah scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warners Bay has a flood risk score of 51/100, while Warrabah scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warners Bay scores 27/100 for bushfire risk. Warrabah scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warners Bay scores 18/100 for bushfire risk. Warrabah scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warners Bay or Warrabah?",
@@ -76,5 +76,15 @@
       "label": "Warrabah Should I Buy?",
       "url": "/suburbs/nsw/warrabah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

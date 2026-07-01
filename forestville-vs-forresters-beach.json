@@ -19,32 +19,32 @@
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 49
+      "scoreA": 16,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 70
+      "scoreA": 76,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 31
+      "scoreA": 43,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Forestville has a lower overall climate risk score (43/100) compared to Forresters Beach (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Forestville has a lower overall climate risk score (35/100) compared to Forresters Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Forestville or Forresters Beach safer from flooding?",
@@ -52,7 +52,7 @@
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Forestville scores 64/100 for bushfire risk. Forresters Beach scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Forestville scores 16/100 for bushfire risk. Forresters Beach scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Forestville or Forresters Beach?",
@@ -76,5 +76,15 @@
       "label": "Forresters Beach Should I Buy?",
       "url": "/suburbs/nsw/forresters-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 50
+      "scoreA": 59,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 51
+      "scoreA": 31,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 56
+      "scoreA": 67,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 46
+      "scoreA": 50,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 17
+      "scoreA": 16,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 18
     }
   ],
-  "verdict": "Beveridge has a lower overall climate risk score (27/100) compared to Big Desert (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Big Desert has a lower overall climate risk score (39/100) compared to Beveridge (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beveridge or Big Desert safer from flooding?",
-      "answer": "Beveridge has a flood risk score of 20/100, while Big Desert scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beveridge has a flood risk score of 59/100, while Big Desert scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beveridge scores 17/100 for bushfire risk. Big Desert scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beveridge scores 31/100 for bushfire risk. Big Desert scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beveridge or Big Desert?",
-      "answer": "Both suburbs have climate considerations. Beveridge has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Big Desert has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Big Desert Should I Buy?",
       "url": "/suburbs/vic/big-desert/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

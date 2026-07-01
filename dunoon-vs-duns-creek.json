@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 26
+      "scoreA": 30,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 61
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 55
+      "scoreA": 47,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 40
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 37,
-      "scoreB": 46
+      "scoreA": 51,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 24
+      "scoreA": 25,
+      "scoreB": 16
     }
   ],
-  "verdict": "Dunoon has a lower overall climate risk score (33/100) compared to Duns Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dunoon has a lower overall climate risk score (35/100) compared to Duns Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dunoon or Duns Creek safer from flooding?",
-      "answer": "Dunoon has a flood risk score of 37/100, while Duns Creek scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dunoon has a flood risk score of 30/100, while Duns Creek scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dunoon scores 37/100 for bushfire risk. Duns Creek scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dunoon scores 20/100 for bushfire risk. Duns Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dunoon or Duns Creek?",
@@ -76,5 +76,15 @@
       "label": "Duns Creek Should I Buy?",
       "url": "/suburbs/nsw/duns-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

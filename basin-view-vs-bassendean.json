@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 20
+      "scoreA": 36,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 53
+      "scoreA": 40,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 58
+      "scoreA": 52,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 32
+      "scoreA": 41,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
+      "scoreA": 29,
       "scoreB": 23
     }
   ],
-  "verdict": "Bassendean has a lower overall climate risk score (35/100) compared to Basin View (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Basin View has a lower overall climate risk score (37/100) compared to Bassendean (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Basin View or Bassendean safer from flooding?",
-      "answer": "Basin View has a flood risk score of 48/100, while Bassendean scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Basin View has a flood risk score of 36/100, while Bassendean scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Basin View scores 19/100 for bushfire risk. Bassendean scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Basin View scores 40/100 for bushfire risk. Bassendean scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Basin View or Bassendean?",
-      "answer": "Both suburbs have climate considerations. Bassendean has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Basin View has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bassendean Should I Buy?",
       "url": "/suburbs/nsw/bassendean/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

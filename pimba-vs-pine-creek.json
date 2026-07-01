@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 29
+      "scoreA": 58,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 63
+      "scoreA": 69,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 45
+      "scoreA": 38,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
       "scoreA": 15,
-      "scoreB": 30
+      "scoreB": 13
     }
   ],
-  "verdict": "Pine Creek has a lower overall climate risk score (35/100) compared to Pimba (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pine Creek has a lower overall climate risk score (29/100) compared to Pimba (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pimba or Pine Creek safer from flooding?",
-      "answer": "Pimba has a flood risk score of 57/100, while Pine Creek scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pimba has a flood risk score of 58/100, while Pine Creek scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pimba scores 48/100 for bushfire risk. Pine Creek scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pimba scores 24/100 for bushfire risk. Pine Creek scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pimba or Pine Creek?",
@@ -76,5 +76,15 @@
       "label": "Pine Creek Should I Buy?",
       "url": "/suburbs/sa/pine-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

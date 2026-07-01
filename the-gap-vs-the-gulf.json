@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 59
+      "scoreA": 60,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 42
+      "scoreA": 62,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 69
+      "scoreA": 75,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 47
+      "scoreA": 21,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 45
+      "scoreA": 18,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
       "scoreA": 29,
-      "scoreB": 27
+      "scoreB": 10
     }
   ],
-  "verdict": "The Gap has a lower overall climate risk score (36/100) compared to The Gulf (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "The Gulf has a lower overall climate risk score (28/100) compared to The Gap (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is The Gap or The Gulf safer from flooding?",
-      "answer": "The Gap has a flood risk score of 20/100, while The Gulf scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Gap has a flood risk score of 60/100, while The Gulf scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Gap scores 23/100 for bushfire risk. The Gulf scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Gap scores 62/100 for bushfire risk. The Gulf scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Gap or The Gulf?",
-      "answer": "Both suburbs have climate considerations. The Gap has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. The Gulf has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "The Gulf Should I Buy?",
       "url": "/suburbs/nsw/the-gulf/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

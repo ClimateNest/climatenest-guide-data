@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 41
+      "scoreA": 57,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 44
+      "scoreA": 33,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 64
+      "scoreA": 78,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 23
+      "scoreA": 33,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 25
     }
   ],
-  "verdict": "Bowhill has a lower overall climate risk score (36/100) compared to Bowden (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bowhill has a lower overall climate risk score (39/100) compared to Bowden (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bowden or Bowhill safer from flooding?",
-      "answer": "Bowden has a flood risk score of 40/100, while Bowhill scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bowden has a flood risk score of 57/100, while Bowhill scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bowden scores 18/100 for bushfire risk. Bowhill scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bowden scores 33/100 for bushfire risk. Bowhill scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bowden or Bowhill?",
@@ -76,5 +76,15 @@
       "label": "Bowhill Should I Buy?",
       "url": "/suburbs/sa/bowhill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

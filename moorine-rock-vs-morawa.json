@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
+      "scoreA": 51,
       "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 47
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 44
+      "scoreA": 59,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 12,
+      "scoreB": 28
     }
   ],
-  "verdict": "Moorine Rock and Morawa have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Morawa has a lower overall climate risk score (32/100) compared to Moorine Rock (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moorine Rock or Morawa safer from flooding?",
-      "answer": "Moorine Rock has a flood risk score of 50/100, while Morawa scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moorine Rock has a flood risk score of 51/100, while Morawa scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moorine Rock scores 39/100 for bushfire risk. Morawa scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moorine Rock scores 23/100 for bushfire risk. Morawa scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moorine Rock or Morawa?",
-      "answer": "Both suburbs have climate considerations. Moorine Rock has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Morawa has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Morawa Should I Buy?",
       "url": "/suburbs/wa/morawa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

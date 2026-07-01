@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 31
+      "scoreA": 24,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 38
+      "scoreA": 59,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 62
+      "scoreA": 37,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 49
+      "scoreA": 40,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 19,
+      "scoreB": 29
     }
   ],
-  "verdict": "Broken Head has a lower overall climate risk score (36/100) compared to Brombin (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Broken Head has a lower overall climate risk score (36/100) compared to Brombin (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Broken Head or Brombin safer from flooding?",
-      "answer": "Broken Head has a flood risk score of 59/100, while Brombin scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Broken Head has a flood risk score of 24/100, while Brombin scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Broken Head scores 33/100 for bushfire risk. Brombin scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Broken Head scores 59/100 for bushfire risk. Brombin scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Broken Head or Brombin?",
@@ -76,5 +76,15 @@
       "label": "Brombin Should I Buy?",
       "url": "/suburbs/nsw/brombin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

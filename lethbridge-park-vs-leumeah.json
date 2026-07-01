@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 45,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 35,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 55
+      "scoreA": 77,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 43,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 35
+      "scoreA": 59,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 29
     }
   ],
-  "verdict": "Lethbridge Park has a lower overall climate risk score (37/100) compared to Leumeah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Lethbridge Park has a lower overall climate risk score (47/100) compared to Leumeah (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Lethbridge Park or Leumeah safer from flooding?",
-      "answer": "Lethbridge Park has a flood risk score of 40/100, while Leumeah scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lethbridge Park has a flood risk score of 45/100, while Leumeah scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lethbridge Park scores 25/100 for bushfire risk. Leumeah scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lethbridge Park scores 35/100 for bushfire risk. Leumeah scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lethbridge Park or Leumeah?",
@@ -76,5 +76,15 @@
       "label": "Leumeah Should I Buy?",
       "url": "/suburbs/nsw/leumeah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4498,
+    "projected2030": 6297,
+    "projected2050": 11695
+  },
+  "valueImpact": {
+    "dragPercent": 2.78,
+    "description": "Properties in this area may face a 2.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

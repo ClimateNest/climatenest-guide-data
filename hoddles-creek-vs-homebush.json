@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 36
+      "scoreA": 42,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 55,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 68
+      "scoreA": 73,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 37,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 12,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 10
     }
   ],
-  "verdict": "Homebush has a lower overall climate risk score (36/100) compared to Hoddles Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Hoddles Creek has a lower overall climate risk score (40/100) compared to Homebush (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Hoddles Creek or Homebush safer from flooding?",
-      "answer": "Hoddles Creek has a flood risk score of 55/100, while Homebush scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hoddles Creek has a flood risk score of 42/100, while Homebush scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hoddles Creek scores 20/100 for bushfire risk. Homebush scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hoddles Creek scores 55/100 for bushfire risk. Homebush scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hoddles Creek or Homebush?",
-      "answer": "Both suburbs have climate considerations. Homebush has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hoddles Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Homebush Should I Buy?",
       "url": "/suburbs/vic/homebush/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

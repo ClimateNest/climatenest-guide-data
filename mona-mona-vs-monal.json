@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 50,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 65
+      "scoreA": 27,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 34,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 43,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 39
+      "scoreA": 16,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 8
+      "scoreA": 10,
+      "scoreB": 6
     }
   ],
-  "verdict": "Mona Mona has a lower overall climate risk score (27/100) compared to Monal (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mona Mona has a lower overall climate risk score (30/100) compared to Monal (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mona Mona or Monal safer from flooding?",
-      "answer": "Mona Mona has a flood risk score of 29/100, while Monal scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mona Mona has a flood risk score of 50/100, while Monal scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mona Mona scores 17/100 for bushfire risk. Monal scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mona Mona scores 27/100 for bushfire risk. Monal scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mona Mona or Monal?",
@@ -76,5 +76,15 @@
       "label": "Monal Should I Buy?",
       "url": "/suburbs/qld/monal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

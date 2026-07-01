@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
+      "scoreA": 59,
       "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 57
+      "scoreA": 40,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 47
+      "scoreA": 38,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 42
+      "scoreA": 34,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
       "scoreA": 9,
-      "scoreB": 9
+      "scoreB": 6
     }
   ],
-  "verdict": "Gulung Mardrulk has a lower overall climate risk score (35/100) compared to Gunbalanya (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gunbalanya has a lower overall climate risk score (31/100) compared to Gulung Mardrulk (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gulung Mardrulk or Gunbalanya safer from flooding?",
-      "answer": "Gulung Mardrulk has a flood risk score of 58/100, while Gunbalanya scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gulung Mardrulk has a flood risk score of 59/100, while Gunbalanya scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gulung Mardrulk scores 59/100 for bushfire risk. Gunbalanya scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gulung Mardrulk scores 40/100 for bushfire risk. Gunbalanya scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gulung Mardrulk or Gunbalanya?",
-      "answer": "Both suburbs have climate considerations. Gulung Mardrulk has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gunbalanya has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gunbalanya Should I Buy?",
       "url": "/suburbs/nt/gunbalanya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

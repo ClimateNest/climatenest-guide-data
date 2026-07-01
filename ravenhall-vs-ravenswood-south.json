@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 40
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 61,
+      "scoreA": 33,
       "scoreB": 26
     },
     {
+      "name": "Bushfire",
+      "scoreA": 51,
+      "scoreB": 17
+    },
+    {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 56
+      "scoreA": 53,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 47,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 21
     }
   ],
-  "verdict": "Ravenswood South has a lower overall climate risk score (35/100) compared to Ravenhall (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ravenswood South has a lower overall climate risk score (30/100) compared to Ravenhall (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ravenhall or Ravenswood South safer from flooding?",
-      "answer": "Ravenhall has a flood risk score of 23/100, while Ravenswood South scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ravenhall has a flood risk score of 33/100, while Ravenswood South scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ravenhall scores 61/100 for bushfire risk. Ravenswood South scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ravenhall scores 51/100 for bushfire risk. Ravenswood South scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ravenhall or Ravenswood South?",
@@ -76,5 +76,15 @@
       "label": "Ravenswood South Should I Buy?",
       "url": "/suburbs/vic/ravenswood-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

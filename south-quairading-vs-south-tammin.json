@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 39
+      "scoreA": 56,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 56
+      "scoreA": 80,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 29,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 20
+      "scoreA": 11,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 27
+      "scoreA": 21,
+      "scoreB": 24
     }
   ],
-  "verdict": "South Tammin has a lower overall climate risk score (36/100) compared to South Quairading (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "South Tammin has a lower overall climate risk score (40/100) compared to South Quairading (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is South Quairading or South Tammin safer from flooding?",
-      "answer": "South Quairading has a flood risk score of 34/100, while South Tammin scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "South Quairading has a flood risk score of 56/100, while South Tammin scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "South Quairading scores 63/100 for bushfire risk. South Tammin scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "South Quairading scores 48/100 for bushfire risk. South Tammin scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in South Quairading or South Tammin?",
@@ -76,5 +76,15 @@
       "label": "South Tammin Should I Buy?",
       "url": "/suburbs/wa/south-tammin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

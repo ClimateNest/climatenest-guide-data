@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 55,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 63
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 77
+      "scoreA": 67,
+      "scoreB": 53
     },
     {
       "name": "Storm",
       "scoreA": 29,
-      "scoreB": 22
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 15
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 21
     }
   ],
-  "verdict": "Welby has a lower overall climate risk score (33/100) compared to Wellington (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Wellington has a lower overall climate risk score (34/100) compared to Welby (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Welby or Wellington safer from flooding?",
-      "answer": "Welby has a flood risk score of 33/100, while Wellington scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Welby has a flood risk score of 55/100, while Wellington scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Welby scores 55/100 for bushfire risk. Wellington scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Welby scores 26/100 for bushfire risk. Wellington scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Welby or Wellington?",
-      "answer": "Both suburbs have climate considerations. Welby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wellington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wellington Should I Buy?",
       "url": "/suburbs/nsw/wellington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

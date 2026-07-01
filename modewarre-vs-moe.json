@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 47
+      "scoreA": 31,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 31
+      "scoreA": 35,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 53
+      "scoreA": 51,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 21,
+      "scoreB": 27
     }
   ],
-  "verdict": "Moe has a lower overall climate risk score (32/100) compared to Modewarre (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Modewarre has a lower overall climate risk score (31/100) compared to Moe (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Modewarre or Moe safer from flooding?",
-      "answer": "Modewarre has a flood risk score of 34/100, while Moe scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Modewarre has a flood risk score of 31/100, while Moe scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Modewarre scores 40/100 for bushfire risk. Moe scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Modewarre scores 35/100 for bushfire risk. Moe scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Modewarre or Moe?",
-      "answer": "Both suburbs have climate considerations. Moe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Modewarre has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Moe Should I Buy?",
       "url": "/suburbs/vic/moe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

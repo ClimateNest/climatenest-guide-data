@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 45
+      "scoreA": 39,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 55
+      "scoreA": 23,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 59
+      "scoreA": 50,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 45
+      "scoreA": 23,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 29
+      "scoreA": 57,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 23
+      "scoreA": 15,
+      "scoreB": 19
     }
   ],
-  "verdict": "Rowlands Creek has a lower overall climate risk score (37/100) compared to Royalla (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rowlands Creek has a lower overall climate risk score (35/100) compared to Royalla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rowlands Creek or Royalla safer from flooding?",
-      "answer": "Rowlands Creek has a flood risk score of 29/100, while Royalla scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rowlands Creek has a flood risk score of 39/100, while Royalla scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rowlands Creek scores 59/100 for bushfire risk. Royalla scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rowlands Creek scores 23/100 for bushfire risk. Royalla scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rowlands Creek or Royalla?",
@@ -76,5 +76,15 @@
       "label": "Royalla Should I Buy?",
       "url": "/suburbs/nsw/royalla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

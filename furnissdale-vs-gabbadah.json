@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 58
+      "scoreA": 23,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 46
+      "scoreA": 63,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 71
+      "scoreA": 73,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 25
+      "scoreA": 13,
+      "scoreB": 22
     }
   ],
-  "verdict": "Furnissdale has a lower overall climate risk score (37/100) compared to Gabbadah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Furnissdale has a lower overall climate risk score (36/100) compared to Gabbadah (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Furnissdale or Gabbadah safer from flooding?",
-      "answer": "Furnissdale has a flood risk score of 30/100, while Gabbadah scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Furnissdale has a flood risk score of 23/100, while Gabbadah scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Furnissdale scores 58/100 for bushfire risk. Gabbadah scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Furnissdale scores 63/100 for bushfire risk. Gabbadah scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Furnissdale or Gabbadah?",
@@ -76,5 +76,15 @@
       "label": "Gabbadah Should I Buy?",
       "url": "/suburbs/wa/gabbadah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

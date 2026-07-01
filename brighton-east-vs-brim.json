@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 49
+      "scoreA": 37,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 16
+      "scoreA": 39,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 70
+      "scoreA": 73,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 31
+      "scoreA": 43,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 29,
+      "scoreB": 17
     }
   ],
   "verdict": "Brim has a lower overall climate risk score (35/100) compared to Brighton East (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Brighton East or Brim safer from flooding?",
-      "answer": "Brighton East has a flood risk score of 44/100, while Brim scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brighton East has a flood risk score of 37/100, while Brim scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brighton East scores 51/100 for bushfire risk. Brim scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brighton East scores 39/100 for bushfire risk. Brim scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brighton East or Brim?",
@@ -76,5 +76,15 @@
       "label": "Brim Should I Buy?",
       "url": "/suburbs/vic/brim/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

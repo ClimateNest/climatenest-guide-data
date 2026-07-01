@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 35
+      "scoreA": 55,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 58
+      "scoreA": 20,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 39
+      "scoreA": 46,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 39
+      "scoreA": 60,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 15
     }
   ],
-  "verdict": "Eastern Heights has a lower overall climate risk score (33/100) compared to Eatons Hill (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Eatons Hill has a lower overall climate risk score (36/100) compared to Eastern Heights (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eastern Heights or Eatons Hill safer from flooding?",
-      "answer": "Eastern Heights has a flood risk score of 33/100, while Eatons Hill scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eastern Heights has a flood risk score of 55/100, while Eatons Hill scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eastern Heights scores 28/100 for bushfire risk. Eatons Hill scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eastern Heights scores 20/100 for bushfire risk. Eatons Hill scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eastern Heights or Eatons Hill?",
-      "answer": "Both suburbs have climate considerations. Eastern Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eatons Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eatons Hill Should I Buy?",
       "url": "/suburbs/qld/eatons-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

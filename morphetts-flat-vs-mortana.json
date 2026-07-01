@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 51
+      "scoreA": 37,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 51
+      "scoreA": 15,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 64
+      "scoreA": 50,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 35
+      "scoreA": 29,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 24,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 26
     }
   ],
-  "verdict": "Morphetts Flat has a lower overall climate risk score (36/100) compared to Mortana (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Morphetts Flat has a lower overall climate risk score (30/100) compared to Mortana (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Morphetts Flat or Mortana safer from flooding?",
-      "answer": "Morphetts Flat has a flood risk score of 44/100, while Mortana scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Morphetts Flat has a flood risk score of 37/100, while Mortana scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Morphetts Flat scores 33/100 for bushfire risk. Mortana scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Morphetts Flat scores 15/100 for bushfire risk. Mortana scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Morphetts Flat or Mortana?",
@@ -76,5 +76,15 @@
       "label": "Mortana Should I Buy?",
       "url": "/suburbs/sa/mortana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

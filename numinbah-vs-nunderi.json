@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 60
+      "scoreA": 22,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 50
+      "scoreA": 30,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 48
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 46
+      "scoreA": 51,
+      "scoreB": 35
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 29,
+      "scoreB": 23
     }
   ],
-  "verdict": "Numinbah has a lower overall climate risk score (34/100) compared to Nunderi (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Numinbah has a lower overall climate risk score (34/100) compared to Nunderi (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Numinbah or Nunderi safer from flooding?",
-      "answer": "Numinbah has a flood risk score of 27/100, while Nunderi scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Numinbah has a flood risk score of 22/100, while Nunderi scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Numinbah scores 54/100 for bushfire risk. Nunderi scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Numinbah scores 30/100 for bushfire risk. Nunderi scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Numinbah or Nunderi?",
@@ -76,5 +76,15 @@
       "label": "Nunderi Should I Buy?",
       "url": "/suburbs/nsw/nunderi/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

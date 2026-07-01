@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 59
+      "scoreA": 38,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 51
+      "scoreA": 37,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 59
+      "scoreA": 55,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 25
+      "scoreA": 34,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 28
+      "scoreA": 48,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Yowrie has a lower overall climate risk score (40/100) compared to Yowie Bay (52/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yowrie has a lower overall climate risk score (28/100) compared to Yowie Bay (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yowie Bay or Yowrie safer from flooding?",
-      "answer": "Yowie Bay has a flood risk score of 49/100, while Yowrie scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yowie Bay has a flood risk score of 38/100, while Yowrie scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yowie Bay scores 60/100 for bushfire risk. Yowrie scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yowie Bay scores 37/100 for bushfire risk. Yowrie scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yowie Bay or Yowrie?",
@@ -76,5 +76,15 @@
       "label": "Yowrie Should I Buy?",
       "url": "/suburbs/nsw/yowrie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

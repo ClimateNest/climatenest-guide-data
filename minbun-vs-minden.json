@@ -19,31 +19,31 @@
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 27
-    },
-    {
-      "name": "Heat",
-      "scoreA": 41,
+      "scoreA": 35,
       "scoreB": 45
     },
     {
+      "name": "Heat",
+      "scoreA": 47,
+      "scoreB": 49
+    },
+    {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 37
+      "scoreA": 26,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 53
+      "scoreA": 23,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 11,
+      "scoreB": 26
     }
   ],
-  "verdict": "Minbun has a lower overall climate risk score (30/100) compared to Minden (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Minbun has a lower overall climate risk score (32/100) compared to Minden (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Minbun scores 26/100 for bushfire risk. Minden scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Minbun scores 35/100 for bushfire risk. Minden scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Minbun or Minden?",
@@ -76,5 +76,15 @@
       "label": "Minden Should I Buy?",
       "url": "/suburbs/qld/minden/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 31
+      "scoreA": 52,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 31
-    },
-    {
-      "name": "Storm",
-      "scoreA": 50,
+      "scoreA": 32,
       "scoreB": 36
     },
     {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 38
+    },
+    {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 42
+      "scoreA": 23,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 7,
+      "scoreB": 18
     }
   ],
-  "verdict": "Wamuran Basin has a lower overall climate risk score (32/100) compared to Walterhall (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Walterhall has a lower overall climate risk score (30/100) compared to Wamuran Basin (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Walterhall or Wamuran Basin safer from flooding?",
-      "answer": "Walterhall has a flood risk score of 40/100, while Wamuran Basin scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Walterhall has a flood risk score of 52/100, while Wamuran Basin scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Walterhall scores 26/100 for bushfire risk. Wamuran Basin scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Walterhall scores 23/100 for bushfire risk. Wamuran Basin scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Walterhall or Wamuran Basin?",
-      "answer": "Both suburbs have climate considerations. Wamuran Basin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Walterhall has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wamuran Basin Should I Buy?",
       "url": "/suburbs/qld/wamuran-basin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

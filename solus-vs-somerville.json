@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 45
+      "scoreA": 49,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 57
+      "scoreA": 35,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 79
+      "scoreA": 51,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 24
+      "scoreA": 42,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 18,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 17
+      "scoreA": 28,
+      "scoreB": 23
     }
   ],
-  "verdict": "Solus has a lower overall climate risk score (34/100) compared to Somerville (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Solus has a lower overall climate risk score (37/100) compared to Somerville (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Solus or Somerville safer from flooding?",
-      "answer": "Solus has a flood risk score of 39/100, while Somerville scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Solus has a flood risk score of 49/100, while Somerville scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Solus scores 20/100 for bushfire risk. Somerville scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Solus scores 35/100 for bushfire risk. Somerville scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Solus or Somerville?",
@@ -76,5 +76,15 @@
       "label": "Somerville Should I Buy?",
       "url": "/suburbs/wa/somerville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

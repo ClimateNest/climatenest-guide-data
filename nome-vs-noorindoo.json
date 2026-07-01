@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
+      "scoreA": 45,
       "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 48
+      "scoreA": 44,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 37
+      "scoreA": 38,
+      "scoreB": 30
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 35
+      "scoreA": 26,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 26,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 14
     }
   ],
-  "verdict": "Noorindoo has a lower overall climate risk score (33/100) compared to Nome (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Noorindoo has a lower overall climate risk score (32/100) compared to Nome (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nome or Noorindoo safer from flooding?",
-      "answer": "Nome has a flood risk score of 34/100, while Noorindoo scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nome has a flood risk score of 45/100, while Noorindoo scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nome scores 60/100 for bushfire risk. Noorindoo scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nome scores 44/100 for bushfire risk. Noorindoo scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nome or Noorindoo?",
@@ -76,5 +76,15 @@
       "label": "Noorindoo Should I Buy?",
       "url": "/suburbs/qld/noorindoo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3421,
+    "projected2030": 4790,
+    "projected2050": 8895
+  },
+  "valueImpact": {
+    "dragPercent": 0.4,
+    "description": "Properties in this area may face a 0.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 57
+      "scoreA": 20,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 38
+      "scoreA": 50,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 33
+      "scoreA": 41,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 34,
       "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 55
+      "scoreA": 26,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 12
     }
   ],
-  "verdict": "Duaringa has a lower overall climate risk score (33/100) compared to Duckinwilla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Duaringa has a lower overall climate risk score (31/100) compared to Duckinwilla (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Duaringa or Duckinwilla safer from flooding?",
-      "answer": "Duaringa has a flood risk score of 39/100, while Duckinwilla scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Duaringa has a flood risk score of 20/100, while Duckinwilla scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Duaringa scores 59/100 for bushfire risk. Duckinwilla scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Duaringa scores 50/100 for bushfire risk. Duckinwilla scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Duaringa or Duckinwilla?",
@@ -76,5 +76,15 @@
       "label": "Duckinwilla Should I Buy?",
       "url": "/suburbs/qld/duckinwilla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

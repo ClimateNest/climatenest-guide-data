@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 32
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 35
-    },
-    {
-      "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
-      "scoreA": 21,
+      "scoreA": 42,
       "scoreB": 26
     },
     {
+      "name": "Bushfire",
+      "scoreA": 55,
+      "scoreB": 46
+    },
+    {
+      "name": "Heat",
+      "scoreA": 47,
+      "scoreB": 36
+    },
+    {
+      "name": "Storm",
+      "scoreA": 26,
+      "scoreB": 40
+    },
+    {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 9
     }
   ],
-  "verdict": "Syndicate has a lower overall climate risk score (26/100) compared to Swans Lagoon (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Syndicate has a lower overall climate risk score (31/100) compared to Swans Lagoon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Swans Lagoon or Syndicate safer from flooding?",
-      "answer": "Swans Lagoon has a flood risk score of 52/100, while Syndicate scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Swans Lagoon has a flood risk score of 42/100, while Syndicate scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Swans Lagoon scores 62/100 for bushfire risk. Syndicate scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Swans Lagoon scores 55/100 for bushfire risk. Syndicate scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Swans Lagoon or Syndicate?",
@@ -76,5 +76,15 @@
       "label": "Syndicate Should I Buy?",
       "url": "/suburbs/qld/syndicate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

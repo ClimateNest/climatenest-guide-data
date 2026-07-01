@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 50
+      "scoreA": 48,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 27
+      "scoreA": 23,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 41
+      "scoreA": 58,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 13
+      "scoreA": 28,
+      "scoreB": 29
     }
   ],
-  "verdict": "Ransome has a lower overall climate risk score (30/100) compared to Rangeville (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Rangeville has a lower overall climate risk score (35/100) compared to Ransome (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rangeville or Ransome safer from flooding?",
-      "answer": "Rangeville has a flood risk score of 33/100, while Ransome scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rangeville has a flood risk score of 30/100, while Ransome scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rangeville scores 57/100 for bushfire risk. Ransome scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rangeville scores 25/100 for bushfire risk. Ransome scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rangeville or Ransome?",
-      "answer": "Both suburbs have climate considerations. Ransome has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rangeville has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ransome Should I Buy?",
       "url": "/suburbs/qld/ransome/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

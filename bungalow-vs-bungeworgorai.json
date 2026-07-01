@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 34
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 55
-    },
-    {
-      "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 39
-    },
-    {
-      "name": "Storm",
-      "scoreA": 39,
+      "scoreA": 35,
       "scoreB": 50
     },
     {
+      "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 18
+    },
+    {
+      "name": "Heat",
+      "scoreA": 37,
+      "scoreB": 48
+    },
+    {
+      "name": "Storm",
+      "scoreA": 48,
+      "scoreB": 29
+    },
+    {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 10
+      "scoreA": 23,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 14
     }
   ],
-  "verdict": "Bungalow has a lower overall climate risk score (30/100) compared to Bungeworgorai (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bungeworgorai has a lower overall climate risk score (30/100) compared to Bungalow (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bungalow or Bungeworgorai safer from flooding?",
-      "answer": "Bungalow has a flood risk score of 54/100, while Bungeworgorai scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bungalow has a flood risk score of 35/100, while Bungeworgorai scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bungalow scores 18/100 for bushfire risk. Bungeworgorai scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bungalow scores 37/100 for bushfire risk. Bungeworgorai scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bungalow or Bungeworgorai?",
-      "answer": "Both suburbs have climate considerations. Bungalow has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bungeworgorai has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bungeworgorai Should I Buy?",
       "url": "/suburbs/qld/bungeworgorai/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

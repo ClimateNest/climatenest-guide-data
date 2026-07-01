@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 57
+      "scoreA": 59,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 17
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 37,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 25
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 50
+      "scoreA": 39,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 12,
+      "scoreB": 20
     }
   ],
-  "verdict": "Palmwoods has a lower overall climate risk score (35/100) compared to Palmview (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Palmwoods has a lower overall climate risk score (36/100) compared to Palmview (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Palmview or Palmwoods safer from flooding?",
-      "answer": "Palmview has a flood risk score of 34/100, while Palmwoods scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palmview has a flood risk score of 59/100, while Palmwoods scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palmview scores 61/100 for bushfire risk. Palmwoods scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palmview scores 49/100 for bushfire risk. Palmwoods scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palmview or Palmwoods?",
@@ -76,5 +76,15 @@
       "label": "Palmwoods Should I Buy?",
       "url": "/suburbs/qld/palmwoods/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 51
+      "scoreA": 31,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 61
+      "scoreA": 22,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 40
+      "scoreA": 34,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 34
+      "scoreA": 36,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 28
     }
   ],
-  "verdict": "Kensington Grove has a lower overall climate risk score (39/100) compared to Kents Lagoon (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kensington Grove has a lower overall climate risk score (29/100) compared to Kents Lagoon (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kensington Grove or Kents Lagoon safer from flooding?",
-      "answer": "Kensington Grove has a flood risk score of 50/100, while Kents Lagoon scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kensington Grove has a flood risk score of 31/100, while Kents Lagoon scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kensington Grove scores 37/100 for bushfire risk. Kents Lagoon scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kensington Grove scores 22/100 for bushfire risk. Kents Lagoon scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kensington Grove or Kents Lagoon?",
@@ -76,5 +76,15 @@
       "label": "Kents Lagoon Should I Buy?",
       "url": "/suburbs/qld/kents-lagoon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

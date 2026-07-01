@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 56
+      "scoreA": 37,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 34,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 57
+      "scoreA": 56,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 27
     }
   ],
-  "verdict": "Orford has a lower overall climate risk score (34/100) compared to Ormond (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Orford has a lower overall climate risk score (36/100) compared to Ormond (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Orford or Ormond safer from flooding?",
-      "answer": "Orford has a flood risk score of 30/100, while Ormond scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Orford has a flood risk score of 37/100, while Ormond scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Orford scores 17/100 for bushfire risk. Ormond scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Orford scores 34/100 for bushfire risk. Ormond scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Orford or Ormond?",
@@ -76,5 +76,15 @@
       "label": "Ormond Should I Buy?",
       "url": "/suburbs/vic/ormond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

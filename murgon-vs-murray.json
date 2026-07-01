@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 28
+      "scoreA": 58,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 32
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 36
+      "scoreA": 35,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 20
+      "scoreA": 53,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 8
     }
   ],
-  "verdict": "Murray has a lower overall climate risk score (27/100) compared to Murgon (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Murray has a lower overall climate risk score (28/100) compared to Murgon (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Murgon or Murray safer from flooding?",
-      "answer": "Murgon has a flood risk score of 22/100, while Murray scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Murgon has a flood risk score of 58/100, while Murray scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Murgon scores 51/100 for bushfire risk. Murray scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Murgon scores 19/100 for bushfire risk. Murray scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Murgon or Murray?",
@@ -76,5 +76,15 @@
       "label": "Murray Should I Buy?",
       "url": "/suburbs/qld/murray/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

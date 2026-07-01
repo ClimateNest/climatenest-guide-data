@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 55
+      "scoreA": 37,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 36
+      "scoreA": 53,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 56,
+      "scoreA": 67,
       "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 37
+      "scoreA": 23,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
+      "scoreA": 12,
       "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 25
     }
   ],
-  "verdict": "Cairns Bay has a lower overall climate risk score (38/100) compared to Butlers Gorge (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cairns Bay has a lower overall climate risk score (34/100) compared to Butlers Gorge (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Butlers Gorge or Cairns Bay safer from flooding?",
-      "answer": "Butlers Gorge has a flood risk score of 54/100, while Cairns Bay scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Butlers Gorge has a flood risk score of 37/100, while Cairns Bay scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Butlers Gorge scores 42/100 for bushfire risk. Cairns Bay scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Butlers Gorge scores 53/100 for bushfire risk. Cairns Bay scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Butlers Gorge or Cairns Bay?",
@@ -76,5 +76,15 @@
       "label": "Cairns Bay Should I Buy?",
       "url": "/suburbs/tas/cairns-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

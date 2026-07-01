@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 58
+      "scoreA": 51,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 21
+      "scoreA": 43,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
       "scoreA": 20,
-      "scoreB": 16
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 11
     }
   ],
-  "verdict": "Boho South has a lower overall climate risk score (32/100) compared to Bogong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bogong has a lower overall climate risk score (34/100) compared to Boho South (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bogong or Boho South safer from flooding?",
-      "answer": "Bogong has a flood risk score of 35/100, while Boho South scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bogong has a flood risk score of 33/100, while Boho South scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bogong scores 58/100 for bushfire risk. Boho South scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bogong scores 43/100 for bushfire risk. Boho South scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bogong or Boho South?",
-      "answer": "Both suburbs have climate considerations. Boho South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bogong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boho South Should I Buy?",
       "url": "/suburbs/vic/boho-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

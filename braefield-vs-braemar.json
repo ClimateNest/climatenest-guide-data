@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 49,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 51
+      "scoreA": 29,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 58
+      "scoreA": 63,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 45
+      "scoreA": 29,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 25
+      "scoreA": 42,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 27,
+      "scoreB": 13
     }
   ],
-  "verdict": "Braemar has a lower overall climate risk score (39/100) compared to Braefield (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Braemar has a lower overall climate risk score (36/100) compared to Braefield (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Braefield or Braemar safer from flooding?",
-      "answer": "Braefield has a flood risk score of 29/100, while Braemar scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Braefield has a flood risk score of 49/100, while Braemar scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Braefield scores 51/100 for bushfire risk. Braemar scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Braefield scores 29/100 for bushfire risk. Braemar scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Braefield or Braemar?",
@@ -76,5 +76,15 @@
       "label": "Braemar Should I Buy?",
       "url": "/suburbs/nsw/braemar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

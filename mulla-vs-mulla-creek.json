@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 49
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 23
-    },
-    {
-      "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 50
-    },
-    {
-      "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 33
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 26,
+      "scoreA": 42,
       "scoreB": 46
     },
     {
+      "name": "Bushfire",
+      "scoreA": 50,
+      "scoreB": 17
+    },
+    {
+      "name": "Heat",
+      "scoreA": 64,
+      "scoreB": 71
+    },
+    {
+      "name": "Storm",
+      "scoreA": 25,
+      "scoreB": 45
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 18,
+      "scoreB": 34
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 22,
+      "scoreA": 15,
       "scoreB": 28
     }
   ],
-  "verdict": "Mulla has a lower overall climate risk score (37/100) compared to Mulla Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mulla has a lower overall climate risk score (36/100) compared to Mulla Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mulla or Mulla Creek safer from flooding?",
-      "answer": "Mulla has a flood risk score of 56/100, while Mulla Creek scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mulla has a flood risk score of 42/100, while Mulla Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mulla scores 31/100 for bushfire risk. Mulla Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mulla scores 50/100 for bushfire risk. Mulla Creek scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mulla or Mulla Creek?",
@@ -76,5 +76,15 @@
       "label": "Mulla Creek Should I Buy?",
       "url": "/suburbs/nsw/mulla-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

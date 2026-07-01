@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 46,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 37
-    },
-    {
-      "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 32
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
+      "scoreA": 49,
       "scoreB": 40
     },
     {
+      "name": "Heat",
+      "scoreA": 44,
+      "scoreB": 37
+    },
+    {
+      "name": "Storm",
+      "scoreA": 25,
+      "scoreB": 48
+    },
+    {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 51
+      "scoreA": 13,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 28
+      "scoreA": 17,
+      "scoreB": 20
     }
   ],
-  "verdict": "Pimlico has a lower overall climate risk score (32/100) compared to Pimpama (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pimlico has a lower overall climate risk score (32/100) compared to Pimpama (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pimlico or Pimpama safer from flooding?",
-      "answer": "Pimlico has a flood risk score of 41/100, while Pimpama scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pimlico has a flood risk score of 46/100, while Pimpama scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pimlico scores 41/100 for bushfire risk. Pimpama scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pimlico scores 49/100 for bushfire risk. Pimpama scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pimlico or Pimpama?",
@@ -76,5 +76,15 @@
       "label": "Pimpama Should I Buy?",
       "url": "/suburbs/qld/pimpama/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

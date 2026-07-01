@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 21
+      "scoreA": 31,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 42
+      "scoreA": 50,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 62
+      "scoreA": 65,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 44
+      "scoreA": 23,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
       "scoreA": 25,
-      "scoreB": 18
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 11,
+      "scoreB": 22
     }
   ],
-  "verdict": "Ballast Head has a lower overall climate risk score (36/100) compared to Balhannah (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ballast Head has a lower overall climate risk score (33/100) compared to Balhannah (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Balhannah or Ballast Head safer from flooding?",
-      "answer": "Balhannah has a flood risk score of 58/100, while Ballast Head scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balhannah has a flood risk score of 31/100, while Ballast Head scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balhannah scores 56/100 for bushfire risk. Ballast Head scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balhannah scores 50/100 for bushfire risk. Ballast Head scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balhannah or Ballast Head?",
@@ -76,5 +76,15 @@
       "label": "Ballast Head Should I Buy?",
       "url": "/suburbs/sa/ballast-head/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

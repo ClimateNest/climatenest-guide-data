@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 51
+      "scoreA": 42,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 44,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 71
+      "scoreA": 52,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 36
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 22,
+      "scoreB": 27
     }
   ],
-  "verdict": "Bedfordale has a lower overall climate risk score (31/100) compared to Beechboro (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Beechboro has a lower overall climate risk score (35/100) compared to Bedfordale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bedfordale or Beechboro safer from flooding?",
-      "answer": "Bedfordale has a flood risk score of 34/100, while Beechboro scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bedfordale has a flood risk score of 42/100, while Beechboro scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bedfordale scores 21/100 for bushfire risk. Beechboro scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bedfordale scores 44/100 for bushfire risk. Beechboro scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bedfordale or Beechboro?",
-      "answer": "Both suburbs have climate considerations. Bedfordale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Beechboro has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Beechboro Should I Buy?",
       "url": "/suburbs/wa/beechboro/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

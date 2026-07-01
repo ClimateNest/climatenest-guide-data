@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 45
+      "scoreA": 59,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 19
+      "scoreA": 49,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 80
+      "scoreA": 78,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 31
+      "scoreA": 10,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 29
     }
   ],
-  "verdict": "Currabubula has a lower overall climate risk score (41/100) compared to Curra Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Currabubula has a lower overall climate risk score (44/100) compared to Curra Creek (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Curra Creek or Currabubula safer from flooding?",
-      "answer": "Curra Creek has a flood risk score of 53/100, while Currabubula scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Curra Creek has a flood risk score of 59/100, while Currabubula scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Curra Creek scores 57/100 for bushfire risk. Currabubula scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Curra Creek scores 49/100 for bushfire risk. Currabubula scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Curra Creek or Currabubula?",
@@ -76,5 +76,15 @@
       "label": "Currabubula Should I Buy?",
       "url": "/suburbs/nsw/currabubula/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

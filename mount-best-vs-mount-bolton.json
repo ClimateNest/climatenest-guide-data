@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 36
+      "scoreA": 33,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 37
+      "scoreA": 52,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 62
+      "scoreA": 74,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 32
+      "scoreA": 27,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 23
+      "scoreA": 12,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
       "scoreA": 22,
-      "scoreB": 30
+      "scoreB": 11
     }
   ],
-  "verdict": "Mount Best has a lower overall climate risk score (35/100) compared to Mount Bolton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Bolton has a lower overall climate risk score (28/100) compared to Mount Best (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Best or Mount Bolton safer from flooding?",
-      "answer": "Mount Best has a flood risk score of 27/100, while Mount Bolton scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Best has a flood risk score of 33/100, while Mount Bolton scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Best scores 39/100 for bushfire risk. Mount Bolton scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Best scores 52/100 for bushfire risk. Mount Bolton scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Best or Mount Bolton?",
-      "answer": "Both suburbs have climate considerations. Mount Best has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Bolton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Bolton Should I Buy?",
       "url": "/suburbs/vic/mount-bolton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

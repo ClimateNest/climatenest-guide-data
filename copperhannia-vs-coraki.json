@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
+      "scoreA": 64,
       "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 45
+      "scoreA": 79,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 57
+      "scoreA": 15,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 24
     }
   ],
-  "verdict": "Coraki has a lower overall climate risk score (40/100) compared to Copperhannia (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coraki has a lower overall climate risk score (34/100) compared to Copperhannia (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Copperhannia or Coraki safer from flooding?",
-      "answer": "Copperhannia has a flood risk score of 54/100, while Coraki scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Copperhannia has a flood risk score of 44/100, while Coraki scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Copperhannia scores 47/100 for bushfire risk. Coraki scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Copperhannia scores 64/100 for bushfire risk. Coraki scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Copperhannia or Coraki?",
@@ -76,5 +76,15 @@
       "label": "Coraki Should I Buy?",
       "url": "/suburbs/nsw/coraki/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

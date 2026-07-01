@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 51
+      "scoreA": 57,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 44
+      "scoreA": 35,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 58
+      "scoreA": 72,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 24,
+      "scoreA": 39,
       "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 41
+      "scoreA": 20,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 30,
+      "scoreB": 21
     }
   ],
-  "verdict": "Kandos has a lower overall climate risk score (34/100) compared to Kangaloon (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kangaloon has a lower overall climate risk score (37/100) compared to Kandos (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kandos or Kangaloon safer from flooding?",
-      "answer": "Kandos has a flood risk score of 30/100, while Kangaloon scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kandos has a flood risk score of 57/100, while Kangaloon scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kandos scores 54/100 for bushfire risk. Kangaloon scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kandos scores 35/100 for bushfire risk. Kangaloon scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kandos or Kangaloon?",
-      "answer": "Both suburbs have climate considerations. Kandos has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kangaloon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kangaloon Should I Buy?",
       "url": "/suburbs/nsw/kangaloon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

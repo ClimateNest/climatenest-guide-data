@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 56
+      "scoreA": 58,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 29
+      "scoreA": 53,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 33
+      "scoreA": 37,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 56
+      "scoreA": 32,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 10,
+      "scoreB": 12
     }
   ],
-  "verdict": "Targinnie has a lower overall climate risk score (34/100) compared to Tarome (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Targinnie has a lower overall climate risk score (40/100) compared to Tarome (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Targinnie or Tarome safer from flooding?",
-      "answer": "Targinnie has a flood risk score of 39/100, while Tarome scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Targinnie has a flood risk score of 58/100, while Tarome scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Targinnie scores 34/100 for bushfire risk. Tarome scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Targinnie scores 53/100 for bushfire risk. Tarome scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Targinnie or Tarome?",
@@ -76,5 +76,15 @@
       "label": "Tarome Should I Buy?",
       "url": "/suburbs/qld/tarome/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

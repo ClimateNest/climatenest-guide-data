@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 56
+      "scoreA": 28,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 64
+      "scoreA": 26,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 55
+      "scoreA": 51,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 24
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 30,
       "scoreB": 26
     },
     {
+      "name": "Coastal",
+      "scoreA": 17,
+      "scoreB": 12
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 10
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Victoria Valley has a lower overall climate risk score (34/100) compared to Vinifera (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Victoria Valley has a lower overall climate risk score (27/100) compared to Vinifera (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Victoria Valley or Vinifera safer from flooding?",
-      "answer": "Victoria Valley has a flood risk score of 43/100, while Vinifera scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Victoria Valley has a flood risk score of 28/100, while Vinifera scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Victoria Valley scores 20/100 for bushfire risk. Vinifera scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Victoria Valley scores 26/100 for bushfire risk. Vinifera scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Victoria Valley or Vinifera?",
@@ -76,5 +76,15 @@
       "label": "Vinifera Should I Buy?",
       "url": "/suburbs/vic/vinifera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 23
+      "scoreA": 24,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 24
+      "scoreA": 51,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 49
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
+      "scoreA": 38,
       "scoreB": 45
     },
     {
+      "name": "Storm",
+      "scoreA": 20,
+      "scoreB": 48
+    },
+    {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 51
+      "scoreA": 27,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
       "scoreA": 27,
-      "scoreB": 11
+      "scoreB": 12
     }
   ],
-  "verdict": "Valdora has a lower overall climate risk score (34/100) compared to V Gate (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "V Gate has a lower overall climate risk score (31/100) compared to Valdora (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is V Gate or Valdora safer from flooding?",
-      "answer": "V Gate has a flood risk score of 44/100, while Valdora scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "V Gate has a flood risk score of 24/100, while Valdora scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "V Gate scores 56/100 for bushfire risk. Valdora scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "V Gate scores 51/100 for bushfire risk. Valdora scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in V Gate or Valdora?",
-      "answer": "Both suburbs have climate considerations. Valdora has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. V Gate has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Valdora Should I Buy?",
       "url": "/suburbs/qld/valdora/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3705,
+    "projected2030": 5187,
+    "projected2050": 9632
+  },
+  "valueImpact": {
+    "dragPercent": 1.03,
+    "description": "Properties in this area may face a 1.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

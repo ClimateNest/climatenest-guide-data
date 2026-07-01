@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 36
-    },
-    {
-      "name": "Heat",
-      "scoreA": 42,
+      "scoreA": 30,
       "scoreB": 54
     },
     {
+      "name": "Heat",
+      "scoreA": 36,
+      "scoreB": 69
+    },
+    {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 33
+      "scoreA": 26,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
       "scoreA": 34,
-      "scoreB": 25
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 23
     }
   ],
-  "verdict": "Gobbagombalin has a lower overall climate risk score (36/100) compared to Goat Island (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Goat Island has a lower overall climate risk score (32/100) compared to Gobbagombalin (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Goat Island or Gobbagombalin safer from flooding?",
-      "answer": "Goat Island has a flood risk score of 58/100, while Gobbagombalin scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goat Island has a flood risk score of 41/100, while Gobbagombalin scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goat Island scores 28/100 for bushfire risk. Gobbagombalin scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goat Island scores 30/100 for bushfire risk. Gobbagombalin scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goat Island or Gobbagombalin?",
-      "answer": "Both suburbs have climate considerations. Gobbagombalin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Goat Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gobbagombalin Should I Buy?",
       "url": "/suburbs/nsw/gobbagombalin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

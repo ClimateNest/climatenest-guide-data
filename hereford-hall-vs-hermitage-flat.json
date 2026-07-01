@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 41
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 48
+      "scoreA": 31,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 75
+      "scoreA": 57,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 35
+      "scoreA": 22,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
+      "scoreA": 16,
       "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 11,
+      "scoreB": 22
     }
   ],
-  "verdict": "Hereford Hall has a lower overall climate risk score (42/100) compared to Hermitage Flat (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Hereford Hall has a lower overall climate risk score (27/100) compared to Hermitage Flat (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hereford Hall or Hermitage Flat safer from flooding?",
-      "answer": "Hereford Hall has a flood risk score of 34/100, while Hermitage Flat scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hereford Hall has a flood risk score of 26/100, while Hermitage Flat scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hereford Hall scores 65/100 for bushfire risk. Hermitage Flat scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hereford Hall scores 31/100 for bushfire risk. Hermitage Flat scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hereford Hall or Hermitage Flat?",
@@ -76,5 +76,15 @@
       "label": "Hermitage Flat Should I Buy?",
       "url": "/suburbs/nsw/hermitage-flat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

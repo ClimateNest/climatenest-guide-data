@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 50
+      "scoreA": 53,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 59
+      "scoreA": 32,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 40,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
+      "scoreA": 38,
       "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 30
     }
   ],
-  "verdict": "Miara has a lower overall climate risk score (36/100) compared to Middle Park (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Miara has a lower overall climate risk score (34/100) compared to Middle Park (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Miara or Middle Park safer from flooding?",
-      "answer": "Miara has a flood risk score of 58/100, while Middle Park scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miara has a flood risk score of 53/100, while Middle Park scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miara scores 27/100 for bushfire risk. Middle Park scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miara scores 32/100 for bushfire risk. Middle Park scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miara or Middle Park?",
@@ -76,5 +76,15 @@
       "label": "Middle Park Should I Buy?",
       "url": "/suburbs/qld/middle-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

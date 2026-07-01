@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 56
+      "scoreA": 40,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
+      "scoreA": 53,
       "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 68
+      "scoreA": 61,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 38
+      "scoreA": 32,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 21
+      "scoreA": 52,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 29
     }
   ],
-  "verdict": "Marayong has a lower overall climate risk score (39/100) compared to Marchmont (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Marchmont has a lower overall climate risk score (35/100) compared to Marayong (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marayong or Marchmont safer from flooding?",
-      "answer": "Marayong has a flood risk score of 35/100, while Marchmont scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marayong has a flood risk score of 40/100, while Marchmont scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marayong scores 31/100 for bushfire risk. Marchmont scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marayong scores 53/100 for bushfire risk. Marchmont scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marayong or Marchmont?",
-      "answer": "Both suburbs have climate considerations. Marayong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Marchmont has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Marchmont Should I Buy?",
       "url": "/suburbs/nsw/marchmont/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

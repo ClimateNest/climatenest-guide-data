@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 46,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 46
+      "scoreA": 37,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 44
+      "scoreA": 36,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 33
+      "scoreA": 46,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 13,
+      "scoreB": 10
     }
   ],
-  "verdict": "River Ranch has a lower overall climate risk score (34/100) compared to Riverleigh (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Riverleigh has a lower overall climate risk score (37/100) compared to River Ranch (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is River Ranch or Riverleigh safer from flooding?",
-      "answer": "River Ranch has a flood risk score of 48/100, while Riverleigh scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "River Ranch has a flood risk score of 46/100, while Riverleigh scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "River Ranch scores 39/100 for bushfire risk. Riverleigh scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "River Ranch scores 37/100 for bushfire risk. Riverleigh scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in River Ranch or Riverleigh?",
-      "answer": "Both suburbs have climate considerations. River Ranch has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Riverleigh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Riverleigh Should I Buy?",
       "url": "/suburbs/qld/riverleigh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

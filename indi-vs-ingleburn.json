@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 56
+      "scoreA": 23,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 56
+      "scoreA": 62,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 53
+      "scoreA": 60,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 36
+      "scoreA": 20,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 33
+      "scoreA": 19,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 25
     }
   ],
-  "verdict": "Indi has a lower overall climate risk score (31/100) compared to Ingleburn (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Indi has a lower overall climate risk score (34/100) compared to Ingleburn (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Indi or Ingleburn safer from flooding?",
-      "answer": "Indi has a flood risk score of 22/100, while Ingleburn scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Indi has a flood risk score of 23/100, while Ingleburn scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Indi scores 22/100 for bushfire risk. Ingleburn scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Indi scores 62/100 for bushfire risk. Ingleburn scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Indi or Ingleburn?",
@@ -76,5 +76,15 @@
       "label": "Ingleburn Should I Buy?",
       "url": "/suburbs/nsw/ingleburn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4555,
+    "projected2030": 6377,
+    "projected2050": 11842
+  },
+  "valueImpact": {
+    "dragPercent": 2.9,
+    "description": "Properties in this area may face a 2.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

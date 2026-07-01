@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 18
+      "scoreA": 60,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 66
+      "scoreA": 33,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 17
+      "scoreA": 40,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 27,
+      "scoreB": 23
     }
   ],
-  "verdict": "Charbon has a lower overall climate risk score (30/100) compared to Chambigne (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Chambigne has a lower overall climate risk score (38/100) compared to Charbon (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Chambigne or Charbon safer from flooding?",
-      "answer": "Chambigne has a flood risk score of 30/100, while Charbon scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Chambigne has a flood risk score of 21/100, while Charbon scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Chambigne scores 58/100 for bushfire risk. Charbon scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Chambigne scores 60/100 for bushfire risk. Charbon scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Chambigne or Charbon?",
-      "answer": "Both suburbs have climate considerations. Charbon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Chambigne has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Charbon Should I Buy?",
       "url": "/suburbs/nsw/charbon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

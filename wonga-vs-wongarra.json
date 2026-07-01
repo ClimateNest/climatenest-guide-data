@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
+      "scoreA": 51,
       "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
+      "scoreA": 45,
       "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 61
+      "scoreA": 60,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 23
+      "scoreA": 43,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 10
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 18
     }
   ],
-  "verdict": "Wongarra has a lower overall climate risk score (29/100) compared to Wonga (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wongarra has a lower overall climate risk score (37/100) compared to Wonga (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wonga or Wongarra safer from flooding?",
-      "answer": "Wonga has a flood risk score of 33/100, while Wongarra scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wonga has a flood risk score of 51/100, while Wongarra scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wonga scores 30/100 for bushfire risk. Wongarra scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wonga scores 45/100 for bushfire risk. Wongarra scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wonga or Wongarra?",
@@ -76,5 +76,15 @@
       "label": "Wongarra Should I Buy?",
       "url": "/suburbs/vic/wongarra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

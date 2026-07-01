@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 58
+      "scoreA": 41,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
+      "scoreA": 30,
       "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 46
+      "scoreA": 31,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 5,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 13
     }
   ],
-  "verdict": "Tara has a lower overall climate risk score (28/100) compared to Tennant Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tennant Creek has a lower overall climate risk score (30/100) compared to Tara (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tara or Tennant Creek safer from flooding?",
-      "answer": "Tara has a flood risk score of 28/100, while Tennant Creek scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tara has a flood risk score of 41/100, while Tennant Creek scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tara scores 40/100 for bushfire risk. Tennant Creek scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tara scores 30/100 for bushfire risk. Tennant Creek scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tara or Tennant Creek?",
-      "answer": "Both suburbs have climate considerations. Tara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tennant Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tennant Creek Should I Buy?",
       "url": "/suburbs/nt/tennant-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3274,
+    "projected2030": 4584,
+    "projected2050": 8512
+  },
+  "valueImpact": {
+    "dragPercent": 0.08,
+    "description": "Properties in this area may face a 0.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

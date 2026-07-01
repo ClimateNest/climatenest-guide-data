@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 56
+      "scoreA": 63,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 78
+      "scoreA": 52,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 29
+      "scoreA": 32,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 34
+      "scoreA": 49,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 28
     }
   ],
-  "verdict": "Kearns has a lower overall climate risk score (41/100) compared to Kearsley (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kearns and Kearsley have similar overall climate risk scores.",
   "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Kearns or Kearsley safer from flooding?",
-      "answer": "Kearns has a flood risk score of 37/100, while Kearsley scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kearns has a flood risk score of 43/100, while Kearsley scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kearns scores 54/100 for bushfire risk. Kearsley scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kearns scores 63/100 for bushfire risk. Kearsley scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kearns or Kearsley?",
@@ -76,5 +76,15 @@
       "label": "Kearsley Should I Buy?",
       "url": "/suburbs/nsw/kearsley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

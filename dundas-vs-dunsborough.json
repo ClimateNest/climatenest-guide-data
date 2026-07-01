@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 35
+      "scoreA": 50,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 59
+      "scoreA": 60,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 35
+      "scoreA": 42,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 29,
+      "scoreB": 16
     }
   ],
-  "verdict": "Dundas has a lower overall climate risk score (31/100) compared to Dunsborough (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dunsborough has a lower overall climate risk score (36/100) compared to Dundas (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dundas or Dunsborough safer from flooding?",
-      "answer": "Dundas has a flood risk score of 26/100, while Dunsborough scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dundas has a flood risk score of 50/100, while Dunsborough scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dundas scores 38/100 for bushfire risk. Dunsborough scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dundas scores 24/100 for bushfire risk. Dunsborough scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dundas or Dunsborough?",
-      "answer": "Both suburbs have climate considerations. Dundas has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dunsborough has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dunsborough Should I Buy?",
       "url": "/suburbs/wa/dunsborough/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

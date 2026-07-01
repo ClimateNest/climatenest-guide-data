@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 46
+      "scoreA": 36,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 51
-    },
-    {
-      "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 42
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
+      "scoreA": 59,
       "scoreB": 29
     },
     {
+      "name": "Heat",
+      "scoreA": 44,
+      "scoreB": 30
+    },
+    {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 27
+    },
+    {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 14
+      "scoreA": 46,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 7
     }
   ],
-  "verdict": "Eight Mile Creek has a lower overall climate risk score (33/100) compared to Eidsvold East (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eight Mile Creek has a lower overall climate risk score (23/100) compared to Eidsvold East (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eidsvold East or Eight Mile Creek safer from flooding?",
-      "answer": "Eidsvold East has a flood risk score of 42/100, while Eight Mile Creek scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eidsvold East has a flood risk score of 36/100, while Eight Mile Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eidsvold East scores 58/100 for bushfire risk. Eight Mile Creek scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eidsvold East scores 59/100 for bushfire risk. Eight Mile Creek scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eidsvold East or Eight Mile Creek?",
@@ -76,5 +76,15 @@
       "label": "Eight Mile Creek Should I Buy?",
       "url": "/suburbs/qld/eight-mile-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

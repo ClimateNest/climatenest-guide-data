@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 55
+      "scoreA": 30,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 20
+      "scoreA": 46,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 80
+      "scoreA": 58,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 45,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 15
     }
   ],
-  "verdict": "Monarto has a lower overall climate risk score (33/100) compared to Monarto South (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Monarto South has a lower overall climate risk score (30/100) compared to Monarto (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Monarto or Monarto South safer from flooding?",
-      "answer": "Monarto has a flood risk score of 32/100, while Monarto South scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Monarto has a flood risk score of 30/100, while Monarto South scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Monarto scores 30/100 for bushfire risk. Monarto South scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Monarto scores 46/100 for bushfire risk. Monarto South scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Monarto or Monarto South?",
-      "answer": "Both suburbs have climate considerations. Monarto has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Monarto South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Monarto South Should I Buy?",
       "url": "/suburbs/sa/monarto-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

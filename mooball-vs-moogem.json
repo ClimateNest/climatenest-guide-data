@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 20
+      "scoreA": 48,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 32,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 34
+      "scoreA": 39,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 23
+      "scoreA": 45,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
       "scoreA": 58,
-      "scoreB": 33
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
       "scoreA": 23,
-      "scoreB": 19
+      "scoreB": 10
     }
   ],
-  "verdict": "Moogem has a lower overall climate risk score (26/100) compared to Mooball (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moogem has a lower overall climate risk score (36/100) compared to Mooball (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mooball or Moogem safer from flooding?",
-      "answer": "Mooball has a flood risk score of 56/100, while Moogem scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mooball has a flood risk score of 48/100, while Moogem scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mooball scores 23/100 for bushfire risk. Moogem scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mooball scores 32/100 for bushfire risk. Moogem scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mooball or Moogem?",
@@ -76,5 +76,15 @@
       "label": "Moogem Should I Buy?",
       "url": "/suburbs/nsw/moogem/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

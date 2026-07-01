@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 38
+      "scoreA": 44,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 42
+      "scoreA": 59,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 49,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 33,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
       "scoreA": 45,
-      "scoreB": 52
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
       "scoreA": 27,
-      "scoreB": 21
+      "scoreB": 16
     }
   ],
-  "verdict": "Buddina has a lower overall climate risk score (38/100) compared to Budgee (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Budgee has a lower overall climate risk score (40/100) compared to Buddina (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Buddina or Budgee safer from flooding?",
-      "answer": "Buddina has a flood risk score of 57/100, while Budgee scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buddina has a flood risk score of 44/100, while Budgee scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buddina scores 27/100 for bushfire risk. Budgee scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buddina scores 59/100 for bushfire risk. Budgee scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buddina or Budgee?",
-      "answer": "Both suburbs have climate considerations. Buddina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Budgee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Budgee Should I Buy?",
       "url": "/suburbs/qld/budgee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4113,
+    "projected2030": 5758,
+    "projected2050": 10693
+  },
+  "valueImpact": {
+    "dragPercent": 1.93,
+    "description": "Properties in this area may face a 1.93% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

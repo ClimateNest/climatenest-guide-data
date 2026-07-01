@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 22
+      "scoreA": 37,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 73
+      "scoreA": 56,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 19,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 13,
+      "scoreB": 12
     }
   ],
-  "verdict": "Campbell has a lower overall climate risk score (30/100) compared to Canberra Airport (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Campbell has a lower overall climate risk score (30/100) compared to Canberra Airport (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Campbell or Canberra Airport safer from flooding?",
-      "answer": "Campbell has a flood risk score of 33/100, while Canberra Airport scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Campbell has a flood risk score of 37/100, while Canberra Airport scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Campbell scores 19/100 for bushfire risk. Canberra Airport scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Campbell scores 17/100 for bushfire risk. Canberra Airport scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Campbell or Canberra Airport?",
@@ -76,5 +76,15 @@
       "label": "Canberra Airport Should I Buy?",
       "url": "/suburbs/act/canberra-airport/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

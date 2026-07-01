@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 36
+      "scoreA": 47,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 60,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 77
+      "scoreA": 60,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 29
     }
   ],
-  "verdict": "Rochester has a lower overall climate risk score (36/100) compared to Rocky Camp (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rochester has a lower overall climate risk score (39/100) compared to Rocky Camp (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rochester or Rocky Camp safer from flooding?",
-      "answer": "Rochester has a flood risk score of 51/100, while Rocky Camp scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rochester has a flood risk score of 47/100, while Rocky Camp scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rochester scores 26/100 for bushfire risk. Rocky Camp scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rochester scores 60/100 for bushfire risk. Rocky Camp scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rochester or Rocky Camp?",
@@ -76,5 +76,15 @@
       "label": "Rocky Camp Should I Buy?",
       "url": "/suburbs/sa/rocky-camp/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

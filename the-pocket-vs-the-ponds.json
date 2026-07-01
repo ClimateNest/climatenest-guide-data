@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 52
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 57
+      "scoreA": 24,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 64
+      "scoreA": 32,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 47
+      "scoreA": 43,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 54
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 27
     }
   ],
-  "verdict": "The Pocket has a lower overall climate risk score (42/100) compared to The Ponds (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "The Pocket has a lower overall climate risk score (31/100) compared to The Ponds (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Pocket or The Ponds safer from flooding?",
-      "answer": "The Pocket has a flood risk score of 33/100, while The Ponds scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Pocket has a flood risk score of 26/100, while The Ponds scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Pocket scores 51/100 for bushfire risk. The Ponds scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Pocket scores 24/100 for bushfire risk. The Ponds scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Pocket or The Ponds?",
@@ -76,5 +76,15 @@
       "label": "The Ponds Should I Buy?",
       "url": "/suburbs/nsw/the-ponds/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 26
+      "scoreA": 36,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 43
+      "scoreA": 19,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 43
+      "scoreA": 57,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 47,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 29,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 25,
+      "scoreB": 17
     }
   ],
-  "verdict": "Lake Carnegie has a lower overall climate risk score (29/100) compared to Lake Camm (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Carnegie has a lower overall climate risk score (32/100) compared to Lake Camm (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lake Camm or Lake Carnegie safer from flooding?",
-      "answer": "Lake Camm has a flood risk score of 51/100, while Lake Carnegie scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Camm has a flood risk score of 36/100, while Lake Carnegie scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Camm scores 28/100 for bushfire risk. Lake Carnegie scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Camm scores 19/100 for bushfire risk. Lake Carnegie scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Camm or Lake Carnegie?",
@@ -76,5 +76,15 @@
       "label": "Lake Carnegie Should I Buy?",
       "url": "/suburbs/wa/lake-carnegie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

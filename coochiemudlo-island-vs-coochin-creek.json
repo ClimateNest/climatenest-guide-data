@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 34
+      "scoreA": 21,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 44
+      "scoreA": 57,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 32,
+      "scoreA": 48,
       "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 44
+      "scoreA": 41,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 38
+      "scoreA": 31,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 22
+      "scoreA": 22,
+      "scoreB": 21
     }
   ],
-  "verdict": "Coochin Creek has a lower overall climate risk score (37/100) compared to Coochiemudlo Island (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coochin Creek has a lower overall climate risk score (34/100) compared to Coochiemudlo Island (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Coochiemudlo Island or Coochin Creek safer from flooding?",
-      "answer": "Coochiemudlo Island has a flood risk score of 54/100, while Coochin Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coochiemudlo Island has a flood risk score of 21/100, while Coochin Creek scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coochiemudlo Island scores 48/100 for bushfire risk. Coochin Creek scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coochiemudlo Island scores 57/100 for bushfire risk. Coochin Creek scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coochiemudlo Island or Coochin Creek?",
@@ -76,5 +76,15 @@
       "label": "Coochin Creek Should I Buy?",
       "url": "/suburbs/qld/coochin-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

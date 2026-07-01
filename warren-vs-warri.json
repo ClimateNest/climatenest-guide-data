@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 49
+      "scoreA": 59,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 44
+      "scoreA": 47,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 75
+      "scoreA": 73,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 41,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 12,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 24
+      "scoreA": 18,
+      "scoreB": 14
     }
   ],
-  "verdict": "Warren has a lower overall climate risk score (33/100) compared to Warri (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Warri has a lower overall climate risk score (38/100) compared to Warren (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Warren or Warri safer from flooding?",
-      "answer": "Warren has a flood risk score of 23/100, while Warri scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warren has a flood risk score of 59/100, while Warri scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warren scores 35/100 for bushfire risk. Warri scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warren scores 47/100 for bushfire risk. Warri scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warren or Warri?",
-      "answer": "Both suburbs have climate considerations. Warren has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Warri has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Warri Should I Buy?",
       "url": "/suburbs/nsw/warri/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

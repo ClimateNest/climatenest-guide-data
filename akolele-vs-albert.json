@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 23,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 49
+      "scoreA": 51,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 73
+      "scoreA": 62,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 22,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
       "scoreA": 16,
-      "scoreB": 22
+      "scoreB": 13
     }
   ],
-  "verdict": "Akolele has a lower overall climate risk score (39/100) compared to Albert (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Akolele has a lower overall climate risk score (34/100) compared to Albert (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Akolele or Albert safer from flooding?",
-      "answer": "Akolele has a flood risk score of 44/100, while Albert scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Akolele has a flood risk score of 23/100, while Albert scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Akolele scores 62/100 for bushfire risk. Albert scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Akolele scores 51/100 for bushfire risk. Albert scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Akolele or Albert?",
@@ -76,5 +76,15 @@
       "label": "Albert Should I Buy?",
       "url": "/suburbs/nsw/albert/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

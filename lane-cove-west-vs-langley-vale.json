@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 24
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 72
+      "scoreA": 59,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 28
+      "scoreA": 34,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 41
+      "scoreA": 32,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 21,
+      "scoreB": 27
     }
   ],
-  "verdict": "Lane Cove West has a lower overall climate risk score (35/100) compared to Langley Vale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lane Cove West has a lower overall climate risk score (33/100) compared to Langley Vale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lane Cove West or Langley Vale safer from flooding?",
-      "answer": "Lane Cove West has a flood risk score of 36/100, while Langley Vale scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lane Cove West has a flood risk score of 37/100, while Langley Vale scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lane Cove West scores 19/100 for bushfire risk. Langley Vale scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lane Cove West scores 17/100 for bushfire risk. Langley Vale scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lane Cove West or Langley Vale?",
@@ -76,5 +76,15 @@
       "label": "Langley Vale Should I Buy?",
       "url": "/suburbs/nsw/langley-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

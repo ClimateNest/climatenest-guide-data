@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 23
+      "scoreA": 48,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 34
+      "scoreA": 48,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 17
+      "scoreA": 13,
+      "scoreB": 14
     }
   ],
-  "verdict": "Channel Island has a lower overall climate risk score (25/100) compared to Casuarina (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Channel Island has a lower overall climate risk score (22/100) compared to Casuarina (29/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Casuarina or Channel Island safer from flooding?",
-      "answer": "Casuarina has a flood risk score of 45/100, while Channel Island scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Casuarina has a flood risk score of 48/100, while Channel Island scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Casuarina scores 56/100 for bushfire risk. Channel Island scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Casuarina scores 16/100 for bushfire risk. Channel Island scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Casuarina or Channel Island?",
@@ -76,5 +76,15 @@
       "label": "Channel Island Should I Buy?",
       "url": "/suburbs/nt/channel-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3183,
+    "projected2030": 4457,
+    "projected2050": 8277
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

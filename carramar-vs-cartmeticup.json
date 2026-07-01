@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 53,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 21
+      "scoreA": 41,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 54
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 36,
       "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 21
+      "scoreA": 24,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
       "scoreA": 23,
-      "scoreB": 13
+      "scoreB": 22
     }
   ],
-  "verdict": "Cartmeticup has a lower overall climate risk score (28/100) compared to Carramar (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cartmeticup has a lower overall climate risk score (31/100) compared to Carramar (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Carramar or Cartmeticup safer from flooding?",
-      "answer": "Carramar has a flood risk score of 20/100, while Cartmeticup scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carramar has a flood risk score of 53/100, while Cartmeticup scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carramar scores 58/100 for bushfire risk. Cartmeticup scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carramar scores 41/100 for bushfire risk. Cartmeticup scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carramar or Cartmeticup?",
@@ -76,5 +76,15 @@
       "label": "Cartmeticup Should I Buy?",
       "url": "/suburbs/wa/cartmeticup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

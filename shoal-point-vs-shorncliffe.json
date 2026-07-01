@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 49,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 64
+      "scoreA": 36,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 45
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 50
+      "scoreA": 14,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 22
+      "scoreA": 9,
+      "scoreB": 24
     }
   ],
-  "verdict": "Shoal Point has a lower overall climate risk score (30/100) compared to Shorncliffe (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shoal Point has a lower overall climate risk score (29/100) compared to Shorncliffe (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Shoal Point or Shorncliffe safer from flooding?",
-      "answer": "Shoal Point has a flood risk score of 45/100, while Shorncliffe scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shoal Point has a flood risk score of 49/100, while Shorncliffe scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shoal Point scores 17/100 for bushfire risk. Shorncliffe scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shoal Point scores 36/100 for bushfire risk. Shorncliffe scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shoal Point or Shorncliffe?",
@@ -76,5 +76,15 @@
       "label": "Shorncliffe Should I Buy?",
       "url": "/suburbs/qld/shorncliffe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 50
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 23
+      "scoreA": 27,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 77
+      "scoreA": 67,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 43
+      "scoreA": 25,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 14
+      "scoreA": 27,
+      "scoreB": 22
     }
   ],
-  "verdict": "North Booborowie has a lower overall climate risk score (33/100) compared to North Cape (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Booborowie has a lower overall climate risk score (35/100) compared to North Cape (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Booborowie or North Cape safer from flooding?",
-      "answer": "North Booborowie has a flood risk score of 31/100, while North Cape scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Booborowie has a flood risk score of 40/100, while North Cape scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Booborowie scores 35/100 for bushfire risk. North Cape scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Booborowie scores 27/100 for bushfire risk. North Cape scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Booborowie or North Cape?",
@@ -76,5 +76,15 @@
       "label": "North Cape Should I Buy?",
       "url": "/suburbs/sa/north-cape/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

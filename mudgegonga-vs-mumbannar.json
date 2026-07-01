@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 52
+      "scoreA": 23,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 47
+      "scoreA": 47,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 50
+      "scoreA": 51,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 18
     }
   ],
-  "verdict": "Mudgegonga has a lower overall climate risk score (34/100) compared to Mumbannar (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mumbannar has a lower overall climate risk score (27/100) compared to Mudgegonga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mudgegonga or Mumbannar safer from flooding?",
-      "answer": "Mudgegonga has a flood risk score of 34/100, while Mumbannar scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mudgegonga has a flood risk score of 23/100, while Mumbannar scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mudgegonga scores 36/100 for bushfire risk. Mumbannar scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mudgegonga scores 47/100 for bushfire risk. Mumbannar scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mudgegonga or Mumbannar?",
-      "answer": "Both suburbs have climate considerations. Mudgegonga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mumbannar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mumbannar Should I Buy?",
       "url": "/suburbs/vic/mumbannar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

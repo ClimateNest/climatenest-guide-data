@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 52
+      "scoreA": 45,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 60
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 46
+      "scoreA": 70,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 41
+      "scoreA": 35,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 42
+      "scoreA": 13,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
+      "scoreA": 16,
       "scoreB": 22
     }
   ],
-  "verdict": "Jemalong has a lower overall climate risk score (36/100) compared to Jennings (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jemalong has a lower overall climate risk score (35/100) compared to Jennings (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jemalong or Jennings safer from flooding?",
-      "answer": "Jemalong has a flood risk score of 37/100, while Jennings scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jemalong has a flood risk score of 45/100, while Jennings scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jemalong scores 48/100 for bushfire risk. Jennings scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jemalong scores 31/100 for bushfire risk. Jennings scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jemalong or Jennings?",
@@ -76,5 +76,15 @@
       "label": "Jennings Should I Buy?",
       "url": "/suburbs/nsw/jennings/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

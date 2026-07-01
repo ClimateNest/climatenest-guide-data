@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 23
+      "scoreA": 42,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 20
+      "scoreA": 58,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 59
+      "scoreA": 65,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 26
+      "scoreA": 41,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 10,
+      "scoreB": 29
     }
   ],
-  "verdict": "Andrews has a lower overall climate risk score (29/100) compared to Andamooka Station (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Andrews has a lower overall climate risk score (40/100) compared to Andamooka Station (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Andamooka Station or Andrews safer from flooding?",
-      "answer": "Andamooka Station has a flood risk score of 56/100, while Andrews scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Andamooka Station has a flood risk score of 42/100, while Andrews scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Andamooka Station scores 19/100 for bushfire risk. Andrews scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Andamooka Station scores 58/100 for bushfire risk. Andrews scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Andamooka Station or Andrews?",
@@ -76,5 +76,15 @@
       "label": "Andrews Should I Buy?",
       "url": "/suburbs/sa/andrews/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

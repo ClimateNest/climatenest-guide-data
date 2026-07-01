@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 41
+      "scoreA": 52,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 52,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 68
+      "scoreA": 38,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 24
+      "scoreA": 33,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 36
+      "scoreA": 48,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 12,
+      "scoreB": 21
     }
   ],
-  "verdict": "Emmaville has a lower overall climate risk score (30/100) compared to Empire Bay (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Emmaville has a lower overall climate risk score (39/100) compared to Empire Bay (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Emmaville or Empire Bay safer from flooding?",
-      "answer": "Emmaville has a flood risk score of 30/100, while Empire Bay scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Emmaville has a flood risk score of 52/100, while Empire Bay scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Emmaville scores 25/100 for bushfire risk. Empire Bay scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Emmaville scores 52/100 for bushfire risk. Empire Bay scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Emmaville or Empire Bay?",
@@ -76,5 +76,15 @@
       "label": "Empire Bay Should I Buy?",
       "url": "/suburbs/nsw/empire-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4351,
+    "projected2030": 6091,
+    "projected2050": 11312
+  },
+  "valueImpact": {
+    "dragPercent": 2.45,
+    "description": "Properties in this area may face a 2.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 52
+      "scoreA": 21,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 46
+      "scoreA": 49,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 32,
+      "scoreA": 35,
       "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 36
+      "scoreA": 33,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 41,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 23,
+      "scoreB": 12
     }
   ],
-  "verdict": "Kents Pocket has a lower overall climate risk score (37/100) compared to Kensington Grove (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Kensington Grove has a lower overall climate risk score (34/100) compared to Kents Pocket (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kensington Grove or Kents Pocket safer from flooding?",
-      "answer": "Kensington Grove has a flood risk score of 57/100, while Kents Pocket scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kensington Grove has a flood risk score of 21/100, while Kents Pocket scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kensington Grove scores 50/100 for bushfire risk. Kents Pocket scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kensington Grove scores 49/100 for bushfire risk. Kents Pocket scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kensington Grove or Kents Pocket?",
-      "answer": "Both suburbs have climate considerations. Kents Pocket has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kensington Grove has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kents Pocket Should I Buy?",
       "url": "/suburbs/qld/kents-pocket/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

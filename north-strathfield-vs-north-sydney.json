@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 27
+      "scoreA": 21,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 63
+      "scoreA": 24,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 65
+      "scoreA": 75,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 29
+      "scoreA": 46,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 32
+      "scoreA": 59,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 29
     }
   ],
-  "verdict": "North Strathfield and North Sydney have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "North Strathfield has a lower overall climate risk score (42/100) compared to North Sydney (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is North Strathfield or North Sydney safer from flooding?",
-      "answer": "North Strathfield has a flood risk score of 50/100, while North Sydney scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Strathfield has a flood risk score of 21/100, while North Sydney scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Strathfield scores 20/100 for bushfire risk. North Sydney scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Strathfield scores 24/100 for bushfire risk. North Sydney scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Strathfield or North Sydney?",
@@ -76,5 +76,15 @@
       "label": "North Sydney Should I Buy?",
       "url": "/suburbs/nsw/north-sydney/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

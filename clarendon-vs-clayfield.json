@@ -14,8 +14,8 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
@@ -24,31 +24,31 @@
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 46
+      "scoreA": 45,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 49
+      "scoreA": 35,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 36
+      "scoreA": 57,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
       "scoreA": 19,
-      "scoreB": 13
+      "scoreB": 25
     }
   ],
-  "verdict": "Clarendon has a lower overall climate risk score (34/100) compared to Clayfield (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Clayfield has a lower overall climate risk score (35/100) compared to Clarendon (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Clarendon or Clayfield safer from flooding?",
-      "answer": "Clarendon has a flood risk score of 37/100, while Clayfield scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clarendon has a flood risk score of 26/100, while Clayfield scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
@@ -56,7 +56,7 @@
     },
     {
       "question": "Should I buy in Clarendon or Clayfield?",
-      "answer": "Both suburbs have climate considerations. Clarendon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Clayfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Clayfield Should I Buy?",
       "url": "/suburbs/qld/clayfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

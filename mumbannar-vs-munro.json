@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 46
+      "scoreA": 49,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 35
+      "scoreA": 55,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 50
+      "scoreA": 62,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 37
+      "scoreA": 33,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 18
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mumbannar has a lower overall climate risk score (35/100) compared to Munro (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Munro has a lower overall climate risk score (35/100) compared to Mumbannar (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mumbannar or Munro safer from flooding?",
-      "answer": "Mumbannar has a flood risk score of 28/100, while Munro scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mumbannar has a flood risk score of 49/100, while Munro scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mumbannar scores 18/100 for bushfire risk. Munro scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mumbannar scores 55/100 for bushfire risk. Munro scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mumbannar or Munro?",
-      "answer": "Both suburbs have climate considerations. Mumbannar has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Munro has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Munro Should I Buy?",
       "url": "/suburbs/vic/munro/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

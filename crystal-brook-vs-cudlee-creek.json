@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 43
+      "scoreA": 49,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 59
+      "scoreA": 52,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 71
+      "scoreA": 64,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 26
     }
   ],
-  "verdict": "Cudlee Creek has a lower overall climate risk score (44/100) compared to Crystal Brook (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cudlee Creek has a lower overall climate risk score (36/100) compared to Crystal Brook (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Crystal Brook or Cudlee Creek safer from flooding?",
-      "answer": "Crystal Brook has a flood risk score of 60/100, while Cudlee Creek scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Crystal Brook has a flood risk score of 49/100, while Cudlee Creek scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Crystal Brook scores 38/100 for bushfire risk. Cudlee Creek scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Crystal Brook scores 52/100 for bushfire risk. Cudlee Creek scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Crystal Brook or Cudlee Creek?",
@@ -76,5 +76,15 @@
       "label": "Cudlee Creek Should I Buy?",
       "url": "/suburbs/sa/cudlee-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

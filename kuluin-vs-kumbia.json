@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 44
+      "scoreA": 25,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 32
+      "scoreA": 51,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 33
+      "scoreA": 49,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 41
+      "scoreA": 25,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 54
+      "scoreA": 58,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 30,
+      "scoreB": 11
     }
   ],
-  "verdict": "Kuluin has a lower overall climate risk score (38/100) compared to Kumbia (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kumbia has a lower overall climate risk score (38/100) compared to Kuluin (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kuluin or Kumbia safer from flooding?",
-      "answer": "Kuluin has a flood risk score of 41/100, while Kumbia scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kuluin has a flood risk score of 25/100, while Kumbia scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kuluin scores 64/100 for bushfire risk. Kumbia scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kuluin scores 51/100 for bushfire risk. Kumbia scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kuluin or Kumbia?",
-      "answer": "Both suburbs have climate considerations. Kuluin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kumbia has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kumbia Should I Buy?",
       "url": "/suburbs/qld/kumbia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

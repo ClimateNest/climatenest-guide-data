@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 45
+      "scoreA": 26,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 59
+      "scoreA": 57,
+      "scoreB": 27
     },
     {
       "name": "Heat",
       "scoreA": 54,
-      "scoreB": 74
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 46
+      "scoreA": 24,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 53
+      "scoreA": 53,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 30,
+      "scoreB": 21
     }
   ],
-  "verdict": "Werombi has a lower overall climate risk score (35/100) compared to Werrikimbe (50/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Werombi has a lower overall climate risk score (41/100) compared to Werrikimbe (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Werombi or Werrikimbe safer from flooding?",
-      "answer": "Werombi has a flood risk score of 30/100, while Werrikimbe scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Werombi has a flood risk score of 26/100, while Werrikimbe scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Werombi scores 22/100 for bushfire risk. Werrikimbe scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Werombi scores 57/100 for bushfire risk. Werrikimbe scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Werombi or Werrikimbe?",
@@ -76,5 +76,15 @@
       "label": "Werrikimbe Should I Buy?",
       "url": "/suburbs/nsw/werrikimbe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

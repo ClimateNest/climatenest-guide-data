@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 41
+      "scoreA": 39,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 54
+      "scoreA": 32,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 68
+      "scoreA": 77,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 45
+      "scoreA": 41,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 22,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 19
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Keilira has a lower overall climate risk score (37/100) compared to Kellidie Bay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Keilira has a lower overall climate risk score (37/100) compared to Kellidie Bay (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Keilira or Kellidie Bay safer from flooding?",
-      "answer": "Keilira has a flood risk score of 41/100, while Kellidie Bay scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Keilira has a flood risk score of 39/100, while Kellidie Bay scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Keilira scores 45/100 for bushfire risk. Kellidie Bay scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Keilira scores 32/100 for bushfire risk. Kellidie Bay scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Keilira or Kellidie Bay?",
@@ -76,5 +76,15 @@
       "label": "Kellidie Bay Should I Buy?",
       "url": "/suburbs/sa/kellidie-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 58,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
       "scoreA": 28,
-      "scoreB": 24
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 64
+      "scoreA": 51,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 35,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mumbil has a lower overall climate risk score (32/100) compared to Mumblebone Plain (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mumbil has a lower overall climate risk score (33/100) compared to Mumblebone Plain (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mumbil or Mumblebone Plain safer from flooding?",
-      "answer": "Mumbil has a flood risk score of 28/100, while Mumblebone Plain scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mumbil has a flood risk score of 58/100, while Mumblebone Plain scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mumbil scores 28/100 for bushfire risk. Mumblebone Plain scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mumbil scores 28/100 for bushfire risk. Mumblebone Plain scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mumbil or Mumblebone Plain?",
@@ -76,5 +76,15 @@
       "label": "Mumblebone Plain Should I Buy?",
       "url": "/suburbs/nsw/mumblebone-plain/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

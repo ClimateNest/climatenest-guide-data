@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 51,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 20
+      "scoreA": 60,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 69
+      "scoreA": 39,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 46,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 32
+      "scoreA": 53,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 11
     }
   ],
-  "verdict": "Helensburgh has a lower overall climate risk score (35/100) compared to Heifer Station (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Helensburgh has a lower overall climate risk score (43/100) compared to Heifer Station (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Heifer Station or Helensburgh safer from flooding?",
-      "answer": "Heifer Station has a flood risk score of 35/100, while Helensburgh scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Heifer Station has a flood risk score of 51/100, while Helensburgh scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Heifer Station scores 62/100 for bushfire risk. Helensburgh scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Heifer Station scores 60/100 for bushfire risk. Helensburgh scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Heifer Station or Helensburgh?",
@@ -76,5 +76,15 @@
       "label": "Helensburgh Should I Buy?",
       "url": "/suburbs/nsw/helensburgh/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

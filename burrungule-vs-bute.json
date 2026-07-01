@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 55
+      "scoreA": 53,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 42
+      "scoreA": 55,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 74
+      "scoreA": 73,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 32
+      "scoreA": 35,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 17,
+      "scoreB": 28
     }
   ],
-  "verdict": "Burrungule has a lower overall climate risk score (39/100) compared to Bute (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Burrungule has a lower overall climate risk score (42/100) compared to Bute (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Burrungule or Bute safer from flooding?",
-      "answer": "Burrungule has a flood risk score of 51/100, while Bute scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burrungule has a flood risk score of 53/100, while Bute scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burrungule scores 25/100 for bushfire risk. Bute scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burrungule scores 55/100 for bushfire risk. Bute scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burrungule or Bute?",
@@ -76,5 +76,15 @@
       "label": "Bute Should I Buy?",
       "url": "/suburbs/sa/bute/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4192,
+    "projected2030": 5869,
+    "projected2050": 10899
+  },
+  "valueImpact": {
+    "dragPercent": 2.1,
+    "description": "Properties in this area may face a 2.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

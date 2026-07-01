@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 59,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 41
+      "scoreA": 36,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 32
-    },
-    {
-      "name": "Storm",
-      "scoreA": 22,
+      "scoreA": 45,
       "scoreB": 34
     },
     {
+      "name": "Storm",
+      "scoreA": 36,
+      "scoreB": 47
+    },
+    {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 27
+      "scoreA": 38,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 12
     }
   ],
-  "verdict": "Greenswamp has a lower overall climate risk score (31/100) compared to Greenslopes (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Greenswamp has a lower overall climate risk score (36/100) compared to Greenslopes (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Greenslopes or Greenswamp safer from flooding?",
-      "answer": "Greenslopes has a flood risk score of 47/100, while Greenswamp scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greenslopes has a flood risk score of 59/100, while Greenswamp scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greenslopes scores 49/100 for bushfire risk. Greenswamp scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greenslopes scores 36/100 for bushfire risk. Greenswamp scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greenslopes or Greenswamp?",
@@ -76,5 +76,15 @@
       "label": "Greenswamp Should I Buy?",
       "url": "/suburbs/qld/greenswamp/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

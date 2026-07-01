@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 59,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
       "scoreA": 24,
-      "scoreB": 37
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 42,
+      "scoreA": 34,
       "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 27
+      "scoreA": 50,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
       "scoreA": 38,
-      "scoreB": 30
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
       "scoreA": 19,
-      "scoreB": 27
+      "scoreB": 29
     }
   ],
-  "verdict": "Byfield has a lower overall climate risk score (30/100) compared to Bymount (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bymount has a lower overall climate risk score (29/100) compared to Byfield (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Byfield or Bymount safer from flooding?",
-      "answer": "Byfield has a flood risk score of 29/100, while Bymount scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Byfield has a flood risk score of 59/100, while Bymount scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Byfield scores 24/100 for bushfire risk. Bymount scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Byfield scores 24/100 for bushfire risk. Bymount scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Byfield or Bymount?",
-      "answer": "Both suburbs have climate considerations. Byfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bymount has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bymount Should I Buy?",
       "url": "/suburbs/qld/bymount/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

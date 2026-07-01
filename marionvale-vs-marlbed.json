@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 54
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 49
+      "scoreA": 55,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 74
+      "scoreA": 74,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 34
+      "scoreA": 38,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 21,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 11,
+      "scoreB": 26
     }
   ],
-  "verdict": "Marlbed has a lower overall climate risk score (42/100) compared to Marionvale (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marlbed has a lower overall climate risk score (38/100) compared to Marionvale (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Marionvale or Marlbed safer from flooding?",
-      "answer": "Marionvale has a flood risk score of 58/100, while Marlbed scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marionvale has a flood risk score of 31/100, while Marlbed scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marionvale scores 63/100 for bushfire risk. Marlbed scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marionvale scores 55/100 for bushfire risk. Marlbed scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marionvale or Marlbed?",
@@ -76,5 +76,15 @@
       "label": "Marlbed Should I Buy?",
       "url": "/suburbs/vic/marlbed/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

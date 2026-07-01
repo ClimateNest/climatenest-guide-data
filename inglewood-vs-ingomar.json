@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 34
+      "scoreA": 50,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 47
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 42
+      "scoreA": 76,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 30,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 28,
+      "scoreB": 25
     }
   ],
-  "verdict": "Ingomar has a lower overall climate risk score (31/100) compared to Inglewood (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ingomar has a lower overall climate risk score (30/100) compared to Inglewood (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Inglewood or Ingomar safer from flooding?",
-      "answer": "Inglewood has a flood risk score of 53/100, while Ingomar scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Inglewood has a flood risk score of 50/100, while Ingomar scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Inglewood scores 38/100 for bushfire risk. Ingomar scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Inglewood scores 18/100 for bushfire risk. Ingomar scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Inglewood or Ingomar?",
@@ -76,5 +76,15 @@
       "label": "Ingomar Should I Buy?",
       "url": "/suburbs/sa/ingomar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

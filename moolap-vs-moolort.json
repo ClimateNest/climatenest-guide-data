@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 43
+      "scoreA": 53,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 64
+      "scoreA": 17,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 62
+      "scoreA": 52,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 37
+      "scoreA": 31,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
       "scoreA": 21,
-      "scoreB": 27
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 18,
+      "scoreB": 14
     }
   ],
-  "verdict": "Moolort has a lower overall climate risk score (42/100) compared to Moolap (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Moolap has a lower overall climate risk score (32/100) compared to Moolort (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Moolap or Moolort safer from flooding?",
-      "answer": "Moolap has a flood risk score of 59/100, while Moolort scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moolap has a flood risk score of 53/100, while Moolort scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moolap scores 35/100 for bushfire risk. Moolort scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moolap scores 17/100 for bushfire risk. Moolort scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moolap or Moolort?",
-      "answer": "Both suburbs have climate considerations. Moolort has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Moolap has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Moolort Should I Buy?",
       "url": "/suburbs/vic/moolort/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 32
+      "scoreA": 24,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 21
+      "scoreA": 58,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 36
+      "scoreA": 67,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 21,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 15
+      "scoreA": 16,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 10
+      "scoreA": 26,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mundabullangana has a lower overall climate risk score (24/100) compared to Mumballup (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mundabullangana has a lower overall climate risk score (35/100) compared to Mumballup (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mumballup or Mundabullangana safer from flooding?",
-      "answer": "Mumballup has a flood risk score of 48/100, while Mundabullangana scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mumballup has a flood risk score of 24/100, while Mundabullangana scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mumballup scores 39/100 for bushfire risk. Mundabullangana scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mumballup scores 58/100 for bushfire risk. Mundabullangana scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mumballup or Mundabullangana?",
@@ -76,5 +76,15 @@
       "label": "Mundabullangana Should I Buy?",
       "url": "/suburbs/wa/mundabullangana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

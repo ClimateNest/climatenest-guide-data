@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 24
+      "scoreA": 54,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 38
-    },
-    {
-      "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 74
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 42
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 11,
+      "scoreA": 42,
       "scoreB": 29
     },
     {
+      "name": "Heat",
+      "scoreA": 71,
+      "scoreB": 55
+    },
+    {
+      "name": "Storm",
+      "scoreA": 44,
+      "scoreB": 27
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 23,
+      "scoreB": 16
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 15,
+      "scoreB": 12
     }
   ],
-  "verdict": "Yallambie has a lower overall climate risk score (32/100) compared to Yallourn (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Yallourn has a lower overall climate risk score (32/100) compared to Yallambie (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yallambie or Yallourn safer from flooding?",
-      "answer": "Yallambie has a flood risk score of 32/100, while Yallourn scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yallambie has a flood risk score of 54/100, while Yallourn scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yallambie scores 17/100 for bushfire risk. Yallourn scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yallambie scores 42/100 for bushfire risk. Yallourn scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yallambie or Yallourn?",
-      "answer": "Both suburbs have climate considerations. Yallambie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yallourn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yallourn Should I Buy?",
       "url": "/suburbs/vic/yallourn/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

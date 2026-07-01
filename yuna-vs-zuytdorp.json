@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 57
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 56
+      "scoreA": 39,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 35
+      "scoreA": 49,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 47
+      "scoreA": 38,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 18,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 10
+      "scoreA": 17,
+      "scoreB": 16
     }
   ],
-  "verdict": "Yuna has a lower overall climate risk score (32/100) compared to Zuytdorp (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yuna has a lower overall climate risk score (31/100) compared to Zuytdorp (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yuna or Zuytdorp safer from flooding?",
-      "answer": "Yuna has a flood risk score of 27/100, while Zuytdorp scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yuna has a flood risk score of 23/100, while Zuytdorp scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yuna scores 25/100 for bushfire risk. Zuytdorp scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yuna scores 39/100 for bushfire risk. Zuytdorp scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yuna or Zuytdorp?",
@@ -76,5 +76,15 @@
       "label": "Zuytdorp Should I Buy?",
       "url": "/suburbs/wa/zuytdorp/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

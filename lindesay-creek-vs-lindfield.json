@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 56
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 18
+      "scoreA": 52,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 58
+      "scoreA": 45,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 42
+      "scoreA": 35,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 48
+      "scoreA": 51,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 26
+      "scoreA": 10,
+      "scoreB": 27
     }
   ],
-  "verdict": "Lindesay Creek has a lower overall climate risk score (40/100) compared to Lindfield (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Lindesay Creek has a lower overall climate risk score (36/100) compared to Lindfield (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lindesay Creek or Lindfield safer from flooding?",
-      "answer": "Lindesay Creek has a flood risk score of 33/100, while Lindfield scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lindesay Creek has a flood risk score of 21/100, while Lindfield scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lindesay Creek scores 62/100 for bushfire risk. Lindfield scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lindesay Creek scores 52/100 for bushfire risk. Lindfield scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lindesay Creek or Lindfield?",
@@ -76,5 +76,15 @@
       "label": "Lindfield Should I Buy?",
       "url": "/suburbs/nsw/lindfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

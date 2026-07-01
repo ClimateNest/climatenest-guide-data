@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 41
+      "scoreA": 32,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 38
+      "scoreA": 48,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 59
+      "scoreA": 77,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 29
+      "scoreA": 45,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 41
+      "scoreA": 27,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 13
     }
   ],
   "verdict": "Marinna and Marks Point have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Marinna or Marks Point safer from flooding?",
-      "answer": "Marinna has a flood risk score of 31/100, while Marks Point scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Marinna has a flood risk score of 32/100, while Marks Point scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Marinna scores 64/100 for bushfire risk. Marks Point scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Marinna scores 48/100 for bushfire risk. Marks Point scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Marinna or Marks Point?",
@@ -76,5 +76,15 @@
       "label": "Marks Point Should I Buy?",
       "url": "/suburbs/nsw/marks-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 52
+      "scoreA": 32,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 48,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 65
+      "scoreA": 75,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 37,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 29
+      "scoreA": 18,
+      "scoreB": 10
     }
   ],
-  "verdict": "Molloy Island has a lower overall climate risk score (37/100) compared to Monjebup (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Monjebup has a lower overall climate risk score (36/100) compared to Molloy Island (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Molloy Island or Monjebup safer from flooding?",
-      "answer": "Molloy Island has a flood risk score of 20/100, while Monjebup scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Molloy Island has a flood risk score of 32/100, while Monjebup scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Molloy Island scores 51/100 for bushfire risk. Monjebup scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Molloy Island scores 48/100 for bushfire risk. Monjebup scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Molloy Island or Monjebup?",
-      "answer": "Both suburbs have climate considerations. Molloy Island has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Monjebup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Monjebup Should I Buy?",
       "url": "/suburbs/wa/monjebup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

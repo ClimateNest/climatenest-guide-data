@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 37
+      "scoreA": 39,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 62
+      "scoreA": 16,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 71,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 22
+      "scoreA": 23,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 13,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 13,
+      "scoreB": 20
     }
   ],
-  "verdict": "Myara has a lower overall climate risk score (35/100) compared to Muresk (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Muresk has a lower overall climate risk score (29/100) compared to Myara (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Muresk or Myara safer from flooding?",
-      "answer": "Muresk has a flood risk score of 41/100, while Myara scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Muresk has a flood risk score of 39/100, while Myara scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Muresk scores 49/100 for bushfire risk. Myara scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Muresk scores 16/100 for bushfire risk. Myara scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Muresk or Myara?",
-      "answer": "Both suburbs have climate considerations. Myara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Muresk has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Myara Should I Buy?",
       "url": "/suburbs/wa/myara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

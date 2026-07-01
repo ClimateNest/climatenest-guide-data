@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
+      "scoreA": 40,
       "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 64
+      "scoreA": 22,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 75
+      "scoreA": 76,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 35
+      "scoreA": 36,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 35
+      "scoreA": 49,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 28
     }
   ],
-  "verdict": "Old Bar has a lower overall climate risk score (41/100) compared to Ogunbil (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Old Bar has a lower overall climate risk score (41/100) compared to Ogunbil (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ogunbil or Old Bar safer from flooding?",
-      "answer": "Ogunbil has a flood risk score of 48/100, while Old Bar scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ogunbil has a flood risk score of 40/100, while Old Bar scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ogunbil scores 46/100 for bushfire risk. Old Bar scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ogunbil scores 22/100 for bushfire risk. Old Bar scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ogunbil or Old Bar?",
@@ -76,5 +76,15 @@
       "label": "Old Bar Should I Buy?",
       "url": "/suburbs/nsw/old-bar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

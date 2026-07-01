@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 18
+      "scoreA": 30,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 75
+      "scoreA": 61,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 43
+      "scoreA": 35,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 52
+      "scoreA": 31,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 21
+      "scoreA": 16,
+      "scoreB": 28
     }
   ],
-  "verdict": "Niagara Park has a lower overall climate risk score (36/100) compared to Niangala (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Niagara Park has a lower overall climate risk score (33/100) compared to Niangala (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Niagara Park or Niangala safer from flooding?",
-      "answer": "Niagara Park has a flood risk score of 22/100, while Niangala scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Niagara Park has a flood risk score of 25/100, while Niangala scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Niagara Park scores 62/100 for bushfire risk. Niangala scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Niagara Park scores 30/100 for bushfire risk. Niangala scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Niagara Park or Niangala?",
@@ -76,5 +76,15 @@
       "label": "Niangala Should I Buy?",
       "url": "/suburbs/nsw/niangala/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4419,
+    "projected2030": 6186,
+    "projected2050": 11489
+  },
+  "valueImpact": {
+    "dragPercent": 2.6,
+    "description": "Properties in this area may face a 2.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

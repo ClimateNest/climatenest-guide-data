@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 57
+      "scoreA": 45,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 46
+      "scoreA": 30,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 44,
+      "scoreA": 48,
       "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 23
+      "scoreA": 34,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 53,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 25
+      "scoreA": 10,
+      "scoreB": 20
     }
   ],
-  "verdict": "Macleay Island has a lower overall climate risk score (30/100) compared to Magnolia (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Macleay Island has a lower overall climate risk score (37/100) compared to Magnolia (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Macleay Island or Magnolia safer from flooding?",
-      "answer": "Macleay Island has a flood risk score of 24/100, while Magnolia scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Macleay Island has a flood risk score of 45/100, while Magnolia scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Macleay Island scores 17/100 for bushfire risk. Magnolia scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Macleay Island scores 30/100 for bushfire risk. Magnolia scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Macleay Island or Magnolia?",
@@ -76,5 +76,15 @@
       "label": "Magnolia Should I Buy?",
       "url": "/suburbs/qld/magnolia/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

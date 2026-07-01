@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 59,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 73
+      "scoreA": 59,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 39,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 38
+      "scoreA": 50,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 10
     }
   ],
-  "verdict": "Boolaroo has a lower overall climate risk score (35/100) compared to Boolambayte (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boolaroo has a lower overall climate risk score (34/100) compared to Boolambayte (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boolambayte or Boolaroo safer from flooding?",
-      "answer": "Boolambayte has a flood risk score of 24/100, while Boolaroo scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boolambayte has a flood risk score of 59/100, while Boolaroo scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boolambayte scores 63/100 for bushfire risk. Boolaroo scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boolambayte scores 28/100 for bushfire risk. Boolaroo scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boolambayte or Boolaroo?",
@@ -76,5 +76,15 @@
       "label": "Boolaroo Should I Buy?",
       "url": "/suburbs/nsw/boolaroo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 30,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 18
+      "scoreA": 17,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 60
+      "scoreA": 45,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 36
+      "scoreA": 42,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 17
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 10,
       "scoreB": 21
     }
   ],
-  "verdict": "Culham has a lower overall climate risk score (30/100) compared to Cue (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cue has a lower overall climate risk score (28/100) compared to Culham (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cue or Culham safer from flooding?",
-      "answer": "Cue has a flood risk score of 24/100, while Culham scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cue has a flood risk score of 30/100, while Culham scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cue scores 60/100 for bushfire risk. Culham scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cue scores 17/100 for bushfire risk. Culham scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cue or Culham?",
-      "answer": "Both suburbs have climate considerations. Culham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cue has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Culham Should I Buy?",
       "url": "/suburbs/wa/culham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4385,
+    "projected2030": 6139,
+    "projected2050": 11400
+  },
+  "valueImpact": {
+    "dragPercent": 2.53,
+    "description": "Properties in this area may face a 2.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 40
+      "scoreA": 21,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 45
+      "scoreA": 31,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 73
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 23
+      "scoreA": 50,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 31
+      "scoreA": 23,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
+      "scoreA": 28,
       "scoreB": 24
     }
   ],
-  "verdict": "Erina has a lower overall climate risk score (39/100) compared to Erin Vale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Erin Vale has a lower overall climate risk score (35/100) compared to Erina (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Erin Vale or Erina safer from flooding?",
-      "answer": "Erin Vale has a flood risk score of 51/100, while Erina scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Erin Vale has a flood risk score of 21/100, while Erina scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Erin Vale scores 56/100 for bushfire risk. Erina scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Erin Vale scores 31/100 for bushfire risk. Erina scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Erin Vale or Erina?",
-      "answer": "Both suburbs have climate considerations. Erina has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Erin Vale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Erina Should I Buy?",
       "url": "/suburbs/nsw/erina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

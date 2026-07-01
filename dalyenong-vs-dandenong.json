@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 51
+      "scoreA": 55,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 31
+      "scoreA": 24,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 56
+      "scoreA": 51,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 30
+      "scoreA": 47,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 16
+      "scoreA": 18,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 15
     }
   ],
-  "verdict": "Dandenong has a lower overall climate risk score (34/100) compared to Dalyenong (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dandenong has a lower overall climate risk score (32/100) compared to Dalyenong (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dalyenong or Dandenong safer from flooding?",
-      "answer": "Dalyenong has a flood risk score of 53/100, while Dandenong scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dalyenong has a flood risk score of 55/100, while Dandenong scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dalyenong scores 38/100 for bushfire risk. Dandenong scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dalyenong scores 24/100 for bushfire risk. Dandenong scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dalyenong or Dandenong?",
@@ -76,5 +76,15 @@
       "label": "Dandenong Should I Buy?",
       "url": "/suburbs/vic/dandenong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

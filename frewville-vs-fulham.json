@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 25
+      "scoreA": 50,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 45
+      "scoreA": 16,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 70
+      "scoreA": 68,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 27,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 13
     }
   ],
-  "verdict": "Frewville has a lower overall climate risk score (37/100) compared to Fulham (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Frewville has a lower overall climate risk score (33/100) compared to Fulham (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Frewville or Fulham safer from flooding?",
-      "answer": "Frewville has a flood risk score of 23/100, while Fulham scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Frewville has a flood risk score of 50/100, while Fulham scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Frewville scores 48/100 for bushfire risk. Fulham scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Frewville scores 16/100 for bushfire risk. Fulham scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Frewville or Fulham?",
@@ -76,5 +76,15 @@
       "label": "Fulham Should I Buy?",
       "url": "/suburbs/sa/fulham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

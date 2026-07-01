@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 27
+      "scoreA": 33,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 64
+      "scoreA": 48,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 50
+      "scoreA": 38,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 34
+      "scoreA": 35,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 31
+      "scoreA": 38,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
+      "scoreA": 28,
       "scoreB": 20
     }
   ],
-  "verdict": "The Dawn has a lower overall climate risk score (37/100) compared to The Falls (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "The Dawn has a lower overall climate risk score (37/100) compared to The Falls (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Dawn or The Falls safer from flooding?",
-      "answer": "The Dawn has a flood risk score of 37/100, while The Falls scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Dawn has a flood risk score of 33/100, while The Falls scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Dawn scores 24/100 for bushfire risk. The Falls scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Dawn scores 48/100 for bushfire risk. The Falls scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Dawn or The Falls?",
@@ -76,5 +76,15 @@
       "label": "The Falls Should I Buy?",
       "url": "/suburbs/qld/the-falls/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

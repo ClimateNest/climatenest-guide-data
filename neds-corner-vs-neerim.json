@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 49
+      "scoreA": 41,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 18,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 74
+      "scoreA": 66,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 32
+      "scoreA": 27,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 16
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 25
     }
   ],
-  "verdict": "Neds Corner has a lower overall climate risk score (33/100) compared to Neerim (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Neds Corner has a lower overall climate risk score (32/100) compared to Neerim (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Neds Corner or Neerim safer from flooding?",
-      "answer": "Neds Corner has a flood risk score of 24/100, while Neerim scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Neds Corner has a flood risk score of 41/100, while Neerim scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Neds Corner scores 26/100 for bushfire risk. Neerim scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Neds Corner scores 18/100 for bushfire risk. Neerim scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Neds Corner or Neerim?",
@@ -76,5 +76,15 @@
       "label": "Neerim Should I Buy?",
       "url": "/suburbs/vic/neerim/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

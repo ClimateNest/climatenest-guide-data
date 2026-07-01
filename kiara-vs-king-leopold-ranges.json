@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 23
+      "scoreA": 55,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 39
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 44
+      "scoreA": 75,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 20,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 15,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 12,
+      "scoreB": 6
     }
   ],
-  "verdict": "King Leopold Ranges has a lower overall climate risk score (30/100) compared to Kiara (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "King Leopold Ranges has a lower overall climate risk score (24/100) compared to Kiara (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kiara or King Leopold Ranges safer from flooding?",
-      "answer": "Kiara has a flood risk score of 44/100, while King Leopold Ranges scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kiara has a flood risk score of 55/100, while King Leopold Ranges scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kiara scores 62/100 for bushfire risk. King Leopold Ranges scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kiara scores 20/100 for bushfire risk. King Leopold Ranges scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kiara or King Leopold Ranges?",
@@ -76,5 +76,15 @@
       "label": "King Leopold Ranges Should I Buy?",
       "url": "/suburbs/wa/king-leopold-ranges/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

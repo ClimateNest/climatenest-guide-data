@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 49
+      "scoreA": 23,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 49
+      "scoreA": 36,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 50
+      "scoreA": 31,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 27
+      "scoreA": 6,
+      "scoreB": 10
     }
   ],
-  "verdict": "Mulataga has a lower overall climate risk score (31/100) compared to Mullaloo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mulataga has a lower overall climate risk score (25/100) compared to Mullaloo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mulataga or Mullaloo safer from flooding?",
-      "answer": "Mulataga has a flood risk score of 31/100, while Mullaloo scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mulataga has a flood risk score of 23/100, while Mullaloo scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mulataga scores 38/100 for bushfire risk. Mullaloo scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mulataga scores 36/100 for bushfire risk. Mullaloo scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mulataga or Mullaloo?",
@@ -76,5 +76,15 @@
       "label": "Mullaloo Should I Buy?",
       "url": "/suburbs/wa/mullaloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

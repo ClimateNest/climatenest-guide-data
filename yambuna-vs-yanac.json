@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 23
+      "scoreA": 40,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 35
+      "scoreA": 64,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 72
+      "scoreA": 79,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 41,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 15,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
       "scoreA": 24,
-      "scoreB": 15
+      "scoreB": 21
     }
   ],
-  "verdict": "Yanac has a lower overall climate risk score (31/100) compared to Yambuna (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Yambuna has a lower overall climate risk score (44/100) compared to Yanac (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Yambuna or Yanac safer from flooding?",
-      "answer": "Yambuna has a flood risk score of 58/100, while Yanac scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yambuna has a flood risk score of 40/100, while Yanac scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yambuna scores 34/100 for bushfire risk. Yanac scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yambuna scores 64/100 for bushfire risk. Yanac scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yambuna or Yanac?",
-      "answer": "Both suburbs have climate considerations. Yanac has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yambuna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yanac Should I Buy?",
       "url": "/suburbs/vic/yanac/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

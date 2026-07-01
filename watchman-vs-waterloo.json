@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 59
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 62,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 54
+      "scoreA": 51,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 38
+      "scoreA": 42,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 28,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 14
+      "scoreA": 23,
+      "scoreB": 11
     }
   ],
-  "verdict": "Waterloo has a lower overall climate risk score (34/100) compared to Watchman (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Waterloo has a lower overall climate risk score (35/100) compared to Watchman (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Watchman or Waterloo safer from flooding?",
-      "answer": "Watchman has a flood risk score of 37/100, while Waterloo scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Watchman has a flood risk score of 33/100, while Waterloo scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Watchman scores 22/100 for bushfire risk. Waterloo scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Watchman scores 62/100 for bushfire risk. Waterloo scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Watchman or Waterloo?",
@@ -76,5 +76,15 @@
       "label": "Waterloo Should I Buy?",
       "url": "/suburbs/sa/waterloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

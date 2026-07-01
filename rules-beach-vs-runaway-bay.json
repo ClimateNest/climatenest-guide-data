@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 37
+      "scoreA": 40,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 48
+      "scoreA": 52,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 32
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 34
+      "scoreA": 27,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 33
+      "scoreA": 60,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 18,
+      "scoreB": 16
     }
   ],
-  "verdict": "Runaway Bay has a lower overall climate risk score (33/100) compared to Rules Beach (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Runaway Bay has a lower overall climate risk score (39/100) compared to Rules Beach (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rules Beach or Runaway Bay safer from flooding?",
-      "answer": "Rules Beach has a flood risk score of 35/100, while Runaway Bay scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rules Beach has a flood risk score of 40/100, while Runaway Bay scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rules Beach scores 40/100 for bushfire risk. Runaway Bay scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rules Beach scores 52/100 for bushfire risk. Runaway Bay scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rules Beach or Runaway Bay?",
@@ -76,5 +76,15 @@
       "label": "Runaway Bay Should I Buy?",
       "url": "/suburbs/qld/runaway-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

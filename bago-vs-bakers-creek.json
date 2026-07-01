@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 21
+      "scoreA": 42,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 49
+      "scoreA": 19,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 61
-    },
-    {
-      "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 38
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 50,
+      "scoreA": 55,
       "scoreB": 50
     },
     {
+      "name": "Storm",
+      "scoreA": 37,
+      "scoreB": 46
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 59,
+      "scoreB": 47
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 19,
+      "scoreB": 28
     }
   ],
-  "verdict": "Bakers Creek has a lower overall climate risk score (40/100) compared to Bago (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bago has a lower overall climate risk score (39/100) compared to Bakers Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bago or Bakers Creek safer from flooding?",
-      "answer": "Bago has a flood risk score of 34/100, while Bakers Creek scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bago has a flood risk score of 42/100, while Bakers Creek scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bago scores 40/100 for bushfire risk. Bakers Creek scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bago scores 19/100 for bushfire risk. Bakers Creek scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bago or Bakers Creek?",
-      "answer": "Both suburbs have climate considerations. Bakers Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bago has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bakers Creek Should I Buy?",
       "url": "/suburbs/nsw/bakers-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

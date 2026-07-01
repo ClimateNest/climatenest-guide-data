@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 29
+      "scoreA": 59,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 48
+      "scoreA": 59,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 61
+      "scoreA": 79,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 29
+      "scoreA": 31,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 54
+      "scoreA": 11,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 24
     }
   ],
-  "verdict": "Newnes has a lower overall climate risk score (37/100) compared to Newport (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Newnes has a lower overall climate risk score (42/100) compared to Newport (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Newnes or Newport safer from flooding?",
-      "answer": "Newnes has a flood risk score of 43/100, while Newport scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Newnes has a flood risk score of 59/100, while Newport scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Newnes scores 25/100 for bushfire risk. Newport scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Newnes scores 59/100 for bushfire risk. Newport scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Newnes or Newport?",
@@ -76,5 +76,15 @@
       "label": "Newport Should I Buy?",
       "url": "/suburbs/nsw/newport/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 58
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 15
-    },
-    {
-      "name": "Heat",
-      "scoreA": 48,
+      "scoreA": 39,
       "scoreB": 35
     },
     {
+      "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 26
+    },
+    {
+      "name": "Heat",
+      "scoreA": 50,
+      "scoreB": 49
+    },
+    {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 12
+      "scoreA": 24,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 30
     }
   ],
-  "verdict": "Eromanga has a lower overall climate risk score (28/100) compared to Erakala (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eromanga has a lower overall climate risk score (31/100) compared to Erakala (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Erakala or Eromanga safer from flooding?",
-      "answer": "Erakala has a flood risk score of 24/100, while Eromanga scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Erakala has a flood risk score of 39/100, while Eromanga scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Erakala scores 49/100 for bushfire risk. Eromanga scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Erakala scores 37/100 for bushfire risk. Eromanga scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Erakala or Eromanga?",
@@ -76,5 +76,15 @@
       "label": "Eromanga Should I Buy?",
       "url": "/suburbs/qld/eromanga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3319,
+    "projected2030": 4647,
+    "projected2050": 8630
+  },
+  "valueImpact": {
+    "dragPercent": 0.18,
+    "description": "Properties in this area may face a 0.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

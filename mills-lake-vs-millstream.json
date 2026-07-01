@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 59
+      "scoreA": 50,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 57
+      "scoreA": 39,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 33
+      "scoreA": 69,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 14
     }
   ],
-  "verdict": "Mills Lake has a lower overall climate risk score (37/100) compared to Millstream (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Millstream has a lower overall climate risk score (35/100) compared to Mills Lake (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mills Lake or Millstream safer from flooding?",
-      "answer": "Mills Lake has a flood risk score of 34/100, while Millstream scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mills Lake has a flood risk score of 50/100, while Millstream scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mills Lake scores 29/100 for bushfire risk. Millstream scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mills Lake scores 39/100 for bushfire risk. Millstream scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mills Lake or Millstream?",
-      "answer": "Both suburbs have climate considerations. Mills Lake has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Millstream has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Millstream Should I Buy?",
       "url": "/suburbs/wa/millstream/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

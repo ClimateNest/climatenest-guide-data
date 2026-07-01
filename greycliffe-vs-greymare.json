@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 57
+      "scoreA": 40,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 36,
+      "scoreB": 48
     },
     {
       "name": "Storm",
       "scoreA": 43,
-      "scoreB": 34
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 38
+      "scoreA": 20,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 7,
+      "scoreB": 17
     }
   ],
-  "verdict": "Greycliffe has a lower overall climate risk score (32/100) compared to Greymare (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Greycliffe has a lower overall climate risk score (28/100) compared to Greymare (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Greycliffe or Greymare safer from flooding?",
-      "answer": "Greycliffe has a flood risk score of 56/100, while Greymare scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greycliffe has a flood risk score of 40/100, while Greymare scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greycliffe scores 21/100 for bushfire risk. Greymare scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greycliffe scores 22/100 for bushfire risk. Greymare scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greycliffe or Greymare?",
@@ -76,5 +76,15 @@
       "label": "Greymare Should I Buy?",
       "url": "/suburbs/qld/greymare/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

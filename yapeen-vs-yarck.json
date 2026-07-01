@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 51
+      "scoreA": 43,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 37
+      "scoreA": 29,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 79
+      "scoreA": 79,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Yapeen has a lower overall climate risk score (36/100) compared to Yarck (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yapeen has a lower overall climate risk score (38/100) compared to Yarck (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yapeen or Yarck safer from flooding?",
-      "answer": "Yapeen has a flood risk score of 42/100, while Yarck scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yapeen has a flood risk score of 43/100, while Yarck scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yapeen scores 45/100 for bushfire risk. Yarck scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yapeen scores 29/100 for bushfire risk. Yarck scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yapeen or Yarck?",
@@ -76,5 +76,15 @@
       "label": "Yarck Should I Buy?",
       "url": "/suburbs/vic/yarck/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

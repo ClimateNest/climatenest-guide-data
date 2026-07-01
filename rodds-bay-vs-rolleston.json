@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 46
+      "scoreA": 37,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 19
-    },
-    {
-      "name": "Heat",
-      "scoreA": 31,
+      "scoreA": 32,
       "scoreB": 39
     },
     {
-      "name": "Storm",
+      "name": "Heat",
       "scoreA": 49,
-      "scoreB": 28
+      "scoreB": 37
+    },
+    {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 8
+      "scoreA": 11,
+      "scoreB": 7
     }
   ],
-  "verdict": "Rolleston has a lower overall climate risk score (27/100) compared to Rodds Bay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rolleston has a lower overall climate risk score (30/100) compared to Rodds Bay (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rodds Bay or Rolleston safer from flooding?",
-      "answer": "Rodds Bay has a flood risk score of 50/100, while Rolleston scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rodds Bay has a flood risk score of 37/100, while Rolleston scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rodds Bay scores 62/100 for bushfire risk. Rolleston scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rodds Bay scores 32/100 for bushfire risk. Rolleston scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rodds Bay or Rolleston?",
@@ -76,5 +76,15 @@
       "label": "Rolleston Should I Buy?",
       "url": "/suburbs/qld/rolleston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 55
+      "scoreA": 48,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 45
+      "scoreA": 55,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 59
+      "scoreA": 61,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 47
+      "scoreA": 24,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 43
+      "scoreA": 23,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Mullamuddy has a lower overall climate risk score (29/100) compared to Mullaway (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mullamuddy has a lower overall climate risk score (37/100) compared to Mullaway (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mullamuddy or Mullaway safer from flooding?",
-      "answer": "Mullamuddy has a flood risk score of 26/100, while Mullaway scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mullamuddy has a flood risk score of 48/100, while Mullaway scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mullamuddy scores 22/100 for bushfire risk. Mullaway scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mullamuddy scores 55/100 for bushfire risk. Mullaway scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mullamuddy or Mullaway?",
@@ -76,5 +76,15 @@
       "label": "Mullaway Should I Buy?",
       "url": "/suburbs/nsw/mullaway/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

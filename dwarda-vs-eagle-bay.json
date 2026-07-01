@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 48
+      "scoreA": 46,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 45
+      "scoreA": 40,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 55
+      "scoreA": 71,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 30
+      "scoreA": 13,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 15,
+      "scoreB": 22
     }
   ],
-  "verdict": "Dwarda has a lower overall climate risk score (38/100) compared to Eagle Bay (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Eagle Bay has a lower overall climate risk score (27/100) compared to Dwarda (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Dwarda or Eagle Bay safer from flooding?",
-      "answer": "Dwarda has a flood risk score of 44/100, while Eagle Bay scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dwarda has a flood risk score of 46/100, while Eagle Bay scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dwarda scores 18/100 for bushfire risk. Eagle Bay scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dwarda scores 40/100 for bushfire risk. Eagle Bay scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dwarda or Eagle Bay?",
-      "answer": "Both suburbs have climate considerations. Dwarda has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eagle Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eagle Bay Should I Buy?",
       "url": "/suburbs/wa/eagle-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

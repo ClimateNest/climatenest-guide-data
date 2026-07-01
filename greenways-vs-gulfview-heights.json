@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 31,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 26
+      "scoreA": 57,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 50
+      "scoreA": 70,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 36
+      "scoreA": 24,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 13,
+      "scoreB": 22
     }
   ],
-  "verdict": "Gulfview Heights has a lower overall climate risk score (30/100) compared to Greenways (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Greenways has a lower overall climate risk score (37/100) compared to Gulfview Heights (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Greenways or Gulfview Heights safer from flooding?",
-      "answer": "Greenways has a flood risk score of 42/100, while Gulfview Heights scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greenways has a flood risk score of 31/100, while Gulfview Heights scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greenways scores 47/100 for bushfire risk. Gulfview Heights scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greenways scores 57/100 for bushfire risk. Gulfview Heights scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greenways or Gulfview Heights?",
-      "answer": "Both suburbs have climate considerations. Gulfview Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Greenways has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gulfview Heights Should I Buy?",
       "url": "/suburbs/sa/gulfview-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 48
+      "scoreA": 31,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 76
+      "scoreA": 64,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 24
+      "scoreA": 18,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 14
     }
   ],
-  "verdict": "Modewarre has a lower overall climate risk score (32/100) compared to Moe South (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Modewarre has a lower overall climate risk score (29/100) compared to Moe South (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Modewarre or Moe South safer from flooding?",
-      "answer": "Modewarre has a flood risk score of 41/100, while Moe South scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Modewarre has a flood risk score of 31/100, while Moe South scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Modewarre scores 29/100 for bushfire risk. Moe South scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Modewarre scores 25/100 for bushfire risk. Moe South scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Modewarre or Moe South?",
@@ -76,5 +76,15 @@
       "label": "Moe South Should I Buy?",
       "url": "/suburbs/vic/moe-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

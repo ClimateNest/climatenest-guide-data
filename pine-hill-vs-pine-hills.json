@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 50
+      "scoreA": 34,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 61
+      "scoreA": 17,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 42,
+      "scoreA": 48,
       "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 28
+      "scoreA": 32,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 28
+      "scoreA": 27,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 14
+      "scoreA": 5,
+      "scoreB": 18
     }
   ],
-  "verdict": "Pine Hill has a lower overall climate risk score (31/100) compared to Pine Hills (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pine Hill has a lower overall climate risk score (27/100) compared to Pine Hills (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pine Hill or Pine Hills safer from flooding?",
-      "answer": "Pine Hill has a flood risk score of 33/100, while Pine Hills scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pine Hill has a flood risk score of 34/100, while Pine Hills scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pine Hill scores 33/100 for bushfire risk. Pine Hills scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pine Hill scores 17/100 for bushfire risk. Pine Hills scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pine Hill or Pine Hills?",
@@ -76,5 +76,15 @@
       "label": "Pine Hills Should I Buy?",
       "url": "/suburbs/qld/pine-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

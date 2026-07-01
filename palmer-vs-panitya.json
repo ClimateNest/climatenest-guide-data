@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 56
+      "scoreA": 52,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 45
+      "scoreA": 50,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 52
+      "scoreA": 52,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 32
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 20
     }
   ],
-  "verdict": "Palmer has a lower overall climate risk score (36/100) compared to Panitya (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Panitya has a lower overall climate risk score (34/100) compared to Palmer (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Palmer or Panitya safer from flooding?",
-      "answer": "Palmer has a flood risk score of 57/100, while Panitya scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palmer has a flood risk score of 52/100, while Panitya scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palmer scores 41/100 for bushfire risk. Panitya scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palmer scores 50/100 for bushfire risk. Panitya scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palmer or Panitya?",
-      "answer": "Both suburbs have climate considerations. Palmer has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Panitya has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Panitya Should I Buy?",
       "url": "/suburbs/sa/panitya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 55
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 17
+      "scoreA": 47,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 34
+      "scoreA": 77,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 46
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 30,
+      "scoreA": 47,
       "scoreB": 50
     },
     {
+      "name": "Coastal",
+      "scoreA": 55,
+      "scoreB": 39
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 21
     }
   ],
-  "verdict": "Yabbra has a lower overall climate risk score (37/100) compared to Wyongah (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yabbra has a lower overall climate risk score (42/100) compared to Wyongah (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wyongah or Yabbra safer from flooding?",
-      "answer": "Wyongah has a flood risk score of 38/100, while Yabbra scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wyongah has a flood risk score of 48/100, while Yabbra scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wyongah scores 63/100 for bushfire risk. Yabbra scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wyongah scores 47/100 for bushfire risk. Yabbra scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wyongah or Yabbra?",
@@ -76,5 +76,15 @@
       "label": "Yabbra Should I Buy?",
       "url": "/suburbs/nsw/yabbra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4475,
+    "projected2030": 6265,
+    "projected2050": 11636
+  },
+  "valueImpact": {
+    "dragPercent": 2.72,
+    "description": "Properties in this area may face a 2.72% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

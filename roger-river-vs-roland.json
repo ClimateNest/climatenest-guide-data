@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 19
+      "scoreA": 38,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 73
+      "scoreA": 76,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 22
+      "scoreA": 31,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 13,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 23
+      "scoreA": 12,
+      "scoreB": 17
     }
   ],
-  "verdict": "Roland has a lower overall climate risk score (36/100) compared to Roger River (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Roger River has a lower overall climate risk score (32/100) compared to Roland (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Roger River or Roland safer from flooding?",
-      "answer": "Roger River has a flood risk score of 30/100, while Roland scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Roger River has a flood risk score of 22/100, while Roland scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Roger River scores 64/100 for bushfire risk. Roland scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Roger River scores 38/100 for bushfire risk. Roland scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Roger River or Roland?",
-      "answer": "Both suburbs have climate considerations. Roland has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Roger River has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Roland Should I Buy?",
       "url": "/suburbs/tas/roland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

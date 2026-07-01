@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 42
+      "scoreA": 47,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 40
+      "scoreA": 30,
+      "scoreB": 18
     },
     {
       "name": "Heat",
       "scoreA": 69,
-      "scoreB": 63
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 29
+      "scoreA": 42,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 17
+      "scoreA": 13,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 25
     }
   ],
-  "verdict": "Scott Creek has a lower overall climate risk score (32/100) compared to Seacliff Park (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Seacliff Park has a lower overall climate risk score (35/100) compared to Scott Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Scott Creek or Seacliff Park safer from flooding?",
-      "answer": "Scott Creek has a flood risk score of 55/100, while Seacliff Park scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Scott Creek has a flood risk score of 47/100, while Seacliff Park scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Scott Creek scores 15/100 for bushfire risk. Seacliff Park scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Scott Creek scores 30/100 for bushfire risk. Seacliff Park scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Scott Creek or Seacliff Park?",
-      "answer": "Both suburbs have climate considerations. Scott Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Seacliff Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Seacliff Park Should I Buy?",
       "url": "/suburbs/sa/seacliff-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

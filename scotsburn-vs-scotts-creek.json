@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 43
+      "scoreA": 55,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 48
+      "scoreA": 16,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 61
+      "scoreA": 52,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 38
+      "scoreA": 45,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 14,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 26
+      "scoreA": 15,
+      "scoreB": 17
     }
   ],
-  "verdict": "Scotts Creek has a lower overall climate risk score (39/100) compared to Scotsburn (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Scotsburn has a lower overall climate risk score (33/100) compared to Scotts Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Scotsburn or Scotts Creek safer from flooding?",
-      "answer": "Scotsburn has a flood risk score of 48/100, while Scotts Creek scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Scotsburn has a flood risk score of 55/100, while Scotts Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Scotsburn scores 63/100 for bushfire risk. Scotts Creek scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Scotsburn scores 16/100 for bushfire risk. Scotts Creek scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Scotsburn or Scotts Creek?",
-      "answer": "Both suburbs have climate considerations. Scotts Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Scotsburn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Scotts Creek Should I Buy?",
       "url": "/suburbs/vic/scotts-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

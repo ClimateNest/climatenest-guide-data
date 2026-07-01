@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 50
+      "scoreA": 51,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 52
+      "scoreA": 65,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 41
+      "scoreA": 48,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 36
+      "scoreA": 44,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 13
     }
   ],
-  "verdict": "Burrapine and Burrawang have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Burrawang has a lower overall climate risk score (38/100) compared to Burrapine (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Burrapine or Burrawang safer from flooding?",
-      "answer": "Burrapine has a flood risk score of 30/100, while Burrawang scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burrapine has a flood risk score of 29/100, while Burrawang scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burrapine scores 38/100 for bushfire risk. Burrawang scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burrapine scores 51/100 for bushfire risk. Burrawang scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burrapine or Burrawang?",
-      "answer": "Both suburbs have climate considerations. Burrapine has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Burrawang has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Burrawang Should I Buy?",
       "url": "/suburbs/nsw/burrawang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 52
+      "scoreA": 35,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 16
+      "scoreA": 30,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 69
+      "scoreA": 59,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 10
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 19,
+      "scoreB": 30
     }
   ],
-  "verdict": "Yanmah has a lower overall climate risk score (30/100) compared to Yarawindah (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yanmah has a lower overall climate risk score (33/100) compared to Yarawindah (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Yanmah or Yarawindah safer from flooding?",
-      "answer": "Yanmah has a flood risk score of 32/100, while Yarawindah scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yanmah has a flood risk score of 35/100, while Yarawindah scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yanmah scores 16/100 for bushfire risk. Yarawindah scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yanmah scores 30/100 for bushfire risk. Yarawindah scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yanmah or Yarawindah?",
@@ -76,5 +76,15 @@
       "label": "Yarawindah Should I Buy?",
       "url": "/suburbs/wa/yarawindah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

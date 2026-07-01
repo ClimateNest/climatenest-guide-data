@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 36
+      "scoreA": 43,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 34
-    },
-    {
-      "name": "Heat",
-      "scoreA": 34,
+      "scoreA": 37,
       "scoreB": 46
     },
     {
+      "name": "Heat",
+      "scoreA": 48,
+      "scoreB": 33
+    },
+    {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 49,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 17
+      "scoreA": 56,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 26
     }
   ],
-  "verdict": "Minnie Downs has a lower overall climate risk score (31/100) compared to Mingoola (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Minnie Downs has a lower overall climate risk score (33/100) compared to Mingoola (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mingoola or Minnie Downs safer from flooding?",
-      "answer": "Mingoola has a flood risk score of 24/100, while Minnie Downs scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mingoola has a flood risk score of 43/100, while Minnie Downs scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mingoola scores 34/100 for bushfire risk. Minnie Downs scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mingoola scores 37/100 for bushfire risk. Minnie Downs scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mingoola or Minnie Downs?",
@@ -76,5 +76,15 @@
       "label": "Minnie Downs Should I Buy?",
       "url": "/suburbs/qld/minnie-downs/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 54,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 20
+      "scoreA": 26,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 63
+      "scoreA": 79,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 46
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 11,
+      "scoreA": 28,
       "scoreB": 24
     },
     {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 15
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 21
+      "scoreA": 10,
+      "scoreB": 14
     }
   ],
-  "verdict": "Yawong Hills has a lower overall climate risk score (37/100) compared to Yarroweyah (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yawong Hills has a lower overall climate risk score (28/100) compared to Yarroweyah (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yarroweyah or Yawong Hills safer from flooding?",
-      "answer": "Yarroweyah has a flood risk score of 38/100, while Yawong Hills scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yarroweyah has a flood risk score of 54/100, while Yawong Hills scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yarroweyah scores 63/100 for bushfire risk. Yawong Hills scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yarroweyah scores 26/100 for bushfire risk. Yawong Hills scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yarroweyah or Yawong Hills?",
@@ -76,5 +76,15 @@
       "label": "Yawong Hills Should I Buy?",
       "url": "/suburbs/vic/yawong-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

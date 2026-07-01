@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 33
+      "scoreA": 59,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 51
+      "scoreA": 57,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 48,
-      "scoreB": 46
+      "scoreA": 45,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 55
+      "scoreA": 59,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 28
     }
   ],
-  "verdict": "Somersby has a lower overall climate risk score (35/100) compared to Soldiers Point (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Somersby has a lower overall climate risk score (42/100) compared to Soldiers Point (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Soldiers Point or Somersby safer from flooding?",
-      "answer": "Soldiers Point has a flood risk score of 25/100, while Somersby scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Soldiers Point has a flood risk score of 59/100, while Somersby scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Soldiers Point scores 44/100 for bushfire risk. Somersby scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Soldiers Point scores 21/100 for bushfire risk. Somersby scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Soldiers Point or Somersby?",
@@ -76,5 +76,15 @@
       "label": "Somersby Should I Buy?",
       "url": "/suburbs/nsw/somersby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

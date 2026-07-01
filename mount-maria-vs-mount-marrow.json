@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 43
+      "scoreA": 27,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 39,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 38
+      "scoreA": 24,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 44,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 14
+      "scoreA": 10,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mount Marrow has a lower overall climate risk score (36/100) compared to Mount Maria (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mount Maria has a lower overall climate risk score (29/100) compared to Mount Marrow (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Maria or Mount Marrow safer from flooding?",
-      "answer": "Mount Maria has a flood risk score of 50/100, while Mount Marrow scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Maria has a flood risk score of 27/100, while Mount Marrow scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Maria scores 44/100 for bushfire risk. Mount Marrow scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Maria scores 39/100 for bushfire risk. Mount Marrow scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Maria or Mount Marrow?",
-      "answer": "Both suburbs have climate considerations. Mount Marrow has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Maria has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Marrow Should I Buy?",
       "url": "/suburbs/qld/mount-marrow/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

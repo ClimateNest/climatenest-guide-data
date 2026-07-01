@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
+      "scoreA": 47,
       "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 52
+      "scoreA": 31,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 49
+      "scoreA": 50,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 44
+      "scoreA": 29,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 11,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 18
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Mount Budd has a lower overall climate risk score (38/100) compared to Mount Barker (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mount Barker has a lower overall climate risk score (31/100) compared to Mount Budd (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Barker or Mount Budd safer from flooding?",
-      "answer": "Mount Barker has a flood risk score of 56/100, while Mount Budd scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Barker has a flood risk score of 47/100, while Mount Budd scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Barker scores 57/100 for bushfire risk. Mount Budd scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Barker scores 31/100 for bushfire risk. Mount Budd scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Barker or Mount Budd?",
-      "answer": "Both suburbs have climate considerations. Mount Budd has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Barker has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Budd Should I Buy?",
       "url": "/suburbs/wa/mount-budd/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 29
+      "scoreA": 44,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 61
+      "scoreA": 17,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 73
+      "scoreA": 33,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 20
+      "scoreA": 49,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 31
+      "scoreA": 55,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 17
+      "scoreA": 23,
+      "scoreB": 11
     }
   ],
-  "verdict": "Fawcetts Plain has a lower overall climate risk score (37/100) compared to Fennell Bay (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fawcetts Plain has a lower overall climate risk score (37/100) compared to Fennell Bay (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Fawcetts Plain or Fennell Bay safer from flooding?",
-      "answer": "Fawcetts Plain has a flood risk score of 50/100, while Fennell Bay scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fawcetts Plain has a flood risk score of 44/100, while Fennell Bay scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fawcetts Plain scores 16/100 for bushfire risk. Fennell Bay scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fawcetts Plain scores 17/100 for bushfire risk. Fennell Bay scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fawcetts Plain or Fennell Bay?",
@@ -76,5 +76,15 @@
       "label": "Fennell Bay Should I Buy?",
       "url": "/suburbs/nsw/fennell-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4226,
+    "projected2030": 5916,
+    "projected2050": 10988
+  },
+  "valueImpact": {
+    "dragPercent": 2.17,
+    "description": "Properties in this area may face a 2.17% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

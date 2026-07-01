@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 29
+      "scoreA": 21,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 62
+      "scoreA": 16,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 74
+      "scoreA": 68,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 42
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 30
+      "scoreA": 19,
+      "scoreB": 22
     }
   ],
-  "verdict": "Annandale has a lower overall climate risk score (37/100) compared to Annangrove (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Annandale has a lower overall climate risk score (32/100) compared to Annangrove (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Annandale or Annangrove safer from flooding?",
-      "answer": "Annandale has a flood risk score of 34/100, while Annangrove scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Annandale has a flood risk score of 21/100, while Annangrove scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Annandale scores 57/100 for bushfire risk. Annangrove scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Annandale scores 16/100 for bushfire risk. Annangrove scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Annandale or Annangrove?",
@@ -76,5 +76,15 @@
       "label": "Annangrove Should I Buy?",
       "url": "/suburbs/nsw/annangrove/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

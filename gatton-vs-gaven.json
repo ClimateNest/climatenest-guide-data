@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
+      "scoreA": 37,
       "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 32
+      "scoreA": 36,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 30
+      "scoreA": 45,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 43
+      "scoreA": 38,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 19
+      "scoreA": 22,
+      "scoreB": 12
     }
   ],
-  "verdict": "Gaven has a lower overall climate risk score (37/100) compared to Gatton (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gaven has a lower overall climate risk score (33/100) compared to Gatton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gatton or Gaven safer from flooding?",
-      "answer": "Gatton has a flood risk score of 40/100, while Gaven scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gatton has a flood risk score of 37/100, while Gaven scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gatton scores 47/100 for bushfire risk. Gaven scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gatton scores 36/100 for bushfire risk. Gaven scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gatton or Gaven?",
@@ -76,5 +76,15 @@
       "label": "Gaven Should I Buy?",
       "url": "/suburbs/qld/gaven/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

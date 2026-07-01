@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 43
+      "scoreA": 51,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 29
+      "scoreA": 60,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 59
+      "scoreA": 76,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 28,
       "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 25,
+      "scoreB": 10
     }
   ],
-  "verdict": "Balmoral has a lower overall climate risk score (32/100) compared to Balmattum (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Balmoral has a lower overall climate risk score (31/100) compared to Balmattum (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Balmattum or Balmoral safer from flooding?",
-      "answer": "Balmattum has a flood risk score of 48/100, while Balmoral scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balmattum has a flood risk score of 51/100, while Balmoral scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balmattum scores 62/100 for bushfire risk. Balmoral scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balmattum scores 60/100 for bushfire risk. Balmoral scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balmattum or Balmoral?",
@@ -76,5 +76,15 @@
       "label": "Balmoral Should I Buy?",
       "url": "/suburbs/vic/balmoral/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4362,
+    "projected2030": 6107,
+    "projected2050": 11341
+  },
+  "valueImpact": {
+    "dragPercent": 2.48,
+    "description": "Properties in this area may face a 2.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 32
+      "scoreA": 21,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 21
+      "scoreA": 55,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 70
+      "scoreA": 61,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 28
+      "scoreA": 47,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 17,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
       "scoreA": 26,
-      "scoreB": 29
+      "scoreB": 23
     }
   ],
-  "verdict": "Warranwood has a lower overall climate risk score (33/100) compared to Warrandyte (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Warrandyte has a lower overall climate risk score (38/100) compared to Warranwood (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Warrandyte or Warranwood safer from flooding?",
-      "answer": "Warrandyte has a flood risk score of 53/100, while Warranwood scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Warrandyte has a flood risk score of 21/100, while Warranwood scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Warrandyte scores 34/100 for bushfire risk. Warranwood scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Warrandyte scores 55/100 for bushfire risk. Warranwood scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Warrandyte or Warranwood?",
-      "answer": "Both suburbs have climate considerations. Warranwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Warrandyte has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Warranwood Should I Buy?",
       "url": "/suburbs/vic/warranwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 49,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 45
+      "scoreA": 63,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 75
+      "scoreA": 58,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 22
+      "scoreA": 41,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 14
+      "scoreB": 12
     }
   ],
-  "verdict": "Shotts has a lower overall climate risk score (33/100) compared to Shoalwater (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Shotts has a lower overall climate risk score (31/100) compared to Shoalwater (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Shoalwater or Shotts safer from flooding?",
-      "answer": "Shoalwater has a flood risk score of 27/100, while Shotts scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shoalwater has a flood risk score of 49/100, while Shotts scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shoalwater scores 28/100 for bushfire risk. Shotts scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shoalwater scores 63/100 for bushfire risk. Shotts scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shoalwater or Shotts?",
@@ -76,5 +76,15 @@
       "label": "Shotts Should I Buy?",
       "url": "/suburbs/wa/shotts/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

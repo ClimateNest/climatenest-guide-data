@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 60,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 49,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 37
+      "scoreA": 60,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 30
+      "scoreA": 41,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
+      "scoreA": 12,
       "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 24
     }
   ],
-  "verdict": "Woorree has a lower overall climate risk score (28/100) compared to Wooroloo (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woorree has a lower overall climate risk score (38/100) compared to Wooroloo (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wooroloo or Woorree safer from flooding?",
-      "answer": "Wooroloo has a flood risk score of 28/100, while Woorree scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wooroloo has a flood risk score of 60/100, while Woorree scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wooroloo scores 30/100 for bushfire risk. Woorree scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wooroloo scores 49/100 for bushfire risk. Woorree scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wooroloo or Woorree?",
@@ -76,5 +76,15 @@
       "label": "Woorree Should I Buy?",
       "url": "/suburbs/wa/woorree/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

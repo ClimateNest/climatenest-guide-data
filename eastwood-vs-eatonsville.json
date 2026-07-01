@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 56
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
+      "scoreA": 21,
       "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 35
+      "scoreA": 68,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 31
+      "scoreA": 22,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 41
+      "scoreA": 50,
+      "scoreB": 47
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 15
     }
   ],
-  "verdict": "Eatonsville has a lower overall climate risk score (35/100) compared to Eastwood (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eatonsville has a lower overall climate risk score (32/100) compared to Eastwood (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eastwood or Eatonsville safer from flooding?",
-      "answer": "Eastwood has a flood risk score of 49/100, while Eatonsville scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eastwood has a flood risk score of 29/100, while Eatonsville scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eastwood scores 37/100 for bushfire risk. Eatonsville scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eastwood scores 21/100 for bushfire risk. Eatonsville scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eastwood or Eatonsville?",
@@ -76,5 +76,15 @@
       "label": "Eatonsville Should I Buy?",
       "url": "/suburbs/nsw/eatonsville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

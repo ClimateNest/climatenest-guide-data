@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 30
+      "scoreA": 27,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 36,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 56
+      "scoreA": 54,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 47,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 14
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 30
     }
   ],
-  "verdict": "Cathcart has a lower overall climate risk score (33/100) compared to Cataract (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cathcart has a lower overall climate risk score (32/100) compared to Cataract (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cataract or Cathcart safer from flooding?",
-      "answer": "Cataract has a flood risk score of 47/100, while Cathcart scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cataract has a flood risk score of 27/100, while Cathcart scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cataract scores 43/100 for bushfire risk. Cathcart scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cataract scores 36/100 for bushfire risk. Cathcart scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cataract or Cathcart?",
@@ -76,5 +76,15 @@
       "label": "Cathcart Should I Buy?",
       "url": "/suburbs/nsw/cathcart/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

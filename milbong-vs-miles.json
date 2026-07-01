@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 53
+      "scoreA": 52,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 52
+      "scoreA": 46,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 50
-    },
-    {
-      "name": "Storm",
-      "scoreA": 26,
+      "scoreA": 39,
       "scoreB": 47
     },
     {
+      "name": "Storm",
+      "scoreA": 49,
+      "scoreB": 31
+    },
+    {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 15
+      "scoreA": 33,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 12
     }
   ],
-  "verdict": "Milbong has a lower overall climate risk score (37/100) compared to Miles (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Miles has a lower overall climate risk score (29/100) compared to Milbong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Milbong or Miles safer from flooding?",
-      "answer": "Milbong has a flood risk score of 55/100, while Miles scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Milbong has a flood risk score of 52/100, while Miles scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Milbong scores 36/100 for bushfire risk. Miles scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Milbong scores 46/100 for bushfire risk. Miles scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Milbong or Miles?",
-      "answer": "Both suburbs have climate considerations. Milbong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Miles has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Miles Should I Buy?",
       "url": "/suburbs/qld/miles/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

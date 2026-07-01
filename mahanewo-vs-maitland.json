@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 55
+      "scoreA": 58,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 58
+      "scoreA": 41,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 62
+      "scoreA": 62,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 37
+      "scoreA": 31,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 23
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Mahanewo has a lower overall climate risk score (30/100) compared to Maitland (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mahanewo and Maitland have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mahanewo or Maitland safer from flooding?",
-      "answer": "Mahanewo has a flood risk score of 24/100, while Maitland scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mahanewo has a flood risk score of 58/100, while Maitland scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mahanewo scores 21/100 for bushfire risk. Maitland scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mahanewo scores 41/100 for bushfire risk. Maitland scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mahanewo or Maitland?",
@@ -76,5 +76,15 @@
       "label": "Maitland Should I Buy?",
       "url": "/suburbs/sa/maitland/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

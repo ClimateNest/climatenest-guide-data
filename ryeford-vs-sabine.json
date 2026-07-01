@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 46,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 56
+      "scoreA": 61,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 50
+      "scoreA": 40,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 46
+      "scoreA": 29,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 34
+      "scoreA": 35,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Ryeford has a lower overall climate risk score (30/100) compared to Sabine (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Sabine has a lower overall climate risk score (33/100) compared to Ryeford (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ryeford or Sabine safer from flooding?",
-      "answer": "Ryeford has a flood risk score of 41/100, while Sabine scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ryeford has a flood risk score of 46/100, while Sabine scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ryeford scores 36/100 for bushfire risk. Sabine scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ryeford scores 61/100 for bushfire risk. Sabine scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ryeford or Sabine?",
-      "answer": "Both suburbs have climate considerations. Ryeford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Sabine has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sabine Should I Buy?",
       "url": "/suburbs/qld/sabine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 34
+      "scoreA": 45,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 58
+      "scoreA": 66,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 22
+      "scoreA": 17,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 19,
+      "scoreB": 19
     }
   ],
-  "verdict": "Iona has a lower overall climate risk score (28/100) compared to Irishtown (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Iona has a lower overall climate risk score (35/100) compared to Irishtown (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Iona or Irishtown safer from flooding?",
-      "answer": "Iona has a flood risk score of 21/100, while Irishtown scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Iona has a flood risk score of 45/100, while Irishtown scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Iona scores 21/100 for bushfire risk. Irishtown scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Iona scores 33/100 for bushfire risk. Irishtown scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Iona or Irishtown?",
@@ -76,5 +76,15 @@
       "label": "Irishtown Should I Buy?",
       "url": "/suburbs/vic/irishtown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 39
+      "scoreA": 29,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 61
-    },
-    {
-      "name": "Heat",
-      "scoreA": 56,
+      "scoreA": 19,
       "scoreB": 62
     },
     {
+      "name": "Heat",
+      "scoreA": 79,
+      "scoreB": 51
+    },
+    {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 26
+      "scoreA": 46,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 30
+      "scoreA": 12,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 27
     }
   ],
-  "verdict": "Abels Bay has a lower overall climate risk score (41/100) compared to Abbotsham (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Abbotsham has a lower overall climate risk score (34/100) compared to Abels Bay (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Abbotsham or Abels Bay safer from flooding?",
-      "answer": "Abbotsham has a flood risk score of 57/100, while Abels Bay scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Abbotsham has a flood risk score of 29/100, while Abels Bay scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Abbotsham scores 64/100 for bushfire risk. Abels Bay scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Abbotsham scores 19/100 for bushfire risk. Abels Bay scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Abbotsham or Abels Bay?",
-      "answer": "Both suburbs have climate considerations. Abels Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Abbotsham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Abels Bay Should I Buy?",
       "url": "/suburbs/tas/abels-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

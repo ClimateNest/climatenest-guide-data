@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 31,
+      "scoreB": 33
     },
     {
       "name": "Heat",
       "scoreA": 34,
-      "scoreB": 41
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 37,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 23,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
       "scoreA": 19,
-      "scoreB": 20
+      "scoreB": 16
     }
   ],
-  "verdict": "Palmerston City has a lower overall climate risk score (26/100) compared to Papunya (27/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Palmerston City has a lower overall climate risk score (30/100) compared to Papunya (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Palmerston City or Papunya safer from flooding?",
-      "answer": "Palmerston City has a flood risk score of 25/100, while Papunya scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palmerston City has a flood risk score of 37/100, while Papunya scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palmerston City scores 18/100 for bushfire risk. Papunya scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palmerston City scores 31/100 for bushfire risk. Papunya scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palmerston City or Papunya?",
@@ -76,5 +76,15 @@
       "label": "Papunya Should I Buy?",
       "url": "/suburbs/nt/papunya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3297,
+    "projected2030": 4615,
+    "projected2050": 8571
+  },
+  "valueImpact": {
+    "dragPercent": 0.12,
+    "description": "Properties in this area may face a 0.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

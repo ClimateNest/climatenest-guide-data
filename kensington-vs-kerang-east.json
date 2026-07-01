@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 56
+      "scoreA": 56,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 49
+      "scoreA": 53,
+      "scoreB": 45
     },
     {
       "name": "Heat",
       "scoreA": 80,
-      "scoreB": 59
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 20,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 29,
+      "scoreB": 15
     }
   ],
-  "verdict": "Kensington has a lower overall climate risk score (40/100) compared to Kerang East (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kerang East has a lower overall climate risk score (34/100) compared to Kensington (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kensington or Kerang East safer from flooding?",
-      "answer": "Kensington has a flood risk score of 59/100, while Kerang East scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kensington has a flood risk score of 56/100, while Kerang East scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kensington scores 27/100 for bushfire risk. Kerang East scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kensington scores 53/100 for bushfire risk. Kerang East scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kensington or Kerang East?",
-      "answer": "Both suburbs have climate considerations. Kensington has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kerang East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kerang East Should I Buy?",
       "url": "/suburbs/vic/kerang-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

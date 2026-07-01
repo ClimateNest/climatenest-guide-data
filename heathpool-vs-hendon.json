@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 31
+      "scoreA": 32,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 19
+      "scoreA": 62,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 55
+      "scoreA": 75,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 37
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 22
+      "scoreA": 19,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 10
+      "scoreA": 14,
+      "scoreB": 22
     }
   ],
-  "verdict": "Hendon has a lower overall climate risk score (29/100) compared to Heathpool (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hendon has a lower overall climate risk score (33/100) compared to Heathpool (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Heathpool or Hendon safer from flooding?",
-      "answer": "Heathpool has a flood risk score of 57/100, while Hendon scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Heathpool has a flood risk score of 32/100, while Hendon scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Heathpool scores 47/100 for bushfire risk. Hendon scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Heathpool scores 62/100 for bushfire risk. Hendon scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Heathpool or Hendon?",
@@ -76,5 +76,15 @@
       "label": "Hendon Should I Buy?",
       "url": "/suburbs/sa/hendon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

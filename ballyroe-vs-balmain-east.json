@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 42
+      "scoreA": 41,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 36
+      "scoreA": 50,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 53
+      "scoreA": 66,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 36,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 25,
       "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 28
     }
   ],
-  "verdict": "Ballyroe has a lower overall climate risk score (35/100) compared to Balmain East (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ballyroe has a lower overall climate risk score (39/100) compared to Balmain East (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ballyroe or Balmain East safer from flooding?",
-      "answer": "Ballyroe has a flood risk score of 34/100, while Balmain East scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ballyroe has a flood risk score of 41/100, while Balmain East scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ballyroe scores 41/100 for bushfire risk. Balmain East scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ballyroe scores 50/100 for bushfire risk. Balmain East scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ballyroe or Balmain East?",
@@ -76,5 +76,15 @@
       "label": "Balmain East Should I Buy?",
       "url": "/suburbs/nsw/balmain-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

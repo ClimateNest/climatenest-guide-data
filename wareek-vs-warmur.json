@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 27,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 59
+      "scoreA": 24,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 70
+      "scoreA": 51,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 41
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 17
     }
   ],
-  "verdict": "Wareek has a lower overall climate risk score (35/100) compared to Warmur (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wareek has a lower overall climate risk score (30/100) compared to Warmur (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wareek or Warmur safer from flooding?",
-      "answer": "Wareek has a flood risk score of 35/100, while Warmur scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wareek has a flood risk score of 27/100, while Warmur scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wareek scores 35/100 for bushfire risk. Warmur scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wareek scores 24/100 for bushfire risk. Warmur scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wareek or Warmur?",
@@ -76,5 +76,15 @@
       "label": "Warmur Should I Buy?",
       "url": "/suburbs/vic/warmur/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 47
+      "scoreA": 25,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 29
+      "scoreA": 45,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 70
+      "scoreA": 55,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 40
+      "scoreA": 44,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 23
+      "scoreA": 25,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 13
     }
   ],
-  "verdict": "Pakenham has a lower overall climate risk score (39/100) compared to Pakenham South (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pakenham has a lower overall climate risk score (36/100) compared to Pakenham South (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Pakenham or Pakenham South safer from flooding?",
-      "answer": "Pakenham has a flood risk score of 28/100, while Pakenham South scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pakenham has a flood risk score of 25/100, while Pakenham South scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pakenham scores 50/100 for bushfire risk. Pakenham South scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pakenham scores 45/100 for bushfire risk. Pakenham South scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pakenham or Pakenham South?",
@@ -76,5 +76,15 @@
       "label": "Pakenham South Should I Buy?",
       "url": "/suburbs/vic/pakenham-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

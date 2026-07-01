@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 22
+      "scoreA": 46,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 54,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 73
+      "scoreA": 61,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 29
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 34
+      "scoreA": 24,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 24
     }
   ],
-  "verdict": "Murrumburrah has a lower overall climate risk score (30/100) compared to Murulla (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Murrumburrah and Murulla have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Murrumburrah or Murulla safer from flooding?",
-      "answer": "Murrumburrah has a flood risk score of 39/100, while Murulla scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Murrumburrah has a flood risk score of 46/100, while Murulla scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Murrumburrah scores 25/100 for bushfire risk. Murulla scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Murrumburrah scores 54/100 for bushfire risk. Murulla scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Murrumburrah or Murulla?",
@@ -76,5 +76,15 @@
       "label": "Murulla Should I Buy?",
       "url": "/suburbs/nsw/murulla/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

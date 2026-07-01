@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 59
+      "scoreA": 53,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 36
+      "scoreA": 40,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 40,
+      "scoreA": 43,
       "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 20,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 43,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 7
     }
   ],
-  "verdict": "Bushley has a lower overall climate risk score (35/100) compared to Burua (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bushley has a lower overall climate risk score (27/100) compared to Burua (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Burua or Bushley safer from flooding?",
-      "answer": "Burua has a flood risk score of 47/100, while Bushley scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burua has a flood risk score of 53/100, while Bushley scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burua scores 60/100 for bushfire risk. Bushley scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burua scores 40/100 for bushfire risk. Bushley scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burua or Bushley?",
@@ -76,5 +76,15 @@
       "label": "Bushley Should I Buy?",
       "url": "/suburbs/qld/bushley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3637,
+    "projected2030": 5091,
+    "projected2050": 9455
+  },
+  "valueImpact": {
+    "dragPercent": 0.88,
+    "description": "Properties in this area may face a 0.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

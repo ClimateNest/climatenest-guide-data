@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 59
+      "scoreA": 52,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 47
+      "scoreA": 39,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 72
+      "scoreA": 62,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 46
+      "scoreA": 50,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 18
+      "scoreA": 32,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 15,
+      "scoreB": 22
     }
   ],
-  "verdict": "Morts Estate has a lower overall climate risk score (45/100) compared to Mortons Creek (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Morts Estate has a lower overall climate risk score (30/100) compared to Mortons Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mortons Creek or Morts Estate safer from flooding?",
-      "answer": "Mortons Creek has a flood risk score of 59/100, while Morts Estate scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mortons Creek has a flood risk score of 52/100, while Morts Estate scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mortons Creek scores 55/100 for bushfire risk. Morts Estate scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mortons Creek scores 39/100 for bushfire risk. Morts Estate scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mortons Creek or Morts Estate?",
@@ -76,5 +76,15 @@
       "label": "Morts Estate Should I Buy?",
       "url": "/suburbs/nsw/morts-estate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

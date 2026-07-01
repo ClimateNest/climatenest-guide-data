@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 45
+      "scoreA": 37,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 62
+      "scoreA": 23,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 61
+      "scoreA": 58,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 34,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 21,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 12,
+      "scoreB": 15
     }
   ],
-  "verdict": "Genoa has a lower overall climate risk score (34/100) compared to Gentle Annie (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Genoa has a lower overall climate risk score (31/100) compared to Gentle Annie (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Genoa or Gentle Annie safer from flooding?",
-      "answer": "Genoa has a flood risk score of 60/100, while Gentle Annie scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Genoa has a flood risk score of 37/100, while Gentle Annie scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Genoa scores 16/100 for bushfire risk. Gentle Annie scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Genoa scores 23/100 for bushfire risk. Gentle Annie scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Genoa or Gentle Annie?",
@@ -76,5 +76,15 @@
       "label": "Gentle Annie Should I Buy?",
       "url": "/suburbs/vic/gentle-annie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

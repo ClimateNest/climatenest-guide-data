@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 58
+      "scoreA": 33,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 63,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 31,
+      "scoreA": 41,
       "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 38
+      "scoreA": 21,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 32
+      "scoreA": 40,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 16
+      "scoreA": 26,
+      "scoreB": 20
     }
   ],
-  "verdict": "Coochin has a lower overall climate risk score (30/100) compared to Coochin Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coochin has a lower overall climate risk score (37/100) compared to Coochin Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coochin or Coochin Creek safer from flooding?",
-      "answer": "Coochin has a flood risk score of 38/100, while Coochin Creek scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coochin has a flood risk score of 33/100, while Coochin Creek scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coochin scores 31/100 for bushfire risk. Coochin Creek scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coochin scores 63/100 for bushfire risk. Coochin Creek scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coochin or Coochin Creek?",
@@ -76,5 +76,15 @@
       "label": "Coochin Creek Should I Buy?",
       "url": "/suburbs/qld/coochin-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

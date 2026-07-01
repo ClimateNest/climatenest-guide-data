@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 30
+      "scoreA": 49,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 39
+      "scoreA": 29,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 59
+      "scoreA": 60,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 22
+      "scoreA": 43,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 30,
+      "scoreB": 28
     }
   ],
-  "verdict": "Bolangum has a lower overall climate risk score (32/100) compared to Boisdale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bolangum has a lower overall climate risk score (35/100) compared to Boisdale (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Boisdale or Bolangum safer from flooding?",
-      "answer": "Boisdale has a flood risk score of 36/100, while Bolangum scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boisdale has a flood risk score of 49/100, while Bolangum scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boisdale scores 45/100 for bushfire risk. Bolangum scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boisdale scores 29/100 for bushfire risk. Bolangum scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boisdale or Bolangum?",
@@ -76,5 +76,15 @@
       "label": "Bolangum Should I Buy?",
       "url": "/suburbs/vic/bolangum/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

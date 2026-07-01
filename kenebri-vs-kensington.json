@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 50
+      "scoreA": 38,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 52
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 51
+      "scoreA": 66,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 50
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 32
+      "scoreA": 30,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 22
     }
   ],
-  "verdict": "Kenebri has a lower overall climate risk score (36/100) compared to Kensington (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kenebri has a lower overall climate risk score (41/100) compared to Kensington (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Kenebri or Kensington safer from flooding?",
-      "answer": "Kenebri has a flood risk score of 28/100, while Kensington scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kenebri has a flood risk score of 38/100, while Kensington scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kenebri scores 34/100 for bushfire risk. Kensington scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kenebri scores 47/100 for bushfire risk. Kensington scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kenebri or Kensington?",
@@ -76,5 +76,15 @@
       "label": "Kensington Should I Buy?",
       "url": "/suburbs/nsw/kensington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

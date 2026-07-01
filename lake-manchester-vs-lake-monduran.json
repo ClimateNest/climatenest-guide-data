@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 46
+      "scoreA": 33,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 34
+      "scoreA": 46,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 34
+      "scoreA": 41,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 6
+      "scoreA": 15,
+      "scoreB": 8
     }
   ],
-  "verdict": "Lake Monduran has a lower overall climate risk score (32/100) compared to Lake Manchester (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lake Monduran has a lower overall climate risk score (28/100) compared to Lake Manchester (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lake Manchester or Lake Monduran safer from flooding?",
-      "answer": "Lake Manchester has a flood risk score of 31/100, while Lake Monduran scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lake Manchester has a flood risk score of 33/100, while Lake Monduran scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lake Manchester scores 34/100 for bushfire risk. Lake Monduran scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lake Manchester scores 46/100 for bushfire risk. Lake Monduran scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lake Manchester or Lake Monduran?",
@@ -76,5 +76,15 @@
       "label": "Lake Monduran Should I Buy?",
       "url": "/suburbs/qld/lake-monduran/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

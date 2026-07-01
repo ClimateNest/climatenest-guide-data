@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 23
+      "scoreA": 21,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 20
+      "scoreA": 54,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 63
+      "scoreA": 58,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 39,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 44
+      "scoreA": 44,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
+      "scoreA": 15,
       "scoreB": 29
     }
   ],
-  "verdict": "Sun Valley has a lower overall climate risk score (35/100) compared to Summerland Point (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Summerland Point has a lower overall climate risk score (39/100) compared to Sun Valley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Summerland Point or Sun Valley safer from flooding?",
-      "answer": "Summerland Point has a flood risk score of 60/100, while Sun Valley scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Summerland Point has a flood risk score of 21/100, while Sun Valley scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Summerland Point scores 38/100 for bushfire risk. Sun Valley scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Summerland Point scores 54/100 for bushfire risk. Sun Valley scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Summerland Point or Sun Valley?",
-      "answer": "Both suburbs have climate considerations. Sun Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Summerland Point has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sun Valley Should I Buy?",
       "url": "/suburbs/nsw/sun-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

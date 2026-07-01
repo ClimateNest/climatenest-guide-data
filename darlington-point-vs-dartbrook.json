@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 52
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 44
-    },
-    {
-      "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 46
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 28,
+      "scoreA": 31,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 27,
+      "scoreB": 51
+    },
+    {
+      "name": "Heat",
+      "scoreA": 52,
+      "scoreB": 70
+    },
+    {
+      "name": "Storm",
+      "scoreA": 38,
+      "scoreB": 45
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 42
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 15
     }
   ],
-  "verdict": "Darlington Point has a lower overall climate risk score (36/100) compared to Dartbrook (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Darlington Point has a lower overall climate risk score (33/100) compared to Dartbrook (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Darlington Point or Dartbrook safer from flooding?",
-      "answer": "Darlington Point has a flood risk score of 58/100, while Dartbrook scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Darlington Point has a flood risk score of 31/100, while Dartbrook scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Darlington Point scores 16/100 for bushfire risk. Dartbrook scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Darlington Point scores 27/100 for bushfire risk. Dartbrook scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Darlington Point or Dartbrook?",
@@ -76,5 +76,15 @@
       "label": "Dartbrook Should I Buy?",
       "url": "/suburbs/nsw/dartbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

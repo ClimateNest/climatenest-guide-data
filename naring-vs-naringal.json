@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 53
+      "scoreA": 36,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 61
+      "scoreA": 19,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 62
+      "scoreA": 57,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 23
+      "scoreA": 11,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
+      "scoreA": 16,
       "scoreB": 15
     }
   ],
-  "verdict": "Naring has a lower overall climate risk score (38/100) compared to Naringal (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Naring has a lower overall climate risk score (28/100) compared to Naringal (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Naring or Naringal safer from flooding?",
-      "answer": "Naring has a flood risk score of 45/100, while Naringal scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Naring has a flood risk score of 36/100, while Naringal scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Naring scores 42/100 for bushfire risk. Naringal scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Naring scores 19/100 for bushfire risk. Naringal scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Naring or Naringal?",
@@ -76,5 +76,15 @@
       "label": "Naringal Should I Buy?",
       "url": "/suburbs/vic/naringal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

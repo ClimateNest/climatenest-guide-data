@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 35
+      "scoreA": 51,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 50
-    },
-    {
-      "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 47
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 40,
+      "scoreA": 59,
       "scoreB": 30
     },
     {
+      "name": "Heat",
+      "scoreA": 56,
+      "scoreB": 79
+    },
+    {
+      "name": "Storm",
+      "scoreA": 36,
+      "scoreB": 21
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 42,
+      "scoreB": 39
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
+      "scoreA": 12,
       "scoreB": 25
     }
   ],
-  "verdict": "Glenridding has a lower overall climate risk score (38/100) compared to Glenreagh (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Glenridding has a lower overall climate risk score (41/100) compared to Glenreagh (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glenreagh or Glenridding safer from flooding?",
-      "answer": "Glenreagh has a flood risk score of 54/100, while Glenridding scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenreagh has a flood risk score of 51/100, while Glenridding scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenreagh scores 39/100 for bushfire risk. Glenridding scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenreagh scores 59/100 for bushfire risk. Glenridding scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenreagh or Glenridding?",
@@ -76,5 +76,15 @@
       "label": "Glenridding Should I Buy?",
       "url": "/suburbs/nsw/glenridding/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

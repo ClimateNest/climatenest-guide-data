@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 43
+      "scoreA": 35,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 58
+      "scoreA": 18,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 61
+      "scoreA": 63,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 28
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 26
     }
   ],
-  "verdict": "Wall Flat and Wallala have similar overall climate risk scores.",
+  "verdict": "Wall Flat has a lower overall climate risk score (34/100) compared to Wallala (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wall Flat or Wallala safer from flooding?",
-      "answer": "Wall Flat has a flood risk score of 45/100, while Wallala scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wall Flat has a flood risk score of 35/100, while Wallala scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wall Flat scores 47/100 for bushfire risk. Wallala scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wall Flat scores 18/100 for bushfire risk. Wallala scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wall Flat or Wallala?",
@@ -76,5 +76,15 @@
       "label": "Wallala Should I Buy?",
       "url": "/suburbs/sa/wallala/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

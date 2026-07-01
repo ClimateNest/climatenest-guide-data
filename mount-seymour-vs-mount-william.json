@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 43
+      "scoreA": 59,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 65
+      "scoreA": 66,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 27,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 14,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 27
+      "scoreA": 25,
+      "scoreB": 13
     }
   ],
-  "verdict": "Mount Seymour has a lower overall climate risk score (35/100) compared to Mount William (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount William has a lower overall climate risk score (34/100) compared to Mount Seymour (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Seymour or Mount William safer from flooding?",
-      "answer": "Mount Seymour has a flood risk score of 26/100, while Mount William scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Seymour has a flood risk score of 59/100, while Mount William scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Seymour scores 36/100 for bushfire risk. Mount William scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Seymour scores 43/100 for bushfire risk. Mount William scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Seymour or Mount William?",
-      "answer": "Both suburbs have climate considerations. Mount Seymour has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount William has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount William Should I Buy?",
       "url": "/suburbs/tas/mount-william/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

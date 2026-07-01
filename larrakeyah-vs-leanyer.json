@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 54
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 26
-    },
-    {
-      "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 39
-    },
-    {
-      "name": "Storm",
-      "scoreA": 36,
+      "scoreA": 33,
       "scoreB": 37
     },
     {
-      "name": "Coastal",
+      "name": "Bushfire",
+      "scoreA": 34,
+      "scoreB": 43
+    },
+    {
+      "name": "Heat",
+      "scoreA": 42,
+      "scoreB": 45
+    },
+    {
+      "name": "Storm",
       "scoreA": 21,
-      "scoreB": 30
+      "scoreB": 40
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 10,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
+      "scoreA": 10,
       "scoreB": 11
     }
   ],
-  "verdict": "Larrakeyah has a lower overall climate risk score (23/100) compared to Leanyer (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Larrakeyah has a lower overall climate risk score (25/100) compared to Leanyer (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Larrakeyah or Leanyer safer from flooding?",
-      "answer": "Larrakeyah has a flood risk score of 20/100, while Leanyer scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Larrakeyah has a flood risk score of 33/100, while Leanyer scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Larrakeyah scores 15/100 for bushfire risk. Leanyer scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Larrakeyah scores 34/100 for bushfire risk. Leanyer scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Larrakeyah or Leanyer?",
@@ -76,5 +76,15 @@
       "label": "Leanyer Should I Buy?",
       "url": "/suburbs/nt/leanyer/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

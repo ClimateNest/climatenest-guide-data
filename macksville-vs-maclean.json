@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 48,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 43
+      "scoreA": 35,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 47
+      "scoreA": 70,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 31
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 30
+      "scoreA": 39,
+      "scoreB": 59
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 24
+      "scoreA": 15,
+      "scoreB": 13
     }
   ],
-  "verdict": "Maclean has a lower overall climate risk score (33/100) compared to Macksville (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Maclean has a lower overall climate risk score (39/100) compared to Macksville (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Macksville or Maclean safer from flooding?",
-      "answer": "Macksville has a flood risk score of 25/100, while Maclean scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Macksville has a flood risk score of 48/100, while Maclean scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Macksville scores 53/100 for bushfire risk. Maclean scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Macksville scores 35/100 for bushfire risk. Maclean scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Macksville or Maclean?",
@@ -76,5 +76,15 @@
       "label": "Maclean Should I Buy?",
       "url": "/suburbs/nsw/maclean/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 55
+      "scoreA": 51,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 16
+      "scoreA": 23,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 66
+      "scoreA": 67,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 48,
+      "scoreA": 24,
       "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 18,
+      "scoreB": 17
     }
   ],
-  "verdict": "Sanderston has a lower overall climate risk score (36/100) compared to Sandergrove (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Sandergrove has a lower overall climate risk score (33/100) compared to Sanderston (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sandergrove or Sanderston safer from flooding?",
-      "answer": "Sandergrove has a flood risk score of 53/100, while Sanderston scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandergrove has a flood risk score of 51/100, while Sanderston scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandergrove scores 18/100 for bushfire risk. Sanderston scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandergrove scores 23/100 for bushfire risk. Sanderston scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandergrove or Sanderston?",
-      "answer": "Both suburbs have climate considerations. Sanderston has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Sandergrove has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Sanderston Should I Buy?",
       "url": "/suburbs/sa/sanderston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

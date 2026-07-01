@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 41,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 38
+      "scoreA": 37,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 40
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 45,
+      "scoreA": 47,
       "scoreB": 26
     },
     {
+      "name": "Coastal",
+      "scoreA": 46,
+      "scoreB": 25
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
+      "scoreA": 18,
       "scoreB": 6
     }
   ],
-  "verdict": "Rush Creek has a lower overall climate risk score (31/100) compared to Ryan (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Ryan has a lower overall climate risk score (34/100) compared to Rush Creek (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rush Creek or Ryan safer from flooding?",
-      "answer": "Rush Creek has a flood risk score of 38/100, while Ryan scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rush Creek has a flood risk score of 41/100, while Ryan scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rush Creek scores 21/100 for bushfire risk. Ryan scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rush Creek scores 27/100 for bushfire risk. Ryan scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rush Creek or Ryan?",
-      "answer": "Both suburbs have climate considerations. Rush Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ryan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ryan Should I Buy?",
       "url": "/suburbs/qld/ryan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

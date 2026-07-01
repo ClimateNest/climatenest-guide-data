@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 48
+      "scoreA": 25,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 69
+      "scoreA": 77,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 50
+      "scoreA": 37,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 44
+      "scoreA": 58,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 21
+      "scoreA": 14,
+      "scoreB": 25
     }
   ],
-  "verdict": "Wahroonga has a lower overall climate risk score (40/100) compared to Waitara (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Waitara has a lower overall climate risk score (38/100) compared to Wahroonga (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wahroonga or Waitara safer from flooding?",
-      "answer": "Wahroonga has a flood risk score of 50/100, while Waitara scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wahroonga has a flood risk score of 25/100, while Waitara scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wahroonga scores 47/100 for bushfire risk. Waitara scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wahroonga scores 27/100 for bushfire risk. Waitara scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wahroonga or Waitara?",
-      "answer": "Both suburbs have climate considerations. Wahroonga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Waitara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Waitara Should I Buy?",
       "url": "/suburbs/nsw/waitara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

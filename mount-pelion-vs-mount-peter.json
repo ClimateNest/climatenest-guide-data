@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 26,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 61
+      "scoreA": 51,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 37
+      "scoreA": 39,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 42
+      "scoreA": 43,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 28,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 5
+      "scoreA": 17,
+      "scoreB": 20
     }
   ],
-  "verdict": "Mount Pelion has a lower overall climate risk score (30/100) compared to Mount Peter (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Peter has a lower overall climate risk score (31/100) compared to Mount Pelion (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Pelion or Mount Peter safer from flooding?",
-      "answer": "Mount Pelion has a flood risk score of 44/100, while Mount Peter scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Pelion has a flood risk score of 26/100, while Mount Peter scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Pelion scores 30/100 for bushfire risk. Mount Peter scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Pelion scores 51/100 for bushfire risk. Mount Peter scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Pelion or Mount Peter?",
-      "answer": "Both suburbs have climate considerations. Mount Pelion has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Peter has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Peter Should I Buy?",
       "url": "/suburbs/qld/mount-peter/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

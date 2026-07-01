@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 36
+      "scoreA": 25,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 52,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 57
+      "scoreA": 78,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 46
+      "scoreA": 28,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 13
+      "scoreA": 13,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 23
     }
   ],
-  "verdict": "Osborne has a lower overall climate risk score (29/100) compared to Outer Harbor (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Osborne has a lower overall climate risk score (38/100) compared to Outer Harbor (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Osborne or Outer Harbor safer from flooding?",
-      "answer": "Osborne has a flood risk score of 51/100, while Outer Harbor scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Osborne has a flood risk score of 25/100, while Outer Harbor scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Osborne scores 22/100 for bushfire risk. Outer Harbor scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Osborne scores 52/100 for bushfire risk. Outer Harbor scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Osborne or Outer Harbor?",
@@ -76,5 +76,15 @@
       "label": "Outer Harbor Should I Buy?",
       "url": "/suburbs/sa/outer-harbor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 30
+      "scoreA": 21,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 47,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 47
+      "scoreA": 43,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 32
+      "scoreA": 35,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 17
+      "scoreA": 55,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
+      "scoreA": 11,
       "scoreB": 10
     }
   ],
-  "verdict": "Paddys Green has a lower overall climate risk score (26/100) compared to Paddington (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Paddys Green has a lower overall climate risk score (30/100) compared to Paddington (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Paddington or Paddys Green safer from flooding?",
-      "answer": "Paddington has a flood risk score of 53/100, while Paddys Green scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Paddington has a flood risk score of 21/100, while Paddys Green scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Paddington scores 16/100 for bushfire risk. Paddys Green scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Paddington scores 47/100 for bushfire risk. Paddys Green scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Paddington or Paddys Green?",
@@ -76,5 +76,15 @@
       "label": "Paddys Green Should I Buy?",
       "url": "/suburbs/qld/paddys-green/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

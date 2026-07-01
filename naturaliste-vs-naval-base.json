@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 45,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 23
+      "scoreA": 52,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 74
+      "scoreA": 54,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 34
+      "scoreA": 36,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 22,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 27
     }
   ],
-  "verdict": "Naval Base has a lower overall climate risk score (32/100) compared to Naturaliste (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Naval Base has a lower overall climate risk score (35/100) compared to Naturaliste (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Naturaliste or Naval Base safer from flooding?",
-      "answer": "Naturaliste has a flood risk score of 25/100, while Naval Base scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Naturaliste has a flood risk score of 45/100, while Naval Base scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Naturaliste scores 64/100 for bushfire risk. Naval Base scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Naturaliste scores 52/100 for bushfire risk. Naval Base scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Naturaliste or Naval Base?",
@@ -76,5 +76,15 @@
       "label": "Naval Base Should I Buy?",
       "url": "/suburbs/wa/naval-base/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

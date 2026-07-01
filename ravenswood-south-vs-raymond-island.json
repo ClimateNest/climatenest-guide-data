@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 48
+      "scoreA": 47,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 29
+      "scoreA": 52,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 62
+      "scoreA": 51,
+      "scoreB": 58
     },
     {
       "name": "Storm",
       "scoreA": 34,
-      "scoreB": 26
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 11
     }
   ],
-  "verdict": "Ravenswood South has a lower overall climate risk score (29/100) compared to Raymond Island (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ravenswood South has a lower overall climate risk score (36/100) compared to Raymond Island (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ravenswood South or Raymond Island safer from flooding?",
-      "answer": "Ravenswood South has a flood risk score of 20/100, while Raymond Island scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ravenswood South has a flood risk score of 47/100, while Raymond Island scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ravenswood South scores 32/100 for bushfire risk. Raymond Island scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ravenswood South scores 52/100 for bushfire risk. Raymond Island scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ravenswood South or Raymond Island?",
@@ -76,5 +76,15 @@
       "label": "Raymond Island Should I Buy?",
       "url": "/suburbs/vic/raymond-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

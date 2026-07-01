@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 51
+      "scoreA": 27,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 50
+      "scoreA": 20,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 44
+      "scoreA": 49,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 42
+      "scoreA": 33,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 24
+      "scoreA": 35,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 13
     }
   ],
-  "verdict": "Billa Billa has a lower overall climate risk score (38/100) compared to Bilinga (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Billa Billa has a lower overall climate risk score (31/100) compared to Bilinga (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bilinga or Billa Billa safer from flooding?",
-      "answer": "Bilinga has a flood risk score of 55/100, while Billa Billa scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bilinga has a flood risk score of 27/100, while Billa Billa scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bilinga scores 33/100 for bushfire risk. Billa Billa scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bilinga scores 20/100 for bushfire risk. Billa Billa scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bilinga or Billa Billa?",
@@ -76,5 +76,15 @@
       "label": "Billa Billa Should I Buy?",
       "url": "/suburbs/qld/billa-billa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

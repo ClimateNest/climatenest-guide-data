@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 65
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 59
+      "scoreA": 66,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 47
+      "scoreA": 31,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 26,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 21
+      "scoreA": 12,
+      "scoreB": 11
     }
   ],
-  "verdict": "Southend has a lower overall climate risk score (35/100) compared to Spalding (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Spalding has a lower overall climate risk score (33/100) compared to Southend (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Southend or Spalding safer from flooding?",
-      "answer": "Southend has a flood risk score of 21/100, while Spalding scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Southend has a flood risk score of 33/100, while Spalding scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Southend scores 31/100 for bushfire risk. Spalding scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Southend scores 40/100 for bushfire risk. Spalding scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Southend or Spalding?",
-      "answer": "Both suburbs have climate considerations. Southend has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Spalding has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Spalding Should I Buy?",
       "url": "/suburbs/sa/spalding/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

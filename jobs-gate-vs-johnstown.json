@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 39
+      "scoreA": 49,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 61
+      "scoreA": 25,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 34
-    },
-    {
-      "name": "Storm",
-      "scoreA": 43,
+      "scoreA": 33,
       "scoreB": 49
     },
     {
+      "name": "Storm",
+      "scoreA": 46,
+      "scoreB": 48
+    },
+    {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 59
+      "scoreA": 17,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 18
     }
   ],
-  "verdict": "Jobs Gate has a lower overall climate risk score (35/100) compared to Johnstown (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jobs Gate has a lower overall climate risk score (33/100) compared to Johnstown (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jobs Gate or Johnstown safer from flooding?",
-      "answer": "Jobs Gate has a flood risk score of 34/100, while Johnstown scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jobs Gate has a flood risk score of 49/100, while Johnstown scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jobs Gate scores 43/100 for bushfire risk. Johnstown scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jobs Gate scores 25/100 for bushfire risk. Johnstown scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jobs Gate or Johnstown?",
@@ -76,5 +76,15 @@
       "label": "Johnstown Should I Buy?",
       "url": "/suburbs/qld/johnstown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

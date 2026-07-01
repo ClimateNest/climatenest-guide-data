@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 30
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 43
-    },
-    {
-      "name": "Heat",
-      "scoreA": 60,
+      "scoreA": 41,
       "scoreB": 56
     },
     {
+      "name": "Bushfire",
+      "scoreA": 49,
+      "scoreB": 31
+    },
+    {
+      "name": "Heat",
+      "scoreA": 79,
+      "scoreB": 54
+    },
+    {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 40
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 49
+      "scoreA": 42,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 16
     }
   ],
   "verdict": "Avon has a lower overall climate risk score (38/100) compared to Avoca Beach (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Avoca Beach or Avon safer from flooding?",
-      "answer": "Avoca Beach has a flood risk score of 47/100, while Avon scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Avoca Beach has a flood risk score of 41/100, while Avon scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Avoca Beach scores 51/100 for bushfire risk. Avon scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Avoca Beach scores 49/100 for bushfire risk. Avon scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Avoca Beach or Avon?",
@@ -76,5 +76,15 @@
       "label": "Avon Should I Buy?",
       "url": "/suburbs/nsw/avon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

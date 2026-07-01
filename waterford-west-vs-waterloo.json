@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 45
+      "scoreA": 29,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 34
+      "scoreA": 45,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 39,
+      "scoreA": 38,
       "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 47
+      "scoreA": 55,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 19
     }
   ],
-  "verdict": "Waterloo has a lower overall climate risk score (31/100) compared to Waterford West (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Waterford West has a lower overall climate risk score (35/100) compared to Waterloo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Waterford West or Waterloo safer from flooding?",
-      "answer": "Waterford West has a flood risk score of 55/100, while Waterloo scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waterford West has a flood risk score of 29/100, while Waterloo scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waterford West scores 23/100 for bushfire risk. Waterloo scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waterford West scores 26/100 for bushfire risk. Waterloo scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waterford West or Waterloo?",
-      "answer": "Both suburbs have climate considerations. Waterloo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Waterford West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Waterloo Should I Buy?",
       "url": "/suburbs/qld/waterloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

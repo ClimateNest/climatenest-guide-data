@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 54
+      "scoreA": 40,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
       "scoreA": 46,
-      "scoreB": 18
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 70
+      "scoreA": 79,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 35,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
+      "scoreA": 16,
       "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 11,
+      "scoreB": 21
     }
   ],
   "verdict": "Kensington has a lower overall climate risk score (32/100) compared to Kennington (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Kennington or Kensington safer from flooding?",
-      "answer": "Kennington has a flood risk score of 50/100, while Kensington scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kennington has a flood risk score of 40/100, while Kensington scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kennington scores 46/100 for bushfire risk. Kensington scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kennington scores 46/100 for bushfire risk. Kensington scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kennington or Kensington?",
@@ -76,5 +76,15 @@
       "label": "Kensington Should I Buy?",
       "url": "/suburbs/vic/kensington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

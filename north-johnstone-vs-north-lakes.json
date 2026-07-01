@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 20,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 63
+      "scoreA": 33,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 31
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 45
+      "scoreA": 20,
+      "scoreB": 44
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 18
+      "scoreA": 7,
+      "scoreB": 26
     }
   ],
-  "verdict": "North Johnstone has a lower overall climate risk score (27/100) compared to North Lakes (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "North Johnstone has a lower overall climate risk score (28/100) compared to North Lakes (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is North Johnstone or North Lakes safer from flooding?",
-      "answer": "North Johnstone has a flood risk score of 21/100, while North Lakes scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "North Johnstone has a flood risk score of 20/100, while North Lakes scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "North Johnstone scores 44/100 for bushfire risk. North Lakes scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "North Johnstone scores 33/100 for bushfire risk. North Lakes scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in North Johnstone or North Lakes?",
@@ -76,5 +76,15 @@
       "label": "North Lakes Should I Buy?",
       "url": "/suburbs/qld/north-lakes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

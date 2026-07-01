@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 27
+      "scoreA": 57,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 19
+      "scoreA": 55,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 74
+      "scoreA": 67,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 48
+      "scoreA": 27,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 33
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 28
+      "scoreA": 28,
+      "scoreB": 22
     }
   ],
-  "verdict": "Kingstown has a lower overall climate risk score (38/100) compared to Kingsgrove (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kingstown has a lower overall climate risk score (39/100) compared to Kingsgrove (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kingsgrove or Kingstown safer from flooding?",
-      "answer": "Kingsgrove has a flood risk score of 52/100, while Kingstown scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kingsgrove has a flood risk score of 57/100, while Kingstown scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kingsgrove scores 61/100 for bushfire risk. Kingstown scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kingsgrove scores 55/100 for bushfire risk. Kingstown scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kingsgrove or Kingstown?",
@@ -76,5 +76,15 @@
       "label": "Kingstown Should I Buy?",
       "url": "/suburbs/nsw/kingstown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4396,
+    "projected2030": 6154,
+    "projected2050": 11430
+  },
+  "valueImpact": {
+    "dragPercent": 2.55,
+    "description": "Properties in this area may face a 2.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

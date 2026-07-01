@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 41,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 34
+      "scoreA": 35,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 72
+      "scoreA": 55,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 22,
+      "scoreB": 15
     }
   ],
-  "verdict": "Burdett has a lower overall climate risk score (36/100) compared to Burnsfield (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Burdett has a lower overall climate risk score (33/100) compared to Burnsfield (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burdett or Burnsfield safer from flooding?",
-      "answer": "Burdett has a flood risk score of 37/100, while Burnsfield scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burdett has a flood risk score of 41/100, while Burnsfield scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burdett scores 22/100 for bushfire risk. Burnsfield scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burdett scores 35/100 for bushfire risk. Burnsfield scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burdett or Burnsfield?",
@@ -76,5 +76,15 @@
       "label": "Burnsfield Should I Buy?",
       "url": "/suburbs/sa/burnsfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

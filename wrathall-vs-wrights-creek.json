@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 64
+      "scoreA": 49,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 57
+      "scoreA": 78,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 47
+      "scoreA": 20,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
+      "scoreA": 28,
       "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 22
     }
   ],
-  "verdict": "Wrights Creek has a lower overall climate risk score (42/100) compared to Wrathall (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wrights Creek has a lower overall climate risk score (35/100) compared to Wrathall (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wrathall or Wrights Creek safer from flooding?",
-      "answer": "Wrathall has a flood risk score of 56/100, while Wrights Creek scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wrathall has a flood risk score of 48/100, while Wrights Creek scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wrathall scores 54/100 for bushfire risk. Wrights Creek scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wrathall scores 49/100 for bushfire risk. Wrights Creek scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wrathall or Wrights Creek?",
@@ -76,5 +76,15 @@
       "label": "Wrights Creek Should I Buy?",
       "url": "/suburbs/nsw/wrights-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

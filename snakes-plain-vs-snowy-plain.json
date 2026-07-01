@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
+      "scoreA": 41,
       "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 20,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 76
+      "scoreA": 64,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 47
+      "scoreA": 50,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 10
+      "scoreA": 29,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 29
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Snakes Plain has a lower overall climate risk score (36/100) compared to Snowy Plain (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Snakes Plain has a lower overall climate risk score (38/100) compared to Snowy Plain (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Snakes Plain or Snowy Plain safer from flooding?",
-      "answer": "Snakes Plain has a flood risk score of 54/100, while Snowy Plain scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Snakes Plain has a flood risk score of 41/100, while Snowy Plain scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Snakes Plain scores 36/100 for bushfire risk. Snowy Plain scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Snakes Plain scores 20/100 for bushfire risk. Snowy Plain scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Snakes Plain or Snowy Plain?",
@@ -76,5 +76,15 @@
       "label": "Snowy Plain Should I Buy?",
       "url": "/suburbs/nsw/snowy-plain/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 21,
-      "scoreB": 38
+      "scoreA": 54,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 27
-    },
-    {
-      "name": "Heat",
-      "scoreA": 39,
+      "scoreA": 16,
       "scoreB": 36
     },
     {
+      "name": "Heat",
+      "scoreA": 50,
+      "scoreB": 35
+    },
+    {
       "name": "Storm",
-      "scoreA": 29,
+      "scoreA": 22,
       "scoreB": 40
     },
     {
       "name": "Coastal",
       "scoreA": 39,
-      "scoreB": 19
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 7
+      "scoreA": 11,
+      "scoreB": 20
     }
   ],
-  "verdict": "Wilson Beach has a lower overall climate risk score (28/100) compared to Willowvale (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Willowvale has a lower overall climate risk score (32/100) compared to Wilson Beach (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Willowvale or Wilson Beach safer from flooding?",
-      "answer": "Willowvale has a flood risk score of 21/100, while Wilson Beach scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Willowvale has a flood risk score of 54/100, while Wilson Beach scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Willowvale scores 49/100 for bushfire risk. Wilson Beach scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Willowvale scores 16/100 for bushfire risk. Wilson Beach scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Willowvale or Wilson Beach?",
-      "answer": "Both suburbs have climate considerations. Wilson Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Willowvale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wilson Beach Should I Buy?",
       "url": "/suburbs/qld/wilson-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

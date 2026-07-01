@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 54
+      "scoreA": 55,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 33
+      "scoreA": 20,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 57
+      "scoreA": 79,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 30
+      "scoreA": 25,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 17
+      "scoreA": 13,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 24
     }
   ],
-  "verdict": "Sodwalls has a lower overall climate risk score (36/100) compared to Snowy Plain (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sodwalls has a lower overall climate risk score (34/100) compared to Snowy Plain (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Snowy Plain or Sodwalls safer from flooding?",
-      "answer": "Snowy Plain has a flood risk score of 25/100, while Sodwalls scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Snowy Plain has a flood risk score of 55/100, while Sodwalls scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Snowy Plain scores 58/100 for bushfire risk. Sodwalls scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Snowy Plain scores 20/100 for bushfire risk. Sodwalls scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Snowy Plain or Sodwalls?",
@@ -76,5 +76,15 @@
       "label": "Sodwalls Should I Buy?",
       "url": "/suburbs/nsw/sodwalls/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

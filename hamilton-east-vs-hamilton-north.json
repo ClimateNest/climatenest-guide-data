@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
+      "scoreA": 43,
       "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 59
+      "scoreA": 74,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 39
+      "scoreA": 27,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
       "scoreA": 31,
-      "scoreB": 59
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 13
     }
   ],
-  "verdict": "Hamilton East has a lower overall climate risk score (30/100) compared to Hamilton North (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hamilton East has a lower overall climate risk score (38/100) compared to Hamilton North (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hamilton East or Hamilton North safer from flooding?",
-      "answer": "Hamilton East has a flood risk score of 20/100, while Hamilton North scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hamilton East has a flood risk score of 43/100, while Hamilton North scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hamilton East scores 39/100 for bushfire risk. Hamilton North scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hamilton East scores 40/100 for bushfire risk. Hamilton North scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hamilton East or Hamilton North?",
@@ -76,5 +76,15 @@
       "label": "Hamilton North Should I Buy?",
       "url": "/suburbs/nsw/hamilton-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 46
+      "scoreA": 56,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 22
+      "scoreA": 60,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 70
+      "scoreA": 66,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 32
+      "scoreA": 37,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 25,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 19
     }
   ],
-  "verdict": "Surrey Hills has a lower overall climate risk score (36/100) compared to Surf Beach (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Surrey Hills has a lower overall climate risk score (35/100) compared to Surf Beach (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Surf Beach or Surrey Hills safer from flooding?",
-      "answer": "Surf Beach has a flood risk score of 51/100, while Surrey Hills scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Surf Beach has a flood risk score of 56/100, while Surrey Hills scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Surf Beach scores 61/100 for bushfire risk. Surrey Hills scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Surf Beach scores 60/100 for bushfire risk. Surrey Hills scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Surf Beach or Surrey Hills?",
@@ -76,5 +76,15 @@
       "label": "Surrey Hills Should I Buy?",
       "url": "/suburbs/vic/surrey-hills/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

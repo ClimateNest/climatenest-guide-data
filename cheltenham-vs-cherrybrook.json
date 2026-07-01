@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 49
+      "scoreA": 42,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 22
+      "scoreA": 57,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 67
+      "scoreA": 54,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 46
+      "scoreA": 25,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 54
+      "scoreA": 42,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 22
     }
   ],
-  "verdict": "Cheltenham has a lower overall climate risk score (43/100) compared to Cherrybrook (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Cheltenham has a lower overall climate risk score (40/100) compared to Cherrybrook (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cheltenham or Cherrybrook safer from flooding?",
-      "answer": "Cheltenham has a flood risk score of 36/100, while Cherrybrook scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cheltenham has a flood risk score of 42/100, while Cherrybrook scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cheltenham scores 19/100 for bushfire risk. Cherrybrook scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cheltenham scores 57/100 for bushfire risk. Cherrybrook scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cheltenham or Cherrybrook?",
@@ -76,5 +76,15 @@
       "label": "Cherrybrook Should I Buy?",
       "url": "/suburbs/nsw/cherrybrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4385,
+    "projected2030": 6139,
+    "projected2050": 11400
+  },
+  "valueImpact": {
+    "dragPercent": 2.53,
+    "description": "Properties in this area may face a 2.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

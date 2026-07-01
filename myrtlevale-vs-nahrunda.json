@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 57
+      "scoreA": 50,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 37
+      "scoreA": 40,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 36
+      "scoreA": 46,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 37
+      "scoreA": 49,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 36
+      "scoreA": 20,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
       "scoreA": 6,
-      "scoreB": 12
+      "scoreB": 20
     }
   ],
-  "verdict": "Myrtlevale has a lower overall climate risk score (33/100) compared to Nahrunda (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Myrtlevale has a lower overall climate risk score (35/100) compared to Nahrunda (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Myrtlevale or Nahrunda safer from flooding?",
-      "answer": "Myrtlevale has a flood risk score of 45/100, while Nahrunda scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Myrtlevale has a flood risk score of 50/100, while Nahrunda scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Myrtlevale scores 62/100 for bushfire risk. Nahrunda scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Myrtlevale scores 40/100 for bushfire risk. Nahrunda scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Myrtlevale or Nahrunda?",
@@ -76,5 +76,15 @@
       "label": "Nahrunda Should I Buy?",
       "url": "/suburbs/qld/nahrunda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

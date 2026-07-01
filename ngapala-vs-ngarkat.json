@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 27
+      "scoreA": 51,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 57
+      "scoreA": 57,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 22
+      "scoreA": 44,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 10,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 24
+      "scoreA": 22,
+      "scoreB": 28
     }
   ],
-  "verdict": "Ngapala has a lower overall climate risk score (33/100) compared to Ngarkat (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ngapala has a lower overall climate risk score (36/100) compared to Ngarkat (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ngapala or Ngarkat safer from flooding?",
-      "answer": "Ngapala has a flood risk score of 57/100, while Ngarkat scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ngapala has a flood risk score of 51/100, while Ngarkat scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ngapala scores 21/100 for bushfire risk. Ngarkat scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ngapala scores 32/100 for bushfire risk. Ngarkat scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ngapala or Ngarkat?",
@@ -76,5 +76,15 @@
       "label": "Ngarkat Should I Buy?",
       "url": "/suburbs/sa/ngarkat/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

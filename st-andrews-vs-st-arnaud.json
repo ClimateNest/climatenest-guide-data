@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 44
+      "scoreA": 41,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 30
+      "scoreA": 59,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 63
+      "scoreA": 56,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 35
+      "scoreA": 37,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 11
+      "scoreA": 27,
+      "scoreB": 13
     }
   ],
-  "verdict": "St Arnaud has a lower overall climate risk score (32/100) compared to St Andrews (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "St Arnaud has a lower overall climate risk score (31/100) compared to St Andrews (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is St Andrews or St Arnaud safer from flooding?",
-      "answer": "St Andrews has a flood risk score of 52/100, while St Arnaud scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Andrews has a flood risk score of 41/100, while St Arnaud scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Andrews scores 18/100 for bushfire risk. St Arnaud scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Andrews scores 59/100 for bushfire risk. St Arnaud scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Andrews or St Arnaud?",
@@ -76,5 +76,15 @@
       "label": "St Arnaud Should I Buy?",
       "url": "/suburbs/vic/st-arnaud/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

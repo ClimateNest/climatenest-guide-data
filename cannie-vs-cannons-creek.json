@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 24
+      "scoreA": 48,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 55
+      "scoreA": 16,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 56
+      "scoreA": 59,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 20
+      "scoreA": 22,
+      "scoreB": 13
     }
   ],
-  "verdict": "Cannons Creek has a lower overall climate risk score (33/100) compared to Cannie (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cannons Creek has a lower overall climate risk score (27/100) compared to Cannie (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Cannie or Cannons Creek safer from flooding?",
-      "answer": "Cannie has a flood risk score of 53/100, while Cannons Creek scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cannie has a flood risk score of 48/100, while Cannons Creek scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cannie scores 62/100 for bushfire risk. Cannons Creek scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cannie scores 16/100 for bushfire risk. Cannons Creek scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cannie or Cannons Creek?",
@@ -76,5 +76,15 @@
       "label": "Cannons Creek Should I Buy?",
       "url": "/suburbs/vic/cannons-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3342,
+    "projected2030": 4679,
+    "projected2050": 8689
+  },
+  "valueImpact": {
+    "dragPercent": 0.22,
+    "description": "Properties in this area may face a 0.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

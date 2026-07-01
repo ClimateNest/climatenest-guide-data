@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 60
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 58,
+      "scoreA": 24,
       "scoreB": 40
     },
     {
+      "name": "Bushfire",
+      "scoreA": 28,
+      "scoreB": 59
+    },
+    {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 54
+      "scoreA": 71,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 43
+      "scoreA": 42,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 57
+      "scoreA": 49,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 23,
+      "scoreB": 11
     }
   ],
-  "verdict": "Doyalson has a lower overall climate risk score (44/100) compared to Doyalson North (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Doyalson has a lower overall climate risk score (40/100) compared to Doyalson North (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Doyalson or Doyalson North safer from flooding?",
-      "answer": "Doyalson has a flood risk score of 31/100, while Doyalson North scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Doyalson has a flood risk score of 24/100, while Doyalson North scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Doyalson scores 58/100 for bushfire risk. Doyalson North scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Doyalson scores 28/100 for bushfire risk. Doyalson North scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Doyalson or Doyalson North?",
@@ -76,5 +76,15 @@
       "label": "Doyalson North Should I Buy?",
       "url": "/suburbs/nsw/doyalson-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

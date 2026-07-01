@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 40
+      "scoreA": 51,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 55
+      "scoreA": 51,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 62
+      "scoreA": 66,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 27
+      "scoreA": 32,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 27
+      "scoreA": 24,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 27
     }
   ],
-  "verdict": "Whittington has a lower overall climate risk score (39/100) compared to Whitfield (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Whittington has a lower overall climate risk score (35/100) compared to Whitfield (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Whitfield or Whittington safer from flooding?",
-      "answer": "Whitfield has a flood risk score of 56/100, while Whittington scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whitfield has a flood risk score of 51/100, while Whittington scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whitfield scores 21/100 for bushfire risk. Whittington scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whitfield scores 51/100 for bushfire risk. Whittington scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whitfield or Whittington?",
@@ -76,5 +76,15 @@
       "label": "Whittington Should I Buy?",
       "url": "/suburbs/vic/whittington/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

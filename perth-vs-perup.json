@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 56
+      "scoreA": 43,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 39
+      "scoreA": 54,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 61
+      "scoreA": 54,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 36
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 15,
+      "scoreA": 34,
       "scoreB": 28
     },
     {
+      "name": "Coastal",
+      "scoreA": 27,
+      "scoreB": 19
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 29
+      "scoreA": 20,
+      "scoreB": 11
     }
   ],
-  "verdict": "Perth has a lower overall climate risk score (37/100) compared to Perup (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Perup has a lower overall climate risk score (31/100) compared to Perth (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Perth or Perup safer from flooding?",
-      "answer": "Perth has a flood risk score of 45/100, while Perup scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Perth has a flood risk score of 43/100, while Perup scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Perth scores 23/100 for bushfire risk. Perup scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Perth scores 54/100 for bushfire risk. Perup scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Perth or Perup?",
-      "answer": "Both suburbs have climate considerations. Perth has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Perup has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Perup Should I Buy?",
       "url": "/suburbs/wa/perup/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

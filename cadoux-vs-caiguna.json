@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 20
+      "scoreA": 29,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 39
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 53
-    },
-    {
-      "name": "Storm",
-      "scoreA": 29,
+      "scoreA": 28,
       "scoreB": 38
     },
     {
+      "name": "Heat",
+      "scoreA": 60,
+      "scoreB": 67
+    },
+    {
+      "name": "Storm",
+      "scoreA": 50,
+      "scoreB": 42
+    },
+    {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 11
+      "scoreA": 25,
+      "scoreB": 10
     }
   ],
-  "verdict": "Caiguna has a lower overall climate risk score (31/100) compared to Cadoux (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Cadoux has a lower overall climate risk score (36/100) compared to Caiguna (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cadoux or Caiguna safer from flooding?",
-      "answer": "Cadoux has a flood risk score of 27/100, while Caiguna scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cadoux has a flood risk score of 29/100, while Caiguna scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cadoux scores 58/100 for bushfire risk. Caiguna scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cadoux scores 28/100 for bushfire risk. Caiguna scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cadoux or Caiguna?",
-      "answer": "Both suburbs have climate considerations. Caiguna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Cadoux has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Caiguna Should I Buy?",
       "url": "/suburbs/wa/caiguna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

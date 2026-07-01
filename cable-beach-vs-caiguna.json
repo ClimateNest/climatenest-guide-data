@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 56
+      "scoreA": 48,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 61
+      "scoreA": 30,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 73
+      "scoreA": 35,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 12
     }
   ],
-  "verdict": "Cable Beach has a lower overall climate risk score (30/100) compared to Caiguna (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cable Beach has a lower overall climate risk score (30/100) compared to Caiguna (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cable Beach or Caiguna safer from flooding?",
-      "answer": "Cable Beach has a flood risk score of 57/100, while Caiguna scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cable Beach has a flood risk score of 48/100, while Caiguna scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cable Beach scores 16/100 for bushfire risk. Caiguna scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cable Beach scores 30/100 for bushfire risk. Caiguna scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cable Beach or Caiguna?",
@@ -76,5 +76,15 @@
       "label": "Caiguna Should I Buy?",
       "url": "/suburbs/wa/caiguna/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

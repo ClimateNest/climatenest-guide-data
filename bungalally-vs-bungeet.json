@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 55
+      "scoreA": 44,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 25
+      "scoreA": 60,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 73
+      "scoreA": 71,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 42
+      "scoreA": 32,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 29
+      "scoreA": 15,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 13
+      "scoreA": 11,
+      "scoreB": 30
     }
   ],
-  "verdict": "Bungalally has a lower overall climate risk score (31/100) compared to Bungeet (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bungalally has a lower overall climate risk score (39/100) compared to Bungeet (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bungalally or Bungeet safer from flooding?",
-      "answer": "Bungalally has a flood risk score of 46/100, while Bungeet scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bungalally has a flood risk score of 44/100, while Bungeet scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bungalally scores 24/100 for bushfire risk. Bungeet scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bungalally scores 60/100 for bushfire risk. Bungeet scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bungalally or Bungeet?",
@@ -76,5 +76,15 @@
       "label": "Bungeet Should I Buy?",
       "url": "/suburbs/vic/bungeet/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

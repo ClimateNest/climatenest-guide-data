@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 34
+      "scoreA": 51,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 64
+      "scoreA": 18,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 70
+      "scoreA": 36,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 41,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 29
+      "scoreA": 40,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 20
     }
   ],
-  "verdict": "Jennings has a lower overall climate risk score (38/100) compared to Jenolan (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jennings has a lower overall climate risk score (34/100) compared to Jenolan (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jennings or Jenolan safer from flooding?",
-      "answer": "Jennings has a flood risk score of 29/100, while Jenolan scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jennings has a flood risk score of 51/100, while Jenolan scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jennings scores 42/100 for bushfire risk. Jenolan scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jennings scores 18/100 for bushfire risk. Jenolan scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jennings or Jenolan?",
@@ -76,5 +76,15 @@
       "label": "Jenolan Should I Buy?",
       "url": "/suburbs/nsw/jenolan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

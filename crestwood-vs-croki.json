@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 21
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 37
+      "scoreA": 48,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 63
+      "scoreA": 77,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 24
+      "scoreA": 43,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 54
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 19
+      "scoreA": 12,
+      "scoreB": 22
     }
   ],
-  "verdict": "Croki has a lower overall climate risk score (36/100) compared to Crestwood (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Croki has a lower overall climate risk score (34/100) compared to Crestwood (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Crestwood or Croki safer from flooding?",
-      "answer": "Crestwood has a flood risk score of 58/100, while Croki scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Crestwood has a flood risk score of 32/100, while Croki scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Crestwood scores 59/100 for bushfire risk. Croki scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Crestwood scores 48/100 for bushfire risk. Croki scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Crestwood or Croki?",
@@ -76,5 +76,15 @@
       "label": "Croki Should I Buy?",
       "url": "/suburbs/nsw/croki/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3943,
+    "projected2030": 5520,
+    "projected2050": 10251
+  },
+  "valueImpact": {
+    "dragPercent": 1.55,
+    "description": "Properties in this area may face a 1.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

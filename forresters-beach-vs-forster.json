@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 31
+      "scoreA": 20,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 49
+      "scoreA": 55,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 60
+      "scoreA": 69,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 38
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 46,
+      "scoreA": 25,
       "scoreB": 40
     },
     {
+      "name": "Coastal",
+      "scoreA": 55,
+      "scoreB": 53
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 10
+      "scoreA": 28,
+      "scoreB": 25
     }
   ],
-  "verdict": "Forster has a lower overall climate risk score (38/100) compared to Forresters Beach (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Forster has a lower overall climate risk score (41/100) compared to Forresters Beach (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Forresters Beach or Forster safer from flooding?",
-      "answer": "Forresters Beach has a flood risk score of 37/100, while Forster scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Forresters Beach has a flood risk score of 20/100, while Forster scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Forresters Beach scores 51/100 for bushfire risk. Forster scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Forresters Beach scores 55/100 for bushfire risk. Forster scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Forresters Beach or Forster?",
@@ -76,5 +76,15 @@
       "label": "Forster Should I Buy?",
       "url": "/suburbs/nsw/forster/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4056,
+    "projected2030": 5678,
+    "projected2050": 10546
+  },
+  "valueImpact": {
+    "dragPercent": 1.8,
+    "description": "Properties in this area may face a 1.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

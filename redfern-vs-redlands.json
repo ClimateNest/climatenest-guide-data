@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 32
+      "scoreA": 47,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 15
+      "scoreA": 26,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 56
+      "scoreA": 72,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 29,
+      "scoreA": 43,
       "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 12
+      "scoreA": 31,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 25,
+      "scoreB": 18
     }
   ],
-  "verdict": "Redlands has a lower overall climate risk score (26/100) compared to Redfern (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Redlands has a lower overall climate risk score (39/100) compared to Redfern (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Redfern or Redlands safer from flooding?",
-      "answer": "Redfern has a flood risk score of 57/100, while Redlands scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Redfern has a flood risk score of 47/100, while Redlands scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Redfern scores 25/100 for bushfire risk. Redlands scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Redfern scores 26/100 for bushfire risk. Redlands scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Redfern or Redlands?",
@@ -76,5 +76,15 @@
       "label": "Redlands Should I Buy?",
       "url": "/suburbs/nsw/redlands/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

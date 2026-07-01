@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 35
+      "scoreA": 22,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 31
+      "scoreA": 57,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 79
+      "scoreA": 67,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 32
+      "scoreA": 29,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 30,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
+      "scoreA": 20,
       "scoreB": 25
     }
   ],
-  "verdict": "Long Plains has a lower overall climate risk score (36/100) compared to Lockleys (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lockleys has a lower overall climate risk score (38/100) compared to Long Plains (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lockleys or Long Plains safer from flooding?",
-      "answer": "Lockleys has a flood risk score of 51/100, while Long Plains scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lockleys has a flood risk score of 22/100, while Long Plains scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lockleys scores 42/100 for bushfire risk. Long Plains scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lockleys scores 57/100 for bushfire risk. Long Plains scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lockleys or Long Plains?",
-      "answer": "Both suburbs have climate considerations. Long Plains has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lockleys has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Long Plains Should I Buy?",
       "url": "/suburbs/sa/long-plains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

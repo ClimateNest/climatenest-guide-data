@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 45,
-      "scoreB": 54
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 35
+      "scoreA": 51,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 48
+      "scoreA": 39,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 21
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 12,
+      "scoreA": 50,
       "scoreB": 40
     },
     {
-      "name": "Cyclone",
+      "name": "Coastal",
       "scoreA": 10,
-      "scoreB": 19
+      "scoreB": 42
+    },
+    {
+      "name": "Cyclone",
+      "scoreA": 16,
+      "scoreB": 10
     }
   ],
-  "verdict": "Peacock Siding has a lower overall climate risk score (34/100) compared to Peak Crossing (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Peak Crossing has a lower overall climate risk score (34/100) compared to Peacock Siding (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Peacock Siding or Peak Crossing safer from flooding?",
-      "answer": "Peacock Siding has a flood risk score of 45/100, while Peak Crossing scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Peacock Siding has a flood risk score of 45/100, while Peak Crossing scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Peacock Siding scores 59/100 for bushfire risk. Peak Crossing scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Peacock Siding scores 51/100 for bushfire risk. Peak Crossing scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Peacock Siding or Peak Crossing?",
-      "answer": "Both suburbs have climate considerations. Peacock Siding has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Peak Crossing has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Peak Crossing Should I Buy?",
       "url": "/suburbs/qld/peak-crossing/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

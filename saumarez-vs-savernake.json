@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 58
+      "scoreA": 20,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 43
+      "scoreA": 56,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 65
+      "scoreA": 67,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 24
+      "scoreA": 45,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
       "scoreA": 49,
-      "scoreB": 28
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
+      "scoreA": 23,
       "scoreB": 23
     }
   ],
-  "verdict": "Savernake has a lower overall climate risk score (40/100) compared to Saumarez (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Savernake has a lower overall climate risk score (36/100) compared to Saumarez (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Saumarez or Savernake safer from flooding?",
-      "answer": "Saumarez has a flood risk score of 43/100, while Savernake scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Saumarez has a flood risk score of 20/100, while Savernake scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Saumarez scores 25/100 for bushfire risk. Savernake scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Saumarez scores 56/100 for bushfire risk. Savernake scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Saumarez or Savernake?",
@@ -76,5 +76,15 @@
       "label": "Savernake Should I Buy?",
       "url": "/suburbs/nsw/savernake/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 36,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 58
+      "scoreA": 21,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 62
+      "scoreA": 77,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 32
+      "scoreA": 20,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 13
+      "scoreA": 17,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 20
     }
   ],
-  "verdict": "Theodore has a lower overall climate risk score (40/100) compared to Symonston (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Symonston has a lower overall climate risk score (32/100) compared to Theodore (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Symonston or Theodore safer from flooding?",
-      "answer": "Symonston has a flood risk score of 49/100, while Theodore scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Symonston has a flood risk score of 36/100, while Theodore scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Symonston scores 59/100 for bushfire risk. Theodore scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Symonston scores 21/100 for bushfire risk. Theodore scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Symonston or Theodore?",
-      "answer": "Both suburbs have climate considerations. Theodore has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Symonston has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Theodore Should I Buy?",
       "url": "/suburbs/act/theodore/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

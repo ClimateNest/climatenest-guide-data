@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
+      "scoreA": 29,
       "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 54
+      "scoreA": 41,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 47
+      "scoreA": 40,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 21
+      "scoreA": 40,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 13
     }
   ],
-  "verdict": "Bony Mountain has a lower overall climate risk score (29/100) compared to Boogan (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Boogan has a lower overall climate risk score (30/100) compared to Bony Mountain (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bony Mountain or Boogan safer from flooding?",
-      "answer": "Bony Mountain has a flood risk score of 31/100, while Boogan scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bony Mountain has a flood risk score of 29/100, while Boogan scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bony Mountain scores 34/100 for bushfire risk. Boogan scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bony Mountain scores 41/100 for bushfire risk. Boogan scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bony Mountain or Boogan?",
-      "answer": "Both suburbs have climate considerations. Bony Mountain has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boogan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boogan Should I Buy?",
       "url": "/suburbs/qld/boogan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

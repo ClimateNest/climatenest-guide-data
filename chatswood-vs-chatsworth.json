@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 36
+      "scoreA": 58,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 56
+      "scoreA": 37,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 78,
-      "scoreB": 32
+      "scoreA": 75,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 56,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 15
     }
   ],
-  "verdict": "Chatsworth has a lower overall climate risk score (35/100) compared to Chatswood (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Chatsworth has a lower overall climate risk score (33/100) compared to Chatswood (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Chatswood or Chatsworth safer from flooding?",
-      "answer": "Chatswood has a flood risk score of 27/100, while Chatsworth scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Chatswood has a flood risk score of 58/100, while Chatsworth scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Chatswood scores 28/100 for bushfire risk. Chatsworth scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Chatswood scores 37/100 for bushfire risk. Chatsworth scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Chatswood or Chatsworth?",
@@ -76,5 +76,15 @@
       "label": "Chatsworth Should I Buy?",
       "url": "/suburbs/nsw/chatsworth/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4351,
+    "projected2030": 6091,
+    "projected2050": 11312
+  },
+  "valueImpact": {
+    "dragPercent": 2.45,
+    "description": "Properties in this area may face a 2.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

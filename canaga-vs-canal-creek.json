@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
+      "scoreA": 32,
       "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 57
+      "scoreA": 30,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 43,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 35
+      "scoreA": 37,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 18
+      "scoreA": 55,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 8
     }
   ],
-  "verdict": "Canal Creek has a lower overall climate risk score (33/100) compared to Canaga (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Canal Creek has a lower overall climate risk score (36/100) compared to Canaga (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Canaga or Canal Creek safer from flooding?",
-      "answer": "Canaga has a flood risk score of 35/100, while Canal Creek scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Canaga has a flood risk score of 32/100, while Canal Creek scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Canaga scores 61/100 for bushfire risk. Canal Creek scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Canaga scores 30/100 for bushfire risk. Canal Creek scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Canaga or Canal Creek?",
@@ -76,5 +76,15 @@
       "label": "Canal Creek Should I Buy?",
       "url": "/suburbs/qld/canal-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

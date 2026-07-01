@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 49
+      "scoreA": 23,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 39,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 32
+      "scoreA": 44,
+      "scoreB": 36
     },
     {
       "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 39,
       "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 47
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 15
+      "scoreA": 17,
+      "scoreB": 22
     }
   ],
-  "verdict": "Kelsey Creek has a lower overall climate risk score (27/100) compared to Kelvin Grove (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kelsey Creek has a lower overall climate risk score (32/100) compared to Kelvin Grove (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kelsey Creek or Kelvin Grove safer from flooding?",
-      "answer": "Kelsey Creek has a flood risk score of 30/100, while Kelvin Grove scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kelsey Creek has a flood risk score of 23/100, while Kelvin Grove scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kelsey Creek scores 32/100 for bushfire risk. Kelvin Grove scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kelsey Creek scores 39/100 for bushfire risk. Kelvin Grove scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kelsey Creek or Kelvin Grove?",
@@ -76,5 +76,15 @@
       "label": "Kelvin Grove Should I Buy?",
       "url": "/suburbs/qld/kelvin-grove/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

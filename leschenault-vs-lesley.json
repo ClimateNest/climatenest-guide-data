@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 42
+      "scoreA": 51,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 41
+      "scoreA": 44,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 54
+      "scoreA": 79,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 43
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 21
     }
   ],
-  "verdict": "Lesley has a lower overall climate risk score (36/100) compared to Leschenault (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lesley has a lower overall climate risk score (36/100) compared to Leschenault (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Leschenault or Lesley safer from flooding?",
-      "answer": "Leschenault has a flood risk score of 44/100, while Lesley scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Leschenault has a flood risk score of 51/100, while Lesley scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Leschenault scores 58/100 for bushfire risk. Lesley scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Leschenault scores 44/100 for bushfire risk. Lesley scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Leschenault or Lesley?",
@@ -76,5 +76,15 @@
       "label": "Lesley Should I Buy?",
       "url": "/suburbs/wa/lesley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

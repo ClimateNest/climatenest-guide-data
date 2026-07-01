@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 56
+      "scoreA": 52,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 25,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 55
+      "scoreA": 63,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 32
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 18
+      "scoreA": 16,
+      "scoreB": 20
     }
   ],
-  "verdict": "Belalie East has a lower overall climate risk score (33/100) compared to Bellevue Heights (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bellevue Heights has a lower overall climate risk score (32/100) compared to Belalie East (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Belalie East or Bellevue Heights safer from flooding?",
-      "answer": "Belalie East has a flood risk score of 42/100, while Bellevue Heights scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Belalie East has a flood risk score of 52/100, while Bellevue Heights scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Belalie East scores 38/100 for bushfire risk. Bellevue Heights scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Belalie East scores 25/100 for bushfire risk. Bellevue Heights scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Belalie East or Bellevue Heights?",
-      "answer": "Both suburbs have climate considerations. Belalie East has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bellevue Heights has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bellevue Heights Should I Buy?",
       "url": "/suburbs/sa/bellevue-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

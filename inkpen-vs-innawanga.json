@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 38
+      "scoreA": 24,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 49
+      "scoreA": 72,
+      "scoreB": 39
     },
     {
       "name": "Storm",
       "scoreA": 35,
-      "scoreB": 30
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 6
     }
   ],
-  "verdict": "Innawanga has a lower overall climate risk score (32/100) compared to Inkpen (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Innawanga has a lower overall climate risk score (25/100) compared to Inkpen (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Inkpen or Innawanga safer from flooding?",
-      "answer": "Inkpen has a flood risk score of 27/100, while Innawanga scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Inkpen has a flood risk score of 30/100, while Innawanga scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Inkpen scores 26/100 for bushfire risk. Innawanga scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Inkpen scores 24/100 for bushfire risk. Innawanga scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Inkpen or Innawanga?",
@@ -76,5 +76,15 @@
       "label": "Innawanga Should I Buy?",
       "url": "/suburbs/wa/innawanga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

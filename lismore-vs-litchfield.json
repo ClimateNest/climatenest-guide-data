@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 47
+      "scoreA": 58,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 68
+      "scoreA": 65,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 25
+      "scoreA": 48,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 16,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 23,
+      "scoreB": 23
     }
   ],
-  "verdict": "Litchfield has a lower overall climate risk score (36/100) compared to Lismore (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Litchfield has a lower overall climate risk score (42/100) compared to Lismore (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lismore or Litchfield safer from flooding?",
-      "answer": "Lismore has a flood risk score of 60/100, while Litchfield scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lismore has a flood risk score of 45/100, while Litchfield scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lismore scores 39/100 for bushfire risk. Litchfield scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lismore scores 58/100 for bushfire risk. Litchfield scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lismore or Litchfield?",
@@ -76,5 +76,15 @@
       "label": "Litchfield Should I Buy?",
       "url": "/suburbs/vic/litchfield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

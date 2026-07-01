@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 56
+      "scoreA": 38,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 37
+      "scoreA": 48,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 33,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 55
+      "scoreA": 30,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 29
     }
   ],
-  "verdict": "Humphery has a lower overall climate risk score (36/100) compared to Hunchy (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Humphery and Hunchy have similar overall climate risk scores.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Humphery or Hunchy safer from flooding?",
-      "answer": "Humphery has a flood risk score of 57/100, while Hunchy scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Humphery has a flood risk score of 38/100, while Hunchy scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Humphery scores 22/100 for bushfire risk. Hunchy scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Humphery scores 27/100 for bushfire risk. Hunchy scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Humphery or Hunchy?",
@@ -76,5 +76,15 @@
       "label": "Hunchy Should I Buy?",
       "url": "/suburbs/qld/hunchy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3444,
+    "projected2030": 4822,
+    "projected2050": 8954
+  },
+  "valueImpact": {
+    "dragPercent": 0.45,
+    "description": "Properties in this area may face a 0.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

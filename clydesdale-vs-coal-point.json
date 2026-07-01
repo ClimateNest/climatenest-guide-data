@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 54,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 17
+      "scoreA": 35,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 56
+      "scoreA": 52,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 52
+      "scoreA": 53,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Clydesdale and Coal Point have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Clydesdale has a lower overall climate risk score (41/100) compared to Coal Point (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Clydesdale or Coal Point safer from flooding?",
-      "answer": "Clydesdale has a flood risk score of 28/100, while Coal Point scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clydesdale has a flood risk score of 54/100, while Coal Point scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clydesdale scores 53/100 for bushfire risk. Coal Point scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clydesdale scores 35/100 for bushfire risk. Coal Point scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clydesdale or Coal Point?",
@@ -76,5 +76,15 @@
       "label": "Coal Point Should I Buy?",
       "url": "/suburbs/nsw/coal-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

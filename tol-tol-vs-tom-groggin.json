@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 52
+      "scoreA": 48,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 16
+      "scoreA": 55,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 76
+      "scoreA": 66,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 26
+      "scoreA": 12,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 28
+      "scoreB": 17
     }
   ],
-  "verdict": "Tol Tol has a lower overall climate risk score (33/100) compared to Tom Groggin (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tom Groggin has a lower overall climate risk score (36/100) compared to Tol Tol (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tol Tol or Tom Groggin safer from flooding?",
-      "answer": "Tol Tol has a flood risk score of 37/100, while Tom Groggin scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tol Tol has a flood risk score of 48/100, while Tom Groggin scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tol Tol scores 58/100 for bushfire risk. Tom Groggin scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tol Tol scores 55/100 for bushfire risk. Tom Groggin scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tol Tol or Tom Groggin?",
-      "answer": "Both suburbs have climate considerations. Tol Tol has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tom Groggin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tom Groggin Should I Buy?",
       "url": "/suburbs/vic/tom-groggin/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

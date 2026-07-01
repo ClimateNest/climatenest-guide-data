@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 26
+      "scoreA": 49,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 56
+      "scoreA": 78,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 33
+      "scoreA": 46,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 13
+      "scoreB": 14
     }
   ],
-  "verdict": "Grindelwald has a lower overall climate risk score (28/100) compared to Gretna (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Gretna has a lower overall climate risk score (38/100) compared to Grindelwald (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gretna or Grindelwald safer from flooding?",
-      "answer": "Gretna has a flood risk score of 51/100, while Grindelwald scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gretna has a flood risk score of 49/100, while Grindelwald scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gretna scores 16/100 for bushfire risk. Grindelwald scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gretna scores 21/100 for bushfire risk. Grindelwald scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gretna or Grindelwald?",
-      "answer": "Both suburbs have climate considerations. Grindelwald has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gretna has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Grindelwald Should I Buy?",
       "url": "/suburbs/tas/grindelwald/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

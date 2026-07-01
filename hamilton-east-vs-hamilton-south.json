@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 50,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 67
+      "scoreA": 73,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 51
+      "scoreA": 54,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 25,
+      "scoreB": 10
     }
   ],
-  "verdict": "Hamilton South has a lower overall climate risk score (40/100) compared to Hamilton East (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hamilton South has a lower overall climate risk score (37/100) compared to Hamilton East (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hamilton East or Hamilton South safer from flooding?",
-      "answer": "Hamilton East has a flood risk score of 39/100, while Hamilton South scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hamilton East has a flood risk score of 44/100, while Hamilton South scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hamilton East scores 32/100 for bushfire risk. Hamilton South scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hamilton East scores 50/100 for bushfire risk. Hamilton South scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hamilton East or Hamilton South?",
@@ -76,5 +76,15 @@
       "label": "Hamilton South Should I Buy?",
       "url": "/suburbs/nsw/hamilton-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

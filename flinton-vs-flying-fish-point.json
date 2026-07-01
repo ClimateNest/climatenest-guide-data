@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 38
+      "scoreA": 32,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 16
+      "scoreA": 63,
+      "scoreB": 65
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 42
+      "scoreA": 46,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 23
+      "scoreA": 46,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 27
+      "scoreA": 17,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 10
+      "scoreA": 28,
+      "scoreB": 17
     }
   ],
-  "verdict": "Flying Fish Point has a lower overall climate risk score (26/100) compared to Flinton (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Flying Fish Point has a lower overall climate risk score (38/100) compared to Flinton (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Flinton or Flying Fish Point safer from flooding?",
-      "answer": "Flinton has a flood risk score of 45/100, while Flying Fish Point scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Flinton has a flood risk score of 32/100, while Flying Fish Point scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Flinton scores 32/100 for bushfire risk. Flying Fish Point scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Flinton scores 63/100 for bushfire risk. Flying Fish Point scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Flinton or Flying Fish Point?",
@@ -76,5 +76,15 @@
       "label": "Flying Fish Point Should I Buy?",
       "url": "/suburbs/qld/flying-fish-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

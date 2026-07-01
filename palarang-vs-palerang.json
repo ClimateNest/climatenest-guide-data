@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 26
+      "scoreA": 34,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 54
+      "scoreA": 31,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 66
+      "scoreA": 77,
+      "scoreB": 50
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 20,
       "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 10
+      "scoreA": 26,
+      "scoreB": 24
     }
   ],
-  "verdict": "Palarang has a lower overall climate risk score (32/100) compared to Palerang (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Palarang has a lower overall climate risk score (36/100) compared to Palerang (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Palarang or Palerang safer from flooding?",
-      "answer": "Palarang has a flood risk score of 22/100, while Palerang scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palarang has a flood risk score of 34/100, while Palerang scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palarang scores 25/100 for bushfire risk. Palerang scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palarang scores 31/100 for bushfire risk. Palerang scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palarang or Palerang?",
@@ -76,5 +76,15 @@
       "label": "Palerang Should I Buy?",
       "url": "/suburbs/nsw/palerang/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

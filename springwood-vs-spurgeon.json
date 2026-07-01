@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
+      "scoreA": 45,
       "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 50
+      "scoreA": 36,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 38,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 25
+      "scoreA": 45,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 26
+      "scoreA": 53,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 5
+      "scoreA": 17,
+      "scoreB": 7
     }
   ],
-  "verdict": "Spurgeon has a lower overall climate risk score (34/100) compared to Springwood (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Spurgeon has a lower overall climate risk score (35/100) compared to Springwood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Springwood or Spurgeon safer from flooding?",
-      "answer": "Springwood has a flood risk score of 51/100, while Spurgeon scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Springwood has a flood risk score of 45/100, while Spurgeon scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Springwood scores 47/100 for bushfire risk. Spurgeon scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Springwood scores 36/100 for bushfire risk. Spurgeon scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Springwood or Spurgeon?",
@@ -76,5 +76,15 @@
       "label": "Spurgeon Should I Buy?",
       "url": "/suburbs/qld/spurgeon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

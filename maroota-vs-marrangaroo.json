@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 30
+      "scoreA": 22,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 39
+      "scoreA": 34,
+      "scoreB": 45
     },
     {
       "name": "Heat",
       "scoreA": 78,
-      "scoreB": 75
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 49,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
+      "scoreA": 38,
       "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 15
+      "scoreA": 15,
+      "scoreB": 14
     }
   ],
-  "verdict": "Marrangaroo has a lower overall climate risk score (32/100) compared to Maroota (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Marrangaroo has a lower overall climate risk score (32/100) compared to Maroota (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Maroota or Marrangaroo safer from flooding?",
-      "answer": "Maroota has a flood risk score of 52/100, while Marrangaroo scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Maroota has a flood risk score of 22/100, while Marrangaroo scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Maroota scores 54/100 for bushfire risk. Marrangaroo scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Maroota scores 34/100 for bushfire risk. Marrangaroo scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Maroota or Marrangaroo?",
@@ -76,5 +76,15 @@
       "label": "Marrangaroo Should I Buy?",
       "url": "/suburbs/nsw/marrangaroo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

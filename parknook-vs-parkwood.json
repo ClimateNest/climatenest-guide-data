@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 37
+      "scoreA": 34,
+      "scoreB": 51
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 49
+      "scoreA": 39,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 32,
-      "scoreB": 38
-    },
-    {
-      "name": "Storm",
-      "scoreA": 27,
+      "scoreA": 33,
       "scoreB": 39
     },
     {
+      "name": "Storm",
+      "scoreA": 30,
+      "scoreB": 36
+    },
+    {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 54
+      "scoreA": 28,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 26
     }
   ],
-  "verdict": "Parknook has a lower overall climate risk score (29/100) compared to Parkwood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Parknook has a lower overall climate risk score (31/100) compared to Parkwood (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Parknook or Parkwood safer from flooding?",
-      "answer": "Parknook has a flood risk score of 48/100, while Parkwood scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Parknook has a flood risk score of 34/100, while Parkwood scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Parknook scores 17/100 for bushfire risk. Parkwood scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Parknook scores 39/100 for bushfire risk. Parkwood scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Parknook or Parkwood?",
@@ -76,5 +76,15 @@
       "label": "Parkwood Should I Buy?",
       "url": "/suburbs/qld/parkwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

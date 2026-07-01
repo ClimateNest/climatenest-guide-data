@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 55
+      "scoreA": 51,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 55
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 56
+      "scoreA": 55,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 34
+      "scoreA": 50,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 10,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 26
     }
   ],
-  "verdict": "Glenalbyn has a lower overall climate risk score (40/100) compared to Glenbrae (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Glenbrae has a lower overall climate risk score (38/100) compared to Glenalbyn (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Glenalbyn or Glenbrae safer from flooding?",
-      "answer": "Glenalbyn has a flood risk score of 32/100, while Glenbrae scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Glenalbyn has a flood risk score of 51/100, while Glenbrae scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Glenalbyn scores 63/100 for bushfire risk. Glenbrae scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Glenalbyn scores 44/100 for bushfire risk. Glenbrae scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Glenalbyn or Glenbrae?",
-      "answer": "Both suburbs have climate considerations. Glenalbyn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Glenbrae has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Glenbrae Should I Buy?",
       "url": "/suburbs/vic/glenbrae/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 57
+      "scoreA": 56,
+      "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 38
+      "scoreA": 35,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 41
+      "scoreA": 30,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 14,
+      "scoreB": 9
     }
   ],
-  "verdict": "Collinsville has a lower overall climate risk score (31/100) compared to Colosseum (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Collinsville has a lower overall climate risk score (29/100) compared to Colosseum (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Collinsville or Colosseum safer from flooding?",
-      "answer": "Collinsville has a flood risk score of 24/100, while Colosseum scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Collinsville has a flood risk score of 56/100, while Colosseum scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Collinsville scores 61/100 for bushfire risk. Colosseum scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Collinsville scores 18/100 for bushfire risk. Colosseum scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Collinsville or Colosseum?",
@@ -76,5 +76,15 @@
       "label": "Colosseum Should I Buy?",
       "url": "/suburbs/qld/colosseum/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

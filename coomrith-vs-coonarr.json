@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 23
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 46
-    },
-    {
-      "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 45
-    },
-    {
-      "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 31
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 13,
+      "scoreA": 50,
       "scoreB": 57
     },
     {
+      "name": "Bushfire",
+      "scoreA": 53,
+      "scoreB": 60
+    },
+    {
+      "name": "Heat",
+      "scoreA": 41,
+      "scoreB": 47
+    },
+    {
+      "name": "Storm",
+      "scoreA": 32,
+      "scoreB": 36
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 27,
+      "scoreB": 54
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 12
     }
   ],
-  "verdict": "Coomrith has a lower overall climate risk score (30/100) compared to Coonarr (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coomrith has a lower overall climate risk score (37/100) compared to Coonarr (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coomrith or Coonarr safer from flooding?",
-      "answer": "Coomrith has a flood risk score of 43/100, while Coonarr scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coomrith has a flood risk score of 50/100, while Coonarr scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coomrith scores 17/100 for bushfire risk. Coonarr scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coomrith scores 53/100 for bushfire risk. Coonarr scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coomrith or Coonarr?",
@@ -76,5 +76,15 @@
       "label": "Coonarr Should I Buy?",
       "url": "/suburbs/qld/coonarr/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4215,
+    "projected2030": 5901,
+    "projected2050": 10958
+  },
+  "valueImpact": {
+    "dragPercent": 2.15,
+    "description": "Properties in this area may face a 2.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 39
+      "scoreA": 31,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 35
+      "scoreA": 40,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 31
+      "scoreA": 79,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 20,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 11
+      "scoreA": 18,
+      "scoreB": 14
     }
   ],
-  "verdict": "Eighty Mile Beach has a lower overall climate risk score (32/100) compared to Eganu (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eighty Mile Beach has a lower overall climate risk score (30/100) compared to Eganu (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eganu or Eighty Mile Beach safer from flooding?",
-      "answer": "Eganu has a flood risk score of 44/100, while Eighty Mile Beach scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eganu has a flood risk score of 31/100, while Eighty Mile Beach scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eganu scores 55/100 for bushfire risk. Eighty Mile Beach scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eganu scores 40/100 for bushfire risk. Eighty Mile Beach scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eganu or Eighty Mile Beach?",
@@ -76,5 +76,15 @@
       "label": "Eighty Mile Beach Should I Buy?",
       "url": "/suburbs/wa/eighty-mile-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

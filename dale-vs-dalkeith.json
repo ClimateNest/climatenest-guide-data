@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 50
+      "scoreA": 22,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 36
+      "scoreA": 18,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 58
+      "scoreA": 66,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 27
+      "scoreA": 29,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 29,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 23
+      "scoreA": 29,
+      "scoreB": 22
     }
   ],
-  "verdict": "Dalkeith has a lower overall climate risk score (36/100) compared to Dale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Dale has a lower overall climate risk score (32/100) compared to Dalkeith (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dale or Dalkeith safer from flooding?",
-      "answer": "Dale has a flood risk score of 33/100, while Dalkeith scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dale has a flood risk score of 22/100, while Dalkeith scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dale scores 51/100 for bushfire risk. Dalkeith scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dale scores 18/100 for bushfire risk. Dalkeith scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dale or Dalkeith?",
-      "answer": "Both suburbs have climate considerations. Dalkeith has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dalkeith Should I Buy?",
       "url": "/suburbs/wa/dalkeith/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3455,
+    "projected2030": 4837,
+    "projected2050": 8984
+  },
+  "valueImpact": {
+    "dragPercent": 0.47,
+    "description": "Properties in this area may face a 0.47% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

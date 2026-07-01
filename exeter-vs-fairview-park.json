@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 36
+      "scoreA": 21,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 36
+      "scoreA": 53,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 60
+      "scoreA": 71,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 26
+      "scoreA": 48,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 13,
       "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 30
     }
   ],
-  "verdict": "Fairview Park has a lower overall climate risk score (33/100) compared to Exeter (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Exeter has a lower overall climate risk score (37/100) compared to Fairview Park (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Exeter or Fairview Park safer from flooding?",
-      "answer": "Exeter has a flood risk score of 30/100, while Fairview Park scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Exeter has a flood risk score of 21/100, while Fairview Park scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Exeter scores 44/100 for bushfire risk. Fairview Park scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Exeter scores 53/100 for bushfire risk. Fairview Park scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Exeter or Fairview Park?",
-      "answer": "Both suburbs have climate considerations. Fairview Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Exeter has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Fairview Park Should I Buy?",
       "url": "/suburbs/sa/fairview-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

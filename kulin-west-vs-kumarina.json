@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 42
+      "scoreA": 60,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 63,
-      "scoreB": 24
+      "scoreA": 16,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 40
+      "scoreA": 64,
+      "scoreB": 49
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 26
+      "scoreA": 39,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 14
+      "scoreA": 17,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 29
+      "scoreA": 14,
+      "scoreB": 20
     }
   ],
-  "verdict": "Kumarina has a lower overall climate risk score (29/100) compared to Kulin West (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kumarina has a lower overall climate risk score (33/100) compared to Kulin West (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kulin West or Kumarina safer from flooding?",
-      "answer": "Kulin West has a flood risk score of 26/100, while Kumarina scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kulin West has a flood risk score of 60/100, while Kumarina scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kulin West scores 63/100 for bushfire risk. Kumarina scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kulin West scores 16/100 for bushfire risk. Kumarina scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kulin West or Kumarina?",
@@ -76,5 +76,15 @@
       "label": "Kumarina Should I Buy?",
       "url": "/suburbs/wa/kumarina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

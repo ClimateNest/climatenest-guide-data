@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 56
+      "scoreA": 40,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 61
+      "scoreA": 20,
+      "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 51
+      "scoreA": 54,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 20
+      "scoreA": 47,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 23
+      "scoreA": 15,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 10
     }
   ],
-  "verdict": "Moorlands has a lower overall climate risk score (34/100) compared to Moorook South (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Moorook South has a lower overall climate risk score (29/100) compared to Moorlands (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moorlands or Moorook South safer from flooding?",
-      "answer": "Moorlands has a flood risk score of 43/100, while Moorook South scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moorlands has a flood risk score of 40/100, while Moorook South scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moorlands scores 48/100 for bushfire risk. Moorook South scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moorlands scores 20/100 for bushfire risk. Moorook South scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moorlands or Moorook South?",
-      "answer": "Both suburbs have climate considerations. Moorlands has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Moorook South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Moorook South Should I Buy?",
       "url": "/suburbs/sa/moorook-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3489,
+    "projected2030": 4885,
+    "projected2050": 9072
+  },
+  "valueImpact": {
+    "dragPercent": 0.55,
+    "description": "Properties in this area may face a 0.55% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

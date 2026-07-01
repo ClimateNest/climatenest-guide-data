@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 59,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 50
+      "scoreA": 18,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 72
+      "scoreA": 58,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 48,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 14
+      "scoreA": 11,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 21
+      "scoreA": 29,
+      "scoreB": 11
     }
   ],
-  "verdict": "Sandleton has a lower overall climate risk score (38/100) compared to Sandilands (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sandleton has a lower overall climate risk score (37/100) compared to Sandilands (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Sandilands or Sandleton safer from flooding?",
-      "answer": "Sandilands has a flood risk score of 51/100, while Sandleton scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandilands has a flood risk score of 59/100, while Sandleton scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandilands scores 59/100 for bushfire risk. Sandleton scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandilands scores 18/100 for bushfire risk. Sandleton scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandilands or Sandleton?",
@@ -76,5 +76,15 @@
       "label": "Sandleton Should I Buy?",
       "url": "/suburbs/sa/sandleton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

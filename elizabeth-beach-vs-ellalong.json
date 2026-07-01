@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 51
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 40
+      "scoreA": 53,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 68
+      "scoreA": 70,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 22,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 55
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 29
+      "scoreA": 10,
+      "scoreB": 28
     }
   ],
-  "verdict": "Elizabeth Beach has a lower overall climate risk score (44/100) compared to Ellalong (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Elizabeth Beach has a lower overall climate risk score (35/100) compared to Ellalong (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Elizabeth Beach or Ellalong safer from flooding?",
-      "answer": "Elizabeth Beach has a flood risk score of 36/100, while Ellalong scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elizabeth Beach has a flood risk score of 22/100, while Ellalong scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elizabeth Beach scores 37/100 for bushfire risk. Ellalong scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elizabeth Beach scores 53/100 for bushfire risk. Ellalong scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elizabeth Beach or Ellalong?",
@@ -76,5 +76,15 @@
       "label": "Ellalong Should I Buy?",
       "url": "/suburbs/nsw/ellalong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

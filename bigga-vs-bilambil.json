@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 58,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 39,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 40
+      "scoreA": 63,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 32
+      "scoreA": 43,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 49
+      "scoreA": 13,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 11,
+      "scoreB": 11
     }
   ],
-  "verdict": "Bilambil has a lower overall climate risk score (31/100) compared to Bigga (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bigga has a lower overall climate risk score (38/100) compared to Bilambil (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bigga or Bilambil safer from flooding?",
-      "answer": "Bigga has a flood risk score of 42/100, while Bilambil scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bigga has a flood risk score of 58/100, while Bilambil scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bigga scores 36/100 for bushfire risk. Bilambil scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bigga scores 39/100 for bushfire risk. Bilambil scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bigga or Bilambil?",
-      "answer": "Both suburbs have climate considerations. Bilambil has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bigga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bilambil Should I Buy?",
       "url": "/suburbs/nsw/bilambil/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

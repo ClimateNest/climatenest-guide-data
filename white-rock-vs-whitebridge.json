@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 32
+      "scoreA": 53,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 56
+      "scoreA": 62,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 46
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 48
+      "scoreA": 15,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 18
+      "scoreA": 27,
+      "scoreB": 19
     }
   ],
-  "verdict": "White Rock has a lower overall climate risk score (33/100) compared to Whitebridge (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "White Rock has a lower overall climate risk score (35/100) compared to Whitebridge (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is White Rock or Whitebridge safer from flooding?",
-      "answer": "White Rock has a flood risk score of 31/100, while Whitebridge scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "White Rock has a flood risk score of 30/100, while Whitebridge scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "White Rock scores 23/100 for bushfire risk. Whitebridge scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "White Rock scores 53/100 for bushfire risk. Whitebridge scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in White Rock or Whitebridge?",
@@ -76,5 +76,15 @@
       "label": "Whitebridge Should I Buy?",
       "url": "/suburbs/nsw/whitebridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

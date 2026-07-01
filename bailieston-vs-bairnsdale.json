@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 46
+      "scoreA": 44,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 36
+      "scoreA": 62,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 50
+      "scoreA": 76,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 36
+      "scoreA": 25,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 10
     }
   ],
-  "verdict": "Bailieston has a lower overall climate risk score (32/100) compared to Bairnsdale (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bairnsdale has a lower overall climate risk score (34/100) compared to Bailieston (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bailieston or Bairnsdale safer from flooding?",
-      "answer": "Bailieston has a flood risk score of 38/100, while Bairnsdale scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bailieston has a flood risk score of 44/100, while Bairnsdale scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bailieston scores 26/100 for bushfire risk. Bairnsdale scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bailieston scores 62/100 for bushfire risk. Bairnsdale scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bailieston or Bairnsdale?",
-      "answer": "Both suburbs have climate considerations. Bailieston has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bairnsdale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bairnsdale Should I Buy?",
       "url": "/suburbs/vic/bairnsdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

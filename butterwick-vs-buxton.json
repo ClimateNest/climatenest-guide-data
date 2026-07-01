@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 41
+      "scoreA": 39,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 33
+      "scoreA": 19,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 60
+      "scoreA": 57,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 40
+      "scoreA": 39,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 40
+      "scoreA": 37,
+      "scoreB": 52
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 26,
+      "scoreB": 25
     }
   ],
-  "verdict": "Butterwick has a lower overall climate risk score (36/100) compared to Buxton (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Butterwick has a lower overall climate risk score (36/100) compared to Buxton (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Butterwick or Buxton safer from flooding?",
-      "answer": "Butterwick has a flood risk score of 38/100, while Buxton scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Butterwick has a flood risk score of 39/100, while Buxton scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Butterwick scores 22/100 for bushfire risk. Buxton scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Butterwick scores 19/100 for bushfire risk. Buxton scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Butterwick or Buxton?",
@@ -76,5 +76,15 @@
       "label": "Buxton Should I Buy?",
       "url": "/suburbs/nsw/buxton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

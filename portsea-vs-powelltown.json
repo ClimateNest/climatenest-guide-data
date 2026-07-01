@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 55
+      "scoreA": 24,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 27
+      "scoreA": 41,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 65,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 40,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
+      "scoreA": 21,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 10,
+      "scoreB": 30
     }
   ],
-  "verdict": "Powelltown has a lower overall climate risk score (35/100) compared to Portsea (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Powelltown has a lower overall climate risk score (32/100) compared to Portsea (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Portsea or Powelltown safer from flooding?",
-      "answer": "Portsea has a flood risk score of 58/100, while Powelltown scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Portsea has a flood risk score of 24/100, while Powelltown scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Portsea scores 57/100 for bushfire risk. Powelltown scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Portsea scores 41/100 for bushfire risk. Powelltown scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Portsea or Powelltown?",
@@ -76,5 +76,15 @@
       "label": "Powelltown Should I Buy?",
       "url": "/suburbs/vic/powelltown/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 37
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 36
+      "scoreA": 19,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 73
+      "scoreA": 75,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 31,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
+      "scoreA": 55,
       "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 18
     }
   ],
-  "verdict": "Nelungaloo has a lower overall climate risk score (38/100) compared to Nelson Bay (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nelungaloo has a lower overall climate risk score (39/100) compared to Nelson Bay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nelson Bay or Nelungaloo safer from flooding?",
-      "answer": "Nelson Bay has a flood risk score of 58/100, while Nelungaloo scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nelson Bay has a flood risk score of 35/100, while Nelungaloo scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nelson Bay scores 44/100 for bushfire risk. Nelungaloo scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nelson Bay scores 19/100 for bushfire risk. Nelungaloo scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nelson Bay or Nelungaloo?",
@@ -76,5 +76,15 @@
       "label": "Nelungaloo Should I Buy?",
       "url": "/suburbs/nsw/nelungaloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

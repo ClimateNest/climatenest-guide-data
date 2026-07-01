@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
+      "scoreA": 56,
       "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 61
+      "scoreA": 42,
+      "scoreB": 43
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 50
+      "scoreA": 35,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 30
+      "scoreA": 33,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 23
+      "scoreA": 30,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 16
+      "scoreA": 16,
+      "scoreB": 8
     }
   ],
-  "verdict": "Hail Creek has a lower overall climate risk score (25/100) compared to Halifax (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Halifax has a lower overall climate risk score (30/100) compared to Hail Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hail Creek or Halifax safer from flooding?",
-      "answer": "Hail Creek has a flood risk score of 46/100, while Halifax scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hail Creek has a flood risk score of 56/100, while Halifax scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hail Creek scores 19/100 for bushfire risk. Halifax scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hail Creek scores 42/100 for bushfire risk. Halifax scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hail Creek or Halifax?",
-      "answer": "Both suburbs have climate considerations. Hail Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Halifax has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Halifax Should I Buy?",
       "url": "/suburbs/qld/halifax/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

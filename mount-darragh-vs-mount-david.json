@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 51,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 22
-    },
-    {
-      "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 41
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 13,
+      "scoreA": 65,
       "scoreB": 16
     },
     {
+      "name": "Heat",
+      "scoreA": 68,
+      "scoreB": 71
+    },
+    {
+      "name": "Storm",
+      "scoreA": 45,
+      "scoreB": 39
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 16,
+      "scoreB": 15
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 23,
       "scoreB": 27
     }
   ],
-  "verdict": "Mount Darragh has a lower overall climate risk score (27/100) compared to Mount David (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount David has a lower overall climate risk score (32/100) compared to Mount Darragh (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Darragh or Mount David safer from flooding?",
-      "answer": "Mount Darragh has a flood risk score of 26/100, while Mount David scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Darragh has a flood risk score of 51/100, while Mount David scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Darragh scores 16/100 for bushfire risk. Mount David scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Darragh scores 65/100 for bushfire risk. Mount David scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Darragh or Mount David?",
-      "answer": "Both suburbs have climate considerations. Mount Darragh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount David has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount David Should I Buy?",
       "url": "/suburbs/nsw/mount-david/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

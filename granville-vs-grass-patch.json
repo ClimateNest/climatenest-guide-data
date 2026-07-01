@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 32
+      "scoreA": 46,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 25
+      "scoreA": 16,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 57
+      "scoreA": 63,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 42
+      "scoreA": 42,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 12
     }
   ],
-  "verdict": "Grass Patch has a lower overall climate risk score (34/100) compared to Granville (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Grass Patch has a lower overall climate risk score (34/100) compared to Granville (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Granville or Grass Patch safer from flooding?",
-      "answer": "Granville has a flood risk score of 37/100, while Grass Patch scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Granville has a flood risk score of 46/100, while Grass Patch scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Granville scores 59/100 for bushfire risk. Grass Patch scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Granville scores 16/100 for bushfire risk. Grass Patch scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Granville or Grass Patch?",
@@ -76,5 +76,15 @@
       "label": "Grass Patch Should I Buy?",
       "url": "/suburbs/wa/grass-patch/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

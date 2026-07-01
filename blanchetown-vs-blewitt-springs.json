@@ -14,23 +14,23 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 24
+      "scoreA": 60,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 20
+      "scoreA": 55,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 78
+      "scoreA": 68,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 46
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
@@ -39,24 +39,24 @@
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 24
     }
   ],
-  "verdict": "Blanchetown has a lower overall climate risk score (34/100) compared to Blewitt Springs (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Blewitt Springs has a lower overall climate risk score (38/100) compared to Blanchetown (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blanchetown or Blewitt Springs safer from flooding?",
-      "answer": "Blanchetown has a flood risk score of 38/100, while Blewitt Springs scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blanchetown has a flood risk score of 60/100, while Blewitt Springs scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blanchetown scores 53/100 for bushfire risk. Blewitt Springs scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blanchetown scores 55/100 for bushfire risk. Blewitt Springs scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blanchetown or Blewitt Springs?",
-      "answer": "Both suburbs have climate considerations. Blanchetown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Blewitt Springs has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Blewitt Springs Should I Buy?",
       "url": "/suburbs/sa/blewitt-springs/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 22,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 36
+      "scoreA": 29,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 76
+      "scoreA": 41,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 34
+      "scoreA": 27,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 17
+      "scoreA": 21,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 11
+      "scoreA": 16,
+      "scoreB": 24
     }
   ],
-  "verdict": "Ularring has a lower overall climate risk score (28/100) compared to Upper Capel (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ularring has a lower overall climate risk score (26/100) compared to Upper Capel (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ularring or Upper Capel safer from flooding?",
-      "answer": "Ularring has a flood risk score of 24/100, while Upper Capel scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ularring has a flood risk score of 22/100, while Upper Capel scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ularring scores 44/100 for bushfire risk. Upper Capel scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ularring scores 29/100 for bushfire risk. Upper Capel scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ularring or Upper Capel?",
@@ -76,5 +76,15 @@
       "label": "Upper Capel Should I Buy?",
       "url": "/suburbs/wa/upper-capel/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

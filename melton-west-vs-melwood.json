@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 53
+      "scoreA": 52,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 32
-    },
-    {
-      "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 62
-    },
-    {
-      "name": "Storm",
-      "scoreA": 34,
+      "scoreA": 41,
       "scoreB": 28
     },
     {
+      "name": "Heat",
+      "scoreA": 55,
+      "scoreB": 56
+    },
+    {
+      "name": "Storm",
+      "scoreA": 28,
+      "scoreB": 21
+    },
+    {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 26,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 18,
+      "scoreB": 24
     }
   ],
   "verdict": "Melwood has a lower overall climate risk score (34/100) compared to Melton West (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Melton West or Melwood safer from flooding?",
-      "answer": "Melton West has a flood risk score of 33/100, while Melwood scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Melton West has a flood risk score of 52/100, while Melwood scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Melton West scores 33/100 for bushfire risk. Melwood scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Melton West scores 41/100 for bushfire risk. Melwood scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Melton West or Melwood?",
@@ -76,5 +76,15 @@
       "label": "Melwood Should I Buy?",
       "url": "/suburbs/vic/melwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

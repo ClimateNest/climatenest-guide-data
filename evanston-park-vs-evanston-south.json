@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 52
+      "scoreA": 33,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 44
+      "scoreA": 62,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 57,
-      "scoreB": 73
+      "scoreA": 55,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 43
+      "scoreA": 31,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
+      "scoreA": 21,
       "scoreB": 12
     }
   ],
-  "verdict": "Evanston Park has a lower overall climate risk score (36/100) compared to Evanston South (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Evanston South has a lower overall climate risk score (32/100) compared to Evanston Park (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Evanston Park or Evanston South safer from flooding?",
-      "answer": "Evanston Park has a flood risk score of 23/100, while Evanston South scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Evanston Park has a flood risk score of 33/100, while Evanston South scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Evanston Park scores 53/100 for bushfire risk. Evanston South scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Evanston Park scores 62/100 for bushfire risk. Evanston South scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Evanston Park or Evanston South?",
-      "answer": "Both suburbs have climate considerations. Evanston Park has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Evanston South has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Evanston South Should I Buy?",
       "url": "/suburbs/sa/evanston-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3761,
+    "projected2030": 5266,
+    "projected2050": 9779
+  },
+  "valueImpact": {
+    "dragPercent": 1.15,
+    "description": "Properties in this area may face a 1.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

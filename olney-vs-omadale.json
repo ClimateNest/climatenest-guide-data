@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 53
+      "scoreA": 30,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 62
+      "scoreA": 72,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 52
+      "scoreA": 58,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 21,
+      "scoreB": 20
     }
   ],
-  "verdict": "Olney has a lower overall climate risk score (41/100) compared to Omadale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Olney has a lower overall climate risk score (42/100) compared to Omadale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Olney or Omadale safer from flooding?",
-      "answer": "Olney has a flood risk score of 28/100, while Omadale scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Olney has a flood risk score of 30/100, while Omadale scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Olney scores 22/100 for bushfire risk. Omadale scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Olney scores 30/100 for bushfire risk. Omadale scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Olney or Omadale?",
@@ -76,5 +76,15 @@
       "label": "Omadale Should I Buy?",
       "url": "/suburbs/nsw/omadale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

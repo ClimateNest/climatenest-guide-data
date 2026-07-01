@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 23,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 53
+      "scoreA": 29,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 77
+      "scoreA": 70,
+      "scoreB": 76
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 33
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 11
+      "scoreA": 22,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 28
+      "scoreA": 19,
+      "scoreB": 26
     }
   ],
-  "verdict": "American Beach has a lower overall climate risk score (37/100) compared to Amyton (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "American Beach has a lower overall climate risk score (35/100) compared to Amyton (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is American Beach or Amyton safer from flooding?",
-      "answer": "American Beach has a flood risk score of 49/100, while Amyton scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "American Beach has a flood risk score of 23/100, while Amyton scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "American Beach scores 25/100 for bushfire risk. Amyton scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "American Beach scores 29/100 for bushfire risk. Amyton scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in American Beach or Amyton?",
@@ -76,5 +76,15 @@
       "label": "Amyton Should I Buy?",
       "url": "/suburbs/sa/amyton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

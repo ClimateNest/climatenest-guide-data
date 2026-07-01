@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 51
+      "scoreA": 42,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 64
+      "scoreA": 26,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 78
+      "scoreA": 64,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 25
+      "scoreA": 43,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 12,
+      "scoreB": 23
     }
   ],
-  "verdict": "Telowie has a lower overall climate risk score (31/100) compared to Templers (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Templers has a lower overall climate risk score (30/100) compared to Telowie (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Telowie or Templers safer from flooding?",
-      "answer": "Telowie has a flood risk score of 22/100, while Templers scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Telowie has a flood risk score of 42/100, while Templers scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Telowie scores 30/100 for bushfire risk. Templers scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Telowie scores 26/100 for bushfire risk. Templers scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Telowie or Templers?",
-      "answer": "Both suburbs have climate considerations. Telowie has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Templers has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Templers Should I Buy?",
       "url": "/suburbs/sa/templers/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

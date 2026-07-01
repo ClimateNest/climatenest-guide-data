@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 40
+      "scoreA": 49,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 23
+      "scoreA": 29,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 74
+      "scoreA": 55,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 27
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 23
+      "scoreA": 23,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 20
     }
   ],
-  "verdict": "Boola has a lower overall climate risk score (33/100) compared to Bonshaw (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bonshaw has a lower overall climate risk score (34/100) compared to Boola (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bonshaw or Boola safer from flooding?",
-      "answer": "Bonshaw has a flood risk score of 57/100, while Boola scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bonshaw has a flood risk score of 49/100, while Boola scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bonshaw scores 36/100 for bushfire risk. Boola scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bonshaw scores 29/100 for bushfire risk. Boola scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bonshaw or Boola?",
-      "answer": "Both suburbs have climate considerations. Boola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bonshaw has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Boola Should I Buy?",
       "url": "/suburbs/vic/boola/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

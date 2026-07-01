@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 37
+      "scoreA": 29,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 46
+      "scoreA": 56,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 44
+      "scoreA": 68,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 41
+      "scoreA": 39,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 40
+      "scoreA": 17,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
+      "scoreA": 28,
       "scoreB": 16
     }
   ],
-  "verdict": "Alfredtown has a lower overall climate risk score (36/100) compared to Alice (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Alice has a lower overall climate risk score (38/100) compared to Alfredtown (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Alfredtown or Alice safer from flooding?",
-      "answer": "Alfredtown has a flood risk score of 26/100, while Alice scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alfredtown has a flood risk score of 29/100, while Alice scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alfredtown scores 48/100 for bushfire risk. Alice scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alfredtown scores 56/100 for bushfire risk. Alice scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alfredtown or Alice?",
-      "answer": "Both suburbs have climate considerations. Alfredtown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Alice has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Alice Should I Buy?",
       "url": "/suburbs/nsw/alice/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

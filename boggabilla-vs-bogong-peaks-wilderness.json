@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 33
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 57,
+      "scoreA": 52,
       "scoreB": 54
     },
     {
+      "name": "Bushfire",
+      "scoreA": 41,
+      "scoreB": 29
+    },
+    {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 62
+      "scoreA": 43,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 32
+      "scoreA": 27,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 22,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 28
+      "scoreA": 15,
+      "scoreB": 16
     }
   ],
-  "verdict": "Boggabilla has a lower overall climate risk score (37/100) compared to Bogong Peaks Wilderness (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boggabilla has a lower overall climate risk score (33/100) compared to Bogong Peaks Wilderness (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boggabilla or Bogong Peaks Wilderness safer from flooding?",
-      "answer": "Boggabilla has a flood risk score of 22/100, while Bogong Peaks Wilderness scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boggabilla has a flood risk score of 52/100, while Bogong Peaks Wilderness scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boggabilla scores 57/100 for bushfire risk. Bogong Peaks Wilderness scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boggabilla scores 41/100 for bushfire risk. Bogong Peaks Wilderness scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boggabilla or Bogong Peaks Wilderness?",
@@ -76,5 +76,15 @@
       "label": "Bogong Peaks Wilderness Should I Buy?",
       "url": "/suburbs/nsw/bogong-peaks-wilderness/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

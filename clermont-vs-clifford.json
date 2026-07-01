@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 24
+      "scoreA": 40,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 17
+      "scoreA": 56,
+      "scoreB": 41
     },
     {
       "name": "Heat",
       "scoreA": 46,
-      "scoreB": 30
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 44
+      "scoreA": 30,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 26
+      "scoreA": 23,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 16
+      "scoreA": 9,
+      "scoreB": 27
     }
   ],
-  "verdict": "Clifford has a lower overall climate risk score (26/100) compared to Clermont (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Clermont and Clifford have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Clermont or Clifford safer from flooding?",
-      "answer": "Clermont has a flood risk score of 53/100, while Clifford scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Clermont has a flood risk score of 40/100, while Clifford scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Clermont scores 45/100 for bushfire risk. Clifford scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Clermont scores 56/100 for bushfire risk. Clifford scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Clermont or Clifford?",
-      "answer": "Both suburbs have climate considerations. Clifford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Clermont has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Clifford Should I Buy?",
       "url": "/suburbs/qld/clifford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

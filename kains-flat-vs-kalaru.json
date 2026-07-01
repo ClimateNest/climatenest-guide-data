@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 57
+      "scoreA": 51,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 25
+      "scoreA": 58,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 66
+      "scoreA": 68,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 15,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 22
+      "scoreA": 27,
+      "scoreB": 27
     }
   ],
-  "verdict": "Kains Flat has a lower overall climate risk score (36/100) compared to Kalaru (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kains Flat has a lower overall climate risk score (42/100) compared to Kalaru (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Kains Flat or Kalaru safer from flooding?",
-      "answer": "Kains Flat has a flood risk score of 53/100, while Kalaru scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kains Flat has a flood risk score of 51/100, while Kalaru scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kains Flat scores 34/100 for bushfire risk. Kalaru scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kains Flat scores 58/100 for bushfire risk. Kalaru scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kains Flat or Kalaru?",
@@ -76,5 +76,15 @@
       "label": "Kalaru Should I Buy?",
       "url": "/suburbs/nsw/kalaru/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4090,
+    "projected2030": 5726,
+    "projected2050": 10634
+  },
+  "valueImpact": {
+    "dragPercent": 1.88,
+    "description": "Properties in this area may face a 1.88% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

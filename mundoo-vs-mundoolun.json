@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 25
+      "scoreA": 46,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 47
+      "scoreA": 31,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 32,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 59
+      "scoreA": 25,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 30
+      "scoreA": 7,
+      "scoreB": 14
     }
   ],
-  "verdict": "Mundoo has a lower overall climate risk score (28/100) compared to Mundoolun (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mundoo has a lower overall climate risk score (27/100) compared to Mundoolun (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mundoo or Mundoolun safer from flooding?",
-      "answer": "Mundoo has a flood risk score of 35/100, while Mundoolun scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mundoo has a flood risk score of 46/100, while Mundoolun scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mundoo scores 27/100 for bushfire risk. Mundoolun scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mundoo scores 22/100 for bushfire risk. Mundoolun scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mundoo or Mundoolun?",
@@ -76,5 +76,15 @@
       "label": "Mundoolun Should I Buy?",
       "url": "/suburbs/qld/mundoolun/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3353,
+    "projected2030": 4695,
+    "projected2050": 8719
+  },
+  "valueImpact": {
+    "dragPercent": 0.25,
+    "description": "Properties in this area may face a 0.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

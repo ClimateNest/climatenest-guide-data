@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 35
+      "scoreA": 30,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 61
+      "scoreA": 57,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 41,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 46
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 37
+      "scoreA": 46,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 52
+      "scoreA": 28,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 14
+      "scoreA": 9,
+      "scoreB": 21
     }
   ],
-  "verdict": "Goomally has a lower overall climate risk score (29/100) compared to Goomboorian (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Goomboorian has a lower overall climate risk score (33/100) compared to Goomally (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Goomally or Goomboorian safer from flooding?",
-      "answer": "Goomally has a flood risk score of 48/100, while Goomboorian scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goomally has a flood risk score of 30/100, while Goomboorian scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goomally scores 29/100 for bushfire risk. Goomboorian scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goomally scores 57/100 for bushfire risk. Goomboorian scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goomally or Goomboorian?",
-      "answer": "Both suburbs have climate considerations. Goomally has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Goomboorian has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Goomboorian Should I Buy?",
       "url": "/suburbs/qld/goomboorian/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3467,
+    "projected2030": 4853,
+    "projected2050": 9013
+  },
+  "valueImpact": {
+    "dragPercent": 0.5,
+    "description": "Properties in this area may face a 0.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

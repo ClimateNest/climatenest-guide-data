@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 43
+      "scoreA": 43,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
+      "scoreA": 47,
       "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 70
+      "scoreA": 70,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 10
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 14
     }
   ],
-  "verdict": "Paisley has a lower overall climate risk score (37/100) compared to Pages Flat (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Paisley has a lower overall climate risk score (33/100) compared to Pages Flat (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Pages Flat or Paisley safer from flooding?",
-      "answer": "Pages Flat has a flood risk score of 52/100, while Paisley scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Pages Flat has a flood risk score of 43/100, while Paisley scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Pages Flat scores 30/100 for bushfire risk. Paisley scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Pages Flat scores 47/100 for bushfire risk. Paisley scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Pages Flat or Paisley?",
@@ -76,5 +76,15 @@
       "label": "Paisley Should I Buy?",
       "url": "/suburbs/sa/paisley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

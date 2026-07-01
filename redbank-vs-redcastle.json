@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 44
+      "scoreA": 21,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 23
+      "scoreA": 35,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 50
+      "scoreA": 61,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 42
+      "scoreA": 24,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 14
     }
   ],
-  "verdict": "Redcastle has a lower overall climate risk score (34/100) compared to Redbank (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Redbank has a lower overall climate risk score (30/100) compared to Redcastle (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Redbank or Redcastle safer from flooding?",
-      "answer": "Redbank has a flood risk score of 32/100, while Redcastle scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Redbank has a flood risk score of 21/100, while Redcastle scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Redbank scores 31/100 for bushfire risk. Redcastle scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Redbank scores 35/100 for bushfire risk. Redcastle scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Redbank or Redcastle?",
-      "answer": "Both suburbs have climate considerations. Redcastle has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Redbank has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Redcastle Should I Buy?",
       "url": "/suburbs/vic/redcastle/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

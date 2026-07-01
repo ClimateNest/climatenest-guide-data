@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 40
+      "scoreA": 50,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 26
+      "scoreA": 15,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 79
+      "scoreA": 66,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 47
+      "scoreA": 45,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 27
+      "scoreA": 13,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 14
     }
   ],
-  "verdict": "Burrowye has a lower overall climate risk score (29/100) compared to Burwood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Burrowye has a lower overall climate risk score (36/100) compared to Burwood (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Burrowye or Burwood safer from flooding?",
-      "answer": "Burrowye has a flood risk score of 35/100, while Burwood scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burrowye has a flood risk score of 50/100, while Burwood scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burrowye scores 24/100 for bushfire risk. Burwood scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burrowye scores 15/100 for bushfire risk. Burwood scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burrowye or Burwood?",
@@ -76,5 +76,15 @@
       "label": "Burwood Should I Buy?",
       "url": "/suburbs/vic/burwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

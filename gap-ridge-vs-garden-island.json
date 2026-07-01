@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 37
+      "scoreA": 40,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 37,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 54
+      "scoreA": 31,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 35
+      "scoreA": 26,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 26
+      "scoreA": 17,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 6,
-      "scoreB": 29
+      "scoreA": 16,
+      "scoreB": 26
     }
   ],
-  "verdict": "Gap Ridge has a lower overall climate risk score (22/100) compared to Garden Island (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gap Ridge has a lower overall climate risk score (28/100) compared to Garden Island (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gap Ridge or Garden Island safer from flooding?",
-      "answer": "Gap Ridge has a flood risk score of 32/100, while Garden Island scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gap Ridge has a flood risk score of 40/100, while Garden Island scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gap Ridge scores 29/100 for bushfire risk. Garden Island scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gap Ridge scores 37/100 for bushfire risk. Garden Island scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gap Ridge or Garden Island?",
@@ -76,5 +76,15 @@
       "label": "Garden Island Should I Buy?",
       "url": "/suburbs/wa/garden-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

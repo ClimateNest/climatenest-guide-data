@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 37
+      "scoreA": 25,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 39,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 65,
+      "scoreA": 61,
       "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 41,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 15
+      "scoreA": 12,
+      "scoreB": 23
     }
   ],
-  "verdict": "Nene Valley has a lower overall climate risk score (32/100) compared to Nepean Bay (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nene Valley has a lower overall climate risk score (33/100) compared to Nepean Bay (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nene Valley or Nepean Bay safer from flooding?",
-      "answer": "Nene Valley has a flood risk score of 28/100, while Nepean Bay scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nene Valley has a flood risk score of 25/100, while Nepean Bay scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nene Valley scores 28/100 for bushfire risk. Nepean Bay scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nene Valley scores 39/100 for bushfire risk. Nepean Bay scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nene Valley or Nepean Bay?",
@@ -76,5 +76,15 @@
       "label": "Nepean Bay Should I Buy?",
       "url": "/suburbs/sa/nepean-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

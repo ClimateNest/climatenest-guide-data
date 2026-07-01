@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 53
+      "scoreA": 47,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 54
+      "scoreA": 32,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 30
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 46
+      "scoreA": 14,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 21
     }
   ],
-  "verdict": "Cracow has a lower overall climate risk score (31/100) compared to Craignish (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cracow has a lower overall climate risk score (33/100) compared to Craignish (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cracow or Craignish safer from flooding?",
-      "answer": "Cracow has a flood risk score of 59/100, while Craignish scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cracow has a flood risk score of 47/100, while Craignish scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cracow scores 16/100 for bushfire risk. Craignish scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cracow scores 32/100 for bushfire risk. Craignish scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cracow or Craignish?",
@@ -76,5 +76,15 @@
       "label": "Craignish Should I Buy?",
       "url": "/suburbs/qld/craignish/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4022,
+    "projected2030": 5631,
+    "projected2050": 10457
+  },
+  "valueImpact": {
+    "dragPercent": 1.73,
+    "description": "Properties in this area may face a 1.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

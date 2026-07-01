@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 38
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 40,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 59
+      "scoreA": 36,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 33
+      "scoreA": 29,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 16,
-      "scoreB": 25
+      "scoreA": 23,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 27,
+      "scoreB": 29
     }
   ],
-  "verdict": "Mount Erin has a lower overall climate risk score (32/100) compared to Mount Hardey (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Erin has a lower overall climate risk score (31/100) compared to Mount Hardey (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mount Erin or Mount Hardey safer from flooding?",
-      "answer": "Mount Erin has a flood risk score of 29/100, while Mount Hardey scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Erin has a flood risk score of 32/100, while Mount Hardey scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Erin scores 50/100 for bushfire risk. Mount Hardey scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Erin scores 40/100 for bushfire risk. Mount Hardey scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Erin or Mount Hardey?",
@@ -76,5 +76,15 @@
       "label": "Mount Hardey Should I Buy?",
       "url": "/suburbs/wa/mount-hardey/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

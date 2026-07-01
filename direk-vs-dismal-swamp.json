@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 57
+      "scoreA": 53,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 62
+      "scoreA": 45,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 54
+      "scoreA": 74,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 15
+      "scoreA": 10,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 19
+      "scoreA": 26,
+      "scoreB": 17
     }
   ],
-  "verdict": "Direk has a lower overall climate risk score (36/100) compared to Dismal Swamp (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Dismal Swamp has a lower overall climate risk score (35/100) compared to Direk (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Direk or Dismal Swamp safer from flooding?",
-      "answer": "Direk has a flood risk score of 24/100, while Dismal Swamp scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Direk has a flood risk score of 53/100, while Dismal Swamp scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Direk scores 37/100 for bushfire risk. Dismal Swamp scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Direk scores 45/100 for bushfire risk. Dismal Swamp scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Direk or Dismal Swamp?",
-      "answer": "Both suburbs have climate considerations. Direk has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Dismal Swamp has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Dismal Swamp Should I Buy?",
       "url": "/suburbs/sa/dismal-swamp/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

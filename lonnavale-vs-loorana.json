@@ -15,48 +15,48 @@
     {
       "name": "Flood",
       "scoreA": 44,
-      "scoreB": 45
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 57,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 78
+      "scoreA": 58,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 22
+      "scoreA": 28,
+      "scoreB": 10
     }
   ],
-  "verdict": "Lonnavale has a lower overall climate risk score (36/100) compared to Loorana (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Loorana has a lower overall climate risk score (30/100) compared to Lonnavale (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Lonnavale or Loorana safer from flooding?",
-      "answer": "Lonnavale has a flood risk score of 44/100, while Loorana scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lonnavale has a flood risk score of 44/100, while Loorana scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lonnavale scores 27/100 for bushfire risk. Loorana scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lonnavale scores 57/100 for bushfire risk. Loorana scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lonnavale or Loorana?",
-      "answer": "Both suburbs have climate considerations. Lonnavale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Loorana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Loorana Should I Buy?",
       "url": "/suburbs/tas/loorana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

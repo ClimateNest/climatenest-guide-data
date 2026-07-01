@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 53
+      "scoreA": 37,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 49
+      "scoreA": 49,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 54
+      "scoreA": 44,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 48
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 13
+      "scoreA": 29,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
+      "scoreA": 12,
       "scoreB": 15
     }
   ],
-  "verdict": "Greenough has a lower overall climate risk score (30/100) compared to Greenwoods Valley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Greenwoods Valley has a lower overall climate risk score (35/100) compared to Greenough (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Greenough or Greenwoods Valley safer from flooding?",
-      "answer": "Greenough has a flood risk score of 50/100, while Greenwoods Valley scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Greenough has a flood risk score of 37/100, while Greenwoods Valley scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Greenough scores 32/100 for bushfire risk. Greenwoods Valley scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Greenough scores 49/100 for bushfire risk. Greenwoods Valley scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Greenough or Greenwoods Valley?",
-      "answer": "Both suburbs have climate considerations. Greenough has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Greenwoods Valley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Greenwoods Valley Should I Buy?",
       "url": "/suburbs/wa/greenwoods-valley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

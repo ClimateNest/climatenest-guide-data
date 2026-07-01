@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 40
+      "scoreA": 37,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 67
+      "scoreA": 71,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 43
+      "scoreA": 21,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 37
+      "scoreA": 10,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 12
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Bergalia has a lower overall climate risk score (35/100) compared to Berkeley (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bergalia has a lower overall climate risk score (32/100) compared to Berkeley (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bergalia or Berkeley safer from flooding?",
-      "answer": "Bergalia has a flood risk score of 40/100, while Berkeley scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bergalia has a flood risk score of 37/100, while Berkeley scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bergalia scores 42/100 for bushfire risk. Berkeley scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bergalia scores 44/100 for bushfire risk. Berkeley scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bergalia or Berkeley?",
@@ -76,5 +76,15 @@
       "label": "Berkeley Should I Buy?",
       "url": "/suburbs/nsw/berkeley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

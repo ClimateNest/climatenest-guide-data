@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 33
+      "scoreA": 59,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 66
+      "scoreA": 69,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 28
+      "scoreA": 50,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 37,
+      "scoreB": 43
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 28
     }
   ],
-  "verdict": "Fernbrook has a lower overall climate risk score (37/100) compared to Fernbank Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Fernbrook has a lower overall climate risk score (40/100) compared to Fernbank Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Fernbank Creek or Fernbrook safer from flooding?",
-      "answer": "Fernbank Creek has a flood risk score of 58/100, while Fernbrook scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Fernbank Creek has a flood risk score of 25/100, while Fernbrook scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Fernbank Creek scores 18/100 for bushfire risk. Fernbrook scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Fernbank Creek scores 59/100 for bushfire risk. Fernbrook scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Fernbank Creek or Fernbrook?",
@@ -76,5 +76,15 @@
       "label": "Fernbrook Should I Buy?",
       "url": "/suburbs/nsw/fernbrook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

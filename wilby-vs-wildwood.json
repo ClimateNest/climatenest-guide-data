@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 44
+      "scoreA": 55,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 17
+      "scoreA": 53,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 74,
-      "scoreB": 70
+      "scoreA": 80,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 26,
+      "scoreA": 44,
       "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 11
+      "scoreA": 30,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 26,
+      "scoreB": 14
     }
   ],
-  "verdict": "Wilby has a lower overall climate risk score (31/100) compared to Wildwood (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Wildwood has a lower overall climate risk score (39/100) compared to Wilby (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wilby or Wildwood safer from flooding?",
-      "answer": "Wilby has a flood risk score of 22/100, while Wildwood scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wilby has a flood risk score of 55/100, while Wildwood scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wilby scores 26/100 for bushfire risk. Wildwood scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wilby scores 53/100 for bushfire risk. Wildwood scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wilby or Wildwood?",
-      "answer": "Both suburbs have climate considerations. Wilby has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wildwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Wildwood Should I Buy?",
       "url": "/suburbs/vic/wildwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4464,
+    "projected2030": 6250,
+    "projected2050": 11606
+  },
+  "valueImpact": {
+    "dragPercent": 2.7,
+    "description": "Properties in this area may face a 2.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

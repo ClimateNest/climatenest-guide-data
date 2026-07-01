@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 58
+      "scoreA": 28,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 52,
+      "scoreB": 38
     },
     {
       "name": "Heat",
-      "scoreA": 31,
-      "scoreB": 41
+      "scoreA": 38,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 47
+      "scoreA": 37,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 12
+      "scoreA": 16,
+      "scoreB": 30
     }
   ],
-  "verdict": "Rubyanna has a lower overall climate risk score (28/100) compared to Runaway Bay (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rubyanna has a lower overall climate risk score (32/100) compared to Runaway Bay (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rubyanna or Runaway Bay safer from flooding?",
-      "answer": "Rubyanna has a flood risk score of 24/100, while Runaway Bay scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rubyanna has a flood risk score of 28/100, while Runaway Bay scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rubyanna scores 21/100 for bushfire risk. Runaway Bay scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rubyanna scores 52/100 for bushfire risk. Runaway Bay scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rubyanna or Runaway Bay?",
@@ -76,5 +76,15 @@
       "label": "Runaway Bay Should I Buy?",
       "url": "/suburbs/qld/runaway-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

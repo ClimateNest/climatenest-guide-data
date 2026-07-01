@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 41
+      "scoreA": 40,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 33
+      "scoreA": 56,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 44
+      "scoreA": 62,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 55,
-      "scoreB": 53
+      "scoreA": 54,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 23
     }
   ],
-  "verdict": "Eltham has a lower overall climate risk score (38/100) compared to Elrington (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Eltham has a lower overall climate risk score (39/100) compared to Elrington (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Elrington or Eltham safer from flooding?",
-      "answer": "Elrington has a flood risk score of 35/100, while Eltham scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Elrington has a flood risk score of 40/100, while Eltham scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Elrington scores 49/100 for bushfire risk. Eltham scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Elrington scores 56/100 for bushfire risk. Eltham scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Elrington or Eltham?",
@@ -76,5 +76,15 @@
       "label": "Eltham Should I Buy?",
       "url": "/suburbs/nsw/eltham/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4181,
+    "projected2030": 5853,
+    "projected2050": 10870
+  },
+  "valueImpact": {
+    "dragPercent": 2.08,
+    "description": "Properties in this area may face a 2.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

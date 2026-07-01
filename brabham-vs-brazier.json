@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 42
+      "scoreA": 59,
+      "scoreB": 21
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 66
+      "scoreA": 57,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 46
+      "scoreA": 27,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 10
     }
   ],
-  "verdict": "Brazier has a lower overall climate risk score (40/100) compared to Brabham (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Brabham has a lower overall climate risk score (37/100) compared to Brazier (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Brabham or Brazier safer from flooding?",
-      "answer": "Brabham has a flood risk score of 45/100, while Brazier scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Brabham has a flood risk score of 59/100, while Brazier scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Brabham scores 58/100 for bushfire risk. Brazier scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Brabham scores 45/100 for bushfire risk. Brazier scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Brabham or Brazier?",
-      "answer": "Both suburbs have climate considerations. Brazier has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Brabham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Brazier Should I Buy?",
       "url": "/suburbs/wa/brazier/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 52
+      "scoreA": 60,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 54
+      "scoreA": 61,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 44
+      "scoreA": 49,
+      "scoreB": 41
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 52,
-      "scoreB": 58
+      "scoreA": 50,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 26
+      "scoreA": 15,
+      "scoreB": 24
     }
   ],
-  "verdict": "Yuraygir has a lower overall climate risk score (32/100) compared to Zara (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Zara has a lower overall climate risk score (32/100) compared to Yuraygir (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yuraygir or Zara safer from flooding?",
-      "answer": "Yuraygir has a flood risk score of 36/100, while Zara scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yuraygir has a flood risk score of 60/100, while Zara scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yuraygir scores 29/100 for bushfire risk. Zara scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yuraygir scores 61/100 for bushfire risk. Zara scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yuraygir or Zara?",
-      "answer": "Both suburbs have climate considerations. Yuraygir has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Zara has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Zara Should I Buy?",
       "url": "/suburbs/nsw/zara/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4305,
+    "projected2030": 6027,
+    "projected2050": 11194
+  },
+  "valueImpact": {
+    "dragPercent": 2.35,
+    "description": "Properties in this area may face a 2.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 26
+      "scoreA": 38,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 37
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 63
+      "scoreA": 79,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 50
+      "scoreA": 21,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 17
+      "scoreA": 22,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 17
+      "scoreA": 10,
+      "scoreB": 19
     }
   ],
-  "verdict": "Palgarup has a lower overall climate risk score (32/100) compared to Palmdale (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Palgarup has a lower overall climate risk score (34/100) compared to Palmdale (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Palgarup or Palmdale safer from flooding?",
-      "answer": "Palgarup has a flood risk score of 32/100, while Palmdale scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palgarup has a flood risk score of 38/100, while Palmdale scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palgarup scores 23/100 for bushfire risk. Palmdale scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palgarup scores 36/100 for bushfire risk. Palmdale scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palgarup or Palmdale?",
@@ -76,5 +76,15 @@
       "label": "Palmdale Should I Buy?",
       "url": "/suburbs/wa/palmdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 23
+      "scoreA": 24,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 50
+      "scoreA": 26,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 42
+      "scoreA": 50,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 28
+      "scoreA": 44,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 32,
-      "scoreB": 22
+      "scoreA": 53,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 19
     }
   ],
-  "verdict": "Kureen has a lower overall climate risk score (31/100) compared to Kureelpa (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kureen has a lower overall climate risk score (32/100) compared to Kureelpa (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kureelpa or Kureen safer from flooding?",
-      "answer": "Kureelpa has a flood risk score of 26/100, while Kureen scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kureelpa has a flood risk score of 24/100, while Kureen scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kureelpa scores 61/100 for bushfire risk. Kureen scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kureelpa scores 26/100 for bushfire risk. Kureen scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kureelpa or Kureen?",
@@ -76,5 +76,15 @@
       "label": "Kureen Should I Buy?",
       "url": "/suburbs/qld/kureen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

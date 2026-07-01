@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 21
+      "scoreA": 50,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 27
+      "scoreA": 28,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 52,
+      "scoreA": 54,
       "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 44
+      "scoreA": 38,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 19
+      "scoreA": 16,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 21
+      "scoreA": 28,
+      "scoreB": 24
     }
   ],
-  "verdict": "Buchfelde has a lower overall climate risk score (35/100) compared to Buchanan (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Buchanan has a lower overall climate risk score (36/100) compared to Buchfelde (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Buchanan or Buchfelde safer from flooding?",
-      "answer": "Buchanan has a flood risk score of 42/100, while Buchfelde scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buchanan has a flood risk score of 50/100, while Buchfelde scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buchanan scores 48/100 for bushfire risk. Buchfelde scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buchanan scores 28/100 for bushfire risk. Buchfelde scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buchanan or Buchfelde?",
-      "answer": "Both suburbs have climate considerations. Buchfelde has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Buchanan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Buchfelde Should I Buy?",
       "url": "/suburbs/sa/buchfelde/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3818,
+    "projected2030": 5345,
+    "projected2050": 9927
+  },
+  "valueImpact": {
+    "dragPercent": 1.28,
+    "description": "Properties in this area may face a 1.28% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

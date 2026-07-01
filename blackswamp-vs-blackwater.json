@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
+      "scoreA": 34,
       "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 37
+      "scoreA": 49,
+      "scoreB": 45
     },
     {
       "name": "Heat",
       "scoreA": 47,
-      "scoreB": 31
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 48
+      "scoreA": 38,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 28
+      "scoreA": 54,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 7
+      "scoreA": 28,
+      "scoreB": 12
     }
   ],
-  "verdict": "Blackwater has a lower overall climate risk score (31/100) compared to Blackswamp (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Blackwater has a lower overall climate risk score (32/100) compared to Blackswamp (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blackswamp or Blackwater safer from flooding?",
-      "answer": "Blackswamp has a flood risk score of 23/100, while Blackwater scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackswamp has a flood risk score of 34/100, while Blackwater scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackswamp scores 41/100 for bushfire risk. Blackwater scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackswamp scores 49/100 for bushfire risk. Blackwater scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackswamp or Blackwater?",
@@ -76,5 +76,15 @@
       "label": "Blackwater Should I Buy?",
       "url": "/suburbs/qld/blackwater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

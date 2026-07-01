@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 59
+      "scoreA": 50,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 15
+      "scoreA": 39,
+      "scoreB": 60
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 52
+      "scoreA": 60,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 40,
       "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 25
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 15
     }
   ],
-  "verdict": "Kapinnie has a lower overall climate risk score (36/100) compared to Kapunda (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kapinnie has a lower overall climate risk score (37/100) compared to Kapunda (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kapinnie or Kapunda safer from flooding?",
-      "answer": "Kapinnie has a flood risk score of 40/100, while Kapunda scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kapinnie has a flood risk score of 50/100, while Kapunda scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kapinnie scores 31/100 for bushfire risk. Kapunda scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kapinnie scores 39/100 for bushfire risk. Kapunda scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kapinnie or Kapunda?",
@@ -76,5 +76,15 @@
       "label": "Kapunda Should I Buy?",
       "url": "/suburbs/sa/kapunda/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 59
+      "scoreA": 53,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
       "scoreA": 63,
-      "scoreB": 48
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 59
+      "scoreA": 64,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 37
+      "scoreA": 20,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 27,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 29,
+      "scoreB": 29
     }
   ],
-  "verdict": "Middlesex has a lower overall climate risk score (39/100) compared to Meunna (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Middlesex has a lower overall climate risk score (37/100) compared to Meunna (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Meunna or Middlesex safer from flooding?",
-      "answer": "Meunna has a flood risk score of 56/100, while Middlesex scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Meunna has a flood risk score of 53/100, while Middlesex scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Meunna scores 63/100 for bushfire risk. Middlesex scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Meunna scores 63/100 for bushfire risk. Middlesex scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Meunna or Middlesex?",
@@ -76,5 +76,15 @@
       "label": "Middlesex Should I Buy?",
       "url": "/suburbs/tas/middlesex/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

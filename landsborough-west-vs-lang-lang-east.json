@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 40
+      "scoreA": 57,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 65,
-      "scoreB": 66
+      "scoreA": 72,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 21
+      "scoreA": 41,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 30,
+      "scoreB": 22
     }
   ],
-  "verdict": "Lang Lang East has a lower overall climate risk score (31/100) compared to Landsborough West (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lang Lang East has a lower overall climate risk score (42/100) compared to Landsborough West (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Landsborough West or Lang Lang East safer from flooding?",
-      "answer": "Landsborough West has a flood risk score of 37/100, while Lang Lang East scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Landsborough West has a flood risk score of 45/100, while Lang Lang East scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Landsborough West scores 17/100 for bushfire risk. Lang Lang East scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Landsborough West scores 57/100 for bushfire risk. Lang Lang East scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Landsborough West or Lang Lang East?",
@@ -76,5 +76,15 @@
       "label": "Lang Lang East Should I Buy?",
       "url": "/suburbs/vic/lang-lang-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4203,
+    "projected2030": 5885,
+    "projected2050": 10929
+  },
+  "valueImpact": {
+    "dragPercent": 2.12,
+    "description": "Properties in this area may face a 2.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

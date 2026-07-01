@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 54
+      "scoreA": 31,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 18
+      "scoreA": 26,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 53
+      "scoreA": 53,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 44
+      "scoreA": 46,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 17
+      "scoreA": 12,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
+      "scoreA": 12,
       "scoreB": 18
     }
   ],
-  "verdict": "Bayswater has a lower overall climate risk score (34/100) compared to Bayles (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bayles and Bayswater have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bayles or Bayswater safer from flooding?",
-      "answer": "Bayles has a flood risk score of 49/100, while Bayswater scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bayles has a flood risk score of 31/100, while Bayswater scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bayles scores 64/100 for bushfire risk. Bayswater scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bayles scores 26/100 for bushfire risk. Bayswater scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bayles or Bayswater?",
-      "answer": "Both suburbs have climate considerations. Bayswater has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bayles has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bayswater Should I Buy?",
       "url": "/suburbs/vic/bayswater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3240,
+    "projected2030": 4536,
+    "projected2050": 8424
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

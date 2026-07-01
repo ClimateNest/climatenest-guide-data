@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
-      "scoreB": 59
+      "scoreA": 35,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 64
+      "scoreA": 22,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 69
+      "scoreA": 73,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 31
+      "scoreA": 48,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 16
+      "scoreA": 27,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 18,
+      "scoreB": 14
     }
   ],
-  "verdict": "Pascoe Vale has a lower overall climate risk score (44/100) compared to Parwan (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Parwan has a lower overall climate risk score (37/100) compared to Pascoe Vale (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Parwan or Pascoe Vale safer from flooding?",
-      "answer": "Parwan has a flood risk score of 60/100, while Pascoe Vale scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Parwan has a flood risk score of 35/100, while Pascoe Vale scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Parwan scores 61/100 for bushfire risk. Pascoe Vale scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Parwan scores 22/100 for bushfire risk. Pascoe Vale scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Parwan or Pascoe Vale?",
-      "answer": "Both suburbs have climate considerations. Pascoe Vale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Parwan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Pascoe Vale Should I Buy?",
       "url": "/suburbs/vic/pascoe-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

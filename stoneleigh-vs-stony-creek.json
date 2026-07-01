@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 55
+      "scoreA": 25,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 44
+      "scoreA": 39,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 76
+      "scoreA": 52,
+      "scoreB": 65
     },
     {
       "name": "Storm",
       "scoreA": 24,
-      "scoreB": 26
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 24
+      "scoreA": 13,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 11
+      "scoreA": 24,
+      "scoreB": 22
     }
   ],
-  "verdict": "Stoneleigh has a lower overall climate risk score (32/100) compared to Stony Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Stoneleigh has a lower overall climate risk score (30/100) compared to Stony Creek (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stoneleigh or Stony Creek safer from flooding?",
-      "answer": "Stoneleigh has a flood risk score of 53/100, while Stony Creek scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stoneleigh has a flood risk score of 25/100, while Stony Creek scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stoneleigh scores 28/100 for bushfire risk. Stony Creek scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stoneleigh scores 39/100 for bushfire risk. Stony Creek scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stoneleigh or Stony Creek?",
@@ -76,5 +76,15 @@
       "label": "Stony Creek Should I Buy?",
       "url": "/suburbs/vic/stony-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4147,
+    "projected2030": 5805,
+    "projected2050": 10781
+  },
+  "valueImpact": {
+    "dragPercent": 2,
+    "description": "Properties in this area may face a 2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

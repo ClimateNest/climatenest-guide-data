@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 44
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 56,
-      "scoreB": 38
+      "scoreA": 54,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 69
+      "scoreA": 57,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 49
+      "scoreA": 23,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 15
+      "scoreA": 38,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 20
+      "scoreA": 15,
+      "scoreB": 16
     }
   ],
-  "verdict": "Tarcutta has a lower overall climate risk score (39/100) compared to Tarbuck Bay (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tarcutta has a lower overall climate risk score (34/100) compared to Tarbuck Bay (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tarbuck Bay or Tarcutta safer from flooding?",
-      "answer": "Tarbuck Bay has a flood risk score of 39/100, while Tarcutta scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarbuck Bay has a flood risk score of 30/100, while Tarcutta scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarbuck Bay scores 56/100 for bushfire risk. Tarcutta scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarbuck Bay scores 54/100 for bushfire risk. Tarcutta scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarbuck Bay or Tarcutta?",
@@ -76,5 +76,15 @@
       "label": "Tarcutta Should I Buy?",
       "url": "/suburbs/nsw/tarcutta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

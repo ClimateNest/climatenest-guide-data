@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 43
+      "scoreA": 40,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 31
+      "scoreA": 56,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 58
+      "scoreA": 69,
+      "scoreB": 67
     },
     {
       "name": "Storm",
       "scoreA": 36,
-      "scoreB": 21
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 15
+      "scoreA": 26,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
+      "scoreA": 19,
       "scoreB": 14
     }
   ],
-  "verdict": "Porepunkah has a lower overall climate risk score (30/100) compared to Porcupine Ridge (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Porepunkah has a lower overall climate risk score (33/100) compared to Porcupine Ridge (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Porcupine Ridge or Porepunkah safer from flooding?",
-      "answer": "Porcupine Ridge has a flood risk score of 52/100, while Porepunkah scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Porcupine Ridge has a flood risk score of 40/100, while Porepunkah scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Porcupine Ridge scores 53/100 for bushfire risk. Porepunkah scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Porcupine Ridge scores 56/100 for bushfire risk. Porepunkah scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Porcupine Ridge or Porepunkah?",
@@ -76,5 +76,15 @@
       "label": "Porepunkah Should I Buy?",
       "url": "/suburbs/vic/porepunkah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

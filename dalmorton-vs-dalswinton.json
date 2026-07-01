@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 25,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 43
+      "scoreA": 37,
+      "scoreB": 15
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 72
+      "scoreA": 37,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 26
+      "scoreA": 41,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 31,
-      "scoreB": 31
+      "scoreA": 46,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
+      "scoreA": 26,
       "scoreB": 29
     }
   ],
-  "verdict": "Dalmorton has a lower overall climate risk score (36/100) compared to Dalswinton (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Dalmorton has a lower overall climate risk score (35/100) compared to Dalswinton (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Dalmorton or Dalswinton safer from flooding?",
-      "answer": "Dalmorton has a flood risk score of 34/100, while Dalswinton scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Dalmorton has a flood risk score of 25/100, while Dalswinton scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Dalmorton scores 46/100 for bushfire risk. Dalswinton scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Dalmorton scores 37/100 for bushfire risk. Dalswinton scores 15/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Dalmorton or Dalswinton?",
@@ -76,5 +76,15 @@
       "label": "Dalswinton Should I Buy?",
       "url": "/suburbs/nsw/dalswinton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

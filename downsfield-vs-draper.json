@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 38,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 55
+      "scoreA": 33,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 46
+      "scoreA": 48,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 34
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 35,
+      "scoreA": 34,
       "scoreB": 39
     },
     {
+      "name": "Coastal",
+      "scoreA": 45,
+      "scoreB": 57
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 11,
+      "scoreB": 13
     }
   ],
-  "verdict": "Downsfield has a lower overall climate risk score (30/100) compared to Draper (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Draper has a lower overall climate risk score (33/100) compared to Downsfield (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Downsfield or Draper safer from flooding?",
-      "answer": "Downsfield has a flood risk score of 34/100, while Draper scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Downsfield has a flood risk score of 38/100, while Draper scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Downsfield scores 19/100 for bushfire risk. Draper scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Downsfield scores 33/100 for bushfire risk. Draper scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Downsfield or Draper?",
-      "answer": "Both suburbs have climate considerations. Downsfield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Draper has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Draper Should I Buy?",
       "url": "/suburbs/qld/draper/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

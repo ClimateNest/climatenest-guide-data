@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 40
+      "scoreA": 29,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 35,
-      "scoreB": 50
+      "scoreA": 24,
+      "scoreB": 17
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 64
+      "scoreA": 66,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 35
+      "scoreA": 28,
+      "scoreB": 48
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 28
+      "scoreA": 30,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 13
+      "scoreA": 28,
+      "scoreB": 24
     }
   ],
-  "verdict": "St Agnes has a lower overall climate risk score (36/100) compared to St Georges (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "St Agnes has a lower overall climate risk score (34/100) compared to St Georges (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is St Agnes or St Georges safer from flooding?",
-      "answer": "St Agnes has a flood risk score of 34/100, while St Georges scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "St Agnes has a flood risk score of 29/100, while St Georges scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "St Agnes scores 35/100 for bushfire risk. St Georges scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "St Agnes scores 24/100 for bushfire risk. St Georges scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in St Agnes or St Georges?",
@@ -76,5 +76,15 @@
       "label": "St Georges Should I Buy?",
       "url": "/suburbs/sa/st-georges/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

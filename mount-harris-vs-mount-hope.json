@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 21
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 60
-    },
-    {
-      "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 75
-    },
-    {
-      "name": "Storm",
-      "scoreA": 22,
+      "scoreA": 37,
       "scoreB": 27
     },
     {
+      "name": "Bushfire",
+      "scoreA": 34,
+      "scoreB": 30
+    },
+    {
+      "name": "Heat",
+      "scoreA": 77,
+      "scoreB": 63
+    },
+    {
+      "name": "Storm",
+      "scoreA": 33,
+      "scoreB": 47
+    },
+    {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 16
+      "scoreA": 23,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 30
+      "scoreA": 19,
+      "scoreB": 20
     }
   ],
-  "verdict": "Mount Harris has a lower overall climate risk score (35/100) compared to Mount Hope (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Hope has a lower overall climate risk score (35/100) compared to Mount Harris (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Harris or Mount Hope safer from flooding?",
-      "answer": "Mount Harris has a flood risk score of 43/100, while Mount Hope scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Harris has a flood risk score of 37/100, while Mount Hope scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Harris scores 43/100 for bushfire risk. Mount Hope scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Harris scores 34/100 for bushfire risk. Mount Hope scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Harris or Mount Hope?",
-      "answer": "Both suburbs have climate considerations. Mount Harris has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Hope has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Hope Should I Buy?",
       "url": "/suburbs/nsw/mount-hope/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

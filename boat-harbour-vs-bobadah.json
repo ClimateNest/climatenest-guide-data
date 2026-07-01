@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 58
+      "scoreA": 26,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 42
+      "scoreA": 42,
+      "scoreB": 37
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 67
+      "scoreA": 53,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 29
+      "scoreA": 34,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 32,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 27
+      "scoreA": 19,
+      "scoreB": 13
     }
   ],
-  "verdict": "Boat Harbour has a lower overall climate risk score (38/100) compared to Bobadah (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Boat Harbour has a lower overall climate risk score (34/100) compared to Bobadah (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boat Harbour or Bobadah safer from flooding?",
-      "answer": "Boat Harbour has a flood risk score of 54/100, while Bobadah scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boat Harbour has a flood risk score of 26/100, while Bobadah scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boat Harbour scores 17/100 for bushfire risk. Bobadah scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boat Harbour scores 42/100 for bushfire risk. Bobadah scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boat Harbour or Bobadah?",
@@ -76,5 +76,15 @@
       "label": "Bobadah Should I Buy?",
       "url": "/suburbs/nsw/bobadah/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

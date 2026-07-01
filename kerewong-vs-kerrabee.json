@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 20
+      "scoreA": 41,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 69
+      "scoreA": 62,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 25,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 17
+      "scoreA": 44,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 29
+      "scoreA": 28,
+      "scoreB": 14
     }
   ],
-  "verdict": "Kerrabee has a lower overall climate risk score (30/100) compared to Kerewong (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kerrabee has a lower overall climate risk score (28/100) compared to Kerewong (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kerewong or Kerrabee safer from flooding?",
-      "answer": "Kerewong has a flood risk score of 50/100, while Kerrabee scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kerewong has a flood risk score of 41/100, while Kerrabee scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kerewong scores 24/100 for bushfire risk. Kerrabee scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kerewong scores 30/100 for bushfire risk. Kerrabee scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kerewong or Kerrabee?",
@@ -76,5 +76,15 @@
       "label": "Kerrabee Should I Buy?",
       "url": "/suburbs/nsw/kerrabee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

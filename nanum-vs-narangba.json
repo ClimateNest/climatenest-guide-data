@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 50
+      "scoreA": 35,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 39
+      "scoreA": 38,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 35
+      "scoreA": 42,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 30
+      "scoreA": 13,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 8,
-      "scoreB": 22
+      "scoreA": 10,
+      "scoreB": 16
     }
   ],
-  "verdict": "Nanum has a lower overall climate risk score (26/100) compared to Narangba (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nanum has a lower overall climate risk score (28/100) compared to Narangba (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nanum or Narangba safer from flooding?",
-      "answer": "Nanum has a flood risk score of 22/100, while Narangba scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nanum has a flood risk score of 35/100, while Narangba scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nanum scores 42/100 for bushfire risk. Narangba scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nanum scores 29/100 for bushfire risk. Narangba scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nanum or Narangba?",
@@ -76,5 +76,15 @@
       "label": "Narangba Should I Buy?",
       "url": "/suburbs/qld/narangba/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3376,
+    "projected2030": 4726,
+    "projected2050": 8778
+  },
+  "valueImpact": {
+    "dragPercent": 0.3,
+    "description": "Properties in this area may face a 0.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

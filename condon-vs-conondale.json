@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 31,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 64,
-      "scoreB": 38
+      "scoreA": 49,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 40
+      "scoreA": 45,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 35
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 17,
+      "scoreA": 39,
       "scoreB": 33
     },
     {
+      "name": "Coastal",
+      "scoreA": 15,
+      "scoreB": 34
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 17
     }
   ],
-  "verdict": "Conondale has a lower overall climate risk score (34/100) compared to Condon (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Condon has a lower overall climate risk score (33/100) compared to Conondale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Condon or Conondale safer from flooding?",
-      "answer": "Condon has a flood risk score of 38/100, while Conondale scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Condon has a flood risk score of 31/100, while Conondale scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Condon scores 64/100 for bushfire risk. Conondale scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Condon scores 49/100 for bushfire risk. Conondale scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Condon or Conondale?",
-      "answer": "Both suburbs have climate considerations. Conondale has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Condon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Conondale Should I Buy?",
       "url": "/suburbs/qld/conondale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

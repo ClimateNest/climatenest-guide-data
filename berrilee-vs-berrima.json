@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 22
+      "scoreA": 50,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 53
+      "scoreA": 20,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 71
+      "scoreA": 79,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 28
+      "scoreA": 36,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 59,
-      "scoreB": 20
+      "scoreA": 46,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 13,
+      "scoreB": 29
     }
   ],
-  "verdict": "Berrima has a lower overall climate risk score (35/100) compared to Berrilee (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Berrima has a lower overall climate risk score (40/100) compared to Berrilee (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Berrilee or Berrima safer from flooding?",
-      "answer": "Berrilee has a flood risk score of 39/100, while Berrima scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Berrilee has a flood risk score of 50/100, while Berrima scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Berrilee scores 55/100 for bushfire risk. Berrima scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Berrilee scores 20/100 for bushfire risk. Berrima scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Berrilee or Berrima?",
@@ -76,5 +76,15 @@
       "label": "Berrima Should I Buy?",
       "url": "/suburbs/nsw/berrima/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

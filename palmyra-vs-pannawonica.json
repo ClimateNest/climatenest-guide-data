@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 35
+      "scoreA": 31,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 44
+      "scoreA": 40,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 44
+      "scoreA": 63,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 30
+      "scoreA": 20,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 9
+      "scoreA": 19,
+      "scoreB": 8
     }
   ],
-  "verdict": "Pannawonica has a lower overall climate risk score (30/100) compared to Palmyra (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Pannawonica has a lower overall climate risk score (30/100) compared to Palmyra (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Palmyra or Pannawonica safer from flooding?",
-      "answer": "Palmyra has a flood risk score of 35/100, while Pannawonica scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Palmyra has a flood risk score of 31/100, while Pannawonica scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Palmyra scores 42/100 for bushfire risk. Pannawonica scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Palmyra scores 40/100 for bushfire risk. Pannawonica scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Palmyra or Pannawonica?",
@@ -76,5 +76,15 @@
       "label": "Pannawonica Should I Buy?",
       "url": "/suburbs/wa/pannawonica/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3387,
+    "projected2030": 4742,
+    "projected2050": 8807
+  },
+  "valueImpact": {
+    "dragPercent": 0.32,
+    "description": "Properties in this area may face a 0.32% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

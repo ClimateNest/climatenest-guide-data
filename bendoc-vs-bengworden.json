@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 21
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 73
+      "scoreA": 72,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 31
+      "scoreA": 44,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 28
+      "scoreA": 29,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 25,
+      "scoreB": 12
     }
   ],
-  "verdict": "Bengworden has a lower overall climate risk score (33/100) compared to Bendoc (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bengworden has a lower overall climate risk score (31/100) compared to Bendoc (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bendoc or Bengworden safer from flooding?",
-      "answer": "Bendoc has a flood risk score of 22/100, while Bengworden scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bendoc has a flood risk score of 28/100, while Bengworden scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bendoc scores 60/100 for bushfire risk. Bengworden scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bendoc scores 34/100 for bushfire risk. Bengworden scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bendoc or Bengworden?",
@@ -76,5 +76,15 @@
       "label": "Bengworden Should I Buy?",
       "url": "/suburbs/vic/bengworden/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

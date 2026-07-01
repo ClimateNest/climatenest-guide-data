@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 57
+      "scoreA": 56,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 42
+      "scoreA": 19,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 38
+      "scoreA": 30,
+      "scoreB": 34
     },
     {
       "name": "Storm",
       "scoreA": 21,
-      "scoreB": 44
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 54
+      "scoreA": 30,
+      "scoreB": 40
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 30
+      "scoreA": 12,
+      "scoreB": 24
     }
   ],
-  "verdict": "Piturie has a lower overall climate risk score (33/100) compared to Plainby (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Piturie has a lower overall climate risk score (28/100) compared to Plainby (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Piturie or Plainby safer from flooding?",
-      "answer": "Piturie has a flood risk score of 38/100, while Plainby scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Piturie has a flood risk score of 56/100, while Plainby scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Piturie scores 54/100 for bushfire risk. Plainby scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Piturie scores 19/100 for bushfire risk. Plainby scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Piturie or Plainby?",
@@ -76,5 +76,15 @@
       "label": "Plainby Should I Buy?",
       "url": "/suburbs/qld/plainby/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

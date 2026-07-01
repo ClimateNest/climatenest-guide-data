@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 45
+      "scoreA": 30,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 54
+      "scoreA": 51,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 38
+      "scoreA": 33,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 27
+      "scoreA": 44,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 43
+      "scoreA": 39,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 19
     }
   ],
-  "verdict": "Buccan has a lower overall climate risk score (39/100) compared to Bucca (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bucca has a lower overall climate risk score (36/100) compared to Buccan (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bucca or Buccan safer from flooding?",
-      "answer": "Bucca has a flood risk score of 58/100, while Buccan scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bucca has a flood risk score of 30/100, while Buccan scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bucca scores 60/100 for bushfire risk. Buccan scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bucca scores 51/100 for bushfire risk. Buccan scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bucca or Buccan?",
-      "answer": "Both suburbs have climate considerations. Buccan has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bucca has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Buccan Should I Buy?",
       "url": "/suburbs/qld/buccan/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3693,
+    "projected2030": 5171,
+    "projected2050": 9603
+  },
+  "valueImpact": {
+    "dragPercent": 1,
+    "description": "Properties in this area may face a 1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 33
+      "scoreA": 33,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
+      "scoreA": 37,
       "scoreB": 30
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 71
+      "scoreA": 51,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 49
+      "scoreA": 48,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 44
+      "scoreA": 28,
+      "scoreB": 48
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
+      "scoreA": 18,
       "scoreB": 17
     }
   ],
-  "verdict": "Hatfield has a lower overall climate risk score (40/100) compared to Hawkesbury Heights (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hatfield has a lower overall climate risk score (36/100) compared to Hawkesbury Heights (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Hatfield or Hawkesbury Heights safer from flooding?",
-      "answer": "Hatfield has a flood risk score of 56/100, while Hawkesbury Heights scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hatfield has a flood risk score of 33/100, while Hawkesbury Heights scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hatfield scores 29/100 for bushfire risk. Hawkesbury Heights scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hatfield scores 37/100 for bushfire risk. Hawkesbury Heights scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hatfield or Hawkesbury Heights?",
@@ -76,5 +76,15 @@
       "label": "Hawkesbury Heights Should I Buy?",
       "url": "/suburbs/nsw/hawkesbury-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

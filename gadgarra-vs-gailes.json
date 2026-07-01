@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 46
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 26
+      "scoreA": 52,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 48
+      "scoreA": 34,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 37,
+      "scoreA": 47,
       "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 44
+      "scoreA": 15,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
+      "scoreA": 14,
       "scoreB": 13
     }
   ],
-  "verdict": "Gadgarra has a lower overall climate risk score (33/100) compared to Gailes (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Gailes has a lower overall climate risk score (33/100) compared to Gadgarra (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gadgarra or Gailes safer from flooding?",
-      "answer": "Gadgarra has a flood risk score of 43/100, while Gailes scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gadgarra has a flood risk score of 48/100, while Gailes scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gadgarra scores 54/100 for bushfire risk. Gailes scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gadgarra scores 52/100 for bushfire risk. Gailes scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gadgarra or Gailes?",
-      "answer": "Both suburbs have climate considerations. Gadgarra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Gailes has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Gailes Should I Buy?",
       "url": "/suburbs/qld/gailes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

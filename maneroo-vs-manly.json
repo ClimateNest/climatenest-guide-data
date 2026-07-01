@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 35
+      "scoreA": 47,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 38,
-      "scoreB": 43
+      "scoreA": 20,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 47
+      "scoreA": 35,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 32
+      "scoreA": 28,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 58
+      "scoreA": 23,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 9,
-      "scoreB": 28
+      "scoreA": 14,
+      "scoreB": 26
     }
   ],
-  "verdict": "Maneroo has a lower overall climate risk score (29/100) compared to Manly (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Maneroo has a lower overall climate risk score (28/100) compared to Manly (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Maneroo or Manly safer from flooding?",
-      "answer": "Maneroo has a flood risk score of 36/100, while Manly scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Maneroo has a flood risk score of 47/100, while Manly scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Maneroo scores 38/100 for bushfire risk. Manly scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Maneroo scores 20/100 for bushfire risk. Manly scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Maneroo or Manly?",
@@ -76,5 +76,15 @@
       "label": "Manly Should I Buy?",
       "url": "/suburbs/qld/manly/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

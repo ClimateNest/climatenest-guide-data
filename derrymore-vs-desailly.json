@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 35
+      "scoreA": 48,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 16
+      "scoreA": 40,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 34
+      "scoreA": 39,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 22
+      "scoreA": 49,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 38,
-      "scoreB": 21
+      "scoreA": 30,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 15
+      "scoreA": 24,
+      "scoreB": 17
     }
   ],
-  "verdict": "Desailly has a lower overall climate risk score (24/100) compared to Derrymore (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Desailly has a lower overall climate risk score (31/100) compared to Derrymore (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Derrymore or Desailly safer from flooding?",
-      "answer": "Derrymore has a flood risk score of 24/100, while Desailly scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Derrymore has a flood risk score of 48/100, while Desailly scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Derrymore scores 59/100 for bushfire risk. Desailly scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Derrymore scores 40/100 for bushfire risk. Desailly scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Derrymore or Desailly?",
@@ -76,5 +76,15 @@
       "label": "Desailly Should I Buy?",
       "url": "/suburbs/qld/desailly/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

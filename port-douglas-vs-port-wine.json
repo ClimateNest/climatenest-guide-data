@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 19,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 45
+      "scoreA": 49,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 49,
+      "scoreA": 24,
       "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 5,
+      "scoreB": 17
     }
   ],
-  "verdict": "Port Wine has a lower overall climate risk score (32/100) compared to Port Douglas (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Port Douglas has a lower overall climate risk score (23/100) compared to Port Wine (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Port Douglas or Port Wine safer from flooding?",
-      "answer": "Port Douglas has a flood risk score of 48/100, while Port Wine scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Port Douglas has a flood risk score of 21/100, while Port Wine scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Port Douglas scores 30/100 for bushfire risk. Port Wine scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Port Douglas scores 19/100 for bushfire risk. Port Wine scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Port Douglas or Port Wine?",
-      "answer": "Both suburbs have climate considerations. Port Wine has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Port Douglas has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Port Wine Should I Buy?",
       "url": "/suburbs/qld/port-wine/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3433,
+    "projected2030": 4806,
+    "projected2050": 8925
+  },
+  "valueImpact": {
+    "dragPercent": 0.43,
+    "description": "Properties in this area may face a 0.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

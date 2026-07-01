@@ -19,31 +19,31 @@
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 62,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 64
+      "scoreA": 80,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 47
+      "scoreA": 25,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 25,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
+      "scoreA": 29,
       "scoreB": 21
     }
   ],
-  "verdict": "Oaks Estate has a lower overall climate risk score (34/100) compared to O'Connor (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Oaks Estate has a lower overall climate risk score (38/100) compared to O'Connor (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
@@ -52,7 +52,7 @@
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "O'Connor scores 30/100 for bushfire risk. Oaks Estate scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "O'Connor scores 62/100 for bushfire risk. Oaks Estate scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in O'Connor or Oaks Estate?",
@@ -76,5 +76,15 @@
       "label": "Oaks Estate Should I Buy?",
       "url": "/suburbs/act/oaks-estate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,13 +14,13 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 45
+      "scoreA": 38,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 38
+      "scoreA": 42,
+      "scoreB": 42
     },
     {
       "name": "Heat",
@@ -30,33 +30,33 @@
     {
       "name": "Storm",
       "scoreA": 26,
-      "scoreB": 40
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 42,
-      "scoreB": 28
+      "scoreA": 34,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 19,
+      "scoreB": 14
     }
   ],
-  "verdict": "Bundewallah has a lower overall climate risk score (33/100) compared to Bundure (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Bundure has a lower overall climate risk score (34/100) compared to Bundewallah (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bundewallah or Bundure safer from flooding?",
-      "answer": "Bundewallah has a flood risk score of 26/100, while Bundure scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bundewallah has a flood risk score of 38/100, while Bundure scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bundewallah scores 18/100 for bushfire risk. Bundure scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bundewallah scores 42/100 for bushfire risk. Bundure scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bundewallah or Bundure?",
-      "answer": "Both suburbs have climate considerations. Bundewallah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bundure has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bundure Should I Buy?",
       "url": "/suburbs/nsw/bundure/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3739,
+    "projected2030": 5234,
+    "projected2050": 9721
+  },
+  "valueImpact": {
+    "dragPercent": 1.1,
+    "description": "Properties in this area may face a 1.1% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

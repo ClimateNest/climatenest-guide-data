@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 41
+      "scoreA": 46,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 19
+      "scoreA": 49,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 77
+      "scoreA": 65,
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 21
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 17
+      "scoreA": 29,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 13,
+      "scoreB": 13
     }
   ],
-  "verdict": "Allendale East has a lower overall climate risk score (33/100) compared to Alford (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Allendale East has a lower overall climate risk score (30/100) compared to Alford (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Alford or Allendale East safer from flooding?",
-      "answer": "Alford has a flood risk score of 51/100, while Allendale East scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alford has a flood risk score of 46/100, while Allendale East scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alford scores 45/100 for bushfire risk. Allendale East scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alford scores 49/100 for bushfire risk. Allendale East scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alford or Allendale East?",
@@ -76,5 +76,15 @@
       "label": "Allendale East Should I Buy?",
       "url": "/suburbs/sa/allendale-east/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

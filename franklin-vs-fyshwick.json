@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 31
+      "scoreA": 52,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 59,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 78
+      "scoreA": 69,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 28
+      "scoreA": 32,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
+      "scoreA": 12,
       "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
+      "scoreA": 21,
       "scoreB": 13
     }
   ],
-  "verdict": "Franklin has a lower overall climate risk score (29/100) compared to Fyshwick (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Franklin has a lower overall climate risk score (41/100) compared to Fyshwick (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Franklin or Fyshwick safer from flooding?",
-      "answer": "Franklin has a flood risk score of 25/100, while Fyshwick scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Franklin has a flood risk score of 52/100, while Fyshwick scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Franklin scores 30/100 for bushfire risk. Fyshwick scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Franklin scores 59/100 for bushfire risk. Fyshwick scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Franklin or Fyshwick?",
@@ -76,5 +76,15 @@
       "label": "Fyshwick Should I Buy?",
       "url": "/suburbs/act/fyshwick/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

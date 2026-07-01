@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 32
+      "scoreA": 29,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 59
+      "scoreA": 53,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 44
+      "scoreA": 33,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 36,
-      "scoreB": 30
+      "scoreA": 42,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 27
+      "scoreA": 14,
+      "scoreB": 17
     }
   ],
-  "verdict": "Sandy Hollow has a lower overall climate risk score (37/100) compared to Sandy Point (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Sandy Hollow has a lower overall climate risk score (33/100) compared to Sandy Point (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Sandy Hollow or Sandy Point safer from flooding?",
-      "answer": "Sandy Hollow has a flood risk score of 26/100, while Sandy Point scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Sandy Hollow has a flood risk score of 29/100, while Sandy Point scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Sandy Hollow scores 55/100 for bushfire risk. Sandy Point scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Sandy Hollow scores 26/100 for bushfire risk. Sandy Point scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Sandy Hollow or Sandy Point?",
@@ -76,5 +76,15 @@
       "label": "Sandy Point Should I Buy?",
       "url": "/suburbs/nsw/sandy-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

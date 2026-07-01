@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 30
+      "scoreA": 36,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 74
+      "scoreA": 61,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 40
+      "scoreA": 23,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 14
+      "scoreA": 12,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 20
+      "scoreA": 10,
+      "scoreB": 26
     }
   ],
-  "verdict": "Morn Hill has a lower overall climate risk score (35/100) compared to Morphett Vale (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Morn Hill has a lower overall climate risk score (29/100) compared to Morphett Vale (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Morn Hill or Morphett Vale safer from flooding?",
-      "answer": "Morn Hill has a flood risk score of 54/100, while Morphett Vale scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Morn Hill has a flood risk score of 36/100, while Morphett Vale scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Morn Hill scores 23/100 for bushfire risk. Morphett Vale scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Morn Hill scores 33/100 for bushfire risk. Morphett Vale scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Morn Hill or Morphett Vale?",
@@ -76,5 +76,15 @@
       "label": "Morphett Vale Should I Buy?",
       "url": "/suburbs/sa/morphett-vale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

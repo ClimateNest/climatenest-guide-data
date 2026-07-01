@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 39
+      "scoreA": 50,
+      "scoreB": 56
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 29
+      "scoreA": 50,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 35,
+      "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 22
+      "scoreA": 18,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 16
     }
   ],
-  "verdict": "Bowen has a lower overall climate risk score (27/100) compared to Boulia (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Boulia and Bowen have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Boulia or Bowen safer from flooding?",
-      "answer": "Boulia has a flood risk score of 39/100, while Bowen scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Boulia has a flood risk score of 50/100, while Bowen scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Boulia scores 47/100 for bushfire risk. Bowen scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Boulia scores 50/100 for bushfire risk. Bowen scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Boulia or Bowen?",
-      "answer": "Both suburbs have climate considerations. Bowen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Boulia has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bowen Should I Buy?",
       "url": "/suburbs/qld/bowen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3297,
+    "projected2030": 4615,
+    "projected2050": 8571
+  },
+  "valueImpact": {
+    "dragPercent": 0.12,
+    "description": "Properties in this area may face a 0.12% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

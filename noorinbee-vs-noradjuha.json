@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 35
+      "scoreA": 42,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 33
+      "scoreA": 57,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 54,
+      "scoreA": 74,
       "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 31
+      "scoreA": 23,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
       "scoreA": 25,
-      "scoreB": 17
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 11
+      "scoreA": 18,
+      "scoreB": 18
     }
   ],
-  "verdict": "Noradjuha has a lower overall climate risk score (34/100) compared to Noorinbee (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Noradjuha has a lower overall climate risk score (33/100) compared to Noorinbee (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Noorinbee or Noradjuha safer from flooding?",
-      "answer": "Noorinbee has a flood risk score of 41/100, while Noradjuha scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Noorinbee has a flood risk score of 42/100, while Noradjuha scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Noorinbee scores 45/100 for bushfire risk. Noradjuha scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Noorinbee scores 57/100 for bushfire risk. Noradjuha scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Noorinbee or Noradjuha?",
@@ -76,5 +76,15 @@
       "label": "Noradjuha Should I Buy?",
       "url": "/suburbs/vic/noradjuha/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

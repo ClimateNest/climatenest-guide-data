@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 21
+      "scoreA": 44,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 24
+      "scoreA": 22,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 33,
-      "scoreB": 64
+      "scoreA": 45,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 38,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 42
+      "scoreA": 42,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
+      "scoreA": 11,
       "scoreB": 21
     }
   ],
-  "verdict": "Rob Roy has a lower overall climate risk score (30/100) compared to Robertson (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rob Roy has a lower overall climate risk score (34/100) compared to Robertson (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rob Roy or Robertson safer from flooding?",
-      "answer": "Rob Roy has a flood risk score of 28/100, while Robertson scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rob Roy has a flood risk score of 44/100, while Robertson scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rob Roy scores 18/100 for bushfire risk. Robertson scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rob Roy scores 22/100 for bushfire risk. Robertson scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rob Roy or Robertson?",
@@ -76,5 +76,15 @@
       "label": "Robertson Should I Buy?",
       "url": "/suburbs/nsw/robertson/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4294,
+    "projected2030": 6012,
+    "projected2050": 11164
+  },
+  "valueImpact": {
+    "dragPercent": 2.33,
+    "description": "Properties in this area may face a 2.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

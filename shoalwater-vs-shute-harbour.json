@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 35
+      "scoreA": 45,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 42
+      "scoreA": 37,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 38
+      "scoreA": 46,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 40
+      "scoreA": 41,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 22,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 11,
+      "scoreB": 6
     }
   ],
-  "verdict": "Shute Harbour has a lower overall climate risk score (30/100) compared to Shoalwater (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Shoalwater has a lower overall climate risk score (34/100) compared to Shute Harbour (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Shoalwater or Shute Harbour safer from flooding?",
-      "answer": "Shoalwater has a flood risk score of 55/100, while Shute Harbour scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Shoalwater has a flood risk score of 45/100, while Shute Harbour scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Shoalwater scores 65/100 for bushfire risk. Shute Harbour scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Shoalwater scores 37/100 for bushfire risk. Shute Harbour scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Shoalwater or Shute Harbour?",
-      "answer": "Both suburbs have climate considerations. Shute Harbour has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Shoalwater has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Shute Harbour Should I Buy?",
       "url": "/suburbs/qld/shute-harbour/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

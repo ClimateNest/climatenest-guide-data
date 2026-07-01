@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 37
+      "scoreA": 37,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
       "scoreA": 21,
-      "scoreB": 62
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 61
+      "scoreA": 71,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 45
+      "scoreA": 45,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 30
+      "scoreA": 22,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
       "scoreA": 13,
-      "scoreB": 14
+      "scoreB": 22
     }
   ],
-  "verdict": "Ringwood has a lower overall climate risk score (30/100) compared to Ringwood North (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ringwood has a lower overall climate risk score (35/100) compared to Ringwood North (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ringwood or Ringwood North safer from flooding?",
-      "answer": "Ringwood has a flood risk score of 34/100, while Ringwood North scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ringwood has a flood risk score of 37/100, while Ringwood North scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ringwood scores 21/100 for bushfire risk. Ringwood North scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ringwood scores 21/100 for bushfire risk. Ringwood North scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ringwood or Ringwood North?",
@@ -76,5 +76,15 @@
       "label": "Ringwood North Should I Buy?",
       "url": "/suburbs/vic/ringwood-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

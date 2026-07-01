@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 31
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 65
+      "scoreA": 32,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 63
+      "scoreA": 63,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 25
+      "scoreA": 29,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 12
+      "scoreA": 20,
+      "scoreB": 14
     }
   ],
-  "verdict": "Beulah has a lower overall climate risk score (36/100) compared to Bicheno (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beulah has a lower overall climate risk score (34/100) compared to Bicheno (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Beulah or Bicheno safer from flooding?",
-      "answer": "Beulah has a flood risk score of 37/100, while Bicheno scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beulah has a flood risk score of 36/100, while Bicheno scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beulah scores 39/100 for bushfire risk. Bicheno scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beulah scores 32/100 for bushfire risk. Bicheno scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beulah or Bicheno?",
@@ -76,5 +76,15 @@
       "label": "Bicheno Should I Buy?",
       "url": "/suburbs/tas/bicheno/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

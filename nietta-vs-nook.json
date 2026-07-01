@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 30
+      "scoreA": 21,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 64
+      "scoreA": 55,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 67
+      "scoreA": 69,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 40
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 12,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 18
+      "scoreA": 13,
+      "scoreB": 13
     }
   ],
-  "verdict": "Nook has a lower overall climate risk score (42/100) compared to Nietta (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Nietta has a lower overall climate risk score (36/100) compared to Nook (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Nietta or Nook safer from flooding?",
-      "answer": "Nietta has a flood risk score of 47/100, while Nook scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nietta has a flood risk score of 21/100, while Nook scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nietta scores 62/100 for bushfire risk. Nook scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nietta scores 55/100 for bushfire risk. Nook scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nietta or Nook?",
-      "answer": "Both suburbs have climate considerations. Nook has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Nietta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Nook Should I Buy?",
       "url": "/suburbs/tas/nook/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 28,
-      "scoreB": 38
+      "scoreA": 56,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 38
+      "scoreA": 16,
+      "scoreB": 42
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 76
+      "scoreA": 55,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
       "scoreA": 16,
-      "scoreB": 16
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 13,
       "scoreB": 11
     }
   ],
-  "verdict": "Milabena has a lower overall climate risk score (29/100) compared to Moina (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Milabena has a lower overall climate risk score (30/100) compared to Moina (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Milabena or Moina safer from flooding?",
-      "answer": "Milabena has a flood risk score of 28/100, while Moina scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Milabena has a flood risk score of 56/100, while Moina scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Milabena scores 31/100 for bushfire risk. Moina scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Milabena scores 16/100 for bushfire risk. Moina scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Milabena or Moina?",
@@ -76,5 +76,15 @@
       "label": "Moina Should I Buy?",
       "url": "/suburbs/tas/moina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

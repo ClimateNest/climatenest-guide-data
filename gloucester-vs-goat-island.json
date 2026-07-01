@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 50
+      "scoreA": 56,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 23
+      "scoreA": 33,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 45
+      "scoreA": 63,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 41
+      "scoreA": 47,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 40,
-      "scoreB": 51
+      "scoreA": 42,
+      "scoreB": 42
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 14
+      "scoreA": 20,
+      "scoreB": 21
     }
   ],
-  "verdict": "Goat Island has a lower overall climate risk score (37/100) compared to Gloucester (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goat Island has a lower overall climate risk score (39/100) compared to Gloucester (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gloucester or Goat Island safer from flooding?",
-      "answer": "Gloucester has a flood risk score of 39/100, while Goat Island scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gloucester has a flood risk score of 56/100, while Goat Island scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gloucester scores 28/100 for bushfire risk. Goat Island scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gloucester scores 33/100 for bushfire risk. Goat Island scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gloucester or Goat Island?",
@@ -76,5 +76,15 @@
       "label": "Goat Island Should I Buy?",
       "url": "/suburbs/nsw/goat-island/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4158,
+    "projected2030": 5821,
+    "projected2050": 10811
+  },
+  "valueImpact": {
+    "dragPercent": 2.03,
+    "description": "Properties in this area may face a 2.03% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

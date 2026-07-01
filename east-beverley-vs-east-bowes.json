@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 34
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 54
+      "scoreA": 48,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 31
+      "scoreA": 75,
+      "scoreB": 35
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 25
+      "scoreA": 32,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
+      "scoreA": 28,
       "scoreB": 13
     },
     {
       "name": "Cyclone",
       "scoreA": 26,
-      "scoreB": 18
+      "scoreB": 22
     }
   ],
-  "verdict": "East Bowes has a lower overall climate risk score (29/100) compared to East Beverley (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "East Bowes has a lower overall climate risk score (29/100) compared to East Beverley (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is East Beverley or East Bowes safer from flooding?",
-      "answer": "East Beverley has a flood risk score of 43/100, while East Bowes scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "East Beverley has a flood risk score of 50/100, while East Bowes scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "East Beverley scores 47/100 for bushfire risk. East Bowes scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "East Beverley scores 48/100 for bushfire risk. East Bowes scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in East Beverley or East Bowes?",
@@ -76,5 +76,15 @@
       "label": "East Bowes Should I Buy?",
       "url": "/suburbs/wa/east-bowes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4135,
+    "projected2030": 5789,
+    "projected2050": 10752
+  },
+  "valueImpact": {
+    "dragPercent": 1.98,
+    "description": "Properties in this area may face a 1.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

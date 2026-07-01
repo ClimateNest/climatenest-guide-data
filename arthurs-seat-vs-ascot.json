@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 31,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 60
+      "scoreA": 27,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 64
+      "scoreA": 53,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 36
+      "scoreA": 27,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 26,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 28
+      "scoreA": 26,
+      "scoreB": 20
     }
   ],
-  "verdict": "Arthurs Seat has a lower overall climate risk score (36/100) compared to Ascot (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Ascot has a lower overall climate risk score (31/100) compared to Arthurs Seat (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Arthurs Seat or Ascot safer from flooding?",
-      "answer": "Arthurs Seat has a flood risk score of 39/100, while Ascot scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Arthurs Seat has a flood risk score of 31/100, while Ascot scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Arthurs Seat scores 24/100 for bushfire risk. Ascot scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Arthurs Seat scores 27/100 for bushfire risk. Ascot scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Arthurs Seat or Ascot?",
-      "answer": "Both suburbs have climate considerations. Arthurs Seat has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Ascot has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ascot Should I Buy?",
       "url": "/suburbs/vic/ascot/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3353,
+    "projected2030": 4695,
+    "projected2050": 8719
+  },
+  "valueImpact": {
+    "dragPercent": 0.25,
+    "description": "Properties in this area may face a 0.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

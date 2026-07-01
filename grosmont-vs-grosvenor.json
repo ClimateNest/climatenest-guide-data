@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 54
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 46
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
-      "scoreB": 38
-    },
-    {
-      "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 37
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 14,
+      "scoreA": 28,
       "scoreB": 48
     },
     {
+      "name": "Bushfire",
+      "scoreA": 15,
+      "scoreB": 48
+    },
+    {
+      "name": "Heat",
+      "scoreA": 46,
+      "scoreB": 34
+    },
+    {
+      "name": "Storm",
+      "scoreA": 46,
+      "scoreB": 26
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 33
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 28
+      "scoreA": 24,
+      "scoreB": 22
     }
   ],
-  "verdict": "Grosmont has a lower overall climate risk score (29/100) compared to Grosvenor (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Grosmont has a lower overall climate risk score (30/100) compared to Grosvenor (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Grosmont or Grosvenor safer from flooding?",
-      "answer": "Grosmont has a flood risk score of 33/100, while Grosvenor scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Grosmont has a flood risk score of 28/100, while Grosvenor scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Grosmont scores 39/100 for bushfire risk. Grosvenor scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Grosmont scores 15/100 for bushfire risk. Grosvenor scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Grosmont or Grosvenor?",
@@ -76,5 +76,15 @@
       "label": "Grosvenor Should I Buy?",
       "url": "/suburbs/qld/grosvenor/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3591,
+    "projected2030": 5028,
+    "projected2050": 9337
+  },
+  "valueImpact": {
+    "dragPercent": 0.77,
+    "description": "Properties in this area may face a 0.77% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

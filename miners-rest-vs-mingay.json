@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 31
+      "scoreA": 56,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 29
+      "scoreA": 49,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 62
+      "scoreA": 79,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 50
+      "scoreA": 26,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 16,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 19
+      "scoreA": 22,
+      "scoreB": 26
     }
   ],
-  "verdict": "Mingay has a lower overall climate risk score (37/100) compared to Miners Rest (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mingay has a lower overall climate risk score (38/100) compared to Miners Rest (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Miners Rest or Mingay safer from flooding?",
-      "answer": "Miners Rest has a flood risk score of 38/100, while Mingay scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Miners Rest has a flood risk score of 56/100, while Mingay scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Miners Rest scores 60/100 for bushfire risk. Mingay scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Miners Rest scores 49/100 for bushfire risk. Mingay scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Miners Rest or Mingay?",
@@ -76,5 +76,15 @@
       "label": "Mingay Should I Buy?",
       "url": "/suburbs/vic/mingay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

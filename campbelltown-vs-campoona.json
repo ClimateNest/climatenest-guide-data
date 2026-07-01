@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 45
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 41
+      "scoreA": 50,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 59
+      "scoreA": 70,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 39
+      "scoreA": 48,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 22
+      "scoreA": 30,
+      "scoreB": 11
     }
   ],
-  "verdict": "Campbelltown has a lower overall climate risk score (33/100) compared to Campoona (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Campoona has a lower overall climate risk score (41/100) compared to Campbelltown (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Campbelltown or Campoona safer from flooding?",
-      "answer": "Campbelltown has a flood risk score of 32/100, while Campoona scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Campbelltown has a flood risk score of 58/100, while Campoona scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Campbelltown scores 29/100 for bushfire risk. Campoona scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Campbelltown scores 50/100 for bushfire risk. Campoona scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Campbelltown or Campoona?",
-      "answer": "Both suburbs have climate considerations. Campbelltown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Campoona has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Campoona Should I Buy?",
       "url": "/suburbs/sa/campoona/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4283,
+    "projected2030": 5996,
+    "projected2050": 11135
+  },
+  "valueImpact": {
+    "dragPercent": 2.3,
+    "description": "Properties in this area may face a 2.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

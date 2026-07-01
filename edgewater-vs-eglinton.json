@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
+      "scoreA": 46,
       "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 58,
-      "scoreB": 74
+      "scoreA": 74,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 23
+      "scoreA": 20,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 18
+      "scoreA": 20,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 22
+      "scoreA": 14,
+      "scoreB": 11
     }
   ],
-  "verdict": "Edgewater has a lower overall climate risk score (33/100) compared to Eglinton (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Eglinton has a lower overall climate risk score (36/100) compared to Edgewater (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Edgewater or Eglinton safer from flooding?",
-      "answer": "Edgewater has a flood risk score of 34/100, while Eglinton scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Edgewater has a flood risk score of 46/100, while Eglinton scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Edgewater scores 17/100 for bushfire risk. Eglinton scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Edgewater scores 40/100 for bushfire risk. Eglinton scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Edgewater or Eglinton?",
-      "answer": "Both suburbs have climate considerations. Edgewater has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eglinton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eglinton Should I Buy?",
       "url": "/suburbs/wa/eglinton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

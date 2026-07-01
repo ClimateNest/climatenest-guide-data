@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 21
+      "scoreA": 55,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 64
+      "scoreA": 41,
+      "scoreB": 53
     },
     {
       "name": "Heat",
-      "scoreA": 55,
+      "scoreA": 64,
       "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 22
+      "scoreA": 21,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 40
+      "scoreA": 24,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 14
     }
   ],
-  "verdict": "Junction Hill has a lower overall climate risk score (35/100) compared to Jugiong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Jugiong has a lower overall climate risk score (39/100) compared to Junction Hill (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jugiong or Junction Hill safer from flooding?",
-      "answer": "Jugiong has a flood risk score of 47/100, while Junction Hill scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jugiong has a flood risk score of 55/100, while Junction Hill scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jugiong scores 57/100 for bushfire risk. Junction Hill scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jugiong scores 41/100 for bushfire risk. Junction Hill scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jugiong or Junction Hill?",
-      "answer": "Both suburbs have climate considerations. Junction Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Jugiong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Junction Hill Should I Buy?",
       "url": "/suburbs/nsw/junction-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

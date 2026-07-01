@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 39
+      "scoreA": 30,
+      "scoreB": 22
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 33
+      "scoreA": 45,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 53
+      "scoreA": 59,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 41,
-      "scoreB": 33
+      "scoreA": 50,
+      "scoreB": 29
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 15,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 13
+      "scoreA": 20,
+      "scoreB": 21
     }
   ],
-  "verdict": "Bellbird Creek has a lower overall climate risk score (32/100) compared to Bellarine (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bellbird Creek has a lower overall climate risk score (35/100) compared to Bellarine (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Bellarine or Bellbird Creek safer from flooding?",
-      "answer": "Bellarine has a flood risk score of 41/100, while Bellbird Creek scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellarine has a flood risk score of 30/100, while Bellbird Creek scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellarine scores 58/100 for bushfire risk. Bellbird Creek scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellarine scores 45/100 for bushfire risk. Bellbird Creek scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellarine or Bellbird Creek?",
@@ -76,5 +76,15 @@
       "label": "Bellbird Creek Should I Buy?",
       "url": "/suburbs/vic/bellbird-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3682,
+    "projected2030": 5155,
+    "projected2050": 9573
+  },
+  "valueImpact": {
+    "dragPercent": 0.98,
+    "description": "Properties in this area may face a 0.98% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

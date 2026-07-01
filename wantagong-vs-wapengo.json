@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 56
+      "scoreA": 44,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 29,
-      "scoreB": 17
+      "scoreA": 63,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 65
+      "scoreA": 51,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 25
+      "scoreA": 46,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 28
+      "scoreA": 28,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 14
+      "scoreA": 15,
+      "scoreB": 11
     }
   ],
-  "verdict": "Wapengo has a lower overall climate risk score (34/100) compared to Wantagong (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wapengo has a lower overall climate risk score (28/100) compared to Wantagong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wantagong or Wapengo safer from flooding?",
-      "answer": "Wantagong has a flood risk score of 58/100, while Wapengo scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wantagong has a flood risk score of 44/100, while Wapengo scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wantagong scores 29/100 for bushfire risk. Wapengo scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wantagong scores 63/100 for bushfire risk. Wapengo scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wantagong or Wapengo?",
@@ -76,5 +76,15 @@
       "label": "Wapengo Should I Buy?",
       "url": "/suburbs/nsw/wapengo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

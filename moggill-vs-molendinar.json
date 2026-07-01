@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 33
+      "scoreA": 58,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 32
+      "scoreA": 64,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 42
+      "scoreA": 44,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 50,
+      "scoreA": 48,
       "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 39
+      "scoreA": 45,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 28
+      "scoreA": 11,
+      "scoreB": 22
     }
   ],
-  "verdict": "Molendinar has a lower overall climate risk score (35/100) compared to Moggill (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Molendinar has a lower overall climate risk score (42/100) compared to Moggill (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moggill or Molendinar safer from flooding?",
-      "answer": "Moggill has a flood risk score of 45/100, while Molendinar scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moggill has a flood risk score of 58/100, while Molendinar scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moggill scores 54/100 for bushfire risk. Molendinar scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moggill scores 64/100 for bushfire risk. Molendinar scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moggill or Molendinar?",
@@ -76,5 +76,15 @@
       "label": "Molendinar Should I Buy?",
       "url": "/suburbs/qld/molendinar/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

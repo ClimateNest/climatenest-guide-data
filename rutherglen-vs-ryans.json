@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 40
+      "scoreA": 45,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 17
+      "scoreA": 20,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 68
+      "scoreA": 59,
+      "scoreB": 78
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 40
+      "scoreA": 25,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 15
+      "scoreA": 19,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 12
+      "scoreA": 14,
+      "scoreB": 11
     }
   ],
-  "verdict": "Ryans has a lower overall climate risk score (32/100) compared to Rutherglen (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Rutherglen has a lower overall climate risk score (30/100) compared to Ryans (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rutherglen or Ryans safer from flooding?",
-      "answer": "Rutherglen has a flood risk score of 25/100, while Ryans scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rutherglen has a flood risk score of 45/100, while Ryans scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rutherglen scores 59/100 for bushfire risk. Ryans scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rutherglen scores 20/100 for bushfire risk. Ryans scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rutherglen or Ryans?",
-      "answer": "Both suburbs have climate considerations. Ryans has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rutherglen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ryans Should I Buy?",
       "url": "/suburbs/vic/ryans/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 52
+      "scoreA": 35,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 64
+      "scoreA": 46,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 70
+      "scoreA": 77,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 23
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 18,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 16
+      "scoreA": 18,
+      "scoreB": 13
     }
   ],
-  "verdict": "Gooloogong has a lower overall climate risk score (39/100) compared to Goombargana (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Goombargana has a lower overall climate risk score (34/100) compared to Gooloogong (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gooloogong or Goombargana safer from flooding?",
-      "answer": "Gooloogong has a flood risk score of 42/100, while Goombargana scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gooloogong has a flood risk score of 35/100, while Goombargana scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gooloogong scores 43/100 for bushfire risk. Goombargana scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gooloogong scores 46/100 for bushfire risk. Goombargana scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gooloogong or Goombargana?",
-      "answer": "Both suburbs have climate considerations. Gooloogong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Goombargana has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Goombargana Should I Buy?",
       "url": "/suburbs/nsw/goombargana/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 52
+      "scoreA": 22,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 28
+      "scoreA": 40,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 67
+      "scoreA": 71,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 40
+      "scoreA": 33,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 10
+      "scoreA": 20,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 17,
+      "scoreB": 12
     }
   ],
-  "verdict": "Hazelwood North has a lower overall climate risk score (36/100) compared to Hazel Park (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Hazelwood North has a lower overall climate risk score (31/100) compared to Hazel Park (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hazel Park or Hazelwood North safer from flooding?",
-      "answer": "Hazel Park has a flood risk score of 40/100, while Hazelwood North scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hazel Park has a flood risk score of 22/100, while Hazelwood North scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hazel Park scores 60/100 for bushfire risk. Hazelwood North scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hazel Park scores 40/100 for bushfire risk. Hazelwood North scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hazel Park or Hazelwood North?",
@@ -76,5 +76,15 @@
       "label": "Hazelwood North Should I Buy?",
       "url": "/suburbs/vic/hazelwood-north/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3501,
+    "projected2030": 4901,
+    "projected2050": 9102
+  },
+  "valueImpact": {
+    "dragPercent": 0.58,
+    "description": "Properties in this area may face a 0.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

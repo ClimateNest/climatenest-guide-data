@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 30,
-      "scoreB": 36
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
+      "scoreA": 35,
       "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 68
+      "scoreA": 58,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 31
+      "scoreA": 29,
+      "scoreB": 39
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 28
+      "scoreA": 16,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 27
     }
   ],
-  "verdict": "Cathundral has a lower overall climate risk score (33/100) compared to Cattle Creek (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Cathundral has a lower overall climate risk score (31/100) compared to Cattle Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Cathundral or Cattle Creek safer from flooding?",
-      "answer": "Cathundral has a flood risk score of 30/100, while Cattle Creek scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Cathundral has a flood risk score of 30/100, while Cattle Creek scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Cathundral scores 39/100 for bushfire risk. Cattle Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Cathundral scores 35/100 for bushfire risk. Cattle Creek scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Cathundral or Cattle Creek?",
@@ -76,5 +76,15 @@
       "label": "Cattle Creek Should I Buy?",
       "url": "/suburbs/nsw/cattle-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

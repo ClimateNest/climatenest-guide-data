@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 54
+      "scoreA": 30,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 55,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 78
+      "scoreA": 57,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 47
+      "scoreA": 27,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 22
+      "scoreA": 41,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 26
+      "scoreA": 24,
+      "scoreB": 16
     }
   ],
-  "verdict": "Rannock has a lower overall climate risk score (44/100) compared to Rankin Park (48/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rannock has a lower overall climate risk score (34/100) compared to Rankin Park (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rankin Park or Rannock safer from flooding?",
-      "answer": "Rankin Park has a flood risk score of 56/100, while Rannock scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rankin Park has a flood risk score of 30/100, while Rannock scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rankin Park scores 47/100 for bushfire risk. Rannock scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rankin Park scores 55/100 for bushfire risk. Rannock scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rankin Park or Rannock?",
@@ -76,5 +76,15 @@
       "label": "Rannock Should I Buy?",
       "url": "/suburbs/nsw/rannock/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

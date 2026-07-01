@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 46
+      "scoreA": 51,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 59
+      "scoreA": 46,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 62
+      "scoreA": 53,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 16
+      "scoreA": 21,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 13
+      "scoreA": 21,
+      "scoreB": 11
     }
   ],
-  "verdict": "Park Orchards has a lower overall climate risk score (33/100) compared to Parkdale (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Park Orchards has a lower overall climate risk score (39/100) compared to Parkdale (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Park Orchards or Parkdale safer from flooding?",
-      "answer": "Park Orchards has a flood risk score of 46/100, while Parkdale scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Park Orchards has a flood risk score of 51/100, while Parkdale scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Park Orchards scores 33/100 for bushfire risk. Parkdale scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Park Orchards scores 46/100 for bushfire risk. Parkdale scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Park Orchards or Parkdale?",
@@ -76,5 +76,15 @@
       "label": "Parkdale Should I Buy?",
       "url": "/suburbs/vic/parkdale/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

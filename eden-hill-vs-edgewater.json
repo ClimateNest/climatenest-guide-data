@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 39
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 15,
-      "scoreB": 24
-    },
-    {
-      "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 52
-    },
-    {
-      "name": "Storm",
-      "scoreA": 25,
+      "scoreA": 51,
       "scoreB": 25
     },
     {
+      "name": "Bushfire",
+      "scoreA": 26,
+      "scoreB": 33
+    },
+    {
+      "name": "Heat",
+      "scoreA": 78,
+      "scoreB": 58
+    },
+    {
+      "name": "Storm",
+      "scoreA": 34,
+      "scoreB": 22
+    },
+    {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 24
+      "scoreA": 14,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 25
     }
   ],
-  "verdict": "Edgewater has a lower overall climate risk score (31/100) compared to Eden Hill (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Edgewater has a lower overall climate risk score (32/100) compared to Eden Hill (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Eden Hill or Edgewater safer from flooding?",
-      "answer": "Eden Hill has a flood risk score of 47/100, while Edgewater scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eden Hill has a flood risk score of 51/100, while Edgewater scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eden Hill scores 15/100 for bushfire risk. Edgewater scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eden Hill scores 26/100 for bushfire risk. Edgewater scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eden Hill or Edgewater?",
@@ -76,5 +76,15 @@
       "label": "Edgewater Should I Buy?",
       "url": "/suburbs/wa/edgewater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 25
+      "scoreA": 36,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 47
+      "scoreA": 59,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 63,
-      "scoreB": 78
+      "scoreA": 71,
+      "scoreB": 59
     },
     {
       "name": "Storm",
       "scoreA": 37,
-      "scoreB": 30
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 24,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 17
+      "scoreA": 27,
+      "scoreB": 11
     }
   ],
-  "verdict": "Waterholes has a lower overall climate risk score (34/100) compared to Waterloo (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Waterloo has a lower overall climate risk score (37/100) compared to Waterholes (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Waterholes or Waterloo safer from flooding?",
-      "answer": "Waterholes has a flood risk score of 26/100, while Waterloo scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Waterholes has a flood risk score of 36/100, while Waterloo scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Waterholes scores 33/100 for bushfire risk. Waterloo scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Waterholes scores 59/100 for bushfire risk. Waterloo scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Waterholes or Waterloo?",
-      "answer": "Both suburbs have climate considerations. Waterholes has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Waterloo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Waterloo Should I Buy?",
       "url": "/suburbs/vic/waterloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

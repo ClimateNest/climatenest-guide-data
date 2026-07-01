@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 51
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 28
-    },
-    {
-      "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 77
-    },
-    {
-      "name": "Storm",
-      "scoreA": 47,
+      "scoreA": 40,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 25,
+      "scoreB": 29
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 68
+    },
+    {
+      "name": "Storm",
+      "scoreA": 46,
+      "scoreB": 34
+    },
+    {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 27,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 16
+      "scoreA": 17,
+      "scoreB": 19
     }
   ],
-  "verdict": "Rushy Lagoon has a lower overall climate risk score (37/100) compared to Runnymede (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Runnymede has a lower overall climate risk score (35/100) compared to Rushy Lagoon (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Runnymede or Rushy Lagoon safer from flooding?",
-      "answer": "Runnymede has a flood risk score of 29/100, while Rushy Lagoon scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Runnymede has a flood risk score of 40/100, while Rushy Lagoon scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Runnymede scores 48/100 for bushfire risk. Rushy Lagoon scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Runnymede scores 25/100 for bushfire risk. Rushy Lagoon scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Runnymede or Rushy Lagoon?",
-      "answer": "Both suburbs have climate considerations. Rushy Lagoon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Runnymede has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rushy Lagoon Should I Buy?",
       "url": "/suburbs/tas/rushy-lagoon/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3625,
+    "projected2030": 5075,
+    "projected2050": 9426
+  },
+  "valueImpact": {
+    "dragPercent": 0.85,
+    "description": "Properties in this area may face a 0.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

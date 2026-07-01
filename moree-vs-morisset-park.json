@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 61
+      "scoreA": 43,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 67
+      "scoreA": 32,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 32
+      "scoreA": 37,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 40
+      "scoreA": 13,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 29,
+      "scoreB": 15
     }
   ],
-  "verdict": "Moree has a lower overall climate risk score (33/100) compared to Morisset Park (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moree has a lower overall climate risk score (29/100) compared to Morisset Park (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Moree or Morisset Park safer from flooding?",
-      "answer": "Moree has a flood risk score of 54/100, while Morisset Park scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moree has a flood risk score of 20/100, while Morisset Park scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moree scores 41/100 for bushfire risk. Morisset Park scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moree scores 43/100 for bushfire risk. Morisset Park scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moree or Morisset Park?",
@@ -76,5 +76,15 @@
       "label": "Morisset Park Should I Buy?",
       "url": "/suburbs/nsw/morisset-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -15,44 +15,44 @@
     {
       "name": "Flood",
       "scoreA": 41,
-      "scoreB": 54
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 58
+      "scoreA": 55,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 61
+      "scoreA": 66,
+      "scoreB": 67
     },
     {
       "name": "Storm",
-      "scoreA": 20,
-      "scoreB": 28
+      "scoreA": 25,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Salisbury Plains has a lower overall climate risk score (40/100) compared to Salt Ash (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Salisbury Plains has a lower overall climate risk score (40/100) compared to Salt Ash (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Salisbury Plains or Salt Ash safer from flooding?",
-      "answer": "Salisbury Plains has a flood risk score of 41/100, while Salt Ash scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Salisbury Plains has a flood risk score of 41/100, while Salt Ash scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Salisbury Plains scores 31/100 for bushfire risk. Salt Ash scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Salisbury Plains scores 55/100 for bushfire risk. Salt Ash scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Salisbury Plains or Salt Ash?",
@@ -76,5 +76,15 @@
       "label": "Salt Ash Should I Buy?",
       "url": "/suburbs/nsw/salt-ash/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

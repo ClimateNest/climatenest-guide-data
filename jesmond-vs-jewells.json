@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 60
+      "scoreA": 38,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 59
+      "scoreA": 44,
+      "scoreB": 39
     },
     {
       "name": "Heat",
       "scoreA": 66,
-      "scoreB": 74
+      "scoreB": 72
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 39
+      "scoreA": 50,
+      "scoreB": 24
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 54
+      "scoreA": 57,
+      "scoreB": 46
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 22
+      "scoreA": 13,
+      "scoreB": 12
     }
   ],
-  "verdict": "Jesmond has a lower overall climate risk score (41/100) compared to Jewells (51/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Jewells has a lower overall climate risk score (37/100) compared to Jesmond (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Jesmond or Jewells safer from flooding?",
-      "answer": "Jesmond has a flood risk score of 22/100, while Jewells scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jesmond has a flood risk score of 38/100, while Jewells scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jesmond scores 51/100 for bushfire risk. Jewells scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jesmond scores 44/100 for bushfire risk. Jewells scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jesmond or Jewells?",
-      "answer": "Both suburbs have climate considerations. Jesmond has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Jewells has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Jewells Should I Buy?",
       "url": "/suburbs/nsw/jewells/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 48,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 47
+      "scoreA": 31,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 61,
-      "scoreB": 80
+      "scoreA": 62,
+      "scoreB": 64
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 48
+      "scoreA": 36,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 18
+      "scoreA": 35,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 21
+      "scoreA": 21,
+      "scoreB": 15
     }
   ],
-  "verdict": "Wandella has a lower overall climate risk score (41/100) compared to Wandandian (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Wandella has a lower overall climate risk score (38/100) compared to Wandandian (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Wandandian or Wandella safer from flooding?",
-      "answer": "Wandandian has a flood risk score of 42/100, while Wandella scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wandandian has a flood risk score of 48/100, while Wandella scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wandandian scores 60/100 for bushfire risk. Wandella scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wandandian scores 31/100 for bushfire risk. Wandella scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wandandian or Wandella?",
@@ -76,5 +76,15 @@
       "label": "Wandella Should I Buy?",
       "url": "/suburbs/nsw/wandella/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 35
+      "scoreA": 21,
+      "scoreB": 23
     },
     {
       "name": "Bushfire",
-      "scoreA": 48,
-      "scoreB": 22
+      "scoreA": 26,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 74
+      "scoreA": 68,
+      "scoreB": 80
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 46
+      "scoreA": 31,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 41
+      "scoreA": 43,
+      "scoreB": 33
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 24
     }
   ],
-  "verdict": "Marengo has a lower overall climate risk score (39/100) compared to Mardi (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Mardi has a lower overall climate risk score (34/100) compared to Marengo (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mardi or Marengo safer from flooding?",
-      "answer": "Mardi has a flood risk score of 58/100, while Marengo scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mardi has a flood risk score of 21/100, while Marengo scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mardi scores 48/100 for bushfire risk. Marengo scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mardi scores 26/100 for bushfire risk. Marengo scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mardi or Marengo?",
-      "answer": "Both suburbs have climate considerations. Marengo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mardi has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Marengo Should I Buy?",
       "url": "/suburbs/nsw/marengo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

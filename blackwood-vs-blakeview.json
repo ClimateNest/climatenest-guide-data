@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 38
+      "scoreA": 43,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 21,
-      "scoreB": 53
+      "scoreA": 61,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 67
+      "scoreA": 71,
+      "scoreB": 79
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 33
+      "scoreA": 49,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 21
+      "scoreA": 15,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 16
+      "scoreA": 14,
+      "scoreB": 29
     }
   ],
-  "verdict": "Blackwood has a lower overall climate risk score (35/100) compared to Blakeview (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Blakeview has a lower overall climate risk score (36/100) compared to Blackwood (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Blackwood or Blakeview safer from flooding?",
-      "answer": "Blackwood has a flood risk score of 30/100, while Blakeview scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Blackwood has a flood risk score of 43/100, while Blakeview scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Blackwood scores 21/100 for bushfire risk. Blakeview scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Blackwood scores 61/100 for bushfire risk. Blakeview scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Blackwood or Blakeview?",
-      "answer": "Both suburbs have climate considerations. Blackwood has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Blakeview has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Blakeview Should I Buy?",
       "url": "/suburbs/sa/blakeview/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4067,
+    "projected2030": 5694,
+    "projected2050": 10575
+  },
+  "valueImpact": {
+    "dragPercent": 1.82,
+    "description": "Properties in this area may face a 1.82% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 20,
-      "scoreB": 39
+      "scoreA": 58,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 63
+      "scoreA": 43,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 48
+      "scoreA": 43,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 41
+      "scoreA": 26,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 53
+      "scoreA": 34,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 28
     }
   ],
-  "verdict": "Kagaru has a lower overall climate risk score (37/100) compared to Kaimkillenbun (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Kaimkillenbun has a lower overall climate risk score (34/100) compared to Kagaru (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kagaru or Kaimkillenbun safer from flooding?",
-      "answer": "Kagaru has a flood risk score of 20/100, while Kaimkillenbun scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kagaru has a flood risk score of 58/100, while Kaimkillenbun scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kagaru scores 39/100 for bushfire risk. Kaimkillenbun scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kagaru scores 43/100 for bushfire risk. Kaimkillenbun scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kagaru or Kaimkillenbun?",
-      "answer": "Both suburbs have climate considerations. Kagaru has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Kaimkillenbun has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Kaimkillenbun Should I Buy?",
       "url": "/suburbs/qld/kaimkillenbun/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

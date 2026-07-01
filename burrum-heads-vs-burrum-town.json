@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 53
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 58
-    },
-    {
-      "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 40
-    },
-    {
-      "name": "Storm",
-      "scoreA": 23,
+      "scoreA": 27,
       "scoreB": 34
     },
     {
+      "name": "Bushfire",
+      "scoreA": 37,
+      "scoreB": 28
+    },
+    {
+      "name": "Heat",
+      "scoreA": 34,
+      "scoreB": 41
+    },
+    {
+      "name": "Storm",
+      "scoreA": 33,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 49,
-      "scoreB": 53
+      "scoreA": 50,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 15
+      "scoreA": 27,
+      "scoreB": 12
     }
   ],
-  "verdict": "Burrum Heads has a lower overall climate risk score (38/100) compared to Burrum Town (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Burrum Town has a lower overall climate risk score (31/100) compared to Burrum Heads (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Burrum Heads or Burrum Town safer from flooding?",
-      "answer": "Burrum Heads has a flood risk score of 38/100, while Burrum Town scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Burrum Heads has a flood risk score of 27/100, while Burrum Town scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Burrum Heads scores 46/100 for bushfire risk. Burrum Town scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Burrum Heads scores 37/100 for bushfire risk. Burrum Town scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Burrum Heads or Burrum Town?",
-      "answer": "Both suburbs have climate considerations. Burrum Heads has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Burrum Town has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Burrum Town Should I Buy?",
       "url": "/suburbs/qld/burrum-town/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3557,
+    "projected2030": 4980,
+    "projected2050": 9249
+  },
+  "valueImpact": {
+    "dragPercent": 0.7,
+    "description": "Properties in this area may face a 0.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

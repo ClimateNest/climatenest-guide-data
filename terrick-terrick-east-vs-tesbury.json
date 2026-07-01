@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 23
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
       "scoreA": 42,
-      "scoreB": 54
-    },
-    {
-      "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 64
-    },
-    {
-      "name": "Storm",
-      "scoreA": 46,
       "scoreB": 37
     },
     {
+      "name": "Heat",
+      "scoreA": 78,
+      "scoreB": 61
+    },
+    {
+      "name": "Storm",
+      "scoreA": 43,
+      "scoreB": 46
+    },
+    {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 30
+      "scoreA": 15,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 24,
+      "scoreB": 18
     }
   ],
-  "verdict": "Tesbury has a lower overall climate risk score (40/100) compared to Terrick Terrick East (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tesbury has a lower overall climate risk score (38/100) compared to Terrick Terrick East (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Terrick Terrick East or Tesbury safer from flooding?",
-      "answer": "Terrick Terrick East has a flood risk score of 44/100, while Tesbury scores 23/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Terrick Terrick East has a flood risk score of 35/100, while Tesbury scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Terrick Terrick East scores 42/100 for bushfire risk. Tesbury scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Terrick Terrick East scores 42/100 for bushfire risk. Tesbury scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Terrick Terrick East or Tesbury?",
@@ -76,5 +76,15 @@
       "label": "Tesbury Should I Buy?",
       "url": "/suburbs/vic/tesbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

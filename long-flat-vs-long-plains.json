@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 53
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 24,
+      "scoreA": 22,
       "scoreB": 46
     },
     {
+      "name": "Bushfire",
+      "scoreA": 54,
+      "scoreB": 30
+    },
+    {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 77
+      "scoreA": 54,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 48
+      "scoreA": 45,
+      "scoreB": 26
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 11
+      "scoreA": 11,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 15
+      "scoreA": 17,
+      "scoreB": 25
     }
   ],
-  "verdict": "Long Flat has a lower overall climate risk score (40/100) compared to Long Plains (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Long Flat has a lower overall climate risk score (34/100) compared to Long Plains (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Long Flat or Long Plains safer from flooding?",
-      "answer": "Long Flat has a flood risk score of 55/100, while Long Plains scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Long Flat has a flood risk score of 22/100, while Long Plains scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Long Flat scores 24/100 for bushfire risk. Long Plains scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Long Flat scores 54/100 for bushfire risk. Long Plains scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Long Flat or Long Plains?",
@@ -76,5 +76,15 @@
       "label": "Long Plains Should I Buy?",
       "url": "/suburbs/sa/long-plains/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

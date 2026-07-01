@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 27,
-      "scoreB": 32
+      "scoreA": 40,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 39
+      "scoreA": 20,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 39,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 45
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 33,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 23
+      "scoreA": 16,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 6
+      "scoreB": 8
     }
   ],
-  "verdict": "Kureen has a lower overall climate risk score (27/100) compared to Kurrimine Beach (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kureen has a lower overall climate risk score (28/100) compared to Kurrimine Beach (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kureen or Kurrimine Beach safer from flooding?",
-      "answer": "Kureen has a flood risk score of 27/100, while Kurrimine Beach scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kureen has a flood risk score of 40/100, while Kurrimine Beach scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kureen scores 34/100 for bushfire risk. Kurrimine Beach scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kureen scores 20/100 for bushfire risk. Kurrimine Beach scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kureen or Kurrimine Beach?",
@@ -76,5 +76,15 @@
       "label": "Kurrimine Beach Should I Buy?",
       "url": "/suburbs/qld/kurrimine-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

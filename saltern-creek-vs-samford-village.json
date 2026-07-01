@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 35
+      "scoreA": 45,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 34
+      "scoreA": 44,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 41,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 47
+      "scoreA": 42,
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 39
+      "scoreA": 26,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 8,
+      "scoreB": 29
     }
   ],
-  "verdict": "Saltern Creek has a lower overall climate risk score (31/100) compared to Samford Village (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Samford Village has a lower overall climate risk score (33/100) compared to Saltern Creek (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Saltern Creek or Samford Village safer from flooding?",
-      "answer": "Saltern Creek has a flood risk score of 48/100, while Samford Village scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Saltern Creek has a flood risk score of 45/100, while Samford Village scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Saltern Creek scores 30/100 for bushfire risk. Samford Village scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Saltern Creek scores 44/100 for bushfire risk. Samford Village scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Saltern Creek or Samford Village?",
-      "answer": "Both suburbs have climate considerations. Saltern Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Samford Village has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Samford Village Should I Buy?",
       "url": "/suburbs/qld/samford-village/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3535,
+    "projected2030": 4949,
+    "projected2050": 9190
+  },
+  "valueImpact": {
+    "dragPercent": 0.65,
+    "description": "Properties in this area may face a 0.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

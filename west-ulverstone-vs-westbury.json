@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
+      "scoreA": 25,
+      "scoreB": 45
+    },
+    {
+      "name": "Bushfire",
+      "scoreA": 57,
+      "scoreB": 43
+    },
+    {
+      "name": "Heat",
       "scoreA": 57,
       "scoreB": 58
     },
     {
-      "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 62
-    },
-    {
-      "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 56
-    },
-    {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 24
+      "scoreA": 47,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 11
+      "scoreA": 29,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
+      "scoreA": 22,
       "scoreB": 12
     }
   ],
-  "verdict": "Westbury has a lower overall climate risk score (37/100) compared to West Ulverstone (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Westbury has a lower overall climate risk score (39/100) compared to West Ulverstone (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is West Ulverstone or Westbury safer from flooding?",
-      "answer": "West Ulverstone has a flood risk score of 57/100, while Westbury scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "West Ulverstone has a flood risk score of 25/100, while Westbury scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "West Ulverstone scores 55/100 for bushfire risk. Westbury scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "West Ulverstone scores 57/100 for bushfire risk. Westbury scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in West Ulverstone or Westbury?",
@@ -76,5 +76,15 @@
       "label": "Westbury Should I Buy?",
       "url": "/suburbs/tas/westbury/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

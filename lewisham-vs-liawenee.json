@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 52
+      "scoreA": 30,
+      "scoreB": 63
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 73
+      "scoreA": 53,
+      "scoreB": 76
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 25
+      "scoreA": 24,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 19
+      "scoreA": 24,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 11
+      "scoreA": 13,
+      "scoreB": 30
     }
   ],
-  "verdict": "Liawenee has a lower overall climate risk score (35/100) compared to Lewisham (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lewisham has a lower overall climate risk score (29/100) compared to Liawenee (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lewisham or Liawenee safer from flooding?",
-      "answer": "Lewisham has a flood risk score of 52/100, while Liawenee scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lewisham has a flood risk score of 27/100, while Liawenee scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lewisham scores 27/100 for bushfire risk. Liawenee scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lewisham scores 30/100 for bushfire risk. Liawenee scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lewisham or Liawenee?",
-      "answer": "Both suburbs have climate considerations. Liawenee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lewisham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Liawenee Should I Buy?",
       "url": "/suburbs/tas/liawenee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3931,
+    "projected2030": 5504,
+    "projected2050": 10221
+  },
+  "valueImpact": {
+    "dragPercent": 1.52,
+    "description": "Properties in this area may face a 1.52% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

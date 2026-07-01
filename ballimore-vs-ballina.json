@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 21
+      "scoreA": 49,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 49
+      "scoreA": 19,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 36
+      "scoreA": 66,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 31
+      "scoreA": 50,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 42
+      "scoreA": 25,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 20
+      "scoreA": 20,
+      "scoreB": 21
     }
   ],
-  "verdict": "Ballina has a lower overall climate risk score (33/100) compared to Ballimore (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ballina has a lower overall climate risk score (32/100) compared to Ballimore (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Ballimore or Ballina safer from flooding?",
-      "answer": "Ballimore has a flood risk score of 40/100, while Ballina scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ballimore has a flood risk score of 49/100, while Ballina scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ballimore scores 53/100 for bushfire risk. Ballina scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ballimore scores 19/100 for bushfire risk. Ballina scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ballimore or Ballina?",
@@ -76,5 +76,15 @@
       "label": "Ballina Should I Buy?",
       "url": "/suburbs/nsw/ballina/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3795,
+    "projected2030": 5313,
+    "projected2050": 9868
+  },
+  "valueImpact": {
+    "dragPercent": 1.22,
+    "description": "Properties in this area may face a 1.22% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

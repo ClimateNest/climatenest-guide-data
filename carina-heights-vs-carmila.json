@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 25
+      "scoreA": 35,
+      "scoreB": 28
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 47
+      "scoreA": 38,
+      "scoreB": 30
     },
     {
       "name": "Storm",
       "scoreA": 44,
-      "scoreB": 49
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 23
+      "scoreA": 49,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
+      "scoreA": 17,
       "scoreB": 17
     }
   ],
-  "verdict": "Carmila has a lower overall climate risk score (32/100) compared to Carina Heights (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Carmila has a lower overall climate risk score (26/100) compared to Carina Heights (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Carina Heights or Carmila safer from flooding?",
-      "answer": "Carina Heights has a flood risk score of 50/100, while Carmila scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carina Heights has a flood risk score of 21/100, while Carmila scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carina Heights scores 43/100 for bushfire risk. Carmila scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carina Heights scores 35/100 for bushfire risk. Carmila scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carina Heights or Carmila?",
@@ -76,5 +76,15 @@
       "label": "Carmila Should I Buy?",
       "url": "/suburbs/qld/carmila/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

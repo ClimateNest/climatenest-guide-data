@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 22
+      "scoreA": 41,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 42
+      "scoreA": 64,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 76
+      "scoreA": 70,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 28
+      "scoreA": 38,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 13
+      "scoreA": 14,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 16
     }
   ],
-  "verdict": "Natya has a lower overall climate risk score (33/100) compared to Natimuk (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Natya has a lower overall climate risk score (34/100) compared to Natimuk (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Natimuk or Natya safer from flooding?",
-      "answer": "Natimuk has a flood risk score of 49/100, while Natya scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Natimuk has a flood risk score of 41/100, while Natya scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Natimuk scores 34/100 for bushfire risk. Natya scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Natimuk scores 64/100 for bushfire risk. Natya scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Natimuk or Natya?",
@@ -76,5 +76,15 @@
       "label": "Natya Should I Buy?",
       "url": "/suburbs/vic/natya/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4045,
+    "projected2030": 5663,
+    "projected2050": 10516
+  },
+  "valueImpact": {
+    "dragPercent": 1.78,
+    "description": "Properties in this area may face a 1.78% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

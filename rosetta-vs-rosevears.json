@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 36,
-      "scoreB": 51
+      "scoreA": 42,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 37,
-      "scoreB": 33
+      "scoreA": 41,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 54,
-      "scoreB": 61
+      "scoreA": 77,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 31,
-      "scoreB": 26
+      "scoreA": 35,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 20
+      "scoreA": 10,
+      "scoreB": 15
     }
   ],
-  "verdict": "Rosetta has a lower overall climate risk score (35/100) compared to Rosevears (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Rosevears has a lower overall climate risk score (35/100) compared to Rosetta (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rosetta or Rosevears safer from flooding?",
-      "answer": "Rosetta has a flood risk score of 36/100, while Rosevears scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rosetta has a flood risk score of 42/100, while Rosevears scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rosetta scores 37/100 for bushfire risk. Rosevears scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rosetta scores 41/100 for bushfire risk. Rosevears scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rosetta or Rosevears?",
-      "answer": "Both suburbs have climate considerations. Rosetta has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Rosevears has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Rosevears Should I Buy?",
       "url": "/suburbs/tas/rosevears/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3659,
+    "projected2030": 5123,
+    "projected2050": 9514
+  },
+  "valueImpact": {
+    "dragPercent": 0.92,
+    "description": "Properties in this area may face a 0.92% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 52,
-      "scoreB": 37
+      "scoreA": 30,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 26,
-      "scoreB": 50
+      "scoreA": 52,
+      "scoreB": 41
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 60
+      "scoreA": 53,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 36
+      "scoreA": 48,
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 27
+      "scoreA": 11,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 24
+      "scoreA": 15,
+      "scoreB": 30
     }
   ],
-  "verdict": "Kurunjang has a lower overall climate risk score (37/100) compared to Kyabram South (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kurunjang has a lower overall climate risk score (35/100) compared to Kyabram South (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kurunjang or Kyabram South safer from flooding?",
-      "answer": "Kurunjang has a flood risk score of 52/100, while Kyabram South scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kurunjang has a flood risk score of 30/100, while Kyabram South scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kurunjang scores 26/100 for bushfire risk. Kyabram South scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kurunjang scores 52/100 for bushfire risk. Kyabram South scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kurunjang or Kyabram South?",
@@ -76,5 +76,15 @@
       "label": "Kyabram South Should I Buy?",
       "url": "/suburbs/vic/kyabram-south/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

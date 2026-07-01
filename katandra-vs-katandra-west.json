@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 29,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 48
+      "scoreA": 42,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 75,
-      "scoreB": 79
+      "scoreA": 77,
+      "scoreB": 68
     },
     {
       "name": "Storm",
-      "scoreA": 43,
-      "scoreB": 33
+      "scoreA": 32,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 22
+      "scoreA": 24,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 12
+      "scoreA": 12,
+      "scoreB": 24
     }
   ],
-  "verdict": "Katandra West has a lower overall climate risk score (38/100) compared to Katandra (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Katandra has a lower overall climate risk score (36/100) compared to Katandra West (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Katandra or Katandra West safer from flooding?",
-      "answer": "Katandra has a flood risk score of 38/100, while Katandra West scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Katandra has a flood risk score of 29/100, while Katandra West scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Katandra scores 43/100 for bushfire risk. Katandra West scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Katandra scores 42/100 for bushfire risk. Katandra West scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Katandra or Katandra West?",
-      "answer": "Both suburbs have climate considerations. Katandra West has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Katandra has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Katandra West Should I Buy?",
       "url": "/suburbs/vic/katandra-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3829,
+    "projected2030": 5361,
+    "projected2050": 9956
+  },
+  "valueImpact": {
+    "dragPercent": 1.3,
+    "description": "Properties in this area may face a 1.3% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

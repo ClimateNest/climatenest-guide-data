@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 48
+      "scoreA": 42,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 48
+      "scoreA": 36,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 73,
-      "scoreB": 57
+      "scoreA": 72,
+      "scoreB": 61
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 37
+      "scoreA": 40,
+      "scoreB": 50
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 20
+      "scoreA": 17,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 20
     }
   ],
-  "verdict": "Stubbo has a lower overall climate risk score (39/100) compared to Stuart Town (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Stuart Town has a lower overall climate risk score (39/100) compared to Stubbo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Stuart Town or Stubbo safer from flooding?",
-      "answer": "Stuart Town has a flood risk score of 59/100, while Stubbo scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Stuart Town has a flood risk score of 42/100, while Stubbo scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Stuart Town scores 50/100 for bushfire risk. Stubbo scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Stuart Town scores 36/100 for bushfire risk. Stubbo scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Stuart Town or Stubbo?",
-      "answer": "Both suburbs have climate considerations. Stubbo has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Stuart Town has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Stubbo Should I Buy?",
       "url": "/suburbs/nsw/stubbo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

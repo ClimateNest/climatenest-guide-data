@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 26
+      "scoreA": 38,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 51
+      "scoreA": 47,
+      "scoreB": 18
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 71
+      "scoreA": 63,
+      "scoreB": 55
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 48
+      "scoreA": 22,
+      "scoreB": 49
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 15
+      "scoreA": 25,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 20
+      "scoreA": 27,
+      "scoreB": 12
     }
   ],
-  "verdict": "Moyhu has a lower overall climate risk score (39/100) compared to Moutajup (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moyhu has a lower overall climate risk score (33/100) compared to Moutajup (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Moutajup or Moyhu safer from flooding?",
-      "answer": "Moutajup has a flood risk score of 48/100, while Moyhu scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moutajup has a flood risk score of 38/100, while Moyhu scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moutajup scores 52/100 for bushfire risk. Moyhu scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moutajup scores 47/100 for bushfire risk. Moyhu scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moutajup or Moyhu?",
@@ -76,5 +76,15 @@
       "label": "Moyhu Should I Buy?",
       "url": "/suburbs/vic/moyhu/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3716,
+    "projected2030": 5202,
+    "projected2050": 9662
+  },
+  "valueImpact": {
+    "dragPercent": 1.05,
+    "description": "Properties in this area may face a 1.05% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

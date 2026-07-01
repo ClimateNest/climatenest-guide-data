@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 32
+      "scoreA": 30,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 56
+      "scoreA": 37,
+      "scoreB": 19
     },
     {
       "name": "Heat",
-      "scoreA": 49,
-      "scoreB": 50
+      "scoreA": 40,
+      "scoreB": 33
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 31
+      "scoreA": 42,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 10
+      "scoreA": 19,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 16
+      "scoreA": 10,
+      "scoreB": 10
     }
   ],
-  "verdict": "Anula has a lower overall climate risk score (28/100) compared to Araluen (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Araluen has a lower overall climate risk score (25/100) compared to Anula (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Anula or Araluen safer from flooding?",
-      "answer": "Anula has a flood risk score of 26/100, while Araluen scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Anula has a flood risk score of 30/100, while Araluen scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Anula scores 36/100 for bushfire risk. Araluen scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Anula scores 37/100 for bushfire risk. Araluen scores 19/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Anula or Araluen?",
-      "answer": "Both suburbs have climate considerations. Anula has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Araluen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Araluen Should I Buy?",
       "url": "/suburbs/nt/araluen/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3217,
+    "projected2030": 4504,
+    "projected2050": 8365
+  },
+  "valueImpact": {
+    "dragPercent": 0,
+    "description": "Properties in this area face minimal climate value impact based on current projections."
+  },
+  "riskLabel": "Low"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 47
+      "scoreA": 54,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 16
+      "scoreA": 25,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 71,
-      "scoreB": 76
+      "scoreA": 72,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 45
+      "scoreA": 35,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 40
+      "scoreA": 54,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
       "scoreA": 20,
-      "scoreB": 18
+      "scoreB": 27
     }
   ],
-  "verdict": "Berkeley Vale has a lower overall climate risk score (39/100) compared to Berkshire Park (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Berkeley Vale has a lower overall climate risk score (43/100) compared to Berkshire Park (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Berkeley Vale or Berkshire Park safer from flooding?",
-      "answer": "Berkeley Vale has a flood risk score of 23/100, while Berkshire Park scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Berkeley Vale has a flood risk score of 54/100, while Berkshire Park scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Berkeley Vale scores 40/100 for bushfire risk. Berkshire Park scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Berkeley Vale scores 25/100 for bushfire risk. Berkshire Park scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Berkeley Vale or Berkshire Park?",
@@ -76,5 +76,15 @@
       "label": "Berkshire Park Should I Buy?",
       "url": "/suburbs/nsw/berkshire-park/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4260,
+    "projected2030": 5964,
+    "projected2050": 11076
+  },
+  "valueImpact": {
+    "dragPercent": 2.25,
+    "description": "Properties in this area may face a 2.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

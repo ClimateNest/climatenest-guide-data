@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 55
+      "scoreA": 59,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 18
+      "scoreA": 36,
+      "scoreB": 20
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 76
+      "scoreA": 52,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 32
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 32,
+      "scoreA": 28,
       "scoreB": 37
     },
     {
+      "name": "Coastal",
+      "scoreA": 51,
+      "scoreB": 34
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 20
     }
   ],
-  "verdict": "Rookwood has a lower overall climate risk score (38/100) compared to Rollands Plains (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rookwood has a lower overall climate risk score (38/100) compared to Rollands Plains (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Rollands Plains or Rookwood safer from flooding?",
-      "answer": "Rollands Plains has a flood risk score of 47/100, while Rookwood scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rollands Plains has a flood risk score of 59/100, while Rookwood scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rollands Plains scores 61/100 for bushfire risk. Rookwood scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rollands Plains scores 36/100 for bushfire risk. Rookwood scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rollands Plains or Rookwood?",
@@ -76,5 +76,15 @@
       "label": "Rookwood Should I Buy?",
       "url": "/suburbs/nsw/rookwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 22
+      "scoreA": 37,
+      "scoreB": 54
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 64
+      "scoreA": 24,
+      "scoreB": 49
     },
     {
       "name": "Heat",
-      "scoreA": 37,
+      "scoreA": 44,
       "scoreB": 32
     },
     {
       "name": "Storm",
-      "scoreA": 45,
-      "scoreB": 48
+      "scoreA": 48,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 15,
-      "scoreB": 46
+      "scoreA": 16,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 28
+      "scoreA": 20,
+      "scoreB": 15
     }
   ],
-  "verdict": "Lochington has a lower overall climate risk score (29/100) compared to Lockrose (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Lochington has a lower overall climate risk score (32/100) compared to Lockrose (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lochington or Lockrose safer from flooding?",
-      "answer": "Lochington has a flood risk score of 44/100, while Lockrose scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lochington has a flood risk score of 37/100, while Lockrose scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lochington scores 19/100 for bushfire risk. Lockrose scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lochington scores 24/100 for bushfire risk. Lockrose scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lochington or Lockrose?",
@@ -76,5 +76,15 @@
       "label": "Lockrose Should I Buy?",
       "url": "/suburbs/qld/lockrose/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

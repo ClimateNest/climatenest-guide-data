@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 39,
+      "scoreB": 20
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 30
+      "scoreA": 38,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 71
+      "scoreA": 75,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 30
+      "scoreA": 23,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
       "scoreA": 38,
-      "scoreB": 27
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 19
+      "scoreA": 15,
+      "scoreB": 23
     }
   ],
   "verdict": "Arthurville has a lower overall climate risk score (33/100) compared to Arrawarra Headland (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Arrawarra Headland or Arthurville safer from flooding?",
-      "answer": "Arrawarra Headland has a flood risk score of 45/100, while Arthurville scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Arrawarra Headland has a flood risk score of 39/100, while Arthurville scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Arrawarra Headland scores 23/100 for bushfire risk. Arthurville scores 30/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Arrawarra Headland scores 38/100 for bushfire risk. Arthurville scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Arrawarra Headland or Arthurville?",
@@ -76,5 +76,15 @@
       "label": "Arthurville Should I Buy?",
       "url": "/suburbs/nsw/arthurville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

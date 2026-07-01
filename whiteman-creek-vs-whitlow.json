@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 55
+      "scoreA": 49,
+      "scoreB": 36
     },
     {
       "name": "Bushfire",
-      "scoreA": 54,
-      "scoreB": 64
+      "scoreA": 34,
+      "scoreB": 55
     },
     {
       "name": "Heat",
-      "scoreA": 30,
-      "scoreB": 31
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 50,
-      "scoreB": 39
+      "scoreA": 46,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 45,
-      "scoreB": 41
+      "scoreA": 57,
+      "scoreB": 58
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 21
+      "scoreA": 20,
+      "scoreB": 22
     }
   ],
-  "verdict": "Whiteman Creek has a lower overall climate risk score (38/100) compared to Whitlow (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Whiteman Creek has a lower overall climate risk score (41/100) compared to Whitlow (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Whiteman Creek or Whitlow safer from flooding?",
-      "answer": "Whiteman Creek has a flood risk score of 22/100, while Whitlow scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Whiteman Creek has a flood risk score of 49/100, while Whitlow scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Whiteman Creek scores 54/100 for bushfire risk. Whitlow scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Whiteman Creek scores 34/100 for bushfire risk. Whitlow scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Whiteman Creek or Whitlow?",
@@ -76,5 +76,15 @@
       "label": "Whitlow Should I Buy?",
       "url": "/suburbs/nsw/whitlow/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4033,
+    "projected2030": 5647,
+    "projected2050": 10487
+  },
+  "valueImpact": {
+    "dragPercent": 1.75,
+    "description": "Properties in this area may face a 1.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

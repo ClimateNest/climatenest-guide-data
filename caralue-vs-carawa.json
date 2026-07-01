@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 49,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 24,
-      "scoreB": 57
+      "scoreA": 15,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 59
+      "scoreA": 66,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 42
+      "scoreA": 21,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 17
+      "scoreA": 24,
+      "scoreB": 27
     }
   ],
-  "verdict": "Caralue has a lower overall climate risk score (37/100) compared to Carawa (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Caralue has a lower overall climate risk score (33/100) compared to Carawa (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Caralue or Carawa safer from flooding?",
-      "answer": "Caralue has a flood risk score of 47/100, while Carawa scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Caralue has a flood risk score of 49/100, while Carawa scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Caralue scores 24/100 for bushfire risk. Carawa scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Caralue scores 15/100 for bushfire risk. Carawa scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Caralue or Carawa?",
@@ -76,5 +76,15 @@
       "label": "Carawa Should I Buy?",
       "url": "/suburbs/sa/carawa/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

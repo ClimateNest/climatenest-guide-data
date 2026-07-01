@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 43
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 53
-    },
-    {
-      "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 45
-    },
-    {
-      "name": "Storm",
-      "scoreA": 27,
+      "scoreA": 39,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 57,
+      "scoreB": 45
+    },
+    {
+      "name": "Heat",
+      "scoreA": 31,
+      "scoreB": 42
+    },
+    {
+      "name": "Storm",
+      "scoreA": 48,
+      "scoreB": 38
+    },
+    {
       "name": "Coastal",
-      "scoreA": 47,
-      "scoreB": 25
+      "scoreA": 46,
+      "scoreB": 13
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 18
+      "scoreA": 19,
+      "scoreB": 20
     }
   ],
-  "verdict": "Munderra has a lower overall climate risk score (35/100) compared to Munbilla (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Munderra has a lower overall climate risk score (31/100) compared to Munbilla (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Munbilla or Munderra safer from flooding?",
-      "answer": "Munbilla has a flood risk score of 32/100, while Munderra scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Munbilla has a flood risk score of 39/100, while Munderra scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Munbilla scores 52/100 for bushfire risk. Munderra scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Munbilla scores 57/100 for bushfire risk. Munderra scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Munbilla or Munderra?",
@@ -76,5 +76,15 @@
       "label": "Munderra Should I Buy?",
       "url": "/suburbs/qld/munderra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

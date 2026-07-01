@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 55,
-      "scoreB": 42
+      "scoreA": 41,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 44,
-      "scoreB": 31
+      "scoreA": 23,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 67
+      "scoreA": 36,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 39,
+      "scoreA": 42,
       "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 13
+      "scoreA": 55,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 29
+      "scoreA": 15,
+      "scoreB": 18
     }
   ],
-  "verdict": "Potato Point has a lower overall climate risk score (34/100) compared to Possum Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Potato Point has a lower overall climate risk score (34/100) compared to Possum Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Possum Creek or Potato Point safer from flooding?",
-      "answer": "Possum Creek has a flood risk score of 55/100, while Potato Point scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Possum Creek has a flood risk score of 41/100, while Potato Point scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Possum Creek scores 44/100 for bushfire risk. Potato Point scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Possum Creek scores 23/100 for bushfire risk. Potato Point scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Possum Creek or Potato Point?",
@@ -76,5 +76,15 @@
       "label": "Potato Point Should I Buy?",
       "url": "/suburbs/nsw/potato-point/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

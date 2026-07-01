@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 45
+      "scoreA": 22,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 45,
-      "scoreB": 21
+      "scoreA": 48,
+      "scoreB": 50
     },
     {
       "name": "Heat",
-      "scoreA": 42,
-      "scoreB": 58
+      "scoreA": 35,
+      "scoreB": 73
     },
     {
       "name": "Storm",
-      "scoreA": 36,
-      "scoreB": 40
+      "scoreA": 41,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 32,
+      "scoreB": 31
     },
     {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 29
+      "scoreA": 11,
+      "scoreB": 30
     }
   ],
-  "verdict": "Leeville has a lower overall climate risk score (39/100) compared to Leichhardt (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Leeville has a lower overall climate risk score (32/100) compared to Leichhardt (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Leeville or Leichhardt safer from flooding?",
-      "answer": "Leeville has a flood risk score of 42/100, while Leichhardt scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Leeville has a flood risk score of 22/100, while Leichhardt scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Leeville scores 45/100 for bushfire risk. Leichhardt scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Leeville scores 48/100 for bushfire risk. Leichhardt scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Leeville or Leichhardt?",
@@ -76,5 +76,15 @@
       "label": "Leichhardt Should I Buy?",
       "url": "/suburbs/nsw/leichhardt/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4328,
+    "projected2030": 6059,
+    "projected2050": 11253
+  },
+  "valueImpact": {
+    "dragPercent": 2.4,
+    "description": "Properties in this area may face a 2.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

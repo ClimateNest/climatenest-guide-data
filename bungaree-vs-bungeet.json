@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 33
+      "scoreA": 60,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 25
+      "scoreA": 25,
+      "scoreB": 59
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 63
+      "scoreA": 64,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 23
+      "scoreA": 13,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
       "scoreA": 20,
-      "scoreB": 17
+      "scoreB": 19
     }
   ],
-  "verdict": "Bungeet has a lower overall climate risk score (33/100) compared to Bungaree (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bungaree has a lower overall climate risk score (35/100) compared to Bungeet (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bungaree or Bungeet safer from flooding?",
-      "answer": "Bungaree has a flood risk score of 32/100, while Bungeet scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bungaree has a flood risk score of 60/100, while Bungeet scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bungaree scores 46/100 for bushfire risk. Bungeet scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bungaree scores 25/100 for bushfire risk. Bungeet scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bungaree or Bungeet?",
-      "answer": "Both suburbs have climate considerations. Bungeet has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bungaree has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bungeet Should I Buy?",
       "url": "/suburbs/vic/bungeet/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3897,
+    "projected2030": 5456,
+    "projected2050": 10133
+  },
+  "valueImpact": {
+    "dragPercent": 1.45,
+    "description": "Properties in this area may face a 1.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

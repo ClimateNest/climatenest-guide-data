@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 45
+      "scoreA": 22,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 45
+      "scoreA": 35,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 77,
-      "scoreB": 47
+      "scoreA": 63,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 42,
+      "scoreA": 22,
       "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 51,
-      "scoreB": 43
+      "scoreA": 58,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 21
     }
   ],
-  "verdict": "The Freshwater has a lower overall climate risk score (40/100) compared to The Entrance North (47/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "The Entrance North and The Freshwater have similar overall climate risk scores.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is The Entrance North or The Freshwater safer from flooding?",
-      "answer": "The Entrance North has a flood risk score of 50/100, while The Freshwater scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "The Entrance North has a flood risk score of 22/100, while The Freshwater scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "The Entrance North scores 43/100 for bushfire risk. The Freshwater scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "The Entrance North scores 35/100 for bushfire risk. The Freshwater scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in The Entrance North or The Freshwater?",
-      "answer": "Both suburbs have climate considerations. The Freshwater has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. The Entrance North has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "The Freshwater Should I Buy?",
       "url": "/suburbs/nsw/the-freshwater/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

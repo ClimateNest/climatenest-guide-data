@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 33
+      "scoreA": 42,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 51,
-      "scoreB": 56
+      "scoreA": 29,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 74
+      "scoreA": 61,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 25
+      "scoreA": 40,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 25,
-      "scoreB": 19
+      "scoreA": 19,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
+      "scoreA": 24,
       "scoreB": 17
     }
   ],
-  "verdict": "Seal Bay has a lower overall climate risk score (37/100) compared to Seaford Rise (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Seaford Rise has a lower overall climate risk score (36/100) compared to Seal Bay (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Seaford Rise or Seal Bay safer from flooding?",
-      "answer": "Seaford Rise has a flood risk score of 46/100, while Seal Bay scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Seaford Rise has a flood risk score of 42/100, while Seal Bay scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Seaford Rise scores 51/100 for bushfire risk. Seal Bay scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Seaford Rise scores 29/100 for bushfire risk. Seal Bay scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Seaford Rise or Seal Bay?",
-      "answer": "Both suburbs have climate considerations. Seal Bay has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Seaford Rise has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Seal Bay Should I Buy?",
       "url": "/suburbs/sa/seal-bay/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

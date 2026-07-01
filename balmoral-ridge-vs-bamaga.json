@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 39,
-      "scoreB": 48
+      "scoreA": 40,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 58
+      "scoreA": 20,
+      "scoreB": 62
     },
     {
       "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 31,
+      "scoreB": 38
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 39
+      "scoreA": 22,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 10
+      "scoreA": 54,
+      "scoreB": 19
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 12
+      "scoreA": 15,
+      "scoreB": 6
     }
   ],
-  "verdict": "Bamaga has a lower overall climate risk score (35/100) compared to Balmoral Ridge (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Balmoral Ridge has a lower overall climate risk score (30/100) compared to Bamaga (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Balmoral Ridge or Bamaga safer from flooding?",
-      "answer": "Balmoral Ridge has a flood risk score of 39/100, while Bamaga scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Balmoral Ridge has a flood risk score of 40/100, while Bamaga scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Balmoral Ridge scores 53/100 for bushfire risk. Bamaga scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Balmoral Ridge scores 20/100 for bushfire risk. Bamaga scores 62/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Balmoral Ridge or Bamaga?",
-      "answer": "Both suburbs have climate considerations. Bamaga has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Balmoral Ridge has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Bamaga Should I Buy?",
       "url": "/suburbs/qld/bamaga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

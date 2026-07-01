@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 55
+      "scoreA": 39,
+      "scoreB": 33
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 22
+      "scoreA": 51,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 65
+      "scoreA": 33,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 28,
-      "scoreB": 45
+      "scoreA": 39,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 34,
-      "scoreB": 53
+      "scoreA": 38,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 25
+      "scoreA": 11,
+      "scoreB": 11
     }
   ],
-  "verdict": "Ulmarra has a lower overall climate risk score (38/100) compared to Ultimo (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Ulmarra has a lower overall climate risk score (35/100) compared to Ultimo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Ulmarra or Ultimo safer from flooding?",
-      "answer": "Ulmarra has a flood risk score of 56/100, while Ultimo scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Ulmarra has a flood risk score of 39/100, while Ultimo scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Ulmarra scores 36/100 for bushfire risk. Ultimo scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Ulmarra scores 51/100 for bushfire risk. Ultimo scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Ulmarra or Ultimo?",
@@ -76,5 +76,15 @@
       "label": "Ultimo Should I Buy?",
       "url": "/suburbs/nsw/ultimo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3875,
+    "projected2030": 5425,
+    "projected2050": 10074
+  },
+  "valueImpact": {
+    "dragPercent": 1.4,
+    "description": "Properties in this area may face a 1.4% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

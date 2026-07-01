@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 31
+      "scoreA": 35,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 43
+      "scoreA": 19,
+      "scoreB": 31
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 75
+      "scoreA": 72,
+      "scoreB": 62
     },
     {
       "name": "Storm",
-      "scoreA": 33,
-      "scoreB": 20
+      "scoreA": 30,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 45
+      "scoreA": 44,
+      "scoreB": 49
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 29
+      "scoreA": 13,
+      "scoreB": 12
     }
   ],
-  "verdict": "Bonny Hills has a lower overall climate risk score (36/100) compared to Bonnyrigg Heights (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bonny Hills has a lower overall climate risk score (36/100) compared to Bonnyrigg Heights (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bonny Hills or Bonnyrigg Heights safer from flooding?",
-      "answer": "Bonny Hills has a flood risk score of 23/100, while Bonnyrigg Heights scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bonny Hills has a flood risk score of 35/100, while Bonnyrigg Heights scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bonny Hills scores 22/100 for bushfire risk. Bonnyrigg Heights scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bonny Hills scores 19/100 for bushfire risk. Bonnyrigg Heights scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bonny Hills or Bonnyrigg Heights?",
@@ -76,5 +76,15 @@
       "label": "Bonnyrigg Heights Should I Buy?",
       "url": "/suburbs/nsw/bonnyrigg-heights/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 41
+      "scoreA": 24,
+      "scoreB": 46
     },
     {
       "name": "Bushfire",
-      "scoreA": 33,
-      "scoreB": 51
+      "scoreA": 25,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 40,
-      "scoreB": 32
+      "scoreA": 50,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 49
+      "scoreA": 23,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
-      "scoreB": 38
+      "scoreA": 18,
+      "scoreB": 41
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 22
+      "scoreA": 15,
+      "scoreB": 25
     }
   ],
-  "verdict": "Minnie Downs has a lower overall climate risk score (31/100) compared to Minyama (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Minnie Downs has a lower overall climate risk score (26/100) compared to Minyama (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Minnie Downs or Minyama safer from flooding?",
-      "answer": "Minnie Downs has a flood risk score of 58/100, while Minyama scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Minnie Downs has a flood risk score of 24/100, while Minyama scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Minnie Downs scores 33/100 for bushfire risk. Minyama scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Minnie Downs scores 25/100 for bushfire risk. Minyama scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Minnie Downs or Minyama?",
@@ -76,5 +76,15 @@
       "label": "Minyama Should I Buy?",
       "url": "/suburbs/qld/minyama/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3648,
+    "projected2030": 5107,
+    "projected2050": 9485
+  },
+  "valueImpact": {
+    "dragPercent": 0.9,
+    "description": "Properties in this area may face a 0.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

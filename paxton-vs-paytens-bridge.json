@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 50
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 57
-    },
-    {
-      "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 60
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
+      "scoreA": 44,
       "scoreB": 49
     },
     {
+      "name": "Bushfire",
+      "scoreA": 45,
+      "scoreB": 54
+    },
+    {
+      "name": "Heat",
+      "scoreA": 70,
+      "scoreB": 59
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 43
+    },
+    {
       "name": "Coastal",
-      "scoreA": 35,
-      "scoreB": 23
+      "scoreA": 39,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 24
     }
   ],
-  "verdict": "Paxton has a lower overall climate risk score (40/100) compared to Paytens Bridge (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Paxton has a lower overall climate risk score (43/100) compared to Paytens Bridge (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "neutral",
   "faq": [
     {
       "question": "Is Paxton or Paytens Bridge safer from flooding?",
-      "answer": "Paxton has a flood risk score of 41/100, while Paytens Bridge scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Paxton has a flood risk score of 44/100, while Paytens Bridge scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Paxton scores 55/100 for bushfire risk. Paytens Bridge scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Paxton scores 45/100 for bushfire risk. Paytens Bridge scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Paxton or Paytens Bridge?",
@@ -76,5 +76,15 @@
       "label": "Paytens Bridge Should I Buy?",
       "url": "/suburbs/nsw/paytens-bridge/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4124,
+    "projected2030": 5774,
+    "projected2050": 10722
+  },
+  "valueImpact": {
+    "dragPercent": 1.95,
+    "description": "Properties in this area may face a 1.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

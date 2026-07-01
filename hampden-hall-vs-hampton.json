@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 44,
-      "scoreB": 60
+      "scoreA": 54,
+      "scoreB": 37
     },
     {
       "name": "Bushfire",
-      "scoreA": 34,
-      "scoreB": 60
+      "scoreA": 51,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 57
+      "scoreA": 72,
+      "scoreB": 54
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 49
+      "scoreA": 46,
+      "scoreB": 22
     },
     {
       "name": "Coastal",
-      "scoreA": 46,
-      "scoreB": 14
+      "scoreA": 58,
+      "scoreB": 23
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 11,
+      "scoreB": 12
     }
   ],
-  "verdict": "Hampden Hall has a lower overall climate risk score (41/100) compared to Hampton (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "neutral",
+  "verdict": "Hampton has a lower overall climate risk score (30/100) compared to Hampden Hall (49/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Hampden Hall or Hampton safer from flooding?",
-      "answer": "Hampden Hall has a flood risk score of 44/100, while Hampton scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Hampden Hall has a flood risk score of 54/100, while Hampton scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Hampden Hall scores 34/100 for bushfire risk. Hampton scores 60/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Hampden Hall scores 51/100 for bushfire risk. Hampton scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Hampden Hall or Hampton?",
-      "answer": "Both suburbs have climate considerations. Hampden Hall has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Hampton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Hampton Should I Buy?",
       "url": "/suburbs/nsw/hampton/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4509,
+    "projected2030": 6313,
+    "projected2050": 11724
+  },
+  "valueImpact": {
+    "dragPercent": 2.8,
+    "description": "Properties in this area may face a 2.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 57,
-      "scoreB": 25
+      "scoreA": 50,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 28,
-      "scoreB": 35
-    },
-    {
-      "name": "Heat",
-      "scoreA": 52,
-      "scoreB": 52
-    },
-    {
-      "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 35
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 11,
+      "scoreA": 47,
       "scoreB": 22
     },
     {
+      "name": "Heat",
+      "scoreA": 64,
+      "scoreB": 78
+    },
+    {
+      "name": "Storm",
+      "scoreA": 40,
+      "scoreB": 27
+    },
+    {
+      "name": "Coastal",
+      "scoreA": 28,
+      "scoreB": 10
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 19
+      "scoreA": 25,
+      "scoreB": 24
     }
   ],
-  "verdict": "Berrimal has a lower overall climate risk score (31/100) compared to Beremboke (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Berrimal has a lower overall climate risk score (36/100) compared to Beremboke (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beremboke or Berrimal safer from flooding?",
-      "answer": "Beremboke has a flood risk score of 57/100, while Berrimal scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beremboke has a flood risk score of 50/100, while Berrimal scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beremboke scores 28/100 for bushfire risk. Berrimal scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beremboke scores 47/100 for bushfire risk. Berrimal scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beremboke or Berrimal?",
@@ -76,5 +76,15 @@
       "label": "Berrimal Should I Buy?",
       "url": "/suburbs/vic/berrimal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

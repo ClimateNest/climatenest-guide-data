@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 51,
-      "scoreB": 33
+      "scoreA": 21,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 63
+      "scoreA": 31,
+      "scoreB": 21
     },
     {
       "name": "Heat",
-      "scoreA": 68,
-      "scoreB": 80
+      "scoreA": 69,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 34
+      "scoreA": 24,
+      "scoreB": 47
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 22
+      "scoreA": 16,
+      "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 14
+      "scoreA": 29,
+      "scoreB": 20
     }
   ],
-  "verdict": "Moana has a lower overall climate risk score (37/100) compared to Mobilong (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Moana has a lower overall climate risk score (32/100) compared to Mobilong (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Moana or Mobilong safer from flooding?",
-      "answer": "Moana has a flood risk score of 51/100, while Mobilong scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Moana has a flood risk score of 21/100, while Mobilong scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Moana scores 42/100 for bushfire risk. Mobilong scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Moana scores 31/100 for bushfire risk. Mobilong scores 21/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Moana or Mobilong?",
@@ -76,5 +76,15 @@
       "label": "Mobilong Should I Buy?",
       "url": "/suburbs/sa/mobilong/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3909,
+    "projected2030": 5472,
+    "projected2050": 10163
+  },
+  "valueImpact": {
+    "dragPercent": 1.48,
+    "description": "Properties in this area may face a 1.48% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 20,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 47,
-      "scoreB": 18
+      "scoreA": 25,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 56,
-      "scoreB": 55
+      "scoreA": 66,
+      "scoreB": 53
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 22
+      "scoreA": 49,
+      "scoreB": 44
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 25
+      "scoreA": 18,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 23
     }
   ],
-  "verdict": "Jarvis Creek has a lower overall climate risk score (26/100) compared to Jarklin (30/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Jarklin has a lower overall climate risk score (33/100) compared to Jarvis Creek (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jarklin or Jarvis Creek safer from flooding?",
-      "answer": "Jarklin has a flood risk score of 22/100, while Jarvis Creek scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jarklin has a flood risk score of 20/100, while Jarvis Creek scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jarklin scores 47/100 for bushfire risk. Jarvis Creek scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jarklin scores 25/100 for bushfire risk. Jarvis Creek scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jarklin or Jarvis Creek?",
-      "answer": "Both suburbs have climate considerations. Jarvis Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Jarklin has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Jarvis Creek Should I Buy?",
       "url": "/suburbs/vic/jarvis-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3784,
+    "projected2030": 5298,
+    "projected2050": 9838
+  },
+  "valueImpact": {
+    "dragPercent": 1.2,
+    "description": "Properties in this area may face a 1.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

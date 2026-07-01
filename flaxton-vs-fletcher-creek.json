@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 25,
-      "scoreB": 25
+      "scoreA": 28,
+      "scoreB": 58
     },
     {
       "name": "Bushfire",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 30,
+      "scoreB": 56
     },
     {
       "name": "Heat",
-      "scoreA": 43,
-      "scoreB": 41
+      "scoreA": 42,
+      "scoreB": 37
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 31
+      "scoreA": 26,
+      "scoreB": 41
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 16
+      "scoreA": 54,
+      "scoreB": 11
     },
     {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 13
+      "scoreA": 12,
+      "scoreB": 9
     }
   ],
-  "verdict": "Fletcher Creek has a lower overall climate risk score (28/100) compared to Flaxton (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Flaxton has a lower overall climate risk score (32/100) compared to Fletcher Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Flaxton or Fletcher Creek safer from flooding?",
-      "answer": "Flaxton has a flood risk score of 25/100, while Fletcher Creek scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Flaxton has a flood risk score of 28/100, while Fletcher Creek scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Flaxton scores 43/100 for bushfire risk. Fletcher Creek scores 41/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Flaxton scores 30/100 for bushfire risk. Fletcher Creek scores 56/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Flaxton or Fletcher Creek?",
-      "answer": "Both suburbs have climate considerations. Fletcher Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Flaxton has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Fletcher Creek Should I Buy?",
       "url": "/suburbs/qld/fletcher-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

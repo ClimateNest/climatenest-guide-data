@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 39
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 65,
-      "scoreB": 20
-    },
-    {
-      "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 68
-    },
-    {
-      "name": "Storm",
-      "scoreA": 33,
+      "scoreA": 49,
       "scoreB": 37
     },
     {
+      "name": "Bushfire",
+      "scoreA": 56,
+      "scoreB": 17
+    },
+    {
+      "name": "Heat",
+      "scoreA": 67,
+      "scoreB": 75
+    },
+    {
+      "name": "Storm",
+      "scoreA": 42,
+      "scoreB": 45
+    },
+    {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 38
+      "scoreA": 15,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 13
     }
   ],
-  "verdict": "Yattalunga has a lower overall climate risk score (38/100) compared to Yathella (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Yattalunga has a lower overall climate risk score (40/100) compared to Yathella (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yathella or Yattalunga safer from flooding?",
-      "answer": "Yathella has a flood risk score of 56/100, while Yattalunga scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yathella has a flood risk score of 49/100, while Yattalunga scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yathella scores 65/100 for bushfire risk. Yattalunga scores 20/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yathella scores 56/100 for bushfire risk. Yattalunga scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yathella or Yattalunga?",
@@ -76,5 +76,15 @@
       "label": "Yattalunga Should I Buy?",
       "url": "/suburbs/nsw/yattalunga/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4101,
+    "projected2030": 5742,
+    "projected2050": 10663
+  },
+  "valueImpact": {
+    "dragPercent": 1.9,
+    "description": "Properties in this area may face a 1.9% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

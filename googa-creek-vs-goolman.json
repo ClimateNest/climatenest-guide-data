@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 22
+      "scoreA": 40,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 48
+      "scoreA": 49,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 49
+      "scoreA": 47,
+      "scoreB": 43
     },
     {
       "name": "Storm",
-      "scoreA": 26,
-      "scoreB": 49
+      "scoreA": 45,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 48,
-      "scoreB": 33
+      "scoreA": 40,
+      "scoreB": 45
     },
     {
       "name": "Cyclone",
-      "scoreA": 30,
-      "scoreB": 16
+      "scoreA": 22,
+      "scoreB": 11
     }
   ],
-  "verdict": "Goolman has a lower overall climate risk score (36/100) compared to Googa Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goolman has a lower overall climate risk score (30/100) compared to Googa Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Googa Creek or Goolman safer from flooding?",
-      "answer": "Googa Creek has a flood risk score of 33/100, while Goolman scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Googa Creek has a flood risk score of 40/100, while Goolman scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Googa Creek scores 60/100 for bushfire risk. Goolman scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Googa Creek scores 49/100 for bushfire risk. Goolman scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Googa Creek or Goolman?",
@@ -76,5 +76,15 @@
       "label": "Goolman Should I Buy?",
       "url": "/suburbs/qld/goolman/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

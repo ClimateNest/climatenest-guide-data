@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 58
+      "scoreA": 39,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 60,
-      "scoreB": 65
+      "scoreA": 56,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 65
+      "scoreA": 74,
+      "scoreB": 69
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 25
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 13,
+      "scoreA": 37,
       "scoreB": 34
     },
     {
+      "name": "Coastal",
+      "scoreA": 19,
+      "scoreB": 33
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 18,
+      "scoreB": 28
     }
   ],
-  "verdict": "Avisford has a lower overall climate risk score (38/100) compared to Avoca Beach (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Avoca Beach has a lower overall climate risk score (38/100) compared to Avisford (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Avisford or Avoca Beach safer from flooding?",
-      "answer": "Avisford has a flood risk score of 22/100, while Avoca Beach scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Avisford has a flood risk score of 39/100, while Avoca Beach scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Avisford scores 60/100 for bushfire risk. Avoca Beach scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Avisford scores 56/100 for bushfire risk. Avoca Beach scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Avisford or Avoca Beach?",
-      "answer": "Both suburbs have climate considerations. Avisford has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Avoca Beach has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Avoca Beach Should I Buy?",
       "url": "/suburbs/nsw/avoca-beach/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3954,
+    "projected2030": 5536,
+    "projected2050": 10280
+  },
+  "valueImpact": {
+    "dragPercent": 1.58,
+    "description": "Properties in this area may face a 1.58% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 28
+      "scoreA": 54,
+      "scoreB": 55
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 47
+      "scoreA": 60,
+      "scoreB": 57
     },
     {
       "name": "Heat",
-      "scoreA": 64,
-      "scoreB": 71
+      "scoreA": 77,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 24
+      "scoreA": 28,
+      "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 27
+      "scoreA": 16,
+      "scoreB": 30
     }
   ],
-  "verdict": "New Town has a lower overall climate risk score (36/100) compared to Nelson Bay (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "New Town has a lower overall climate risk score (39/100) compared to Nelson Bay (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Nelson Bay or New Town safer from flooding?",
-      "answer": "Nelson Bay has a flood risk score of 24/100, while New Town scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Nelson Bay has a flood risk score of 54/100, while New Town scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Nelson Bay scores 53/100 for bushfire risk. New Town scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Nelson Bay scores 60/100 for bushfire risk. New Town scores 57/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Nelson Bay or New Town?",
@@ -76,5 +76,15 @@
       "label": "New Town Should I Buy?",
       "url": "/suburbs/tas/new-town/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

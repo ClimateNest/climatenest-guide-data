@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 37
+      "scoreA": 20,
+      "scoreB": 32
     },
     {
       "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 46
     },
     {
       "name": "Heat",
-      "scoreA": 79,
-      "scoreB": 60
+      "scoreA": 71,
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 36
+      "scoreA": 27,
+      "scoreB": 38
     },
     {
       "name": "Coastal",
-      "scoreA": 39,
-      "scoreB": 33
+      "scoreA": 46,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 24,
+      "scoreB": 16
     }
   ],
-  "verdict": "Henley has a lower overall climate risk score (37/100) compared to Helensburgh (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Helensburgh has a lower overall climate risk score (38/100) compared to Henley (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Helensburgh or Henley safer from flooding?",
-      "answer": "Helensburgh has a flood risk score of 31/100, while Henley scores 37/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Helensburgh has a flood risk score of 20/100, while Henley scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Helensburgh scores 30/100 for bushfire risk. Henley scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Helensburgh scores 41/100 for bushfire risk. Henley scores 46/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Helensburgh or Henley?",
-      "answer": "Both suburbs have climate considerations. Henley has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Helensburgh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Henley Should I Buy?",
       "url": "/suburbs/nsw/henley/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

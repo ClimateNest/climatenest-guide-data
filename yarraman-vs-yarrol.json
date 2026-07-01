@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 42,
-      "scoreB": 29
+      "scoreA": 40,
+      "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 54
+      "scoreA": 51,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 32,
+      "scoreB": 35
     },
     {
       "name": "Storm",
       "scoreA": 29,
-      "scoreB": 43
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 47
+      "scoreA": 42,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 16
+      "scoreA": 19,
+      "scoreB": 20
     }
   ],
-  "verdict": "Yarraman has a lower overall climate risk score (36/100) compared to Yarrol (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Yarrol has a lower overall climate risk score (31/100) compared to Yarraman (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yarraman or Yarrol safer from flooding?",
-      "answer": "Yarraman has a flood risk score of 42/100, while Yarrol scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yarraman has a flood risk score of 40/100, while Yarrol scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yarraman scores 40/100 for bushfire risk. Yarrol scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yarraman scores 51/100 for bushfire risk. Yarrol scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yarraman or Yarrol?",
-      "answer": "Both suburbs have climate considerations. Yarraman has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yarrol has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yarrol Should I Buy?",
       "url": "/suburbs/qld/yarrol/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3614,
+    "projected2030": 5060,
+    "projected2050": 9396
+  },
+  "valueImpact": {
+    "dragPercent": 0.83,
+    "description": "Properties in this area may face a 0.83% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

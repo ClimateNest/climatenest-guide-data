@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 21
+      "scoreA": 42,
+      "scoreB": 41
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 23
+      "scoreA": 51,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 67
+      "scoreA": 59,
+      "scoreB": 51
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 27,
-      "scoreB": 14
+      "scoreA": 18,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 28,
-      "scoreB": 13
+      "scoreA": 14,
+      "scoreB": 11
     }
   ],
-  "verdict": "Tarwin Lower has a lower overall climate risk score (30/100) compared to Tarrone (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Tarwin Lower has a lower overall climate risk score (37/100) compared to Tarrone (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tarrone or Tarwin Lower safer from flooding?",
-      "answer": "Tarrone has a flood risk score of 33/100, while Tarwin Lower scores 21/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tarrone has a flood risk score of 42/100, while Tarwin Lower scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tarrone scores 57/100 for bushfire risk. Tarwin Lower scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tarrone scores 51/100 for bushfire risk. Tarwin Lower scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tarrone or Tarwin Lower?",
@@ -76,5 +76,15 @@
       "label": "Tarwin Lower Should I Buy?",
       "url": "/suburbs/vic/tarwin-lower/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

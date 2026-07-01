@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 44
+      "scoreA": 44,
+      "scoreB": 42
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 27
+      "scoreA": 19,
+      "scoreB": 18
     },
     {
       "name": "Heat",
       "scoreA": 69,
-      "scoreB": 72
+      "scoreB": 70
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 26
+      "scoreA": 37,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 24
+      "scoreA": 22,
+      "scoreB": 26
     }
   ],
-  "verdict": "Mepunga West has a lower overall climate risk score (35/100) compared to Merbein (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mepunga West has a lower overall climate risk score (36/100) compared to Merbein (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mepunga West or Merbein safer from flooding?",
-      "answer": "Mepunga West has a flood risk score of 41/100, while Merbein scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mepunga West has a flood risk score of 44/100, while Merbein scores 42/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mepunga West scores 25/100 for bushfire risk. Merbein scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mepunga West scores 19/100 for bushfire risk. Merbein scores 18/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mepunga West or Merbein?",
@@ -76,5 +76,15 @@
       "label": "Merbein Should I Buy?",
       "url": "/suburbs/vic/merbein/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3671,
+    "projected2030": 5139,
+    "projected2050": 9544
+  },
+  "valueImpact": {
+    "dragPercent": 0.95,
+    "description": "Properties in this area may face a 0.95% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

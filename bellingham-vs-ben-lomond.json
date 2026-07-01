@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 56,
-      "scoreB": 39
+      "scoreA": 24,
+      "scoreB": 26
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 34
+      "scoreA": 32,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 62,
-      "scoreB": 63
+      "scoreA": 57,
+      "scoreB": 58
     },
     {
       "name": "Storm",
-      "scoreA": 30,
-      "scoreB": 35
+      "scoreA": 22,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 24
     },
     {
       "name": "Cyclone",
-      "scoreA": 29,
-      "scoreB": 19
+      "scoreA": 19,
+      "scoreB": 17
     }
   ],
-  "verdict": "Ben Lomond has a lower overall climate risk score (35/100) compared to Bellingham (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Bellingham has a lower overall climate risk score (30/100) compared to Ben Lomond (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bellingham or Ben Lomond safer from flooding?",
-      "answer": "Bellingham has a flood risk score of 56/100, while Ben Lomond scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bellingham has a flood risk score of 24/100, while Ben Lomond scores 26/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bellingham scores 40/100 for bushfire risk. Ben Lomond scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bellingham scores 32/100 for bushfire risk. Ben Lomond scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bellingham or Ben Lomond?",
-      "answer": "Both suburbs have climate considerations. Ben Lomond has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Bellingham has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Ben Lomond Should I Buy?",
       "url": "/suburbs/tas/ben-lomond/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

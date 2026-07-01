@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 30
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 62,
-      "scoreB": 32
-    },
-    {
-      "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 62
-    },
-    {
-      "name": "Storm",
-      "scoreA": 31,
+      "scoreA": 25,
       "scoreB": 29
     },
     {
+      "name": "Bushfire",
+      "scoreA": 35,
+      "scoreB": 25
+    },
+    {
+      "name": "Heat",
+      "scoreA": 56,
+      "scoreB": 56
+    },
+    {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 24
+    },
+    {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 10
+      "scoreA": 28,
+      "scoreB": 21
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 26,
+      "scoreB": 19
     }
   ],
-  "verdict": "Nareeb has a lower overall climate risk score (29/100) compared to Narbethong (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Nareeb has a lower overall climate risk score (29/100) compared to Narbethong (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Narbethong or Nareeb safer from flooding?",
-      "answer": "Narbethong has a flood risk score of 34/100, while Nareeb scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Narbethong has a flood risk score of 25/100, while Nareeb scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Narbethong scores 62/100 for bushfire risk. Nareeb scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Narbethong scores 35/100 for bushfire risk. Nareeb scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Narbethong or Nareeb?",
@@ -76,5 +76,15 @@
       "label": "Nareeb Should I Buy?",
       "url": "/suburbs/vic/nareeb/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3523,
+    "projected2030": 4933,
+    "projected2050": 9161
+  },
+  "valueImpact": {
+    "dragPercent": 0.62,
+    "description": "Properties in this area may face a 0.62% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

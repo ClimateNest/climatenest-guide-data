@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 27
+      "scoreA": 27,
+      "scoreB": 49
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 44
     },
     {
       "name": "Heat",
-      "scoreA": 69,
+      "scoreA": 78,
       "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 38
+      "scoreA": 26,
+      "scoreB": 33
     },
     {
       "name": "Coastal",
-      "scoreA": 28,
-      "scoreB": 30
+      "scoreA": 30,
+      "scoreB": 34
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 12
+      "scoreA": 19,
+      "scoreB": 23
     }
   ],
-  "verdict": "Galston has a lower overall climate risk score (35/100) compared to Galong (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Galong has a lower overall climate risk score (38/100) compared to Galston (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Galong or Galston safer from flooding?",
-      "answer": "Galong has a flood risk score of 50/100, while Galston scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Galong has a flood risk score of 27/100, while Galston scores 49/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Galong scores 52/100 for bushfire risk. Galston scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Galong scores 45/100 for bushfire risk. Galston scores 44/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Galong or Galston?",
-      "answer": "Both suburbs have climate considerations. Galston has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Galong has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Galston Should I Buy?",
       "url": "/suburbs/nsw/galston/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

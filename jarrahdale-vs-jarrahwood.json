@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 58
+      "scoreA": 40,
+      "scoreB": 34
     },
     {
       "name": "Bushfire",
-      "scoreA": 25,
-      "scoreB": 24
+      "scoreA": 27,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 69
+      "scoreA": 73,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 37
+      "scoreA": 26,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 26
+      "scoreA": 25,
+      "scoreB": 28
     },
     {
       "name": "Cyclone",
-      "scoreA": 12,
+      "scoreA": 16,
       "scoreB": 12
     }
   ],
-  "verdict": "Jarrahdale has a lower overall climate risk score (30/100) compared to Jarrahwood (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Jarrahdale has a lower overall climate risk score (35/100) compared to Jarrahwood (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Jarrahdale or Jarrahwood safer from flooding?",
-      "answer": "Jarrahdale has a flood risk score of 23/100, while Jarrahwood scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Jarrahdale has a flood risk score of 40/100, while Jarrahwood scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Jarrahdale scores 25/100 for bushfire risk. Jarrahwood scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Jarrahdale scores 27/100 for bushfire risk. Jarrahwood scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Jarrahdale or Jarrahwood?",
@@ -76,5 +76,15 @@
       "label": "Jarrahwood Should I Buy?",
       "url": "/suburbs/wa/jarrahwood/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

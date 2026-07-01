@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 60,
+      "scoreA": 49,
       "scoreB": 39
     },
     {
       "name": "Bushfire",
-      "scoreA": 27,
-      "scoreB": 16
+      "scoreA": 20,
+      "scoreB": 47
     },
     {
       "name": "Heat",
-      "scoreA": 66,
-      "scoreB": 75
+      "scoreA": 74,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 46
+      "scoreA": 38,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 30,
-      "scoreB": 17
+      "scoreA": 15,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 25
+      "scoreA": 11,
+      "scoreB": 21
     }
   ],
-  "verdict": "Petticoat Creek has a lower overall climate risk score (36/100) compared to Peterborough (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Peterborough has a lower overall climate risk score (35/100) compared to Petticoat Creek (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Peterborough or Petticoat Creek safer from flooding?",
-      "answer": "Peterborough has a flood risk score of 60/100, while Petticoat Creek scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Peterborough has a flood risk score of 49/100, while Petticoat Creek scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Peterborough scores 27/100 for bushfire risk. Petticoat Creek scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Peterborough scores 20/100 for bushfire risk. Petticoat Creek scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Peterborough or Petticoat Creek?",
-      "answer": "Both suburbs have climate considerations. Petticoat Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Peterborough has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Petticoat Creek Should I Buy?",
       "url": "/suburbs/vic/petticoat-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

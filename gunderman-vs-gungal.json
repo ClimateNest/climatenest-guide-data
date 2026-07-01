@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 50,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 38
+      "scoreA": 59,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 63
+      "scoreA": 79,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 35
+      "scoreA": 25,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 57,
-      "scoreB": 27
+      "scoreA": 33,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 27
+      "scoreA": 22,
+      "scoreB": 13
     }
   ],
-  "verdict": "Gungal has a lower overall climate risk score (37/100) compared to Gunderman (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gungal has a lower overall climate risk score (43/100) compared to Gunderman (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Gunderman or Gungal safer from flooding?",
-      "answer": "Gunderman has a flood risk score of 26/100, while Gungal scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gunderman has a flood risk score of 50/100, while Gungal scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gunderman scores 40/100 for bushfire risk. Gungal scores 38/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gunderman scores 59/100 for bushfire risk. Gungal scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gunderman or Gungal?",
@@ -76,5 +76,15 @@
       "label": "Gungal Should I Buy?",
       "url": "/suburbs/nsw/gungal/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4237,
+    "projected2030": 5932,
+    "projected2050": 11017
+  },
+  "valueImpact": {
+    "dragPercent": 2.2,
+    "description": "Properties in this area may face a 2.2% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

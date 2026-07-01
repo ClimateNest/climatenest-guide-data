@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 46,
-      "scoreB": 55
+      "scoreA": 21,
+      "scoreB": 53
     },
     {
       "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 25
+      "scoreA": 53,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 45
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 27
+      "scoreA": 45,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 43,
-      "scoreB": 57
+      "scoreA": 33,
+      "scoreB": 32
     },
     {
       "name": "Cyclone",
-      "scoreA": 14,
-      "scoreB": 21
+      "scoreA": 17,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mount Mceuen has a lower overall climate risk score (30/100) compared to Mount Mee (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Mount Mee has a lower overall climate risk score (34/100) compared to Mount Mceuen (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Mceuen or Mount Mee safer from flooding?",
-      "answer": "Mount Mceuen has a flood risk score of 46/100, while Mount Mee scores 55/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Mceuen has a flood risk score of 21/100, while Mount Mee scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Mceuen scores 20/100 for bushfire risk. Mount Mee scores 25/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Mceuen scores 53/100 for bushfire risk. Mount Mee scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Mceuen or Mount Mee?",
-      "answer": "Both suburbs have climate considerations. Mount Mceuen has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Mount Mee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Mount Mee Should I Buy?",
       "url": "/suburbs/qld/mount-mee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3603,
+    "projected2030": 5044,
+    "projected2050": 9367
+  },
+  "valueImpact": {
+    "dragPercent": 0.8,
+    "description": "Properties in this area may face a 0.8% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

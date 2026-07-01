@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 40,
-      "scoreB": 40
+      "scoreA": 54,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 36,
-      "scoreB": 42
+      "scoreA": 29,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 76
+      "scoreA": 74,
+      "scoreB": 60
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 49
+      "scoreA": 29,
+      "scoreB": 45
     },
     {
       "name": "Coastal",
-      "scoreA": 20,
+      "scoreA": 23,
       "scoreB": 26
     },
     {
       "name": "Cyclone",
-      "scoreA": 24,
-      "scoreB": 23
+      "scoreA": 27,
+      "scoreB": 20
     }
   ],
-  "verdict": "Heidelberg Heights has a lower overall climate risk score (40/100) compared to Heidelberg West (43/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Heidelberg Heights has a lower overall climate risk score (39/100) compared to Heidelberg West (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Heidelberg Heights or Heidelberg West safer from flooding?",
-      "answer": "Heidelberg Heights has a flood risk score of 40/100, while Heidelberg West scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Heidelberg Heights has a flood risk score of 54/100, while Heidelberg West scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Heidelberg Heights scores 36/100 for bushfire risk. Heidelberg West scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Heidelberg Heights scores 29/100 for bushfire risk. Heidelberg West scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Heidelberg Heights or Heidelberg West?",
@@ -76,5 +76,15 @@
       "label": "Heidelberg West Should I Buy?",
       "url": "/suburbs/vic/heidelberg-west/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

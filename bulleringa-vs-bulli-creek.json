@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 34
+      "scoreA": 36,
+      "scoreB": 29
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 47
+      "scoreA": 23,
+      "scoreB": 61
     },
     {
       "name": "Heat",
-      "scoreA": 34,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 42
     },
     {
       "name": "Storm",
-      "scoreA": 42,
-      "scoreB": 44
+      "scoreA": 26,
+      "scoreB": 42
     },
     {
       "name": "Coastal",
-      "scoreA": 19,
-      "scoreB": 36
+      "scoreA": 16,
+      "scoreB": 37
     },
     {
       "name": "Cyclone",
-      "scoreA": 7,
-      "scoreB": 24
+      "scoreA": 5,
+      "scoreB": 29
     }
   ],
-  "verdict": "Bulleringa has a lower overall climate risk score (27/100) compared to Bulli Creek (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bulleringa has a lower overall climate risk score (25/100) compared to Bulli Creek (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Bulleringa or Bulli Creek safer from flooding?",
-      "answer": "Bulleringa has a flood risk score of 29/100, while Bulli Creek scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Bulleringa has a flood risk score of 36/100, while Bulli Creek scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Bulleringa scores 32/100 for bushfire risk. Bulli Creek scores 47/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Bulleringa scores 23/100 for bushfire risk. Bulli Creek scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Bulleringa or Bulli Creek?",
@@ -76,5 +76,15 @@
       "label": "Bulli Creek Should I Buy?",
       "url": "/suburbs/qld/bulli-creek/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

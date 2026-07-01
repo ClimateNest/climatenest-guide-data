@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 47,
-      "scoreB": 53
+      "scoreA": 51,
+      "scoreB": 27
     },
     {
       "name": "Bushfire",
-      "scoreA": 18,
-      "scoreB": 40
+      "scoreA": 40,
+      "scoreB": 16
     },
     {
       "name": "Heat",
-      "scoreA": 51,
-      "scoreB": 66
+      "scoreA": 66,
+      "scoreB": 77
     },
     {
       "name": "Storm",
-      "scoreA": 35,
-      "scoreB": 31
+      "scoreA": 24,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 12,
-      "scoreB": 28
+      "scoreA": 21,
+      "scoreB": 20
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 11
     }
   ],
-  "verdict": "Tanybryn has a lower overall climate risk score (30/100) compared to Tarcombe (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Tarcombe has a lower overall climate risk score (31/100) compared to Tanybryn (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Tanybryn or Tarcombe safer from flooding?",
-      "answer": "Tanybryn has a flood risk score of 47/100, while Tarcombe scores 53/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Tanybryn has a flood risk score of 51/100, while Tarcombe scores 27/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Tanybryn scores 18/100 for bushfire risk. Tarcombe scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Tanybryn scores 40/100 for bushfire risk. Tarcombe scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Tanybryn or Tarcombe?",
-      "answer": "Both suburbs have climate considerations. Tanybryn has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Tarcombe has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Tarcombe Should I Buy?",
       "url": "/suburbs/vic/tarcombe/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

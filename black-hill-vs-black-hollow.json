@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 54,
-      "scoreB": 51
+      "scoreA": 53,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 22,
-      "scoreB": 49
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 68
+      "scoreA": 53,
+      "scoreB": 65
     },
     {
       "name": "Storm",
-      "scoreA": 49,
-      "scoreB": 36
+      "scoreA": 32,
+      "scoreB": 20
     },
     {
       "name": "Coastal",
-      "scoreA": 44,
-      "scoreB": 15
+      "scoreA": 37,
+      "scoreB": 18
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 25
+      "scoreA": 12,
+      "scoreB": 18
     }
   ],
-  "verdict": "Black Hollow has a lower overall climate risk score (41/100) compared to Black Hill (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Black Hill has a lower overall climate risk score (34/100) compared to Black Hollow (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Black Hill or Black Hollow safer from flooding?",
-      "answer": "Black Hill has a flood risk score of 54/100, while Black Hollow scores 51/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Black Hill has a flood risk score of 53/100, while Black Hollow scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Black Hill scores 22/100 for bushfire risk. Black Hollow scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Black Hill scores 19/100 for bushfire risk. Black Hollow scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Black Hill or Black Hollow?",
-      "answer": "Both suburbs have climate considerations. Black Hollow has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Black Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Black Hollow Should I Buy?",
       "url": "/suburbs/nsw/black-hollow/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

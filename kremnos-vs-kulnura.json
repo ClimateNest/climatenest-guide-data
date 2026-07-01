@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 33
+      "scoreA": 30,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 50
+      "scoreA": 56,
+      "scoreB": 45
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 66
+      "scoreA": 38,
+      "scoreB": 57
     },
     {
       "name": "Storm",
-      "scoreA": 23,
-      "scoreB": 34
+      "scoreA": 39,
+      "scoreB": 37
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 55
+      "scoreA": 38,
+      "scoreB": 56
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 26
+      "scoreA": 19,
+      "scoreB": 27
     }
   ],
-  "verdict": "Kremnos has a lower overall climate risk score (37/100) compared to Kulnura (44/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kremnos has a lower overall climate risk score (37/100) compared to Kulnura (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Kremnos or Kulnura safer from flooding?",
-      "answer": "Kremnos has a flood risk score of 29/100, while Kulnura scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kremnos has a flood risk score of 30/100, while Kulnura scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kremnos scores 49/100 for bushfire risk. Kulnura scores 50/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kremnos scores 56/100 for bushfire risk. Kulnura scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kremnos or Kulnura?",
@@ -76,5 +76,15 @@
       "label": "Kulnura Should I Buy?",
       "url": "/suburbs/nsw/kulnura/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4249,
+    "projected2030": 5948,
+    "projected2050": 11047
+  },
+  "valueImpact": {
+    "dragPercent": 2.23,
+    "description": "Properties in this area may face a 2.23% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

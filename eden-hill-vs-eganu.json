@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 56
+      "scoreA": 26,
+      "scoreB": 59
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 42
+      "scoreA": 32,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 76,
-      "scoreB": 50
+      "scoreA": 61,
+      "scoreB": 59
     },
     {
       "name": "Storm",
-      "scoreA": 29,
-      "scoreB": 44
+      "scoreA": 42,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 14,
-      "scoreB": 13
+      "scoreA": 18,
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 11
+      "scoreA": 17,
+      "scoreB": 12
     }
   ],
-  "verdict": "Eganu has a lower overall climate risk score (36/100) compared to Eden Hill (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Eden Hill has a lower overall climate risk score (33/100) compared to Eganu (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Eden Hill or Eganu safer from flooding?",
-      "answer": "Eden Hill has a flood risk score of 59/100, while Eganu scores 56/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Eden Hill has a flood risk score of 26/100, while Eganu scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Eden Hill scores 59/100 for bushfire risk. Eganu scores 42/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Eden Hill scores 32/100 for bushfire risk. Eganu scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Eden Hill or Eganu?",
-      "answer": "Both suburbs have climate considerations. Eganu has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Eden Hill has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Eganu Should I Buy?",
       "url": "/suburbs/wa/eganu/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 59,
-      "scoreB": 45
+      "scoreA": 60,
+      "scoreB": 24
     },
     {
       "name": "Bushfire",
-      "scoreA": 52,
-      "scoreB": 55
+      "scoreA": 56,
+      "scoreB": 26
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 73
+      "scoreA": 56,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 47,
-      "scoreB": 28
+      "scoreA": 40,
+      "scoreB": 35
     },
     {
       "name": "Coastal",
-      "scoreA": 50,
-      "scoreB": 32
+      "scoreA": 45,
+      "scoreB": 50
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 21
+      "scoreA": 21,
+      "scoreB": 12
     }
   ],
-  "verdict": "Redfern has a lower overall climate risk score (42/100) compared to Redbournberry (51/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Redfern has a lower overall climate risk score (36/100) compared to Redbournberry (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Redbournberry or Redfern safer from flooding?",
-      "answer": "Redbournberry has a flood risk score of 59/100, while Redfern scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Redbournberry has a flood risk score of 60/100, while Redfern scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Redbournberry scores 52/100 for bushfire risk. Redfern scores 55/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Redbournberry scores 56/100 for bushfire risk. Redfern scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Redbournberry or Redfern?",
@@ -76,5 +76,15 @@
       "label": "Redfern Should I Buy?",
       "url": "/suburbs/nsw/redfern/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4351,
+    "projected2030": 6091,
+    "projected2050": 11312
+  },
+  "valueImpact": {
+    "dragPercent": 2.45,
+    "description": "Properties in this area may face a 2.45% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

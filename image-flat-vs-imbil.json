@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 29
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 49,
-      "scoreB": 39
-    },
-    {
-      "name": "Heat",
-      "scoreA": 34,
+      "scoreA": 38,
       "scoreB": 45
     },
     {
-      "name": "Storm",
+      "name": "Bushfire",
+      "scoreA": 39,
+      "scoreB": 49
+    },
+    {
+      "name": "Heat",
       "scoreA": 50,
+      "scoreB": 46
+    },
+    {
+      "name": "Storm",
+      "scoreA": 49,
       "scoreB": 23
     },
     {
       "name": "Coastal",
-      "scoreA": 54,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 12
+      "scoreA": 11,
+      "scoreB": 11
     }
   ],
-  "verdict": "Imbil has a lower overall climate risk score (31/100) compared to Image Flat (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Imbil has a lower overall climate risk score (35/100) compared to Image Flat (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Image Flat or Imbil safer from flooding?",
-      "answer": "Image Flat has a flood risk score of 31/100, while Imbil scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Image Flat has a flood risk score of 38/100, while Imbil scores 45/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Image Flat scores 49/100 for bushfire risk. Imbil scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Image Flat scores 39/100 for bushfire risk. Imbil scores 49/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Image Flat or Imbil?",
@@ -76,5 +76,15 @@
       "label": "Imbil Should I Buy?",
       "url": "/suburbs/qld/imbil/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3807,
+    "projected2030": 5329,
+    "projected2050": 9897
+  },
+  "valueImpact": {
+    "dragPercent": 1.25,
+    "description": "Properties in this area may face a 1.25% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

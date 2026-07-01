@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 49,
-      "scoreB": 43
+      "scoreA": 24,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 17,
-      "scoreB": 45
-    },
-    {
-      "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 51
-    },
-    {
-      "name": "Storm",
-      "scoreA": 33,
+      "scoreA": 24,
       "scoreB": 34
     },
     {
-      "name": "Coastal",
-      "scoreA": 29,
+      "name": "Heat",
+      "scoreA": 66,
+      "scoreB": 72
+    },
+    {
+      "name": "Storm",
+      "scoreA": 34,
       "scoreB": 25
     },
     {
+      "name": "Coastal",
+      "scoreA": 23,
+      "scoreB": 16
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 21,
-      "scoreB": 14
+      "scoreA": 19,
+      "scoreB": 28
     }
   ],
-  "verdict": "Carew has a lower overall climate risk score (35/100) compared to Caroline (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Carew has a lower overall climate risk score (32/100) compared to Caroline (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Carew or Caroline safer from flooding?",
-      "answer": "Carew has a flood risk score of 49/100, while Caroline scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Carew has a flood risk score of 24/100, while Caroline scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Carew scores 17/100 for bushfire risk. Caroline scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Carew scores 24/100 for bushfire risk. Caroline scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Carew or Caroline?",
@@ -76,5 +76,15 @@
       "label": "Caroline Should I Buy?",
       "url": "/suburbs/sa/caroline/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3773,
+    "projected2030": 5282,
+    "projected2050": 9809
+  },
+  "valueImpact": {
+    "dragPercent": 1.18,
+    "description": "Properties in this area may face a 1.18% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

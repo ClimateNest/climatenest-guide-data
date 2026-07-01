@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 24
+      "scoreA": 38,
+      "scoreB": 25
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 43
+      "scoreA": 42,
+      "scoreB": 22
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 78
+      "scoreA": 58,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 32,
-      "scoreB": 31
+      "scoreA": 38,
+      "scoreB": 32
     },
     {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 18
+      "scoreA": 11,
+      "scoreB": 30
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 26
+      "scoreA": 20,
+      "scoreB": 28
     }
   ],
-  "verdict": "Maydena has a lower overall climate risk score (34/100) compared to Meadowbank (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Meadowbank has a lower overall climate risk score (34/100) compared to Maydena (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Maydena or Meadowbank safer from flooding?",
-      "answer": "Maydena has a flood risk score of 34/100, while Meadowbank scores 24/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Maydena has a flood risk score of 38/100, while Meadowbank scores 25/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Maydena scores 19/100 for bushfire risk. Meadowbank scores 43/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Maydena scores 42/100 for bushfire risk. Meadowbank scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Maydena or Meadowbank?",
-      "answer": "Both suburbs have climate considerations. Maydena has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Meadowbank has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Meadowbank Should I Buy?",
       "url": "/suburbs/tas/meadowbank/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3546,
+    "projected2030": 4964,
+    "projected2050": 9220
+  },
+  "valueImpact": {
+    "dragPercent": 0.68,
+    "description": "Properties in this area may face a 0.68% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

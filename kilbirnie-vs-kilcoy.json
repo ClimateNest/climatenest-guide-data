@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 50
+      "scoreA": 47,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 61,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 34
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 39
+      "scoreA": 41,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 22,
-      "scoreB": 41
+      "scoreA": 49,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 58,
-      "scoreB": 40
+      "scoreA": 37,
+      "scoreB": 51
     },
     {
       "name": "Cyclone",
-      "scoreA": 22,
-      "scoreB": 19
+      "scoreA": 27,
+      "scoreB": 12
     }
   ],
-  "verdict": "Kilcoy has a lower overall climate risk score (38/100) compared to Kilbirnie (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kilcoy has a lower overall climate risk score (34/100) compared to Kilbirnie (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Kilbirnie or Kilcoy safer from flooding?",
-      "answer": "Kilbirnie has a flood risk score of 41/100, while Kilcoy scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Kilbirnie has a flood risk score of 47/100, while Kilcoy scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Kilbirnie scores 61/100 for bushfire risk. Kilcoy scores 37/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Kilbirnie scores 43/100 for bushfire risk. Kilcoy scores 34/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Kilbirnie or Kilcoy?",
@@ -76,5 +76,15 @@
       "label": "Kilcoy Should I Buy?",
       "url": "/suburbs/qld/kilcoy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3965,
+    "projected2030": 5551,
+    "projected2050": 10310
+  },
+  "valueImpact": {
+    "dragPercent": 1.6,
+    "description": "Properties in this area may face a 1.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 32,
-      "scoreB": 58
+      "scoreA": 36,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 58,
-      "scoreB": 48
+      "scoreA": 18,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 45
+      "scoreA": 36,
+      "scoreB": 39
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 27
+      "scoreA": 31,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 11
+      "scoreA": 13,
+      "scoreB": 27
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 19
+      "scoreA": 14,
+      "scoreB": 13
     }
   ],
-  "verdict": "Mulataga has a lower overall climate risk score (34/100) compared to Mulga Downs (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mulataga has a lower overall climate risk score (25/100) compared to Mulga Downs (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Mulataga or Mulga Downs safer from flooding?",
-      "answer": "Mulataga has a flood risk score of 32/100, while Mulga Downs scores 58/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mulataga has a flood risk score of 36/100, while Mulga Downs scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mulataga scores 58/100 for bushfire risk. Mulga Downs scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mulataga scores 18/100 for bushfire risk. Mulga Downs scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mulataga or Mulga Downs?",
@@ -76,5 +76,15 @@
       "label": "Mulga Downs Should I Buy?",
       "url": "/suburbs/wa/mulga-downs/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3274,
+    "projected2030": 4584,
+    "projected2050": 8512
+  },
+  "valueImpact": {
+    "dragPercent": 0.08,
+    "description": "Properties in this area may face a 0.08% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

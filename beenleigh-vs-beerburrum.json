@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 34,
-      "scoreB": 44
-    },
-    {
-      "name": "Bushfire",
       "scoreA": 60,
-      "scoreB": 59
-    },
-    {
-      "name": "Heat",
-      "scoreA": 38,
       "scoreB": 31
     },
     {
+      "name": "Bushfire",
+      "scoreA": 43,
+      "scoreB": 53
+    },
+    {
+      "name": "Heat",
+      "scoreA": 31,
+      "scoreB": 45
+    },
+    {
       "name": "Storm",
-      "scoreA": 21,
-      "scoreB": 24
+      "scoreA": 36,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 42
+      "scoreA": 48,
+      "scoreB": 53
     },
     {
       "name": "Cyclone",
-      "scoreA": 11,
-      "scoreB": 17
+      "scoreA": 29,
+      "scoreB": 14
     }
   ],
-  "verdict": "Beenleigh and Beerburrum have similar overall climate risk scores.",
-  "verdictClass": "positive",
+  "verdict": "Beerburrum has a lower overall climate risk score (38/100) compared to Beenleigh (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beenleigh or Beerburrum safer from flooding?",
-      "answer": "Beenleigh has a flood risk score of 34/100, while Beerburrum scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beenleigh has a flood risk score of 60/100, while Beerburrum scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beenleigh scores 60/100 for bushfire risk. Beerburrum scores 59/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beenleigh scores 43/100 for bushfire risk. Beerburrum scores 53/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beenleigh or Beerburrum?",
-      "answer": "Both suburbs have climate considerations. Beenleigh has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Beerburrum has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Beerburrum Should I Buy?",
       "url": "/suburbs/qld/beerburrum/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3999,
+    "projected2030": 5599,
+    "projected2050": 10398
+  },
+  "valueImpact": {
+    "dragPercent": 1.67,
+    "description": "Properties in this area may face a 1.67% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

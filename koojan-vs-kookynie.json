@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 33,
-      "scoreB": 54
+      "scoreA": 26,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 59,
-      "scoreB": 26
+      "scoreA": 47,
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 59,
-      "scoreB": 37
+      "scoreA": 68,
+      "scoreB": 40
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 26
+      "scoreA": 21,
+      "scoreB": 34
     },
     {
       "name": "Coastal",
       "scoreA": 27,
-      "scoreB": 13
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
+      "scoreA": 20,
       "scoreB": 20
     }
   ],
-  "verdict": "Kookynie has a lower overall climate risk score (29/100) compared to Koojan (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Kookynie has a lower overall climate risk score (33/100) compared to Koojan (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Koojan or Kookynie safer from flooding?",
-      "answer": "Koojan has a flood risk score of 33/100, while Kookynie scores 54/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Koojan has a flood risk score of 26/100, while Kookynie scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Koojan scores 59/100 for bushfire risk. Kookynie scores 26/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Koojan scores 47/100 for bushfire risk. Kookynie scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Koojan or Kookynie?",
@@ -76,5 +76,15 @@
       "label": "Kookynie Should I Buy?",
       "url": "/suburbs/wa/kookynie/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3569,
+    "projected2030": 4996,
+    "projected2050": 9279
+  },
+  "valueImpact": {
+    "dragPercent": 0.73,
+    "description": "Properties in this area may face a 0.73% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

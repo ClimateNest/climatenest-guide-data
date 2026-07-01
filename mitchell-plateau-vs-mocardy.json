@@ -14,33 +14,33 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 31,
-      "scoreB": 36
+      "scoreA": 40,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 16,
-      "scoreB": 45
+      "scoreA": 22,
+      "scoreB": 33
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 76
+      "scoreA": 37,
+      "scoreB": 74
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 28
+      "scoreA": 37,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 18,
-      "scoreB": 21
+      "scoreA": 22,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 17,
-      "scoreB": 18
+      "scoreA": 14,
+      "scoreB": 20
     }
   ],
   "verdict": "Mitchell Plateau has a lower overall climate risk score (29/100) compared to Mocardy (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
@@ -48,11 +48,11 @@
   "faq": [
     {
       "question": "Is Mitchell Plateau or Mocardy safer from flooding?",
-      "answer": "Mitchell Plateau has a flood risk score of 31/100, while Mocardy scores 36/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mitchell Plateau has a flood risk score of 40/100, while Mocardy scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mitchell Plateau scores 16/100 for bushfire risk. Mocardy scores 45/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mitchell Plateau scores 22/100 for bushfire risk. Mocardy scores 33/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mitchell Plateau or Mocardy?",
@@ -76,5 +76,15 @@
       "label": "Mocardy Should I Buy?",
       "url": "/suburbs/wa/mocardy/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3727,
+    "projected2030": 5218,
+    "projected2050": 9691
+  },
+  "valueImpact": {
+    "dragPercent": 1.07,
+    "description": "Properties in this area may face a 1.07% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

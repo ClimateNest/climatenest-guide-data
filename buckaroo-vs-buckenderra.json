@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 59
+      "scoreA": 43,
+      "scoreB": 60
     },
     {
       "name": "Bushfire",
-      "scoreA": 55,
-      "scoreB": 16
+      "scoreA": 43,
+      "scoreB": 36
     },
     {
       "name": "Heat",
-      "scoreA": 55,
-      "scoreB": 58
+      "scoreA": 79,
+      "scoreB": 52
     },
     {
       "name": "Storm",
-      "scoreA": 25,
-      "scoreB": 29
+      "scoreA": 33,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 19
+      "scoreA": 20,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 15
+      "scoreA": 16,
+      "scoreB": 16
     }
   ],
-  "verdict": "Buckenderra has a lower overall climate risk score (33/100) compared to Buckaroo (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Buckenderra has a lower overall climate risk score (34/100) compared to Buckaroo (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Buckaroo or Buckenderra safer from flooding?",
-      "answer": "Buckaroo has a flood risk score of 30/100, while Buckenderra scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buckaroo has a flood risk score of 43/100, while Buckenderra scores 60/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buckaroo scores 55/100 for bushfire risk. Buckenderra scores 16/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buckaroo scores 43/100 for bushfire risk. Buckenderra scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buckaroo or Buckenderra?",
@@ -76,5 +76,15 @@
       "label": "Buckenderra Should I Buy?",
       "url": "/suburbs/nsw/buckenderra/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3852,
+    "projected2030": 5393,
+    "projected2050": 10015
+  },
+  "valueImpact": {
+    "dragPercent": 1.35,
+    "description": "Properties in this area may face a 1.35% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

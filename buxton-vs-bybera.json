@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 29,
-      "scoreB": 32
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 20,
-      "scoreB": 40
-    },
-    {
-      "name": "Heat",
-      "scoreA": 37,
-      "scoreB": 33
-    },
-    {
-      "name": "Storm",
       "scoreA": 21,
       "scoreB": 30
     },
     {
+      "name": "Bushfire",
+      "scoreA": 47,
+      "scoreB": 61
+    },
+    {
+      "name": "Heat",
+      "scoreA": 42,
+      "scoreB": 43
+    },
+    {
+      "name": "Storm",
+      "scoreA": 35,
+      "scoreB": 49
+    },
+    {
       "name": "Coastal",
-      "scoreA": 53,
-      "scoreB": 33
+      "scoreA": 51,
+      "scoreB": 39
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 11
     }
   ],
-  "verdict": "Buxton has a lower overall climate risk score (29/100) compared to Bybera (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Buxton has a lower overall climate risk score (37/100) compared to Bybera (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Buxton or Bybera safer from flooding?",
-      "answer": "Buxton has a flood risk score of 29/100, while Bybera scores 32/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buxton has a flood risk score of 21/100, while Bybera scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buxton scores 20/100 for bushfire risk. Bybera scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buxton scores 47/100 for bushfire risk. Bybera scores 61/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buxton or Bybera?",
@@ -76,5 +76,15 @@
       "label": "Bybera Should I Buy?",
       "url": "/suburbs/qld/bybera/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3841,
+    "projected2030": 5377,
+    "projected2050": 9986
+  },
+  "valueImpact": {
+    "dragPercent": 1.33,
+    "description": "Properties in this area may face a 1.33% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

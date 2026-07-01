@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 43,
-      "scoreB": 22
+      "scoreA": 37,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 32,
-      "scoreB": 64
+      "scoreA": 43,
+      "scoreB": 29
     },
     {
       "name": "Heat",
-      "scoreA": 35,
-      "scoreB": 70
+      "scoreA": 42,
+      "scoreB": 51
     },
     {
       "name": "Storm",
       "scoreA": 48,
-      "scoreB": 25
+      "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 41,
-      "scoreB": 26
+      "scoreA": 56,
+      "scoreB": 12
     },
     {
       "name": "Cyclone",
-      "scoreA": 10,
-      "scoreB": 28
+      "scoreA": 22,
+      "scoreB": 27
     }
   ],
-  "verdict": "Capeen Creek has a lower overall climate risk score (35/100) compared to Capertee (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Capertee has a lower overall climate risk score (32/100) compared to Capeen Creek (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Capeen Creek or Capertee safer from flooding?",
-      "answer": "Capeen Creek has a flood risk score of 43/100, while Capertee scores 22/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Capeen Creek has a flood risk score of 37/100, while Capertee scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Capeen Creek scores 32/100 for bushfire risk. Capertee scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Capeen Creek scores 43/100 for bushfire risk. Capertee scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Capeen Creek or Capertee?",
-      "answer": "Both suburbs have climate considerations. Capeen Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Capertee has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Capertee Should I Buy?",
       "url": "/suburbs/nsw/capertee/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4011,
+    "projected2030": 5615,
+    "projected2050": 10428
+  },
+  "valueImpact": {
+    "dragPercent": 1.7,
+    "description": "Properties in this area may face a 1.7% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

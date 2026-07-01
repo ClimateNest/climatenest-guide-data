@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 50
+      "scoreA": 20,
+      "scoreB": 28
     },
     {
       "name": "Bushfire",
-      "scoreA": 53,
-      "scoreB": 24
+      "scoreA": 33,
+      "scoreB": 52
     },
     {
       "name": "Heat",
-      "scoreA": 46,
-      "scoreB": 45
+      "scoreA": 49,
+      "scoreB": 48
     },
     {
       "name": "Storm",
-      "scoreA": 40,
-      "scoreB": 46
+      "scoreA": 32,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
-      "scoreA": 60,
-      "scoreB": 26
+      "scoreA": 37,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 13
+      "scoreA": 24,
+      "scoreB": 14
     }
   ],
-  "verdict": "Waikola has a lower overall climate risk score (34/100) compared to Wahoon (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Wahoon has a lower overall climate risk score (33/100) compared to Waikola (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Wahoon or Waikola safer from flooding?",
-      "answer": "Wahoon has a flood risk score of 41/100, while Waikola scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Wahoon has a flood risk score of 20/100, while Waikola scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Wahoon scores 53/100 for bushfire risk. Waikola scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Wahoon scores 33/100 for bushfire risk. Waikola scores 52/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Wahoon or Waikola?",
-      "answer": "Both suburbs have climate considerations. Waikola has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Wahoon has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Waikola Should I Buy?",
       "url": "/suburbs/qld/waikola/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

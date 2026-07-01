@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 30,
-      "scoreB": 39
+      "scoreA": 28,
+      "scoreB": 43
     },
     {
       "name": "Bushfire",
       "scoreA": 26,
-      "scoreB": 28
+      "scoreB": 39
     },
     {
       "name": "Heat",
-      "scoreA": 80,
-      "scoreB": 57
+      "scoreA": 62,
+      "scoreB": 50
     },
     {
       "name": "Storm",
       "scoreA": 37,
-      "scoreB": 28
+      "scoreB": 30
     },
     {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 56
+      "scoreA": 15,
+      "scoreB": 55
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 14
+      "scoreA": 14,
+      "scoreB": 18
     }
   ],
-  "verdict": "Copperhannia has a lower overall climate risk score (33/100) compared to Coralville (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Copperhannia has a lower overall climate risk score (30/100) compared to Coralville (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Copperhannia or Coralville safer from flooding?",
-      "answer": "Copperhannia has a flood risk score of 30/100, while Coralville scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Copperhannia has a flood risk score of 28/100, while Coralville scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Copperhannia scores 26/100 for bushfire risk. Coralville scores 28/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Copperhannia scores 26/100 for bushfire risk. Coralville scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Copperhannia or Coralville?",
@@ -76,5 +76,15 @@
       "label": "Coralville Should I Buy?",
       "url": "/suburbs/nsw/coralville/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3863,
+    "projected2030": 5409,
+    "projected2050": 10045
+  },
+  "valueImpact": {
+    "dragPercent": 1.37,
+    "description": "Properties in this area may face a 1.37% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

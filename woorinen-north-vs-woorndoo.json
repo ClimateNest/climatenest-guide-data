@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 48,
-      "scoreB": 29
+      "scoreA": 60,
+      "scoreB": 44
     },
     {
       "name": "Bushfire",
-      "scoreA": 46,
-      "scoreB": 31
+      "scoreA": 54,
+      "scoreB": 58
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 60
+      "scoreA": 65,
+      "scoreB": 63
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 38
+      "scoreA": 47,
+      "scoreB": 21
     },
     {
       "name": "Coastal",
-      "scoreA": 11,
-      "scoreB": 14
+      "scoreA": 24,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 25
+      "scoreA": 27,
+      "scoreB": 17
     }
   ],
-  "verdict": "Woorndoo has a lower overall climate risk score (33/100) compared to Woorinen North (37/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Woorndoo has a lower overall climate risk score (39/100) compared to Woorinen North (46/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Woorinen North or Woorndoo safer from flooding?",
-      "answer": "Woorinen North has a flood risk score of 48/100, while Woorndoo scores 29/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Woorinen North has a flood risk score of 60/100, while Woorndoo scores 44/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Woorinen North scores 46/100 for bushfire risk. Woorndoo scores 31/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Woorinen North scores 54/100 for bushfire risk. Woorndoo scores 58/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Woorinen North or Woorndoo?",
@@ -76,5 +76,15 @@
       "label": "Woorndoo Should I Buy?",
       "url": "/suburbs/vic/woorndoo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4339,
+    "projected2030": 6075,
+    "projected2050": 11282
+  },
+  "valueImpact": {
+    "dragPercent": 2.42,
+    "description": "Properties in this area may face a 2.42% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
+      "scoreA": 42,
       "scoreB": 50
     },
     {
       "name": "Bushfire",
-      "scoreA": 23,
-      "scoreB": 51
+      "scoreA": 30,
+      "scoreB": 40
     },
     {
       "name": "Heat",
-      "scoreA": 53,
-      "scoreB": 62
+      "scoreA": 54,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 22
-    },
-    {
-      "name": "Coastal",
-      "scoreA": 27,
+      "scoreA": 21,
       "scoreB": 23
     },
     {
+      "name": "Coastal",
+      "scoreA": 15,
+      "scoreB": 14
+    },
+    {
       "name": "Cyclone",
-      "scoreA": 27,
-      "scoreB": 21
+      "scoreA": 13,
+      "scoreB": 12
     }
   ],
-  "verdict": "Rythdale has a lower overall climate risk score (35/100) compared to Sailors Falls (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Rythdale has a lower overall climate risk score (29/100) compared to Sailors Falls (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Rythdale or Sailors Falls safer from flooding?",
-      "answer": "Rythdale has a flood risk score of 41/100, while Sailors Falls scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Rythdale has a flood risk score of 42/100, while Sailors Falls scores 50/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Rythdale scores 23/100 for bushfire risk. Sailors Falls scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Rythdale scores 30/100 for bushfire risk. Sailors Falls scores 40/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Rythdale or Sailors Falls?",
@@ -76,5 +76,15 @@
       "label": "Sailors Falls Should I Buy?",
       "url": "/suburbs/vic/sailors-falls/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3580,
+    "projected2030": 5012,
+    "projected2050": 9308
+  },
+  "valueImpact": {
+    "dragPercent": 0.75,
+    "description": "Properties in this area may face a 0.75% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

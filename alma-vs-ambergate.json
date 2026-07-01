@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 37,
-      "scoreB": 38
+      "scoreA": 42,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 35
+      "scoreA": 27,
+      "scoreB": 32
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 69
+      "scoreA": 39,
+      "scoreB": 66
     },
     {
       "name": "Storm",
-      "scoreA": 39,
-      "scoreB": 37
+      "scoreA": 43,
+      "scoreB": 40
     },
     {
       "name": "Coastal",
-      "scoreA": 26,
-      "scoreB": 11
+      "scoreA": 19,
+      "scoreB": 29
     },
     {
       "name": "Cyclone",
-      "scoreA": 15,
-      "scoreB": 21
+      "scoreA": 27,
+      "scoreB": 27
     }
   ],
-  "verdict": "Alma has a lower overall climate risk score (34/100) compared to Ambergate (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Alma has a lower overall climate risk score (33/100) compared to Ambergate (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Alma or Ambergate safer from flooding?",
-      "answer": "Alma has a flood risk score of 37/100, while Ambergate scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Alma has a flood risk score of 42/100, while Ambergate scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Alma scores 39/100 for bushfire risk. Ambergate scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Alma scores 27/100 for bushfire risk. Ambergate scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Alma or Ambergate?",
@@ -76,5 +76,15 @@
       "label": "Ambergate Should I Buy?",
       "url": "/suburbs/wa/ambergate/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 53,
-      "scoreB": 20
+      "scoreA": 36,
+      "scoreB": 30
     },
     {
       "name": "Bushfire",
-      "scoreA": 41,
-      "scoreB": 29
+      "scoreA": 58,
+      "scoreB": 35
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 39
+      "scoreA": 39,
+      "scoreB": 31
     },
     {
       "name": "Storm",
-      "scoreA": 24,
-      "scoreB": 45
+      "scoreA": 34,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 11,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 18,
-      "scoreB": 13
+      "scoreA": 17,
+      "scoreB": 11
     }
   ],
-  "verdict": "Bulman Weemol has a lower overall climate risk score (29/100) compared to Buffalo Creek (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Bulman Weemol has a lower overall climate risk score (25/100) compared to Buffalo Creek (33/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Buffalo Creek or Bulman Weemol safer from flooding?",
-      "answer": "Buffalo Creek has a flood risk score of 53/100, while Bulman Weemol scores 20/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Buffalo Creek has a flood risk score of 36/100, while Bulman Weemol scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Buffalo Creek scores 41/100 for bushfire risk. Bulman Weemol scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Buffalo Creek scores 58/100 for bushfire risk. Bulman Weemol scores 35/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Buffalo Creek or Bulman Weemol?",
@@ -76,5 +76,15 @@
       "label": "Bulman Weemol Should I Buy?",
       "url": "/suburbs/nt/bulman-weemol/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3410,
+    "projected2030": 4774,
+    "projected2050": 8866
+  },
+  "valueImpact": {
+    "dragPercent": 0.38,
+    "description": "Properties in this area may face a 0.38% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

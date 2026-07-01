@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 35,
-      "scoreB": 33
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 30,
-      "scoreB": 29
-    },
-    {
-      "name": "Heat",
-      "scoreA": 36,
-      "scoreB": 31
-    },
-    {
-      "name": "Storm",
-      "scoreA": 42,
+      "scoreA": 59,
       "scoreB": 30
     },
     {
+      "name": "Bushfire",
+      "scoreA": 56,
+      "scoreB": 64
+    },
+    {
+      "name": "Heat",
+      "scoreA": 41,
+      "scoreB": 43
+    },
+    {
+      "name": "Storm",
+      "scoreA": 38,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 13,
-      "scoreB": 52
+      "scoreA": 19,
+      "scoreB": 57
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 9,
+      "scoreB": 13
     }
   ],
-  "verdict": "Gadgarra has a lower overall climate risk score (28/100) compared to Gaeta (32/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Gadgarra has a lower overall climate risk score (37/100) compared to Gaeta (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Gadgarra or Gaeta safer from flooding?",
-      "answer": "Gadgarra has a flood risk score of 35/100, while Gaeta scores 33/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Gadgarra has a flood risk score of 59/100, while Gaeta scores 30/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Gadgarra scores 30/100 for bushfire risk. Gaeta scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Gadgarra scores 56/100 for bushfire risk. Gaeta scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Gadgarra or Gaeta?",
@@ -76,5 +76,15 @@
       "label": "Gaeta Should I Buy?",
       "url": "/suburbs/qld/gaeta/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3988,
+    "projected2030": 5583,
+    "projected2050": 10369
+  },
+  "valueImpact": {
+    "dragPercent": 1.65,
+    "description": "Properties in this area may face a 1.65% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

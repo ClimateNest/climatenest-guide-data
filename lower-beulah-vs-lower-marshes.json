@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 23,
-      "scoreB": 34
+      "scoreA": 22,
+      "scoreB": 40
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 36
+      "scoreA": 26,
+      "scoreB": 51
     },
     {
       "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 55
+      "scoreA": 69,
+      "scoreB": 71
     },
     {
       "name": "Storm",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 37,
+      "scoreB": 31
     },
     {
       "name": "Coastal",
-      "scoreA": 10,
-      "scoreB": 14
+      "scoreA": 12,
+      "scoreB": 25
     },
     {
       "name": "Cyclone",
-      "scoreA": 16,
-      "scoreB": 18
+      "scoreA": 23,
+      "scoreB": 19
     }
   ],
-  "verdict": "Lower Marshes has a lower overall climate risk score (34/100) compared to Lower Beulah (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Lower Beulah has a lower overall climate risk score (32/100) compared to Lower Marshes (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Lower Beulah or Lower Marshes safer from flooding?",
-      "answer": "Lower Beulah has a flood risk score of 23/100, while Lower Marshes scores 34/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Lower Beulah has a flood risk score of 22/100, while Lower Marshes scores 40/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Lower Beulah scores 57/100 for bushfire risk. Lower Marshes scores 36/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Lower Beulah scores 26/100 for bushfire risk. Lower Marshes scores 51/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Lower Beulah or Lower Marshes?",
-      "answer": "Both suburbs have climate considerations. Lower Marshes has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Lower Beulah has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Lower Marshes Should I Buy?",
       "url": "/suburbs/tas/lower-marshes/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3886,
+    "projected2030": 5440,
+    "projected2050": 10104
+  },
+  "valueImpact": {
+    "dragPercent": 1.43,
+    "description": "Properties in this area may face a 1.43% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

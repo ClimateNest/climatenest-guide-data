@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 39
+      "scoreA": 44,
+      "scoreB": 52
     },
     {
       "name": "Bushfire",
-      "scoreA": 31,
-      "scoreB": 23
+      "scoreA": 26,
+      "scoreB": 27
     },
     {
       "name": "Heat",
-      "scoreA": 48,
-      "scoreB": 37
+      "scoreA": 46,
+      "scoreB": 44
     },
     {
       "name": "Storm",
-      "scoreA": 46,
-      "scoreB": 38
+      "scoreA": 32,
+      "scoreB": 25
     },
     {
       "name": "Coastal",
-      "scoreA": 33,
-      "scoreB": 24
+      "scoreA": 36,
+      "scoreB": 17
     },
     {
       "name": "Cyclone",
-      "scoreA": 25,
-      "scoreB": 14
+      "scoreA": 17,
+      "scoreB": 15
     }
   ],
-  "verdict": "Mount Stuart has a lower overall climate risk score (29/100) compared to Mount Stanley (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Mount Stuart has a lower overall climate risk score (30/100) compared to Mount Stanley (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Mount Stanley or Mount Stuart safer from flooding?",
-      "answer": "Mount Stanley has a flood risk score of 26/100, while Mount Stuart scores 39/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Mount Stanley has a flood risk score of 44/100, while Mount Stuart scores 52/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Mount Stanley scores 31/100 for bushfire risk. Mount Stuart scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Mount Stanley scores 26/100 for bushfire risk. Mount Stuart scores 27/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Mount Stanley or Mount Stuart?",
@@ -76,5 +76,15 @@
       "label": "Mount Stuart Should I Buy?",
       "url": "/suburbs/qld/mount-stuart/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3478,
+    "projected2030": 4869,
+    "projected2050": 9043
+  },
+  "valueImpact": {
+    "dragPercent": 0.53,
+    "description": "Properties in this area may face a 0.53% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

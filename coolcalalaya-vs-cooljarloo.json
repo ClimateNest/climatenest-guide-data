@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 58,
-      "scoreB": 59
+      "scoreA": 40,
+      "scoreB": 38
     },
     {
       "name": "Bushfire",
-      "scoreA": 19,
-      "scoreB": 63
+      "scoreA": 31,
+      "scoreB": 24
     },
     {
       "name": "Heat",
-      "scoreA": 47,
-      "scoreB": 69
+      "scoreA": 31,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 27,
-      "scoreB": 23
+      "scoreA": 36,
+      "scoreB": 27
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 12
+      "scoreA": 23,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
-      "scoreA": 19,
-      "scoreB": 13
+      "scoreA": 22,
+      "scoreB": 12
     }
   ],
-  "verdict": "Coolcalalaya has a lower overall climate risk score (32/100) compared to Cooljarloo (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Coolcalalaya has a lower overall climate risk score (31/100) compared to Cooljarloo (31/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Coolcalalaya or Cooljarloo safer from flooding?",
-      "answer": "Coolcalalaya has a flood risk score of 58/100, while Cooljarloo scores 59/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Coolcalalaya has a flood risk score of 40/100, while Cooljarloo scores 38/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Coolcalalaya scores 19/100 for bushfire risk. Cooljarloo scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Coolcalalaya scores 31/100 for bushfire risk. Cooljarloo scores 24/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Coolcalalaya or Cooljarloo?",
@@ -76,5 +76,15 @@
       "label": "Cooljarloo Should I Buy?",
       "url": "/suburbs/wa/cooljarloo/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3308,
+    "projected2030": 4631,
+    "projected2050": 8601
+  },
+  "valueImpact": {
+    "dragPercent": 0.15,
+    "description": "Properties in this area may face a 0.15% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Low"
 }

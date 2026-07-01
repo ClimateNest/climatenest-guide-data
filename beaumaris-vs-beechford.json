@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 50,
-      "scoreB": 41
+      "scoreA": 32,
+      "scoreB": 47
     },
     {
       "name": "Bushfire",
-      "scoreA": 50,
-      "scoreB": 17
+      "scoreA": 51,
+      "scoreB": 23
     },
     {
       "name": "Heat",
-      "scoreA": 70,
-      "scoreB": 61
+      "scoreA": 62,
+      "scoreB": 75
     },
     {
       "name": "Storm",
-      "scoreA": 37,
-      "scoreB": 50
+      "scoreA": 47,
+      "scoreB": 36
     },
     {
       "name": "Coastal",
-      "scoreA": 17,
-      "scoreB": 26
+      "scoreA": 14,
+      "scoreB": 14
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 29
+      "scoreA": 19,
+      "scoreB": 27
     }
   ],
-  "verdict": "Beechford has a lower overall climate risk score (37/100) compared to Beaumaris (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Beechford has a lower overall climate risk score (37/100) compared to Beaumaris (38/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Beaumaris or Beechford safer from flooding?",
-      "answer": "Beaumaris has a flood risk score of 50/100, while Beechford scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Beaumaris has a flood risk score of 32/100, while Beechford scores 47/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Beaumaris scores 50/100 for bushfire risk. Beechford scores 17/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Beaumaris scores 51/100 for bushfire risk. Beechford scores 23/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Beaumaris or Beechford?",
@@ -76,5 +76,15 @@
       "label": "Beechford Should I Buy?",
       "url": "/suburbs/tas/beechford/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3750,
+    "projected2030": 5250,
+    "projected2050": 9750
+  },
+  "valueImpact": {
+    "dragPercent": 1.13,
+    "description": "Properties in this area may face a 1.13% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

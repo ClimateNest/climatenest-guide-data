@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 46
+      "scoreA": 59,
+      "scoreB": 57
     },
     {
       "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 32
-    },
-    {
-      "name": "Heat",
-      "scoreA": 67,
-      "scoreB": 36
-    },
-    {
-      "name": "Storm",
-      "scoreA": 32,
+      "scoreA": 44,
       "scoreB": 22
     },
     {
+      "name": "Heat",
+      "scoreA": 78,
+      "scoreB": 42
+    },
+    {
+      "name": "Storm",
+      "scoreA": 48,
+      "scoreB": 39
+    },
+    {
       "name": "Coastal",
-      "scoreA": 29,
-      "scoreB": 23
+      "scoreA": 19,
+      "scoreB": 15
     },
     {
       "name": "Cyclone",
-      "scoreA": 26,
-      "scoreB": 29
+      "scoreA": 23,
+      "scoreB": 22
     }
   ],
-  "verdict": "Little Sandy Desert has a lower overall climate risk score (31/100) compared to Little Grove (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Little Sandy Desert has a lower overall climate risk score (33/100) compared to Little Grove (45/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Little Grove or Little Sandy Desert safer from flooding?",
-      "answer": "Little Grove has a flood risk score of 41/100, while Little Sandy Desert scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Little Grove has a flood risk score of 59/100, while Little Sandy Desert scores 57/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Little Grove scores 40/100 for bushfire risk. Little Sandy Desert scores 32/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Little Grove scores 44/100 for bushfire risk. Little Sandy Desert scores 22/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Little Grove or Little Sandy Desert?",
@@ -76,5 +76,15 @@
       "label": "Little Sandy Desert Should I Buy?",
       "url": "/suburbs/wa/little-sandy-desert/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4271,
+    "projected2030": 5980,
+    "projected2050": 11105
+  },
+  "valueImpact": {
+    "dragPercent": 2.27,
+    "description": "Properties in this area may face a 2.27% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

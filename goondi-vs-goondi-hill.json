@@ -14,45 +14,45 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 22,
-      "scoreB": 43
+      "scoreA": 43,
+      "scoreB": 48
     },
     {
       "name": "Bushfire",
-      "scoreA": 42,
-      "scoreB": 65
+      "scoreA": 34,
+      "scoreB": 54
     },
     {
       "name": "Heat",
-      "scoreA": 44,
-      "scoreB": 47
+      "scoreA": 48,
+      "scoreB": 34
     },
     {
       "name": "Storm",
-      "scoreA": 43,
+      "scoreA": 45,
       "scoreB": 46
     },
     {
       "name": "Coastal",
-      "scoreA": 24,
-      "scoreB": 12
+      "scoreA": 17,
+      "scoreB": 10
     },
     {
       "name": "Cyclone",
       "scoreA": 12,
-      "scoreB": 18
+      "scoreB": 12
     }
   ],
-  "verdict": "Goondi has a lower overall climate risk score (31/100) compared to Goondi Hill (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdict": "Goondi has a lower overall climate risk score (33/100) compared to Goondi Hill (34/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
   "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Goondi or Goondi Hill safer from flooding?",
-      "answer": "Goondi has a flood risk score of 22/100, while Goondi Hill scores 43/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Goondi has a flood risk score of 43/100, while Goondi Hill scores 48/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Goondi scores 42/100 for bushfire risk. Goondi Hill scores 65/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Goondi scores 34/100 for bushfire risk. Goondi Hill scores 54/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Goondi or Goondi Hill?",
@@ -76,5 +76,15 @@
       "label": "Goondi Hill Should I Buy?",
       "url": "/suburbs/qld/goondi-hill/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3512,
+    "projected2030": 4917,
+    "projected2050": 9131
+  },
+  "valueImpact": {
+    "dragPercent": 0.6,
+    "description": "Properties in this area may face a 0.6% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

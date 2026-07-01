@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 41,
-      "scoreB": 41
-    },
-    {
-      "name": "Bushfire",
-      "scoreA": 40,
-      "scoreB": 64
-    },
-    {
-      "name": "Heat",
-      "scoreA": 60,
-      "scoreB": 55
-    },
-    {
-      "name": "Storm",
-      "scoreA": 30,
+      "scoreA": 52,
       "scoreB": 28
     },
     {
+      "name": "Bushfire",
+      "scoreA": 55,
+      "scoreB": 29
+    },
+    {
+      "name": "Heat",
+      "scoreA": 53,
+      "scoreB": 60
+    },
+    {
+      "name": "Storm",
+      "scoreA": 39,
+      "scoreB": 30
+    },
+    {
       "name": "Coastal",
-      "scoreA": 21,
-      "scoreB": 15
+      "scoreA": 18,
+      "scoreB": 16
     },
     {
       "name": "Cyclone",
-      "scoreA": 20,
-      "scoreB": 13
+      "scoreA": 28,
+      "scoreB": 22
     }
   ],
-  "verdict": "High Camp has a lower overall climate risk score (35/100) compared to Highett (36/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Highett has a lower overall climate risk score (31/100) compared to High Camp (41/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is High Camp or Highett safer from flooding?",
-      "answer": "High Camp has a flood risk score of 41/100, while Highett scores 41/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "High Camp has a flood risk score of 52/100, while Highett scores 28/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "High Camp scores 40/100 for bushfire risk. Highett scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "High Camp scores 55/100 for bushfire risk. Highett scores 29/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in High Camp or Highett?",
-      "answer": "Both suburbs have climate considerations. High Camp has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Highett has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Highett Should I Buy?",
       "url": "/suburbs/vic/highett/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3977,
+    "projected2030": 5567,
+    "projected2050": 10339
+  },
+  "valueImpact": {
+    "dragPercent": 1.63,
+    "description": "Properties in this area may face a 1.63% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

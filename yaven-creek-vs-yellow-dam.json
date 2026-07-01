@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 26,
-      "scoreB": 31
+      "scoreA": 23,
+      "scoreB": 35
     },
     {
       "name": "Bushfire",
-      "scoreA": 57,
-      "scoreB": 63
+      "scoreA": 59,
+      "scoreB": 48
     },
     {
       "name": "Heat",
-      "scoreA": 69,
-      "scoreB": 49
+      "scoreA": 78,
+      "scoreB": 47
     },
     {
       "name": "Storm",
-      "scoreA": 34,
-      "scoreB": 36
+      "scoreA": 49,
+      "scoreB": 28
     },
     {
       "name": "Coastal",
-      "scoreA": 22,
-      "scoreB": 36
+      "scoreA": 19,
+      "scoreB": 60
     },
     {
       "name": "Cyclone",
-      "scoreA": 13,
-      "scoreB": 17
+      "scoreA": 26,
+      "scoreB": 22
     }
   ],
-  "verdict": "Yaven Creek has a lower overall climate risk score (37/100) compared to Yellow Dam (39/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "positive",
+  "verdict": "Yellow Dam has a lower overall climate risk score (40/100) compared to Yaven Creek (42/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "negative",
   "faq": [
     {
       "question": "Is Yaven Creek or Yellow Dam safer from flooding?",
-      "answer": "Yaven Creek has a flood risk score of 26/100, while Yellow Dam scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Yaven Creek has a flood risk score of 23/100, while Yellow Dam scores 35/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Yaven Creek scores 57/100 for bushfire risk. Yellow Dam scores 63/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Yaven Creek scores 59/100 for bushfire risk. Yellow Dam scores 48/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Yaven Creek or Yellow Dam?",
-      "answer": "Both suburbs have climate considerations. Yaven Creek has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Yellow Dam has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Yellow Dam Should I Buy?",
       "url": "/suburbs/nsw/yellow-dam/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 4079,
+    "projected2030": 5710,
+    "projected2050": 10605
+  },
+  "valueImpact": {
+    "dragPercent": 1.85,
+    "description": "Properties in this area may face a 1.85% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }

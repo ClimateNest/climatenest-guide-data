@@ -14,49 +14,49 @@
   "hazards": [
     {
       "name": "Flood",
-      "scoreA": 24,
-      "scoreB": 46
+      "scoreA": 54,
+      "scoreB": 31
     },
     {
       "name": "Bushfire",
-      "scoreA": 39,
-      "scoreB": 39
+      "scoreA": 16,
+      "scoreB": 64
     },
     {
       "name": "Heat",
-      "scoreA": 72,
-      "scoreB": 51
+      "scoreA": 79,
+      "scoreB": 56
     },
     {
       "name": "Storm",
-      "scoreA": 38,
-      "scoreB": 24
+      "scoreA": 24,
+      "scoreB": 43
     },
     {
       "name": "Coastal",
       "scoreA": 15,
-      "scoreB": 12
+      "scoreB": 22
     },
     {
       "name": "Cyclone",
-      "scoreA": 23,
-      "scoreB": 18
+      "scoreA": 21,
+      "scoreB": 24
     }
   ],
-  "verdict": "Clarkefield has a lower overall climate risk score (32/100) compared to Claretown (35/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
-  "verdictClass": "negative",
+  "verdict": "Claretown has a lower overall climate risk score (35/100) compared to Clarkefield (40/100). We recommend getting an address-level report for properties in both suburbs before making a purchase decision.",
+  "verdictClass": "positive",
   "faq": [
     {
       "question": "Is Claretown or Clarkefield safer from flooding?",
-      "answer": "Claretown has a flood risk score of 24/100, while Clarkefield scores 46/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
+      "answer": "Claretown has a flood risk score of 54/100, while Clarkefield scores 31/100. A lower score indicates lower flood risk. Get an address-level flood risk report for a specific property."
     },
     {
       "question": "Which suburb has lower bushfire risk?",
-      "answer": "Claretown scores 39/100 for bushfire risk. Clarkefield scores 39/100. Fire risk depends on proximity to vegetation and local fire history."
+      "answer": "Claretown scores 16/100 for bushfire risk. Clarkefield scores 64/100. Fire risk depends on proximity to vegetation and local fire history."
     },
     {
       "question": "Should I buy in Claretown or Clarkefield?",
-      "answer": "Both suburbs have climate considerations. Clarkefield has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
+      "answer": "Both suburbs have climate considerations. Claretown has a lower overall climate risk score. We recommend getting a full ClimateNest report for any specific property you're considering, which includes 8 hazard scores, insurance projections, and actionable recommendations."
     }
   ],
   "internalLinks": [
@@ -76,5 +76,15 @@
       "label": "Clarkefield Should I Buy?",
       "url": "/suburbs/vic/clarkefield/should-i-buy"
     }
-  ]
+  ],
+  "insurance": {
+    "current": 3920,
+    "projected2030": 5488,
+    "projected2050": 10192
+  },
+  "valueImpact": {
+    "dragPercent": 1.5,
+    "description": "Properties in this area may face a 1.5% climate value drag over time due to rising insurance costs and climate adaptation expenses."
+  },
+  "riskLabel": "Moderate"
 }
